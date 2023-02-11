@@ -1,0 +1,29 @@
+---
+title: "Materialarten"
+linkTitle: ""
+date: 2023-02-01T00:00:00-00:00
+tags: [app-katalog, by-folio, cat-einstellungen, for-admin]
+weight: 30
+Description: "
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_inventory/settings_inventory/#settings--inventory--material-types) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Katalog):+Materialarten)
+    "
+---
+
+Diese Einstellung wird verwendet, um Materialarten zu erstellen und zu verwalten. Materialarten erscheinen in der Dropdown-Liste **Materialart** im Abschnitt [Exemplardaten eines Exemplardatensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492470). FOLIO stellt standardmäßig Materialarten zur Verfügung, die bearbeitet oder gelöscht werden können. Materialarten werden auch in den [Einstellungen (Ausleihe): Ausleihregeln](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Ausleihregeln) verwendet und erscheinen als [Filter für die Suche nach Exemplaren](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog).
+
+## Materialart erstellen
+
+1.  Auf **Neu** klicken.
+2.  Einen **Namen** in das Feld eingeben.
+3.  Auf **Speichern** klicken. Die Materialart wird gespeichert.
+
+## Materialart bearbeiten
+
+1.  Die Materialart suchen, die bearbeitet werden soll und auf das **Bleistiftsymbol** klicken.
+2.  Den **Namen** bearbeiten.
+3.  Auf **Speichern** klicken. Die Materialart wird gespeichert.
+
+## Materialart löschen
+
+1.  Die Materialart suchen, die gelöscht werden soll und auf das **Mülleimersymbol** klicken.
+2.  Im Dialogfeld **Materialart löschen** auf **Löschen** klicken. Es erscheint eine Bestätigungsmeldung und die Materialart wird gelöscht.
