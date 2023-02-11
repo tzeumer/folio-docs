@@ -12,8 +12,7 @@ enableGitInfo = true
 
 # Language settings
 contentDir = "content/en"
-#Zeumer-off: defaultContentLanguage = "en"
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -81,21 +80,12 @@ time_format_default = "02.01.2006"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-  [markup.tableOfContents]
-    endLevel = 6
-    ordered = false
-    startLevel = 2
-	
-[sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.5	
 
 # Everything below this are Site Params
 
 [params]
 #copyright = "Open Library Foundation"
-copyright = "Nur Deutsche Version: "
+copyright = "(Translation:  Zeumer: )"
 privacy_policy = "https://openlibraryfoundation.org/privacy-policy/"
 
 #From Arnon
@@ -170,7 +160,7 @@ offlineSearch = false
 # User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = true
+sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
@@ -237,6 +227,3 @@ enable = false
 #Zeumer-off:     name = "Discussion Boards"
 #Zeumer-off:     url = "https://discuss.folio.org"
 #Zeumer-off:     weight = 30
-
-[params.taxonomy]
-taxonomyCloud = ["tags"] # set taxonomyCloud = [] to hide taxonomy clouds
