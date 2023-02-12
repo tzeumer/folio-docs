@@ -1,5 +1,5 @@
 ---
-title: "Folio: Ausleihe Exemplardetails anzeigen"
+title: "Ausleihe Exemplardetails anzeigen"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [app-ausleihe, by-folio, cat-workflows, for-anwender]
