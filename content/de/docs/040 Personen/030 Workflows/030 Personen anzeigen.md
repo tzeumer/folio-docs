@@ -11,12 +11,12 @@ Description: "
 
 Nach einer [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen) werden die folgenden Informationen im Ergebnisbereich der Personensuche angezeigt:
 
--   **Name**. Name des Person. Nachname, Vorname oder Nachname, bevorzugter Vorname (Vorname)
--   **Aktiv**. Der Status der Person.
--   **Barcode**. Die Barcodenummer der Person.
--   **Personengruppe**. Die Personengruppe, zu der die Person gehört.
--   **Benutzername**. Der Benutzername der Person.
--   **E-Mail**. Die E-Mail-Adresse der Person.
+* **Name**. Name des Person. Nachname, Vorname oder Nachname, bevorzugter Vorname (Vorname)
+* **Aktiv**. Der Status der Person.
+* **Barcode**. Die Barcodenummer der Person.
+* **Personengruppe**. Die Personengruppe, zu der die Person gehört.
+* **Benutzername**. Der Benutzername der Person.
+* **E-Mail**. Die E-Mail-Adresse der Person.
 
 Im Bereich der Personensuchergebnisse auf einen Personendatensatz klicken, um ihn anzuzeigen. Der Bereich Personendetails zeigt zusätzliche Informationen über den Personendatensatz an. In den folgenden Abschnitten sind weitere Informationen zu den Akkordeons aufgeführt, die im Personendatensatz angezeigt werden.
 

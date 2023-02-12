@@ -21,23 +21,23 @@ Die App **Massenbearbeitung** akzeptiert nur CSV-Dateien zum Hochladen. Es kö
 
 Sobald nach einem Exemplardatensatz gesucht wurde, werden die folgenden Informationen in der Ansicht Vorschau der übereinstimmenden Datensätze angezeigt:
 
--   **Barcode**. Eine Zahlenfolge, die an das Exemplar angehängt und mit einem Barcode-Scanner überprüft wurde.
--   **Status**. Der Status des Exemplars.
--   **Tatsächlicher Standort des Exemplars**. Der tatsächliche Standort des Exemplars.
--   **Effektive Signatur**. Die effektive Signatur des Exemplars.
--   **Exemplar-HRID**. Der von Menschen lesbare Identifikator (HRID) des Exemplars.
--   **Materialart**. Die Materialart der Ressource des Exemplars. Die Materialart ist die materielle Beschaffenheit eines bestimmten Exemplars und soll spezifischere Informationen als die Ressourcenart allein ermöglichen.
--   **Art der Dauerausleihe**. Die Art der Dauerausleihe des Exemplars.
--   **Temporärer Ausleihtyp**. Die Art der vorübergehenden Ausleihe des Exemplars.
--   **Exemplar UUID**. Der universell eindeutige Identifikator (UUID) des Exemplars.
--   **Früherer Identifikator**. Frühere Identifikatoren, die dem Exemplar zugewiesen wurden.
--   **Zugangsnummer**. Die Zugangsnummer eines Exemplars. Die Zugangsnummer ist eine eindeutige Nummer, die einem Exemplar in der Reihenfolge zugewiesen wird, in der es in eine Bibliothekssammlung aufgenommen wird.
--   **Dauerhafter Standort des Exemplars**. Der dauerhafte Standort des Exemplars.
--   **Temporärer Standort des Exemplars**. Der temporäre Standort des Exemplars.
--   **Exemplarnummer**. Die Exemplarnummer des Exemplars. Die Exemplarnummer gibt an, ob die Bibliothek ein (oder mehrere) Exemplare einer einbändigen Monographie besitzt.
+* **Barcode**. Eine Zahlenfolge, die an das Exemplar angehängt und mit einem Barcode-Scanner überprüft wurde.
+* **Status**. Der Status des Exemplars.
+* **Tatsächlicher Standort des Exemplars**. Der tatsächliche Standort des Exemplars.
+* **Effektive Signatur**. Die effektive Signatur des Exemplars.
+* **Exemplar-HRID**. Der von Menschen lesbare Identifikator (HRID) des Exemplars.
+* **Materialart**. Die Materialart der Ressource des Exemplars. Die Materialart ist die materielle Beschaffenheit eines bestimmten Exemplars und soll spezifischere Informationen als die Ressourcenart allein ermöglichen.
+* **Art der Dauerausleihe**. Die Art der Dauerausleihe des Exemplars.
+* **Temporärer Ausleihtyp**. Die Art der vorübergehenden Ausleihe des Exemplars.
+* **Exemplar UUID**. Der universell eindeutige Identifikator (UUID) des Exemplars.
+* **Früherer Identifikator**. Frühere Identifikatoren, die dem Exemplar zugewiesen wurden.
+* **Zugangsnummer**. Die Zugangsnummer eines Exemplars. Die Zugangsnummer ist eine eindeutige Nummer, die einem Exemplar in der Reihenfolge zugewiesen wird, in der es in eine Bibliothekssammlung aufgenommen wird.
+* **Dauerhafter Standort des Exemplars**. Der dauerhafte Standort des Exemplars.
+* **Temporärer Standort des Exemplars**. Der temporäre Standort des Exemplars.
+* **Exemplarnummer**. Die Exemplarnummer des Exemplars. Die Exemplarnummer gibt an, ob die Bibliothek ein (oder mehrere) Exemplare einer einbändigen Monographie besitzt.
     Aufzählung. Die mit dem Exemplar verbundene Aufzählung. Bei den Aufzählungsdaten des Exemplars handelt es sich um die beschreibenden Informationen für das Nummerierungsschema einer Reihe.
--   **Chronologie**. Die mit dem Exemplar verknüpfte Chronologie. Die Chronologie ist die beschreibende Information für das Datierungsschema einer Serie.
--   **Band**. Die Bandnummer des Exemplars.
+* **Chronologie**. Die mit dem Exemplar verknüpfte Chronologie. Die Chronologie ist die beschreibende Information für das Datierungsschema einer Serie.
+* **Band**. Die Bandnummer des Exemplars.
 
 Wenn eine oder mehrere dieser Spalten in der Ansicht fehlen, auf die Schaltfläche **Aktionen** klicken und aus dem Dropdown-Menü auswählen.
 

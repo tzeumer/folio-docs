@@ -15,5 +15,5 @@ Mit der App Ausleihprotokoll können einige Aktionen des Leihverkehrs angezeigt 
 
 Um die App Ausleihprotokoll anzeigen und mit ihr interagieren zu können, muss einem Personen die folgende Berechtigung zugewiesen werden:
 
--   **Ausleihprotokoll: Alle**. (Circulation log: All)
+* **Ausleihprotokoll: Alle**. (Circulation log: All)
     Mit dieser Berechtigung kann die Person auf das Ausleihprotokoll zugreifen und alle Protokollaktionen und -daten filtern.

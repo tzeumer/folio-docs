@@ -18,10 +18,10 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 1.  In der Ansicht **Erwerbungsteams** auf **Neu** klicken.
 2.  Den **Namen** des Teams in das Feld eingeben.
 3.  Die Arten von Aktionen auswählen, die die Mitglieder des Teams ausführen können:
-    -   **Anzeigen**. Personen, die dem Team zugewiesen sind, sind die einzigen, die Datensätze einsehen können, denen dieses Team zugewiesen ist. Ist gewünscht, dass alle Personen die Datensätze einsehen können, denen diese Einheit zugewiesen ist, diese Checkbox nicht aktivieren.
-    -   **Bearbeiten**. Personen, die dem Team zugewiesen sind, sind die einzigen, die Datensätze bearbeiten können, denen dieses Team zugewiesen ist.
-    -   **Erstellen**. Personen, die dem Team zugewiesen sind, sind die einzigen, die dieses Team zu einem Datensatz hinzufügen können, den sie erstellen.
-    -   **Löschen**. Personen, die dem Team zugewiesen sind, sind die einzigen, die Datensätze löschen können, denen dieses Team zugewiesen ist.
+    * **Anzeigen**. Personen, die dem Team zugewiesen sind, sind die einzigen, die Datensätze einsehen können, denen dieses Team zugewiesen ist. Ist gewünscht, dass alle Personen die Datensätze einsehen können, denen diese Einheit zugewiesen ist, diese Checkbox nicht aktivieren.
+    * **Bearbeiten**. Personen, die dem Team zugewiesen sind, sind die einzigen, die Datensätze bearbeiten können, denen dieses Team zugewiesen ist.
+    * **Erstellen**. Personen, die dem Team zugewiesen sind, sind die einzigen, die dieses Team zu einem Datensatz hinzufügen können, den sie erstellen.
+    * **Löschen**. Personen, die dem Team zugewiesen sind, sind die einzigen, die Datensätze löschen können, denen dieses Team zugewiesen ist.
 4.  Auf **Speichern** klicken. Die Einheit wird gespeichert und erscheint in der Ansicht Erwerbungsteams.
 
 ## Erwerbungsteam bearbeiten

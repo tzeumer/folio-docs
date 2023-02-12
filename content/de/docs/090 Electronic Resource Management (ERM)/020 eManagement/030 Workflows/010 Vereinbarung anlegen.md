@@ -15,13 +15,13 @@ Description: "
 
 ## Grundlegende Felder
 
--   **Name (erforderlich)**. Der Titel des Vereinbarungsdatensatzes.
--   **Beschreibung**. Eine Beschreibung der Vereinbarung eingeben.
--   **Status (erforderlich)**. Aus der Dropdown-Liste den Status der Vereinbarung auswählen. Zum Beispiel: Aktiv oder Geschlossen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
--   **Grund für die Schließung**. Diese Option ist nur verfügbar, wenn in der Dropdown-Liste Status die Option Geschlossen ausgewählt wurde. Dann in der Dropdown-Liste auswählen, warum die Vereinbarung geschlossen wurde. Die Werte, die in der Dropdown-Liste erscheinen, können unter Einstellungen > Vereinbarungen > Werte der Auswahlliste konfiguriert werden.
--   **Verlängerungspriorität**. Aus der Dropdown-Liste den Stand des Interesses an der Verlängerung der Vereinbarung wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
--   **Dauerhafter Zugriff**. Wenn die Vereinbarung einen unbefristeten Zugriff auf die gekauften Ressourcen vorsieht, **Ja** wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
--   **Alternativer Name**. Alternative Namen für den Datensatz der Vereinbarung.
+* **Name (erforderlich)**. Der Titel des Vereinbarungsdatensatzes.
+* **Beschreibung**. Eine Beschreibung der Vereinbarung eingeben.
+* **Status (erforderlich)**. Aus der Dropdown-Liste den Status der Vereinbarung auswählen. Zum Beispiel: Aktiv oder Geschlossen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+* **Grund für die Schließung**. Diese Option ist nur verfügbar, wenn in der Dropdown-Liste Status die Option Geschlossen ausgewählt wurde. Dann in der Dropdown-Liste auswählen, warum die Vereinbarung geschlossen wurde. Die Werte, die in der Dropdown-Liste erscheinen, können unter Einstellungen > Vereinbarungen > Werte der Auswahlliste konfiguriert werden.
+* **Verlängerungspriorität**. Aus der Dropdown-Liste den Stand des Interesses an der Verlängerung der Vereinbarung wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+* **Dauerhafter Zugriff**. Wenn die Vereinbarung einen unbefristeten Zugriff auf die gekauften Ressourcen vorsieht, **Ja** wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+* **Alternativer Name**. Alternative Namen für den Datensatz der Vereinbarung.
 
 ### Alternativen Namen hinzufügen
 
@@ -42,24 +42,24 @@ Mit den Vereinbarungszeiträumen können die Zeitspannen erfasst und verwalten w
 
 Werden Vereinbarungszeiträume hinzufügt, sollten Folgendes beachtet werden:
 
--   Jeder Datensatz muss mindestens einen Vereinbarungszeitraum haben.
--   Wenn nur ein einziger Vereinbarungszeitraum verwendet wird, werden keine weiteren Informationen in Bezug auf Zeiträume angezeigt.
--   Werden dem Datensatz mehrere Zeiträume hinzugefügt, dürfen sich deren Daten nicht überschneiden.
--   Jeder Zeitraum muss ein Startdatum haben.
--   Das früheste Startdatum des Zeitraums wird als Startdatum der Vereinbarung behandelt.
--   Enddaten sind optional, aber nur ein Zeitraum in einem Satz kann ohne Enddatum bleiben. Dies wird als unbefristeter Zeitraum bezeichnet, der zwar ein Startdatum hat, bei dem aber davon ausgegangen wird, dass er auf unbestimmte Zeit läuft.
--   Das späteste Enddatum des Zeitraums wird als Enddatum der Vereinbarung behandelt, oder wenn es ein leeres Enddatum für den Zeitraum gibt, wird die Vereinbarung so behandelt, als hätte sie kein Enddatum.
--   Es kann zwischen vergangenen, aktuellen und zukünftigen Zeiträumen navigiert werden, indem auf die Schaltflächen Vorherige, Aktuelle oder Nächste geklickt wird.
+* Jeder Datensatz muss mindestens einen Vereinbarungszeitraum haben.
+* Wenn nur ein einziger Vereinbarungszeitraum verwendet wird, werden keine weiteren Informationen in Bezug auf Zeiträume angezeigt.
+* Werden dem Datensatz mehrere Zeiträume hinzugefügt, dürfen sich deren Daten nicht überschneiden.
+* Jeder Zeitraum muss ein Startdatum haben.
+* Das früheste Startdatum des Zeitraums wird als Startdatum der Vereinbarung behandelt.
+* Enddaten sind optional, aber nur ein Zeitraum in einem Satz kann ohne Enddatum bleiben. Dies wird als unbefristeter Zeitraum bezeichnet, der zwar ein Startdatum hat, bei dem aber davon ausgegangen wird, dass er auf unbestimmte Zeit läuft.
+* Das späteste Enddatum des Zeitraums wird als Enddatum der Vereinbarung behandelt, oder wenn es ein leeres Enddatum für den Zeitraum gibt, wird die Vereinbarung so behandelt, als hätte sie kein Enddatum.
+* Es kann zwischen vergangenen, aktuellen und zukünftigen Zeiträumen navigiert werden, indem auf die Schaltflächen Vorherige, Aktuelle oder Nächste geklickt wird.
 
 ### Vereinbarungszeitraum hinzufügen
 
 1.  Das **Startdatum** des Zeitraums der Vereinbarung eingeben.
 2.  Die übrigen Felder ausfüllen. Siehe unten für weitere Informationen. Der Zeitraum der Vereinbarung wird gespeichert, sobald die Vereinbarung gespeichert wird.
 3.  Sollen mehrere Zeiträume eingegeben werden, auf **Vereinbarungszeitraum hinzufügen** klicken und die Schritte 1-2 wiederholen.
--   **Startdatum (erforderlich)**. Das Datum, an dem die Vereinbarung beginnt.
--   **Enddatum**. Das Datum, an dem die Vereinbarung endet.
--   **Stornierungsfrist**. Das Datum, bis zu dem die Vereinbarung storniert werden muss, wenn die Ressource, die Gegenstand der Vereinbarung ist, nicht verlängert werden soll.
--   **Bemerkungen zum Zeitraum**. Alle zusätzlichen Informationen über den Zeitraum der Vereinbarung.
+* **Startdatum (erforderlich)**. Das Datum, an dem die Vereinbarung beginnt.
+* **Enddatum**. Das Datum, an dem die Vereinbarung endet.
+* **Stornierungsfrist**. Das Datum, bis zu dem die Vereinbarung storniert werden muss, wenn die Ressource, die Gegenstand der Vereinbarung ist, nicht verlängert werden soll.
+* **Bemerkungen zum Zeitraum**. Alle zusätzlichen Informationen über den Zeitraum der Vereinbarung.
 
 ### Vereinbarungszeitraum löschen
 
@@ -97,7 +97,7 @@ Anmerkung: Es können mehrere Lizenzverträge zu einem Vereinbarungsdatensatz hi
 
 ### Bemerkungen zur Lizenz hinzufügen
 
--   Oben im Abschnitt Informationen des Lizenzvertrags können in das Feld **Bemerkungen** eben solche eingegeben werden.
+* Oben im Abschnitt Informationen des Lizenzvertrags können in das Feld **Bemerkungen** eben solche eingegeben werden.
 
 ### Lizenzvertrag (aus App: Lizenzverträge) hinzufügen zu einer Vereinbarung
 
@@ -120,9 +120,9 @@ Externe Lizenzverträge sind alle Lizenzverträge, die nicht über die App Lizen
 2.  Einen **Namen** in das Feld eingeben.
 3.  (Optional): Geben Sie eine **Notiz** zum Lizenzvertrag ein.
 4.  Es muss mindestens einer der folgenden Schritte ausgeführt werden:
-    -   Eine Datei in den Lizenzdatensatz hochladen, indem die Datei per **Drag & Drop** in das Feld Hochladen gezogen wird oder eine **Datei ausgewählt** wird.
-    -   **Physischer Standort** des Lizenzvertrags in das Feld eingeben.
-    -   Die **URL** des Lizenzvertrags in das Feld eingeben.
+    * Eine Datei in den Lizenzdatensatz hochladen, indem die Datei per **Drag & Drop** in das Feld Hochladen gezogen wird oder eine **Datei ausgewählt** wird.
+    * **Physischer Standort** des Lizenzvertrags in das Feld eingeben.
+    * Die **URL** des Lizenzvertrags in das Feld eingeben.
 5.  Die Schritte 1-5 je nach Bedarf wiederholen. Die externe Lizenz wird gespeichert, sobald der Datensatz der Vereinbarung gespeichert wird.
 
 ### Lizenzvertrag entfernen
@@ -203,9 +203,9 @@ Ein ergänzendes Dokument ist jedes zusätzliche Dokument, das für den Datensat
 3.  Eine **Kategorie** aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
 4.  (Optional) Eine Notiz zu dem Ergänzenden Dokumente eingeben.
 5.  Es muss mindestens einer der folgenden Schritte ausgeführt werden:
-    -   Eine Datei in den Datensatz der Vereinbarung hochladen, indem die Datei per **Drag & Drop** in das Feld Hochladen gezogen wird oder eine **Datei ausgewählt** wird.
-    -   **Physischer Standort** des Dokuments in das Feld eingeben.
-    -   Die **URL** des Dokuments in das Feld eingeben.
+    * Eine Datei in den Datensatz der Vereinbarung hochladen, indem die Datei per **Drag & Drop** in das Feld Hochladen gezogen wird oder eine **Datei ausgewählt** wird.
+    * **Physischer Standort** des Dokuments in das Feld eingeben.
+    * Die **URL** des Dokuments in das Feld eingeben.
 6.  Die Schritte 1-5 je nach Bedarf wiederholen. Das Zusatzdokument wird gespeichert, sobald die Vereinbarung gespeichert wird.
 
 ### Ergänzendes Dokumente entfernen

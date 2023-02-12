@@ -10,7 +10,7 @@ Description: "
 ---
 
 {{% pageinfo %}}
--   [Standorte](https://info.gbv.de/display/FOLIOGBVEXTERN/Standorte) auch beachten bei Erste Schritte - teils eventuell etwas redundant und besser zusammenzuführen
+* [Standorte](https://info.gbv.de/display/FOLIOGBVEXTERN/Standorte) auch beachten bei Erste Schritte - teils eventuell etwas redundant und besser zusammenzuführen
 {{% /pageinfo %}}
 
 Diese Einstellungen unter Standort einrichten verwenden, um die vier Teile des Hierarchie für den Standort eines Exemplars zu konfigurieren. Standorte müssen konfiguriert werden, um Bestände und Exemplare im Katalog anzulegen, um Exemplare über die Apps Ausleihe und Rückgabe zu verbuchen und um Exemplare über die App Bestandsanfragen anzufordern.
@@ -30,7 +30,7 @@ Vormerkungen müssen einen Wert für einen dauerhaften Standort haben. Ein Besta
 
 ## Tipps für Systemverwaltende
 
--   In FOLIO ist es nicht erforderlich, dass die Elemente der Standorthierarchie der Geografie eines Campus entsprechen. Es kann hilfreich sein zu überlegen, ob eine bestimmte Bibliothek oder mehrere Bibliotheken in einem System besser als Campus modelliert werden sollten oder ob für einen bestimmten Arbeitsablauf zusätzliche Campus oder Institutionen benötigt werden.
--   Da die Standorthierarchie eine Hierarchie aufweist, sollten die Werte in der Reihenfolge der Hierarchie erstellt werden: Institutionen, Campus, Bibliotheken und dann Standorte.
--   Standorte müssen mindestens eine zugehörige Servicestelle haben. Es sollten Servicestellen angelegt sein, bevor die Standorthierarchie erstellt wird.
--   Die vier Teile der Standorthierarchie können zusammen mit Personengruppen, Materialtypen und Ausleiharten Teil von Ausgaberegeln sein. Beim Einrichten der Standorte sollte die Strategie für die Ausgaberegeln berücksichtigt werden.
+* In FOLIO ist es nicht erforderlich, dass die Elemente der Standorthierarchie der Geografie eines Campus entsprechen. Es kann hilfreich sein zu überlegen, ob eine bestimmte Bibliothek oder mehrere Bibliotheken in einem System besser als Campus modelliert werden sollten oder ob für einen bestimmten Arbeitsablauf zusätzliche Campus oder Institutionen benötigt werden.
+* Da die Standorthierarchie eine Hierarchie aufweist, sollten die Werte in der Reihenfolge der Hierarchie erstellt werden: Institutionen, Campus, Bibliotheken und dann Standorte.
+* Standorte müssen mindestens eine zugehörige Servicestelle haben. Es sollten Servicestellen angelegt sein, bevor die Standorthierarchie erstellt wird.
+* Die vier Teile der Standorthierarchie können zusammen mit Personengruppen, Materialtypen und Ausleiharten Teil von Ausgaberegeln sein. Beim Einrichten der Standorte sollte die Strategie für die Ausgaberegeln berücksichtigt werden.

@@ -11,9 +11,9 @@ Description: "
 
 Es kann nach **Haushaltsjahren, Etats, Gruppen** oder **Fonds** gesucht werden, indem in der Ansicht **Suche & Filter** entweder auf Haushaltsjahr, Etat, Gruppe oder Fonds geklickt wird. Um nach einem Haushaltsjahr, Etat, einer Gruppe oder einem Fonds zu suchen, die Bedingungen in das Feld eingeben, wenn die jeweilige Ansicht Haushaltsjahr, Etat, Gruppe oder Fonds gewählt ist. Die Dropdown-Liste **Alle** wählen, um in einem der folgenden Felder zu suchen:
 
--   **Alle**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
--   **Name**. Der Name des Haushaltsjahres, des Etats, der Gruppe oder des Fonds.
--   **Code**. Ein eindeutiger Bezeichner für das Haushaltsjahr, den Etat, die Gruppe oder den Fonds.
+* **Alle**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
+* **Name**. Der Name des Haushaltsjahres, des Etats, der Gruppe oder des Fonds.
+* **Code**. Ein eindeutiger Bezeichner für das Haushaltsjahr, den Etat, die Gruppe oder den Fonds.
 
 Es kann auch nach Haushaltsjahr, Etat, Gruppe oder Fonds gesucht werden, indem einer der Filter im Bereich **Suche & Filter** ausgewählt wird, wenn der entsprechenden Finanzbereich gewählt ist. Die verfügbaren Filter variieren je nachdem, ob nach einem Haushaltsjahr, einem Etat, einer Gruppe oder einem Fonds gesucht wird. Die folgenden Anweisungen beziehen sich auf die Suche auf der Registerkarte Fonds.
 
@@ -28,9 +28,9 @@ Um nach Fonds zu suchen, die zu einem bestimmten Etat gehören, wie folgt vorgeh
 
 Um Etats, Gruppen oder Fonds nach ihrem Status zu filtern, eine der folgenden Optionen wählen:
 
--   **Aktiv**. Der Etat, die Gruppe oder der Fonds wird derzeit von der Bibliothek verwendet.
--   **Inaktiv**. Etat, Gruppe oder Fonds, der/die zuvor von der Bibliothek verwendet wurde.
--   **Gesperrt**. Etat, Gruppe oder Fonds, der/die pausiert ist.
+* **Aktiv**. Der Etat, die Gruppe oder der Fonds wird derzeit von der Bibliothek verwendet.
+* **Inaktiv**. Etat, Gruppe oder Fonds, der/die zuvor von der Bibliothek verwendet wurde.
+* **Gesperrt**. Etat, Gruppe oder Fonds, der/die pausiert ist.
 
 ## Typ
 

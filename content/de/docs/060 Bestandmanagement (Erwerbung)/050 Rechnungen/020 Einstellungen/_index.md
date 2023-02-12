@@ -15,7 +15,7 @@ Im Abschnitt Rechnungen der App Einstellungen können Ein-Klick-Freigaben, vorei
 
 Um mit den Rechnungseinstellungen zu interagieren, benötigen Personen die folgende Berechtigung:
 
--   **Einstellungen (Rechnungen): Kann Einstellungen anzeigen und bearbeiten**. (Settings (Invoice): Can view and edit settings)
+* **Einstellungen (Rechnungen): Kann Einstellungen anzeigen und bearbeiten**. (Settings (Invoice): Can view and edit settings)
     Mit dieser Berechtigung können Sie alle Einstellungen für Rechnungen anzeigen und bearbeiten.
 
 Anmerkung: Dies ist die einzige Berechtigung für Rechnungseinstellungen. Personen können in der App Personen Berechtigungen zugewiesen werden.

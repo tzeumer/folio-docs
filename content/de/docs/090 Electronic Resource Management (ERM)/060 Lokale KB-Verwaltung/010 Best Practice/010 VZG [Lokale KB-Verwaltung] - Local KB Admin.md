@@ -19,5 +19,5 @@ Die GOKb Test wird jeweils an die Testsysteme angebunden, die produktive GOKb an
 
 ### Proxyserver-Einstellungen
 
--   [Internationales Folio-Wiki: Proxy server configuration and URL customizations](https://wiki.folio.org/display/FOLIOtips/Proxy+server+configuration+and+URL+customizations)
--   [Proxy Server Konfiguration und URL Lokalisierung | deutsch (Übersetzung via DeepL)](https://info.gbv.de/download/attachments/564428933/Proxy%2Bserver%2Bconfiguration%2Band%2BURL%2Bcustomizations%20de.docx?version=1&modificationDate=1647848533560&api=v2)
+* [Internationales Folio-Wiki: Proxy server configuration and URL customizations](https://wiki.folio.org/display/FOLIOtips/Proxy+server+configuration+and+URL+customizations)
+* [Proxy Server Konfiguration und URL Lokalisierung | deutsch (Übersetzung via DeepL)](https://info.gbv.de/download/attachments/564428933/Proxy%2Bserver%2Bconfiguration%2Band%2BURL%2Bcustomizations%20de.docx?version=1&modificationDate=1647848533560&api=v2)

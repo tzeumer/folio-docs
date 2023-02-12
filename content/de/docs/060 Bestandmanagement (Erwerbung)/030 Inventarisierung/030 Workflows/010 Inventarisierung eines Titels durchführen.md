@@ -26,15 +26,15 @@ Mit der Aktion **Neu** können die zu inventarisierenden Titel in einem Paket 
 
 ## Exemplardetails
 
--   **Titel**. Der Titel der Ressource, die inventarisiert werden soll. Anmerkung: Bei Bestellposten, die nicht zum Paket gehören, wird der zu inventarisierende Titel automatisch erstellt. Bei Bestellposten für Pakete die **Titelsuche** verwenden, um eine Inventarinstanz mit dem Bestellposten für Pakete zu verknüpfen und einen inventarisierenden Titel erfolgreich hinzuzufügen.
--   **Verlag**. Verlag der Ressource.
--   **Erscheinungsdatum**. Datum, an dem die Ressource veröffentlicht wurde.
--   **Ausgabe**. Ausgabe der Ressource.
--   **Abonnement von**. Datum des Beginns des Abonnements (falls zutreffend).
--   **Abonnement bis**. Enddatum des Abonnements (falls zutreffend).
--   **Abonnementintervall**. Anzahl der Tage, in der das Abonnement erscheint (falls zutreffend).
--   **Mitwirkender**. Mitwirkende der Ressource.
--   **Produkt-ID**. Eine Identifikationsnummer, wie ISBN oder DOI.
+* **Titel**. Der Titel der Ressource, die inventarisiert werden soll. Anmerkung: Bei Bestellposten, die nicht zum Paket gehören, wird der zu inventarisierende Titel automatisch erstellt. Bei Bestellposten für Pakete die **Titelsuche** verwenden, um eine Inventarinstanz mit dem Bestellposten für Pakete zu verknüpfen und einen inventarisierenden Titel erfolgreich hinzuzufügen.
+* **Verlag**. Verlag der Ressource.
+* **Erscheinungsdatum**. Datum, an dem die Ressource veröffentlicht wurde.
+* **Ausgabe**. Ausgabe der Ressource.
+* **Abonnement von**. Datum des Beginns des Abonnements (falls zutreffend).
+* **Abonnement bis**. Enddatum des Abonnements (falls zutreffend).
+* **Abonnementintervall**. Anzahl der Tage, in der das Abonnement erscheint (falls zutreffend).
+* **Mitwirkender**. Mitwirkende der Ressource.
+* **Produkt-ID**. Eine Identifikationsnummer, wie ISBN oder DOI.
 
 ### Mitwirkende
 
@@ -69,10 +69,10 @@ Anmerkung: Das Hinzufügen einer Produkt-ID und eines Typs ist optional, aber we
 
 ## Bestellpostendetails
 
--   **Bestellpostennummer**. Die Nummer des Bestellpostens. Diese kann nur mit Hilfe der Bestellpostennummersuche eingegeben werden. Weitere Informationen sind weiter oben in dieser Seite zu finden.
--   **Erwartetes Eingangsdatum**. Das Datum, an dem die Ressource voraussichtlich eintreffen wird. Dieses Datum wird automatisch mit Informationen aus Bestellungen gefüllt und kann nicht geändert werden.
--   **Inventarisierungsnotiz**. Anmerkungen zum Erhalt der Ressource. Dieses Feld wird automatisch mit Informationen aus den Bestellungen gefüllt und kann nicht geändert werden.
--   **Inventarisierungsnotiz bestätigen**. Wenn diese Checkbox aktiviert ist, wird das Dialogfeld Inventarisierung angezeigt, sobald versucht wird, die Ressource zu inventarisieren. Es muss auf Weiter geklickt werden, um die Ressource zu inventarisieren.
+* **Bestellpostennummer**. Die Nummer des Bestellpostens. Diese kann nur mit Hilfe der Bestellpostennummersuche eingegeben werden. Weitere Informationen sind weiter oben in dieser Seite zu finden.
+* **Erwartetes Eingangsdatum**. Das Datum, an dem die Ressource voraussichtlich eintreffen wird. Dieses Datum wird automatisch mit Informationen aus Bestellungen gefüllt und kann nicht geändert werden.
+* **Inventarisierungsnotiz**. Anmerkungen zum Erhalt der Ressource. Dieses Feld wird automatisch mit Informationen aus den Bestellungen gefüllt und kann nicht geändert werden.
+* **Inventarisierungsnotiz bestätigen**. Wenn diese Checkbox aktiviert ist, wird das Dialogfeld Inventarisierung angezeigt, sobald versucht wird, die Ressource zu inventarisieren. Es muss auf Weiter geklickt werden, um die Ressource zu inventarisieren.
 
 ### Bestehenden Titels mit zu inventarisierenden Titeln verknüpfen
 

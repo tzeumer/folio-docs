@@ -17,37 +17,37 @@ Jede Einstellung im Bereich Ausleihe ist mit einer eigenen Berechtigung verknüp
 
 Im Folgenden sind alle Berechtigungen für die Ausleihe-Einstellungen zu finden:
 
--   **Einstellungen (Ausleihe): Kann Ausleihrichtlinien erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove circulation rules)
+* **Einstellungen (Ausleihe): Kann Ausleihrichtlinien erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove circulation rules)
     Diese Berechtigung erlaubt der Person, Ausleihregeln zu erstellen, zu lesen, zu aktualisieren und zu löschen.
--   **Einstellungen (Ausleihe): Kann andere Einstellungen erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove other settings)
+* **Einstellungen (Ausleihe): Kann andere Einstellungen erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove other settings)
     Diese Berechtigung erlaubt es der Person, andere Einstellungen zu erstellen, zu lesen, zu aktualisieren und zu löschen.
--   **Einstellungen (Ausleihe): Kann Dienstzettel erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove staff slips)
+* **Einstellungen (Ausleihe): Kann Dienstzettel erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove staff slips)
     Diese Berechtigung erlaubt der Person, Dienstzettel zu erstellen, zu lesen, zu aktualisieren und zu löschen.
--   **Einstellungen (Ausleihe): Kann feste Fälligkeitszeitpläne erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove fixed due date schedules)
+* **Einstellungen (Ausleihe): Kann feste Fälligkeitszeitpläne erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove fixed due date schedules)
     Mit dieser Berechtigung kann die Person feste Fälligkeitspläne erstellen, lesen, aktualisieren und löschen.
--   **Einstellungen (Ausleihe): Kann Ausleihregeln erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove loan policies)
+* **Einstellungen (Ausleihe): Kann Ausleihregeln erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove loan policies)
     Diese Berechtigung erlaubt es der Person, Ausleihrichtlinien zu erstellen, zu lesen, zu aktualisieren und zu löschen.
--   **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für überfällige Exemplare) erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove overdue fine policies)
+* **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für überfällige Exemplare) erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove overdue fine policies)
     Diese Berechtigung erlaubt der Person, Richtlinien für überfällige Forderungen zu erstellen, zu lesen, zu aktualisieren und zu löschen.
--   **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für verlorene Exemplare) erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove lost item fee policies)
+* **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für verlorene Exemplare) erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove lost item fee policies)
     Mit dieser Berechtigung kann die Person Richtlinien für die Gebühr für verlorene Exemplare erstellen, lesen, aktualisieren und löschen.
--   **Einstellungen (Ausleihe): Kann Benachrichtigungsrichtlinien erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove notice policies)
+* **Einstellungen (Ausleihe): Kann Benachrichtigungsrichtlinien erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove notice policies)
     Mit dieser Berechtigung kann die Person Benachrichtigungsrichtlinien für Personen erstellen, lesen, aktualisieren und löschen.
--   **Einstellungen (Ausleihe): Kann Vorlagen für Benutzerbenachrichtigungen erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove patron notice templates)
+* **Einstellungen (Ausleihe): Kann Vorlagen für Benutzerbenachrichtigungen erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove patron notice templates)
     Mit dieser Berechtigung kann die Person Benachrichtigungsvorlagen für Personen erstellen, lesen, aktualisieren und löschen.
--   **Einstellungen (Ausleihe): Kann Stornierungsgründe erstellen, editieren und entfernen**. (Settings (Circ): Can create, edit and remove cancellation reasons)
+* **Einstellungen (Ausleihe): Kann Stornierungsgründe erstellen, editieren und entfernen**. (Settings (Circ): Can create, edit and remove cancellation reasons)
     Mit dieser Berechtigung kann die Person Stornierungsgründe für Bestandsanfragen erstellen, lesen, aktualisieren und löschen.
--   **Einstellungen (Ausleihe): Kann Richtlinien zu Bestandsanfragen erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove request policies)
+* **Einstellungen (Ausleihe): Kann Richtlinien zu Bestandsanfragen erstellen, bearbeiten und entfernen**. (Settings (Circ): Can create, edit and remove request policies)
     Diese Berechtigung erlaubt es der Person, Bestandsanfragenrichtlinien zu erstellen, zu lesen, zu aktualisieren und zu löschen.
--   **Einstellungen (Ausleihe): Kann Ausleihhistorie anzeigen**. (Settings (Circ): Can view loan history)
+* **Einstellungen (Ausleihe): Kann Ausleihhistorie anzeigen**. (Settings (Circ): Can view loan history)
     Mit dieser Berechtigung kann die Person die Einstellungen in Einstellungen > Ausleihe > Ausleihe anonymisieren einsehen.
--   **Einstellungen (Ausleihe): Kann Ausleihhistorie bearbeiten**. (Settings (Circ): Can edit loan history)
+* **Einstellungen (Ausleihe): Kann Ausleihhistorie bearbeiten**. (Settings (Circ): Can edit loan history)
     Mit dieser Berechtigung kann die Person die Einstellungen in Einstellungen > Ausleihe > Anonymisierung der Ausleihe bearbeiten.
--   **Einstellungen (Ausleihe): Kann Ausleihrichtlinien anzeigen**. (Settings (Circ): Can view loan policies)
+* **Einstellungen (Ausleihe): Kann Ausleihrichtlinien anzeigen**. (Settings (Circ): Can view loan policies)
     Mit dieser Berechtigung kann die Person Ausleihrichtlinien anzeigen, aber nicht erstellen, bearbeiten oder löschen.
--   **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für verlorene Exemplare) anzeigen**. (Settings (Circ): Can view lost item fee policies)
+* **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für verlorene Exemplare) anzeigen**. (Settings (Circ): Can view lost item fee policies)
     Mit dieser Berechtigung kann die Person die Gebührenrichtlinien für verlorene Exemplare einsehen, aber nicht erstellen, bearbeiten oder löschen.
--   **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für überfällige Exemplare) anzeigen**. (Settings (Circ): Can view overdue fine policies)
+* **Einstellungen (Ausleihe): Kann Richtlinien (Gebühren für überfällige Exemplare) anzeigen**. (Settings (Circ): Can view overdue fine policies)
     Mit dieser Berechtigung kann die Person die Richtlinien für überfällige Forderungen einsehen, aber nicht erstellen, bearbeiten oder löschen.
--   **Einstellungen (Ausleihe): Bestandsanfragen auf Titelebene bearbeiten**. (Settings (Circulation): Title level request edit)
+* **Einstellungen (Ausleihe): Bestandsanfragen auf Titelebene bearbeiten**. (Settings (Circulation): Title level request edit)
     Mit dieser Berechtigung können Personen Bestandsanfragen auf Titelebene aktivieren und konfigurieren. Anmerkung: Wenn die Bestandsanfrage auf Titelebene aktiviert ist und eine Bestandsanfrage auf Titelebene erstellt wurde, kann sie nicht mehr über die Einstellungen deaktiviert werden.

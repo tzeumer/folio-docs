@@ -17,10 +17,10 @@ TODO: es gibt noch eine Unterseite MARC Authority ([https://morning-glory.docs.f
 
 In FOLIO umfasst die Metadatenverwaltung wesentliche Katalogisierungsfunktionen. Diese Funktionen umfassen:
 
--   Erstellen von Instanz-, Bestands- und Exemplardatensätzen
--   Verwaltung der Sammlungen (physisch und/oder virtuell)
--   Importieren und Exportieren von bibliografischen Daten
--   Bearbeiten von MARC-Datensätzen
+* Erstellen von Instanz-, Bestands- und Exemplardatensätzen
+* Verwaltung der Sammlungen (physisch und/oder virtuell)
+* Importieren und Exportieren von bibliografischen Daten
+* Bearbeiten von MARC-Datensätzen
 
 ## Katalogisierungseinstellungen
 

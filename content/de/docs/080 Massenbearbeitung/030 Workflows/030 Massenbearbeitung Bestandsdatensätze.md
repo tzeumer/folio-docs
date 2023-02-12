@@ -21,18 +21,18 @@ Die App **Massenbearbeitung** akzeptiert nur CSV-Dateien zum Hochladen. Es kö
 
 Sobald nach einem Exemplardatensatz gesucht wurde, werden die folgenden Informationen in der Ansicht Vorschau der übereinstimmenden Datensätze angezeigt:
 
--   **Bestands-HRID**. Der von Menschen lesbare Identifikator (HRID) des Bestandsdatensatzes.
--   **Dauerhafter Standort**. Der dauerhafte Standort des Exemplars.
--   **Temporärer Standort**. Der temporäre Standort des Exemplars.
--   **Präfix der Signatur**. Präfix der Signatur auf der Ebene der Bestände.
--   **Signatur**. Die Signatur ist eine einem Exemplar zugewiesene Kennung, die normalerweise auf einem am Exemplar angebrachten Etikett steht. Die Signatur wird verwendet, um die physische Position des Exemplars in einer Regalreihenfolge zu bestimmen.
--   **Suffix der Signatur**. Suffix der Signatur auf der Bestandsebene.
--   **Bestandstyp**. Gibt die Art des bibliographischen Formats des Bestandsdatensatzes an.
--   **Tatsächlicher Standort**. Gibt den tatsächlichen Standort des Bestandsdatensatzes an.
--   **Bestands-UUID**. Der universell eindeutige Identifikator (UUID) des Bestandsdatensatzes.
--   **Quelle**. Format des Bestandsquellendatensatzes, falls ein Quellendatensatz existiert.
--   **Discovery** **unterdrücken**. Gibt an, ob der Bestandsdatensatz von Ihrem Discoverysystem unterdrückt wird.
--   **Signaturtyp**. Das für die Signatur verwendete Klassifizierungssystem.
+* **Bestands-HRID**. Der von Menschen lesbare Identifikator (HRID) des Bestandsdatensatzes.
+* **Dauerhafter Standort**. Der dauerhafte Standort des Exemplars.
+* **Temporärer Standort**. Der temporäre Standort des Exemplars.
+* **Präfix der Signatur**. Präfix der Signatur auf der Ebene der Bestände.
+* **Signatur**. Die Signatur ist eine einem Exemplar zugewiesene Kennung, die normalerweise auf einem am Exemplar angebrachten Etikett steht. Die Signatur wird verwendet, um die physische Position des Exemplars in einer Regalreihenfolge zu bestimmen.
+* **Suffix der Signatur**. Suffix der Signatur auf der Bestandsebene.
+* **Bestandstyp**. Gibt die Art des bibliographischen Formats des Bestandsdatensatzes an.
+* **Tatsächlicher Standort**. Gibt den tatsächlichen Standort des Bestandsdatensatzes an.
+* **Bestands-UUID**. Der universell eindeutige Identifikator (UUID) des Bestandsdatensatzes.
+* **Quelle**. Format des Bestandsquellendatensatzes, falls ein Quellendatensatz existiert.
+* **Discovery** **unterdrücken**. Gibt an, ob der Bestandsdatensatz von Ihrem Discoverysystem unterdrückt wird.
+* **Signaturtyp**. Das für die Signatur verwendete Klassifizierungssystem.
 
 Wenn eine oder mehrere dieser Spalten in der Ansicht fehlen, auf die Schaltfläche **Aktionen** klicken und sie aus dem Dropdown-Menü auswählen.
 

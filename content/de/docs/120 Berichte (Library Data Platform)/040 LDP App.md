@@ -17,15 +17,15 @@ Mit den unten aufgeführten Berechtigungen werden Personen Berechtigungen für d
 
 Im Folgenden sind alle Berechtigungen für die LDP-App zu finden:
 
--   **UI: LDP-Modul ist aktiviert**. (UI: LDP module is enabled)
+* **UI: LDP-Modul ist aktiviert**. (UI: LDP module is enabled)
     Ermöglicht es der Person, die App zu sehen und den Abfragegenerator und die Gespeicherten Abfragen zu verwenden.
--   **LDP: alle Berechtigungen**. (LDP: All permissions)
+* **LDP: alle Berechtigungen**. (LDP: All permissions)
     Diese Berechtigung erlaubt es der Person, die LDP App zu sehen und zu verwenden.
--   **Einstellungen (LDP): Kann die Einstellungen sehen**. (Settings (LDP): Can view settings)
--   **Einstellungen (LDP): Kann die Verbindungsdetails der LDP-Datenbank ändern**. (Settings (LDP): Can modify LDP database connection details)
--   **Einstellungen (LDP): Kann Standarddatensatzlimits ändern**. (Settings (LDP): Can modify default record limits)
--   **Einstellungen (LDP): Kann Konfigurationsdetails für gespeicherte Abfragen ändern**. (Settings (LDP): Can modify saved-query configuration details)
--   **Einstellungen (LDP): Kann auswählen, welche Tabellen für die Suche verfügbar sind**. (Settings (LDP): Can select which tables are available to search)
+* **Einstellungen (LDP): Kann die Einstellungen sehen**. (Settings (LDP): Can view settings)
+* **Einstellungen (LDP): Kann die Verbindungsdetails der LDP-Datenbank ändern**. (Settings (LDP): Can modify LDP database connection details)
+* **Einstellungen (LDP): Kann Standarddatensatzlimits ändern**. (Settings (LDP): Can modify default record limits)
+* **Einstellungen (LDP): Kann Konfigurationsdetails für gespeicherte Abfragen ändern**. (Settings (LDP): Can modify saved-query configuration details)
+* **Einstellungen (LDP): Kann auswählen, welche Tabellen für die Suche verfügbar sind**. (Settings (LDP): Can select which tables are available to search)
 
 ### Schema
 
@@ -39,19 +39,19 @@ Schemata können sich als die "Behälter" vorgestellt werden, in denen sich die 
 
 Mit dem Dropdown-Menü Nach Spalte filtern können die Ergebnisse verfeinert werden, indem eine Spalte ausgewählt und Beschränkungen angewendet werden. Es können mehrere Filter erstellt werden, indem die Schaltfläche Filter hinzufügen verwendet wird. Wenn mehrere Filter verwendet werden, werden die Ergebnisse mit dem Operator AND verknüpft. Sobald eine Spalte zum Filtern ausgewählt wurde, können Gleichheits- und Ungleichheitsoperationen in Kombination mit einem numerischen Wert (z.B. einem Datum oder einer Anzahl), TRUE oder FALSE ausgewählt werden. Die Operatoren umfassen:
 
--   gleich (=)
--   nicht gleich (<>)
--   kleiner als (<)
--   kleiner als oder gleich (<=)
--   größer als (>)
--   größer als oder gleich (>=)
--   WARH (Groß-/Kleinschreibung wird nicht beachtet)
--   FALSCH (Groß-/Kleinschreibung wird nicht beachtet)
+* gleich (=)
+* nicht gleich (<>)
+* kleiner als (<)
+* kleiner als oder gleich (<=)
+* größer als (>)
+* größer als oder gleich (>=)
+* WARH (Groß-/Kleinschreibung wird nicht beachtet)
+* FALSCH (Groß-/Kleinschreibung wird nicht beachtet)
 
 Hier sind einige Beispiele für die Filterung nach Spalten:
 
--   find where previously\_held = TRUE
--   find where \_version > 1
+* find where previously\_held = TRUE
+* find where \_version > 1
 
 Bei der Eingabe von Datumsbereichen werden sowohl YYYY-MM-DD als auch MM/DD/YYYY unterstützt. Die Operatoren LIKE und ILIKE, die einen Musterabgleich innerhalb zeichenbasierter Spaltendaten ermöglichen, werden in einer zukünftigen Version enthalten sein. Bei LIKE wird die Groß-/Kleinschreibung beachtet, während bei ILIKE die Groß-/Kleinschreibung keine Rolle spielt.
 
@@ -85,15 +85,15 @@ Die App Einstellungen kann verwendet werden, um globale Einstellungen für die L
 
 Mit der Einstellung **Datensatzlimits** kann die Standard- und Höchstzahl der Datensätze festlegt werden, die in den Abfrageergebnissen einer Person angezeigt werden sollen. Es kann auch die Anzahl der Datensätze einschränkt werden, die eine Person exportieren kann, indem die Einstellung **Maximal zu exportierende Anzahl** verwendet wird.
 
--   Standardmäßig anzuzeigende Anzahl
--   Maximal anzuzeigende Anzahl
--   Maximal zu exportierende Anzahl
+* Standardmäßig anzuzeigende Anzahl
+* Maximal anzuzeigende Anzahl
+* Maximal zu exportierende Anzahl
 
 ### Verfügbarkeit von Tabellen
 
 Die Einstellung Verfügbarkeit von Tabellen
 
--   zeigt das Schema und die Tabellen in der verbundenen Datenbank an und ermöglicht es, die Abfrage von Tabellen zu deaktivieren, so dass Personen sie nicht in Abfragen einbeziehen können. Dies ist nützlich für Tabellen, die möglicherweise beschränkte Daten enthalten, wie z.B. PII (Personally Identifiable Information).
+* zeigt das Schema und die Tabellen in der verbundenen Datenbank an und ermöglicht es, die Abfrage von Tabellen zu deaktivieren, so dass Personen sie nicht in Abfragen einbeziehen können. Dies ist nützlich für Tabellen, die möglicherweise beschränkte Daten enthalten, wie z.B. PII (Personally Identifiable Information).
 **Derzeit zur Deaktivierung empfohlen: Es wird derzeit empfohlen, folgende Tabellen zu deaktivieren: srs\_marc, srs\_marctab, srs\_records. Derzeit unterstützt die App die Indizierung bestimmter Spalten nicht. Wenn sie aktiviert gelassen wird, kann dies zu Leistungsproblemen und zusätzlicher Belastung der Datenbank führen.**
 
 ### Datenbankkonfiguration

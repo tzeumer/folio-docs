@@ -15,9 +15,9 @@ Bibliotheken können Forderungen manuell oder automatisch erheben.
 
 Automatische Forderungen fallen in drei Kategorien:
 
--   Wiederbeschaffungsgebühr für verlorene Exemplare
--   Bearbeitungsgebühr für verlorene Exemplare
--   Mahngebühren für überfällige Exemplare
+* Wiederbeschaffungsgebühr für verlorene Exemplare
+* Bearbeitungsgebühr für verlorene Exemplare
+* Mahngebühren für überfällige Exemplare
 
 Sie werden von FOLIO automatisch erhoben, wenn Exemplare ausgeliehen und nicht rechtzeitig zurückgegeben werden, entsprechend den Ausleiheregeln für überfällige und verlorene Exemplare.
 
@@ -47,16 +47,16 @@ In FOLIO würden die zugrunde liegenden Konto- und Aktionsdaten wie folgt ausseh
 
 **Konto Nr. 1**: Dies entspricht den 100 €, die Julia als Gebühr für verlorene Exemplare in Rechnung gestellt wurden. Es gäbe drei zugehörige Aktionen:
 
--   Aktion 1 steht für die ursprüngliche Belastung von Julia und hat in den zugrunde liegenden Daten den Aktionstyp "Ausstehend". In der Benutzeroberfläche wird die Aktionsart als "Gebühr für verlorene Exemplare" angezeigt. Zu diesem Zeitpunkt hat das **Konto** den Status "Offen".
--   Aktion 2 bedeutet, dass Julia €25 bezahlt, mit der Aktionsart "Teilweise bezahlt".
--   Aktion 3 bedeutet, dass die Bibliothek auf die verbleibenden 75 € verzichtet, mit der Aktionsart "Teilweise erlassen". Wenn Aktion 3 durchgeführt wird, wird der Status des Kontos auf **Geschlossen** gesetzt.
+* Aktion 1 steht für die ursprüngliche Belastung von Julia und hat in den zugrunde liegenden Daten den Aktionstyp "Ausstehend". In der Benutzeroberfläche wird die Aktionsart als "Gebühr für verlorene Exemplare" angezeigt. Zu diesem Zeitpunkt hat das **Konto** den Status "Offen".
+* Aktion 2 bedeutet, dass Julia €25 bezahlt, mit der Aktionsart "Teilweise bezahlt".
+* Aktion 3 bedeutet, dass die Bibliothek auf die verbleibenden 75 € verzichtet, mit der Aktionsart "Teilweise erlassen". Wenn Aktion 3 durchgeführt wird, wird der Status des Kontos auf **Geschlossen** gesetzt.
 
 Die Bibliothek könnte sich dafür entscheiden, zuerst auf die 75 € zu verzichten und dann die 25 € als bezahlt zu kennzeichnen. In diesem Fall würden Aktion 2 und Aktion 3 in der Reihenfolge umkehren, aber das Ergebnis wäre immer noch dasselbe - Bezahlung und Schließung des Kontos, Schließung der Ausleihe und Änderung des Status des Exemplars auf **Verloren und bezahlt**.
 
 **Konto Nr. 2:** Dieses Konto steht für die Bearbeitungsgebühr von 25 € und hat zwei zugehörige Aktionen.
 
--   Aktion 1 steht für die Bearbeitungsgebühr in Höhe von 25 € und hat in den zugrunde liegenden Daten den Aktionstyp "Ausstehend". Der Aktionstyp in der Benutzeroberfläche würde als "Bearbeitungsgebühr für verlorene Exemplare" angezeigt.
--   Aktion 2 bedeutet, dass die Bibliothek 25 € in bar akzeptiert, um die Gebühr zu bezahlen, mit dem Aktionstyp "Vollständig bezahlt". Wenn Aktion 2 durchgeführt wird, wird der Status des Kontos auf **Geschlossen** gesetzt.
+* Aktion 1 steht für die Bearbeitungsgebühr in Höhe von 25 € und hat in den zugrunde liegenden Daten den Aktionstyp "Ausstehend". Der Aktionstyp in der Benutzeroberfläche würde als "Bearbeitungsgebühr für verlorene Exemplare" angezeigt.
+* Aktion 2 bedeutet, dass die Bibliothek 25 € in bar akzeptiert, um die Gebühr zu bezahlen, mit dem Aktionstyp "Vollständig bezahlt". Wenn Aktion 2 durchgeführt wird, wird der Status des Kontos auf **Geschlossen** gesetzt.
 
 ## Forderungseigentümer/-in
 
@@ -84,21 +84,21 @@ Julia Smith wünscht sich ein Buch, das in der Wissenschaftlichen Bibliothek im 
 
 Die Informationen zum Standort des Buches sehen wie folgt aus:
 
--   **Temporärer Standort des Exemplars**: leer
--   **Dauerhafter Standort des Exemplars**: leer
--   **Temporärer Standort des Bestandes**: leer
--   **Dauerhafter Standort des Bestandes**: "Wissenschaftliches Bibliothek - Regal"
--   **Tatsächlicher Standort des Exemplars**: "Wissenschaftliches Bibliothek - Regal"
+* **Temporärer Standort des Exemplars**: leer
+* **Dauerhafter Standort des Exemplars**: leer
+* **Temporärer Standort des Bestandes**: leer
+* **Dauerhafter Standort des Bestandes**: "Wissenschaftliches Bibliothek - Regal"
+* **Tatsächlicher Standort des Exemplars**: "Wissenschaftliches Bibliothek - Regal"
 
 Julie leiht sich das Buch an der Servicestelle der Rechtsbibliothek aus und gibt es nicht zurück. Das Exemplar gilt als verloren und wird mit einer Gebühr von €100 für verlorene Exemplare und einer Bearbeitungsgebühr von €25 für verlorene Exemplare belegt.
 
 Wann das Exemplar als verloren gilt:
 
--   FOLIO prüft zunächst den Exemplardatensatz auf einen **dauerhaften Standort des Exemplars**.
--   Da dieser Wert nicht festgelegt ist, prüft FOLIO als nächstes den **dauerhaften Standort des Bestands** und findet den Wert "Wissenschaftliches Bibliothek - Regal".
--   FOLIO prüft dann den Standortdatensatz für "Wissenschaftliches Bibliothek - Regal" und stellt fest, dass der Standort eine primäre Servicestelle mit dem Namen "Wissenschaftliches Bibliothek - SP" hat.
--   Schließlich prüft FOLIO die Datensätze der Forderungseigentümer/-in für die Servicestelle "Wissenschaftliches Bibliothek - SP" und stellt fest, dass diese mit dem Forderungseigentümer/-in "Science and Engineering Business Office" verbunden ist.
--   FOLIO berechnet sowohl die Gebühr für verlorene Exemplare in Höhe von €100 als auch die Bearbeitungsgebühr für verlorene Exemplare in Höhe von €25 und ordnet sie dem Eigentümer "Science and Engineering Business Office" zu.
+* FOLIO prüft zunächst den Exemplardatensatz auf einen **dauerhaften Standort des Exemplars**.
+* Da dieser Wert nicht festgelegt ist, prüft FOLIO als nächstes den **dauerhaften Standort des Bestands** und findet den Wert "Wissenschaftliches Bibliothek - Regal".
+* FOLIO prüft dann den Standortdatensatz für "Wissenschaftliches Bibliothek - Regal" und stellt fest, dass der Standort eine primäre Servicestelle mit dem Namen "Wissenschaftliches Bibliothek - SP" hat.
+* Schließlich prüft FOLIO die Datensätze der Forderungseigentümer/-in für die Servicestelle "Wissenschaftliches Bibliothek - SP" und stellt fest, dass diese mit dem Forderungseigentümer/-in "Science and Engineering Business Office" verbunden ist.
+* FOLIO berechnet sowohl die Gebühr für verlorene Exemplare in Höhe von €100 als auch die Bearbeitungsgebühr für verlorene Exemplare in Höhe von €25 und ordnet sie dem Eigentümer "Science and Engineering Business Office" zu.
 
 ## Forderungen/Gebührenbescheide
 
@@ -142,18 +142,18 @@ Nehmen wir an, eine Person leiht sich ein Exemplar aus, das eine dreistündige L
 
 Bei der Berechnung der Mahngebühren werden unter anderem folgende Faktoren berücksichtigt:
 
--   Der Kalender der ausleihenden Servicestelle - in diesem Beispiel nehmen wir an, die Servicestelle ist rund um die Uhr geöffnet
--   Die in den Überfälligkeitsrichtlinien festgelegte Überfälligkeitsgebühr - in diesem Beispiel €3/Tag
--   ob es eine in der Ausleihrichtlinie festgelegte Schonfrist für eine verspätete Rückgabe gibt - in diesem Beispiel nehmen wir an, dass es keine Schonfrist gibt
+* Der Kalender der ausleihenden Servicestelle - in diesem Beispiel nehmen wir an, die Servicestelle ist rund um die Uhr geöffnet
+* Die in den Überfälligkeitsrichtlinien festgelegte Überfälligkeitsgebühr - in diesem Beispiel €3/Tag
+* ob es eine in der Ausleihrichtlinie festgelegte Schonfrist für eine verspätete Rückgabe gibt - in diesem Beispiel nehmen wir an, dass es keine Schonfrist gibt
     ob die Mahngebühren während der Öffnungszeiten erhoben werden sollen, wie in den Mahnrichtlinien festgelegt - in diesem Beispiel: Ja
 
 Sobald das Exemplar zurückgegeben wird, berechnet FOLIO die überfälligen Forderungen wie folgt:
 
--   Das Exemplar war einen Tag und eine Stunde überfällig - 25 Stunden - die dann in Minuten umgerechnet werden - 1500 Minuten
--   Die Forderung/Gebühr beträgt €3/Tag. Ein Tag hat 1440 Minuten, also sind es €3/1440 Minuten.
--   FOLIO berechnet die Anzahl der "Zeiteinheiten", für die das Exemplar überfällig war - in diesem Fall dividiert es 1500/1440 = ~1,07 "Einheiten" überfälliger Zeit.
+* Das Exemplar war einen Tag und eine Stunde überfällig - 25 Stunden - die dann in Minuten umgerechnet werden - 1500 Minuten
+* Die Forderung/Gebühr beträgt €3/Tag. Ein Tag hat 1440 Minuten, also sind es €3/1440 Minuten.
+* FOLIO berechnet die Anzahl der "Zeiteinheiten", für die das Exemplar überfällig war - in diesem Fall dividiert es 1500/1440 = ~1,07 "Einheiten" überfälliger Zeit.
     FOLIO rundet die Anzahl der überfälligen Zeit-"Einheiten" auf die nächste ganze Zahl auf - in diesem Fall 2.
--   FOLIO multipliziert die Anzahl der überfälligen Zeit-"Einheiten" mit dem Betrag der Geldstrafe pro Intervall - 3 - um eine Gesamtgeldstrafe von €6.00 zu erhalten.
+* FOLIO multipliziert die Anzahl der überfälligen Zeit-"Einheiten" mit dem Betrag der Geldstrafe pro Intervall - 3 - um eine Gesamtgeldstrafe von €6.00 zu erhalten.
 
 ### Beispiel: Eine Person gibt ein überfälliges Exemplar an einer Servicestelle zurück, die über Nacht geschlossen ist
 
@@ -161,19 +161,19 @@ Nehmen wir an, eine Person leiht sich ein Exemplar mit einer Leihfrist von siebe
 
 Die Faktoren, die bei der Berechnung der Mahngebühren berücksichtigt werden, sind
 
--   Der Kalender der ausleihenden Servicestelle - in diesem Beispiel nehmen wir an, dass die Servicestelle vom 1. Mai bis zum 11. Mai von 8 Uhr morgens bis Mitternacht geöffnet ist.
--   Die in den Überfälligkeitsrichtlinien festgelegte Überfälligkeitsgebühr - in diesem Beispiel €3/Tag
--   Ob es eine in der Ausleihrichtlinie festgelegte Schonfrist für eine verspätete Rückgabe gibt - in diesem Beispiel eine Schonfrist von einem Tag.
--   ob die Mahngebühren während der Geschäftszeiten erhoben werden sollen, wie in den Richtlinien für überfällige Artikel festgelegt - in diesem Beispiel ist diese Option auf Nein gesetzt.
+* Der Kalender der ausleihenden Servicestelle - in diesem Beispiel nehmen wir an, dass die Servicestelle vom 1. Mai bis zum 11. Mai von 8 Uhr morgens bis Mitternacht geöffnet ist.
+* Die in den Überfälligkeitsrichtlinien festgelegte Überfälligkeitsgebühr - in diesem Beispiel €3/Tag
+* Ob es eine in der Ausleihrichtlinie festgelegte Schonfrist für eine verspätete Rückgabe gibt - in diesem Beispiel eine Schonfrist von einem Tag.
+* ob die Mahngebühren während der Geschäftszeiten erhoben werden sollen, wie in den Richtlinien für überfällige Artikel festgelegt - in diesem Beispiel ist diese Option auf Nein gesetzt.
 
 Sobald das Exemplar zurückgegeben wird, berechnet FOLIO die überfälligen Forderungen wie folgt:
 
--   Das Exemplar war 2 Tage und 14 Stunden überfällig, wenn man sich den Kalender genau ansieht. Das sind 62 Stunden, also 3720 Minuten.
--   Es gibt eine Nachfrist, aber da die Nachfrist einen Tag / 1440 Minuten beträgt und das Exemplar nach der Nachfrist zurückgegeben wurde, wird die Nachfrist bei der Berechnung nicht berücksichtigt.
--   FOLIO sieht, dass die Überfälligkeitsrichtlinie besagt, dass während der Öffnungsszeiten keine überfälligen Forderungen erhoben werden dürfen. Der Kalender der zugehörigen Ausleih-Servicestelle zeigt, dass sie an den drei relevanten Tagen - dem Morgen des 9., 10. und 11. - von Mitternacht bis 8 Uhr morgens geschlossen ist. Die Schließzeit beträgt 8 Stunden pro Tag - also insgesamt 24 Stunden oder 1440 Minuten.
--   FOLIO zieht die geschlossenen Minuten von der gesamten überfälligen Zeit ab - 3720 - 1440 = 2280 Minuten. Das ist der Betrag für die überfällige Zeit, die FOLIO in Rechnung stellt.
--   Der Gebührensatz beträgt €3/Tag oder €3/1440 Minuten. FOLIO berechnet die Anzahl der Zeit-"Einheiten", für die das Exemplar überfällig war - 2280/1440 = ~1,58 "Einheiten" überfälliger Zeit.
--   FOLIO rundet dies auf die nächste ganze Zahl auf - 2 - und berechnet 2 Intervalle. Es wären also 2 \* 3 = 6, was einer Geldstrafe von €6 entspricht.
+* Das Exemplar war 2 Tage und 14 Stunden überfällig, wenn man sich den Kalender genau ansieht. Das sind 62 Stunden, also 3720 Minuten.
+* Es gibt eine Nachfrist, aber da die Nachfrist einen Tag / 1440 Minuten beträgt und das Exemplar nach der Nachfrist zurückgegeben wurde, wird die Nachfrist bei der Berechnung nicht berücksichtigt.
+* FOLIO sieht, dass die Überfälligkeitsrichtlinie besagt, dass während der Öffnungsszeiten keine überfälligen Forderungen erhoben werden dürfen. Der Kalender der zugehörigen Ausleih-Servicestelle zeigt, dass sie an den drei relevanten Tagen - dem Morgen des 9., 10. und 11. - von Mitternacht bis 8 Uhr morgens geschlossen ist. Die Schließzeit beträgt 8 Stunden pro Tag - also insgesamt 24 Stunden oder 1440 Minuten.
+* FOLIO zieht die geschlossenen Minuten von der gesamten überfälligen Zeit ab - 3720 - 1440 = 2280 Minuten. Das ist der Betrag für die überfällige Zeit, die FOLIO in Rechnung stellt.
+* Der Gebührensatz beträgt €3/Tag oder €3/1440 Minuten. FOLIO berechnet die Anzahl der Zeit-"Einheiten", für die das Exemplar überfällig war - 2280/1440 = ~1,58 "Einheiten" überfälliger Zeit.
+* FOLIO rundet dies auf die nächste ganze Zahl auf - 2 - und berechnet 2 Intervalle. Es wären also 2 \* 3 = 6, was einer Geldstrafe von €6 entspricht.
 
 Bitte beachten, dass der Person 2 Tage berechnet wurden, obwohl das Exemplar erst am 3. Tag nach der Überfälligkeit zurückgegeben wurde.
 
@@ -225,20 +225,20 @@ Wie ein Exemplar für Verloren erklärt in der Praxis aussehen könnte:
 
 Folgende Szenario:
 
--   Eine Person hat ein Buch ausgeliehen und es nicht zurückgegeben.
--   Die Ausleihe hatte ein Fälligkeitsdatum am 1. Mai 2022. Da das Exemplar ein festes Fälligkeitsdatum hat, ist das tatsächliche Fälligkeitsdatum/der tatsächliche Zeitpunkt der 1. Mai 2022 um 23:59 Uhr.
--   Die zugehörige Richtlinie für verlorene Exemplare besagt, dass das Exemplar nach 28 Tagen als verloren gilt. In diesem Fall wird der Person eine Gebühr für verlorene Exemplare in Höhe von €100 berechnet, ohne dass eine Bearbeitungsgebühr anfällt.
+* Eine Person hat ein Buch ausgeliehen und es nicht zurückgegeben.
+* Die Ausleihe hatte ein Fälligkeitsdatum am 1. Mai 2022. Da das Exemplar ein festes Fälligkeitsdatum hat, ist das tatsächliche Fälligkeitsdatum/der tatsächliche Zeitpunkt der 1. Mai 2022 um 23:59 Uhr.
+* Die zugehörige Richtlinie für verlorene Exemplare besagt, dass das Exemplar nach 28 Tagen als verloren gilt. In diesem Fall wird der Person eine Gebühr für verlorene Exemplare in Höhe von €100 berechnet, ohne dass eine Bearbeitungsgebühr anfällt.
 
 Der Zeitzähler für "Verloren erklärt" würde am 2. Mai beginnen. Die 28-tägige Überfälligkeit würde am 29. Mai um 23:59 Uhr enden.
 
--   Nachdem der 29. Mai um 23:59 Uhr verstrichen ist, wird das Exemplar beim nächsten Durchlauf des Prozesses "**Verloren erklärt**" in den Status "**Verloren erklärt**" geändert.
--   Nachdem der Status des Exemplars in "**Verloren erklärt**" geändert wurde, werden beim nächsten Durchlauf des Forderungsprozesses alle damit verbundenen Forderungen berechnet.
+* Nachdem der 29. Mai um 23:59 Uhr verstrichen ist, wird das Exemplar beim nächsten Durchlauf des Prozesses "**Verloren erklärt**" in den Status "**Verloren erklärt**" geändert.
+* Nachdem der Status des Exemplars in "**Verloren erklärt**" geändert wurde, werden beim nächsten Durchlauf des Forderungsprozesses alle damit verbundenen Forderungen berechnet.
 
 Der Zeitplan könnte etwa so aussehen:
 
--   29\. Mai 23:59 Uhr - das Frist der Ausleihe überschreitet den Zeitrahmen für die Überfälligkeit und wird als verloren eingestuft
--   30\. Mai 12:00 AM - der Prozess "**Verloren erklärt**" beginnt und ändert den Status des Exemplars in "**Verloren erklärt**"
--   30\. Mai 12:05 AM - der Prozess der "**Verloren erklärt**"-Gebührenerhebung für die Ausleihe beginnt, nimmt die Informationen über die Ausleihe auf und belastet das Bibliothekskonto der Person mit 100 €.
+* 29\. Mai 23:59 Uhr - das Frist der Ausleihe überschreitet den Zeitrahmen für die Überfälligkeit und wird als verloren eingestuft
+* 30\. Mai 12:00 AM - der Prozess "**Verloren erklärt**" beginnt und ändert den Status des Exemplars in "**Verloren erklärt**"
+* 30\. Mai 12:05 AM - der Prozess der "**Verloren erklärt**"-Gebührenerhebung für die Ausleihe beginnt, nimmt die Informationen über die Ausleihe auf und belastet das Bibliothekskonto der Person mit 100 €.
 
 Beide Schritte dieses Prozesses können einige Zeit in Anspruch nehmen. Wenn also eine große Anzahl von Ausleihen vorhanden ist, die darauf warten, als für verloren erklärt zu werrden, kann es länger dauern, bis alle Ausleihen verarbeitet sind. Die Verzögerungen hängen von der Anzahl der Ausleihen ab, die eien Bibliothek zu bearbeiten hat.
 
@@ -248,8 +248,8 @@ Angenommen, eine Person leiht sich ein Laptop-Ladegerät mit einer Leihfrist von
 
 Wenn die Person das Ladegerät nicht zurückbringt, kann es um 21:05 Uhr als verloren erklärt werden. Der Zeitplan könnte in etwa so aussehen:
 
--   21:00 Uhr - die Ausleihe beginnt, aber es sind keine Ausleihen zu bearbeiten.
--   21:05 Uhr - das Ladegerät hat den Zeitrahmen für den Verlust überschritten und kann in den Status " **Verloren erklärt**" überführt werden.
--   21:05 Uhr - die Gebührenerhebung für "**Verloren erklärt**" beginnt, aber es gibt keine Ausleihen zu bearbeiten.
--   21:30 Uhr - Der Prozess "**Verloren erklärt**" beginnt und ändert den Status des Exemplars in "**Verloren erklärt**".
+* 21:00 Uhr - die Ausleihe beginnt, aber es sind keine Ausleihen zu bearbeiten.
+* 21:05 Uhr - das Ladegerät hat den Zeitrahmen für den Verlust überschritten und kann in den Status " **Verloren erklärt**" überführt werden.
+* 21:05 Uhr - die Gebührenerhebung für "**Verloren erklärt**" beginnt, aber es gibt keine Ausleihen zu bearbeiten.
+* 21:30 Uhr - Der Prozess "**Verloren erklärt**" beginnt und ändert den Status des Exemplars in "**Verloren erklärt**".
     21:35 Uhr - Der Prozess zur Erhebung der Gebühr für die Ausleihe "**Verloren erklärt**" beginnt, nimmt die Informationen zur Ausleihe "**Verloren erklärt**" auf und erhebt die Gebühr von 75 €.

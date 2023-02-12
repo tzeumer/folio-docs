@@ -17,16 +17,16 @@ Description: "
 
 Der Abschnitt Verwaltungsdaten enthält technische Informationen über den Instanzdatensatz.
 
--   **Nachweis unterdrücken**. Wenn gewünscht ist, dass der Datensatz im Discoverysystem unterdrückt wird, die Checkbox **Nachweis unterdrücken** markieren.
--   **Unterdrückt für Mitarbeitende**. Wenn der Datensatz und die zugehörigen Bestandsdatensätze und Exemplardatensätze für Mitarbeitern unterdrückt werden sollen, die nicht über die entsprechenden Berechtigungen zum Anzeigen des Datensatzes verfügen, die Checkbox **Unterdrückt für Mitarbeitende** markieren. Wenn dieses Kontrollkästchen aktiviert wird, müssen Mitarbeitende die Berechtigung "Katalog: Für das Personal unterdrückte Instanzdatensätze anzeigen." besitzen, um den Datensatz anzeigen zu können.
--   **Zuvor in Besitz**. Wenn die Ressource bereits im Besitz der Bibliothek war, die Checkbox **Zuvor in Besitz** markieren. Eine Bibliothek kann die Checkbox Zuvor in Besitz wählen, wenn die Bibliothek die im Instanzdatensatz beschriebene bibliografische Ressource nicht mehr besitzt, den Datensatz aber aus verwaltungstechnischen Gründen im Katalog beibehalten und den früheren Besitz angeben möchte. So kann z.B. die Erlaubnis für Personen, Exemplare in einer Konsortialsammlung einzusehen oder zu benutzen, den Nachweis erfordern, dass die Bibliothek zu irgendeinem Zeitpunkt Eigentümerin dieser Exemplare war.
--   **Titel-HRID**. Der Human Readable Identifier ("Menschenlesbare ID"), eine vom System zugewiesene sequentielle ID.
--   **Metadatenquelle (erforderlich)**. Format des Instanzdatensatzes, wenn ein Quelldatensatz vorhanden ist. Zum Beispiel FOLIO, wenn es sich um einen in Katalog erstellten Datensatz handelt, MARC, wenn es sich um einen in MARCcat erstellten MARC-Datensatz handelt, oder EPKB, wenn es sich um einen Datensatz aus eHoldings handelt. Das System ordnet die Quelle automatisch zu.
--   **Katalogisierungsdatum**. Datum, an dem eine Instanz als "katalogisiert" gilt.
--   **Instanz-Statustyp**. Wählen Sie den Typ des Instanzstatus, der dem Datensatz zugewiesen werden soll. Der Instanzstatus kann z.B. sein: katalogisiert, nicht katalogisiert, per Batch eingespielt oder noch nicht zugewiesen. Die Instanz-Statusbegriffe werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Instanz-Statustyp](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Instanz-Statustypen) zu finden.
--   **Erscheinungsweise**. Eine bibliografische Kategorisierung, die angibt, ob eine Ressource in einem oder mehreren Teilen ausgegeben wird, wie sie aktualisiert wird und ob ihr Abschluss festgelegt ist oder nicht. Die Werte, die in der Dropdown-Liste unter Einstellungen > Katalog > Erscheinungsweisen erscheinen, können konfiguriert werden. Für in FOLIO erstellte Datensätze kann ein Wert zugewiesen werden, aber für Instanzdatensätze mit einem zugrundeliegenden MARC-Datensatz in der SRS-Datenbank wird der Wert anhand der festen MARC-Feldwerte bestimmt.
--   **Statistischer Code**. Statistische Codes sind lokal zugewiesene Werte, die zum Filtern und Sortieren von Datensätzen verwendet werden. Einem Datensatz können mehrere statistische Codes hinzugefügt werden. Statistische Codes werden von der Bibliothek in der App Einstellungen konfiguriert. Siehe [Einstellungen > Katalog > Statistische Codes](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Statistische+Codes) für weitere Informationen.
--   **Verwaltungsnotizen**. Verwaltungsnotizen sind Freitextfelder, in denen Informationen über den Instanzdatensatz oder die damit durchgeführten Aktionen erfasst werden können.
+* **Nachweis unterdrücken**. Wenn gewünscht ist, dass der Datensatz im Discoverysystem unterdrückt wird, die Checkbox **Nachweis unterdrücken** markieren.
+* **Unterdrückt für Mitarbeitende**. Wenn der Datensatz und die zugehörigen Bestandsdatensätze und Exemplardatensätze für Mitarbeitern unterdrückt werden sollen, die nicht über die entsprechenden Berechtigungen zum Anzeigen des Datensatzes verfügen, die Checkbox **Unterdrückt für Mitarbeitende** markieren. Wenn dieses Kontrollkästchen aktiviert wird, müssen Mitarbeitende die Berechtigung "Katalog: Für das Personal unterdrückte Instanzdatensätze anzeigen." besitzen, um den Datensatz anzeigen zu können.
+* **Zuvor in Besitz**. Wenn die Ressource bereits im Besitz der Bibliothek war, die Checkbox **Zuvor in Besitz** markieren. Eine Bibliothek kann die Checkbox Zuvor in Besitz wählen, wenn die Bibliothek die im Instanzdatensatz beschriebene bibliografische Ressource nicht mehr besitzt, den Datensatz aber aus verwaltungstechnischen Gründen im Katalog beibehalten und den früheren Besitz angeben möchte. So kann z.B. die Erlaubnis für Personen, Exemplare in einer Konsortialsammlung einzusehen oder zu benutzen, den Nachweis erfordern, dass die Bibliothek zu irgendeinem Zeitpunkt Eigentümerin dieser Exemplare war.
+* **Titel-HRID**. Der Human Readable Identifier ("Menschenlesbare ID"), eine vom System zugewiesene sequentielle ID.
+* **Metadatenquelle (erforderlich)**. Format des Instanzdatensatzes, wenn ein Quelldatensatz vorhanden ist. Zum Beispiel FOLIO, wenn es sich um einen in Katalog erstellten Datensatz handelt, MARC, wenn es sich um einen in MARCcat erstellten MARC-Datensatz handelt, oder EPKB, wenn es sich um einen Datensatz aus eHoldings handelt. Das System ordnet die Quelle automatisch zu.
+* **Katalogisierungsdatum**. Datum, an dem eine Instanz als "katalogisiert" gilt.
+* **Instanz-Statustyp**. Wählen Sie den Typ des Instanzstatus, der dem Datensatz zugewiesen werden soll. Der Instanzstatus kann z.B. sein: katalogisiert, nicht katalogisiert, per Batch eingespielt oder noch nicht zugewiesen. Die Instanz-Statusbegriffe werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Instanz-Statustyp](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Instanz-Statustypen) zu finden.
+* **Erscheinungsweise**. Eine bibliografische Kategorisierung, die angibt, ob eine Ressource in einem oder mehreren Teilen ausgegeben wird, wie sie aktualisiert wird und ob ihr Abschluss festgelegt ist oder nicht. Die Werte, die in der Dropdown-Liste unter Einstellungen > Katalog > Erscheinungsweisen erscheinen, können konfiguriert werden. Für in FOLIO erstellte Datensätze kann ein Wert zugewiesen werden, aber für Instanzdatensätze mit einem zugrundeliegenden MARC-Datensatz in der SRS-Datenbank wird der Wert anhand der festen MARC-Feldwerte bestimmt.
+* **Statistischer Code**. Statistische Codes sind lokal zugewiesene Werte, die zum Filtern und Sortieren von Datensätzen verwendet werden. Einem Datensatz können mehrere statistische Codes hinzugefügt werden. Statistische Codes werden von der Bibliothek in der App Einstellungen konfiguriert. Siehe [Einstellungen > Katalog > Statistische Codes](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Statistische+Codes) für weitere Informationen.
+* **Verwaltungsnotizen**. Verwaltungsnotizen sind Freitextfelder, in denen Informationen über den Instanzdatensatz oder die damit durchgeführten Aktionen erfasst werden können.
 
 ### Statistische Codes
 
@@ -151,15 +151,15 @@ Anmerkung: Das Hinzufügen eines Mitwirkenden ist optional, aber wenn auf **Mit
 
 Beschreibende Daten enthalten deskriptive Informationen über die Ressource.
 
--   **Erscheinungsvermerk**. Daten über die Ressource, die sich auf ihre Veröffentlichung, Verbreitung, Herstellung usw. beziehen.
--   **Ausgabevermerk**. Die Angabe zur Ausgabe.
--   **Physische Beschreibungen**. Physische Beschreibung der beschriebenen Ressource, einschließlich ihres Umfangs, ihrer Abmessungen und anderer physischer Details.
--   **Ressourcentyp (erforderlich)**. Ein eindeutiger Begriff für die Ressource, der aus der Liste der RDA-Inhaltsbegriffe zugewiesen oder lokal definiert werden kann. Wird unter Einstellungen > Katalog > Ressourcentypen konfiguriert.
--   **Art des Inhalts**. Die Art des Inhalts ist eine RDA-Kategorisierung.
--   **Formate**. Ein eindeutiger Zeitraum für das Format, der aus der RDA-Trägerbegriffsliste ("RDA carrier term list") zugewiesen oder lokal definiert werden kann. Konfiguriert unter [Einstellungen > Katalog > Formate](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Formate).
--   **Sprachen**. Die von der Ressource verwendete Sprachen.
--   **Erscheinungsweise**. Das Intervall, in dem Serienausgaben veröffentlicht werden oder eine integrierende Ressource ("integrating resource") aktualisiert wird. Zum Beispiel täglich, wöchentlich, monatlich, vierteljährlich, usw.
--   **Veröffentlichungszeitraum**. Fortlaufenden Bezeichnung/Chronologie der Veröffentlichung, oder Datumsbereich.
+* **Erscheinungsvermerk**. Daten über die Ressource, die sich auf ihre Veröffentlichung, Verbreitung, Herstellung usw. beziehen.
+* **Ausgabevermerk**. Die Angabe zur Ausgabe.
+* **Physische Beschreibungen**. Physische Beschreibung der beschriebenen Ressource, einschließlich ihres Umfangs, ihrer Abmessungen und anderer physischer Details.
+* **Ressourcentyp (erforderlich)**. Ein eindeutiger Begriff für die Ressource, der aus der Liste der RDA-Inhaltsbegriffe zugewiesen oder lokal definiert werden kann. Wird unter Einstellungen > Katalog > Ressourcentypen konfiguriert.
+* **Art des Inhalts**. Die Art des Inhalts ist eine RDA-Kategorisierung.
+* **Formate**. Ein eindeutiger Zeitraum für das Format, der aus der RDA-Trägerbegriffsliste ("RDA carrier term list") zugewiesen oder lokal definiert werden kann. Konfiguriert unter [Einstellungen > Katalog > Formate](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Formate).
+* **Sprachen**. Die von der Ressource verwendete Sprachen.
+* **Erscheinungsweise**. Das Intervall, in dem Serienausgaben veröffentlicht werden oder eine integrierende Ressource ("integrating resource") aktualisiert wird. Zum Beispiel täglich, wöchentlich, monatlich, vierteljährlich, usw.
+* **Veröffentlichungszeitraum**. Fortlaufenden Bezeichnung/Chronologie der Veröffentlichung, oder Datumsbereich.
 
 ### Erscheinungsvermerk hinzufügen
 
@@ -298,8 +298,8 @@ Anmerkung: Das Hinzufügen einer Klassifikation ist optional, aber wenn Sie auf 
 
 Im Abschnitt Instanzbeziehung können beliebige Beziehungen zwischen der Instanz und anderen Instanzen hinzugefügt werden.
 
--   **Übergeordnete Instanzen**. Die übergeordnete Instanz ist der Datensatz, der als primärer Datensatz ausgewählt wurde und mit dem alle anderen untergeordneten Datensätze verknüpft sind. Informationen über übergeordnete Instanzen (Titel, Instanz-HRID, Verlag, Erscheinungsdatum, ISBN, ISSN) einschließlich eines Links zum entsprechenden übergeordneten Instanzdatensatz werden in den Datensätzen der untergeordneten Instanzen angezeigt.
--   **Untergeordnete Instanzen**. Ein untergeordneter Instanzdatensatz ist jeder Datensatz, der mit einem übergeordneten Datensatz verknüpft wurde. Informationen über untergeordnete Instanzen (Titel, Instanz-HRID, Verlag, Erscheinungsdatum, ISBN, ISSN) einschließlich eines Links zu jedem entsprechenden untergeordneten Instanzdatensatz werden im übergeordneten Instanzdatensatz angezeigt.
+* **Übergeordnete Instanzen**. Die übergeordnete Instanz ist der Datensatz, der als primärer Datensatz ausgewählt wurde und mit dem alle anderen untergeordneten Datensätze verknüpft sind. Informationen über übergeordnete Instanzen (Titel, Instanz-HRID, Verlag, Erscheinungsdatum, ISBN, ISSN) einschließlich eines Links zum entsprechenden übergeordneten Instanzdatensatz werden in den Datensätzen der untergeordneten Instanzen angezeigt.
+* **Untergeordnete Instanzen**. Ein untergeordneter Instanzdatensatz ist jeder Datensatz, der mit einem übergeordneten Datensatz verknüpft wurde. Informationen über untergeordnete Instanzen (Titel, Instanz-HRID, Verlag, Erscheinungsdatum, ISBN, ISSN) einschließlich eines Links zu jedem entsprechenden untergeordneten Instanzdatensatz werden im übergeordneten Instanzdatensatz angezeigt.
 
 ### Übergeordneten Instanz hinzufügen
 

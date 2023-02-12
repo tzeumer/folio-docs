@@ -15,12 +15,12 @@ Informationen für Entwickler, die die Dashboard-Funktionalität für ihre eigen
 
 Definition von Begriffen im Zusammenhang mit der App Dashboard:
 
--   **Dashboard**. Ein Dashboard ist ein Bildschirm, der Widgets anzeigen kann. Eine Person kann innerhalb der App Dashboard Zugriff auf ein oder mehrere Dashboards haben. Ein Dashboard verfügt über eine Reihe von konfigurierten Widgets und auch über eine Zugriffsliste für Personen.
--   **Widget**. Um Informationen auf einem Dashboard anzuzeigen, müssen Widgets hinzugefügt werden. Widgets können Informationen aus FOLIO-Anwendungen oder anderen Quellen abrufen und anzeigen. Es gibt verschiedene Arten von Widgets, die je nach Art der Informationen, die angezeigt werden sollen, verwendet werden.
+* **Dashboard**. Ein Dashboard ist ein Bildschirm, der Widgets anzeigen kann. Eine Person kann innerhalb der App Dashboard Zugriff auf ein oder mehrere Dashboards haben. Ein Dashboard verfügt über eine Reihe von konfigurierten Widgets und auch über eine Zugriffsliste für Personen.
+* **Widget**. Um Informationen auf einem Dashboard anzuzeigen, müssen Widgets hinzugefügt werden. Widgets können Informationen aus FOLIO-Anwendungen oder anderen Quellen abrufen und anzeigen. Es gibt verschiedene Arten von Widgets, die je nach Art der Informationen, die angezeigt werden sollen, verwendet werden.
 
 Widgets sind oft von der Person konfigurierbar, so dass dieselbe Art von Widget mehrfach hinzugefügt werden kann, aber mit einer anderen Konfiguration, um eine andere Art von Informationen anzuzeigen. Personen können entscheiden, welche Widgets auf ihrem Dashboard angezeigt werden und in welcher Reihenfolge sie angezeigt werden. Jeder Person steht ein eigenes Dashboard zur Verfügung, so dass jede Person die Widgets, die sie benötigt, in einer für sie geeigneten Weise konfigurieren kann.
 
--   **Personenzugriffsliste**. Auf Dashboards kann von einer oder mehreren Personen zugegriffen werden. Welche Personen auf ein Dashboard zugreifen können, wird über die Personenzugriffsliste für das Dashboard gesteuert. Nur Personen auf dieser Liste können auf das Dashboard zugreifen. Personen können der Personenzugriffsliste hinzugefügt oder von ihr entfernt werden. In der Personenzugriffsliste gibt es drei Zugangsebene, die einer Person gewährt werden können: Anzeigen, Bearbeiten, Verwalten.
+* **Personenzugriffsliste**. Auf Dashboards kann von einer oder mehreren Personen zugegriffen werden. Welche Personen auf ein Dashboard zugreifen können, wird über die Personenzugriffsliste für das Dashboard gesteuert. Nur Personen auf dieser Liste können auf das Dashboard zugreifen. Personen können der Personenzugriffsliste hinzugefügt oder von ihr entfernt werden. In der Personenzugriffsliste gibt es drei Zugangsebene, die einer Person gewährt werden können: Anzeigen, Bearbeiten, Verwalten.
 
 Berechtigungen
 
@@ -32,9 +32,9 @@ Die unten aufgeführten Berechtigungen ermöglichen die Interaktion mit der App 
 
 Im Folgenden sind die Dashboard-Berechtigungen aufgelistet:
 
--   **Dashboard: Dashboard verwalten**. (Dashboard: Manage dashboard)
+* **Dashboard: Dashboard verwalten**. (Dashboard: Manage dashboard)
     Dies beinhaltet die Berechtigung, die App Dashboard im FOLIO Interface zu sehen und darauf zuzugreifen, und ermöglicht der Person:  Dashboards zu erstellen, bearbeiten und löschen**.** Widgets auf Dashboards hinzufügen, bearbeiten, entfernen und neu anordnen.Personen zur Benutzerzugriffsliste für ein Dashboard hinzufügen und aus dieser entfernen. Aktualisieren der Zugangsebene für eine Person in der Benutzerzugriffsliste für ein Dashboard.
--   **Dashboard: Dashboard-Administrator**. (Dashboard: Dashboard Administrator)
+* **Dashboard: Dashboard-Administrator**. (Dashboard: Dashboard Administrator)
     Mit dieser Berechtigung kann die Person auf alle Dashboards im System zugreifen und Änderungen daran vornehmen, als ob sie die Zugangsebene 'Verwalten' für das Dashboard erhalten hätte.
 
 ## Dashboard-Zugangsebene
@@ -47,6 +47,6 @@ Anmerkung: Um auf Dashboards zugreifen zu können, muss die Person über die Anw
 
 Im Folgenden sind die Personen aufgeführt, die auf ein Dashboard zugreifen können:
 
--   **Anzeigen**. Damit kann die Person das Dashboard, einschließlich der Widgets auf dem Dashboard und der Benutzerzugriffsliste für das Dashboard, anzeigen, aber keine Änderungen am Namen oder der Beschreibung des Dashboards, den Widgets auf dem Dashboard oder der Benutzerzugriffsliste für das Dashboard vornehmen.
--   **Bearbeiten**. Damit erhält die Person dieselben Rechte zur Anzeige des Dashboards wie bei der Zugangsebene Anzeigen und kann zusätzlich den Namen und die Beschreibung des Dashboards bearbeiten sowie Widgets auf dem Dashboard hinzufügen, entfernen oder bearbeiten. Die Person kann jedoch keine Änderungen an der Benutzerzugriffsliste für das Dashboard vornehmen.
--   **Verwalten**. Ermöglicht dem Benutzer dieselben Ansichts- und Bearbeitungsrechte wie die Zugangsebene Bearbeiten und erlaubt der Person zusätzlich, Personenzugriffsliste für das Dashboard hinzuzufügen, zu entfernen und zu bearbeiten sowie das Dashboard zu löschen.
+* **Anzeigen**. Damit kann die Person das Dashboard, einschließlich der Widgets auf dem Dashboard und der Benutzerzugriffsliste für das Dashboard, anzeigen, aber keine Änderungen am Namen oder der Beschreibung des Dashboards, den Widgets auf dem Dashboard oder der Benutzerzugriffsliste für das Dashboard vornehmen.
+* **Bearbeiten**. Damit erhält die Person dieselben Rechte zur Anzeige des Dashboards wie bei der Zugangsebene Anzeigen und kann zusätzlich den Namen und die Beschreibung des Dashboards bearbeiten sowie Widgets auf dem Dashboard hinzufügen, entfernen oder bearbeiten. Die Person kann jedoch keine Änderungen an der Benutzerzugriffsliste für das Dashboard vornehmen.
+* **Verwalten**. Ermöglicht dem Benutzer dieselben Ansichts- und Bearbeitungsrechte wie die Zugangsebene Bearbeiten und erlaubt der Person zusätzlich, Personenzugriffsliste für das Dashboard hinzuzufügen, zu entfernen und zu bearbeiten sowie das Dashboard zu löschen.

@@ -18,15 +18,15 @@ Hinweis: Bevor ein neues Interface erstellt wird, sollten die Fortschritt bei de
 
 ## Interface-Felder
 
--   **Typ**. Der Typ des Interfaces, das hinzugefügt wird: Admin, Endbenutzer, Berichte, Bestellungen, Rechnungen oder Weitere.
--   **Name**. Der Name des Interfaces.
--   **URI**. Die URI des Interfaces.
--   **Systemkennung**. Die Systemkennung, die für die Anmeldung bei dem Interface benötigt wird. Weitere Informationen zu den Berechtigungen für die Anzeige und Bearbeitung von Interface-Anmeldeinformationen sind unter [Berechtigungen für Organisationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Organisationen) zu finden.
--   **Passwort**. Das Passwort, mit dem sich beim Interface angemeldet wird. Auf **Anzeigen** klicken, um das Passwort anzuzeigen. Auf **Ausblenden** klicken, um die Anzeige des Passworts zu beenden.
--   **Notizen**. Beliebige Notizen zum Interface.
--   **Verfügbar**. Die Checkbox Verfügbar markieren, um anzugeben, ob Statistiken über dieses Interface verfügbar sind.
--   **Bereitstellung**. Wählen Sie die Bereitstellungsmethode für die Statistik aus der Dropdown-Liste: Online, FTP, E-Mail oder Andere.
--   **Format**. Das Format der Statistik aus der Dropdown-Liste auswählen: Counter, Delimited, Excel, PDF, ASCII, HTML oder Andere.
--   **Lokal gespeichert**. Der Speicherort der Statistik, wenn sie lokal gespeichert ist.
--   **Online**. Der Online-Speicherort der Statistik. Zum Beispiel eine Website des Lieferanten.
--   **Notizen**. Notizen zu den Statistiken.
+* **Typ**. Der Typ des Interfaces, das hinzugefügt wird: Admin, Endbenutzer, Berichte, Bestellungen, Rechnungen oder Weitere.
+* **Name**. Der Name des Interfaces.
+* **URI**. Die URI des Interfaces.
+* **Systemkennung**. Die Systemkennung, die für die Anmeldung bei dem Interface benötigt wird. Weitere Informationen zu den Berechtigungen für die Anzeige und Bearbeitung von Interface-Anmeldeinformationen sind unter [Berechtigungen für Organisationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Organisationen) zu finden.
+* **Passwort**. Das Passwort, mit dem sich beim Interface angemeldet wird. Auf **Anzeigen** klicken, um das Passwort anzuzeigen. Auf **Ausblenden** klicken, um die Anzeige des Passworts zu beenden.
+* **Notizen**. Beliebige Notizen zum Interface.
+* **Verfügbar**. Die Checkbox Verfügbar markieren, um anzugeben, ob Statistiken über dieses Interface verfügbar sind.
+* **Bereitstellung**. Wählen Sie die Bereitstellungsmethode für die Statistik aus der Dropdown-Liste: Online, FTP, E-Mail oder Andere.
+* **Format**. Das Format der Statistik aus der Dropdown-Liste auswählen: Counter, Delimited, Excel, PDF, ASCII, HTML oder Andere.
+* **Lokal gespeichert**. Der Speicherort der Statistik, wenn sie lokal gespeichert ist.
+* **Online**. Der Online-Speicherort der Statistik. Zum Beispiel eine Website des Lieferanten.
+* **Notizen**. Notizen zu den Statistiken.

@@ -17,15 +17,15 @@ Es kann auch nach Datenquellen gesucht werden, indem einer der Filter in der Ans
 
 Um Datenquellen nach ihrem Status zu filtern, wählen Sie eine der folgenden Optionen:
 
--   **Aktiv**. Datenquellen, die in den aktuellen Harvesting-Prozess einbezogen sind.
--   **Inaktiv**. Datenquellen, für die derzeit keine Berichte abgerufen werden.
+* **Aktiv**. Datenquellen, die in den aktuellen Harvesting-Prozess einbezogen sind.
+* **Inaktiv**. Datenquellen, für die derzeit keine Berichte abgerufen werden.
 
 ## Abruf über
 
 Um Datenquellen nach der Abrufmethode der Berichte zu filtern, eine der folgenden Möglichkeiten wählen:
 
--   **Sushi**. Datenquellen, bei denen die Berichte derzeit so konfiguriert sind, dass sie direkt vom Anbieter über SUSHI abgeholt werden.
--   **Aggregator**. Datenquellen, bei denen die Berichte derzeit so konfiguriert sind, dass sie über einen Aggregator abgerufen werden.
+* **Sushi**. Datenquellen, bei denen die Berichte derzeit so konfiguriert sind, dass sie direkt vom Anbieter über SUSHI abgeholt werden.
+* **Aggregator**. Datenquellen, bei denen die Berichte derzeit so konfiguriert sind, dass sie über einen Aggregator abgerufen werden.
 
 ## Aggregatoren
 
@@ -42,8 +42,8 @@ Um nach Datenquellen zu suchen, für die Berichte eines bestimmten Typs in FOLIO
 
 Um die Datenquellen danach zu filtern, ob Fehler beim Abruf aufgetreten sind, eine der folgenden Optionen wählen:
 
--   **Ja**. Datenquellen, bei denen mindestens ein angeforderter Bericht nicht korrekt erfasst wurde.
--   **Nein**. Datenquellen, bei denen keine Berichte nicht abgeholt werden konnten.
+* **Ja**. Datenquellen, bei denen mindestens ein angeforderter Bericht nicht korrekt erfasst wurde.
+* **Nein**. Datenquellen, bei denen keine Berichte nicht abgeholt werden konnten.
 
 ## Tags
 
@@ -63,9 +63,9 @@ Details zu den Datenquellen anzeigen
 
 Wurde nach einem Nutzungsdatenanbieter gesucht, werden die folgenden Informationen in der Ansicht Nutzungsdatenanbieter angezeigt:
 
--   **Name**. Der Name des Anbieters der Datenquelle.
--   **Abrufstatus**. Der Status des Anbieters der Datenquelle.
--   **Neuste Berichte**. Der Monat des aktuellsten in FOLIO gespeicherten Berichts.
--   **Aggregator**. Der Aggregator, von dem derzeit Berichte abgerufen werden sollen.
+* **Name**. Der Name des Anbieters der Datenquelle.
+* **Abrufstatus**. Der Status des Anbieters der Datenquelle.
+* **Neuste Berichte**. Der Monat des aktuellsten in FOLIO gespeicherten Berichts.
+* **Aggregator**. Der Aggregator, von dem derzeit Berichte abgerufen werden sollen.
 
 In den Suchergebnissen auf eine Datenquelle klicken, um sie anzuzeigen. Die Ansicht mit den Details des **Datenquellen-Anbieters** wird mit zusätzlichen Informationen über den Datenquellen-Anbieter und die zugehörigen in FOLIO gespeicherten Berichte angezeigt.

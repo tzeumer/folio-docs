@@ -32,34 +32,34 @@ Die unten aufgeführten Berechtigungen ermöglichen die Interaktion mit der App 
 
 Die folgenden Berechtigungen gelten für alle Bibliotheken, die die App Vereinbarungen verwenden:
 
--   **eManagement: Vereinbarungen suchen und anzeigen**. (Agreements: Search & view agreements)
+* **eManagement: Vereinbarungen suchen und anzeigen**. (Agreements: Search & view agreements)
     Mit dieser Berechtigung kann die Person bestehende Vereinbarungen suchen und anzeigen. Außerdem kann die Person die App für eManagement im FOLIO Interface sehen und darauf zugreifen.
--   **Vereinbarungen: Vereinbarungen bearbeiten**. (Agreements: Edit agreements)
+* **Vereinbarungen: Vereinbarungen bearbeiten**. (Agreements: Edit agreements)
     Diese Berechtigung erlaubt der Person, Vereinbarungen zu bearbeiten, einschließlich der Möglichkeit, Vertragszeilen hinzuzufügen und zu bearbeiten, Dokumente hinzuzufügen und zu bearbeiten und Tags zu einer Vereinbarung anzuzeigen, hinzuzufügen und zu bearbeiten. Sie gewährt außerdem alle Berechtigungen, die unter "eManagement: Vereinbarungen suchen & anzeigen" enthalten sind.
--   **Vereinbarungen: Vereinbarungen löschen**. (Agreements: Delete agreements)
+* **Vereinbarungen: Vereinbarungen löschen**. (Agreements: Delete agreements)
     Diese Berechtigung erlaubt es der Person, Vereinbarungen zu löschen. (Dies beinhaltet nicht die Möglichkeit, Vereinbarungen zu bearbeiten, sondern nur, sie zu löschen.) Es gewährt außerdem alle Berechtigungen, die unter "eManagement: Vereinbarungen suchen und anzeigen" enthalten sind.
--   **Agreements: File download**. (Agreements: File download)
+* **Agreements: File download**. (Agreements: File download)
     (ui-agreements.agreements.file.download) Diese Berechtigung gewährt die Berechtigung zum Herunterladen von Dokumenten, unabhängig vom Hochladen von Dokumenten.
 
 Die folgenden Berechtigungen sind nur anwendbar, wenn Ihre Bibliothek die Lokale KB verwendet:
 
--   **eManagement: E-Ressourcen suchen und anzeigen**. (Agreements: Search & view e-resources)
+* **eManagement: E-Ressourcen suchen und anzeigen**. (Agreements: Search & view e-resources)
     Mit dieser Berechtigung kann die Person eRessourcen (Pakete und Titel in diesen Paketen) in der internen KB suchen und anzeigen. Dies beinhaltet die Berechtigung, die App Vereinbarungen im FOLIO Interface zu sehen und darauf zuzugreifen.
--   **Vereinbarungen: E-Ressourcen bearbeiten**. (Agreements: Edit e-resources)
+* **Vereinbarungen: E-Ressourcen bearbeiten**. (Agreements: Edit e-resources)
     Diese Berechtigung erlaubt es der Person, die eRessourcen zu bearbeiten. Sie gewährt auch alle Rechte, die in "eManagement: E-Ressourcen suchen und anzeigen" enthalten sind.
--   **eManagement: Plattformen suchen und anzeigen**. (Agreements: Search & view platforms)
+* **eManagement: Plattformen suchen und anzeigen**. (Agreements: Search & view platforms)
     Diese Berechtigung ermöglicht es der Person, Plattformen in der internen KB zu suchen und anzuzeigen. Dazu gehört auch die Berechtigung, die App für Vereinbarungen im FOLIO Interface zu sehen und darauf zuzugreifen.
--   **eManagement: Plattformen bearbeiten**. (Agreements: Edit platforms)
+* **eManagement: Plattformen bearbeiten**. (Agreements: Edit platforms)
     Diese Berechtigung ermöglicht es der Person, die Eigenschaften von Plattformen zu bearbeiten. Es gewährt auch alle Rechte, die in "eManagement: E-Ressourcen suchen und anzeigen" enthalten sind.
 
 Wenn Daten in einem Vereinbarungsdatensatz eUsagen verwendet werden sollen, werden außerdem die folgende eUsage-Berechtigung benötigt:
 
--   **eUsage reports: charts may be viewed**. (eUsage reports: charts may be viewed)
+* **eUsage reports: charts may be viewed**. (eUsage reports: charts may be viewed)
     Diese Berechtigung fügt dem Datensatz einer Vereinbarung in der App "Vereinbarungen" ein Akkordeon hinzu, das Diagramme und Grafiken zu eUsage-Daten für die mit einer Vereinbarung verbundenen Titel anzeigt.
 
 Fehlte in der Originaldoku noch, sind aber beim FOLIO-System zu finden; evtl. weggefallen
 
--   Einstellungen (eManagement): Auswahllisten und Werte verwalten
--   Einstellungen (eManagement): Ergänzende Vereinbarungseigenschaften verwalten
--   Einstellungen (eManagement): Kann allgemeine Einstellungen anzeigen und bearbeiten
--   eManagement Plugin: Vereinbarungen suchen
+* Einstellungen (eManagement): Auswahllisten und Werte verwalten
+* Einstellungen (eManagement): Ergänzende Vereinbarungseigenschaften verwalten
+* Einstellungen (eManagement): Kann allgemeine Einstellungen anzeigen und bearbeiten
+* eManagement Plugin: Vereinbarungen suchen

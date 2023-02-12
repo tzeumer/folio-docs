@@ -11,10 +11,10 @@ Description: "
 
 Sobald nach einer Instanz, einem Bestand oder einem Exemplar gesucht wurde, erscheinen die folgenden Informationen in der Ansicht Katalog:
 
--   **Titel**. Titel der Instanz.
--   **Mitwirkende/-r**. Mitwirkende der Instanz.
--   **Verlage**. Verlag der Instanz.
--   **Beziehung**. Beziehung zu anderen Instanzen
+* **Titel**. Titel der Instanz.
+* **Mitwirkende/-r**. Mitwirkende der Instanz.
+* **Verlage**. Verlag der Instanz.
+* **Beziehung**. Beziehung zu anderen Instanzen
 
 In den Suchergebnissen auf ein beliebiges Ergebnis klicken, um den Instanzdatensatz anzuzeigen.
 

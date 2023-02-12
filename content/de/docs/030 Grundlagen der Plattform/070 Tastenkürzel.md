@@ -33,6 +33,6 @@ Mit Tastenkürzeln können Sie Aktionen über die Tastatur ausführen. Diese Tas
 
 Um die Liste der verfügbaren  Tastaturkürzel anzuzeigen, gehen Sie wie folgt vor:
 
--   Auf den Namen einer FOLIO App in der oberen Menüleiste klicken. Die App wird geöffnet und der Name der App wird oben links im Fenster angezeigt.
--   Auf die nach unten zeigende Klammer "v" am Ende des App-Namens klicken.
--   Auf " Tastaturkürzel" klicken, um die Liste der Kurzbefehle anzuzeigen
+* Auf den Namen einer FOLIO App in der oberen Menüleiste klicken. Die App wird geöffnet und der Name der App wird oben links im Fenster angezeigt.
+* Auf die nach unten zeigende Klammer "v" am Ende des App-Namens klicken.
+* Auf " Tastaturkürzel" klicken, um die Liste der Kurzbefehle anzuzeigen

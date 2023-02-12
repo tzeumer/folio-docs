@@ -13,8 +13,8 @@ Diese Einstellung verwenden, wenn die Bibliothek ein Single Sign-On (SSO) für M
 
 Hinweis: Die Aktivierung von Single Sign-On erfordert in der Regel eine Abstimmung mit dem IT-Personal und/oder dem Identity Provider.
 
--   **URL des Identity Providers**. Eine URL, unter der Metadaten über den Identitätsanbieter von FOLIO abgerufen werden können.
--   **Metadaten herunterladen**. Nachdem alle SSO-Einstellungen ausgewählt wurden, auf Metadaten herunterladen klicken, um eine XML-Datei herunterzuladen, die an den Identity Provider gesendet werden sollte. Diese Datei muss erneut heruntergeladen werden, wenn irgendwelche Änderungen an diesen Einstellungen vorgenommen werden.
--   **SAML-Binding**. Je nach Konfiguration Redirect-Binding wählen, um eine HTTP-Umleitung zur Anmeldeseite des Identity Providers zu verwenden, oder POST-Bindung, um ein HTTP-POST von der FOLIO-Anmeldeseite zu senden.
--   **SAML-Attribut**. Das Attribut beim Identity Provider, das die Person eindeutig identifiziert.
--   **Benutzereigenschaft**. Das Attribut in FOLIO, in dem das SAML-Attribut gefunden werden kann.
+* **URL des Identity Providers**. Eine URL, unter der Metadaten über den Identitätsanbieter von FOLIO abgerufen werden können.
+* **Metadaten herunterladen**. Nachdem alle SSO-Einstellungen ausgewählt wurden, auf Metadaten herunterladen klicken, um eine XML-Datei herunterzuladen, die an den Identity Provider gesendet werden sollte. Diese Datei muss erneut heruntergeladen werden, wenn irgendwelche Änderungen an diesen Einstellungen vorgenommen werden.
+* **SAML-Binding**. Je nach Konfiguration Redirect-Binding wählen, um eine HTTP-Umleitung zur Anmeldeseite des Identity Providers zu verwenden, oder POST-Bindung, um ein HTTP-POST von der FOLIO-Anmeldeseite zu senden.
+* **SAML-Attribut**. Das Attribut beim Identity Provider, das die Person eindeutig identifiziert.
+* **Benutzereigenschaft**. Das Attribut in FOLIO, in dem das SAML-Attribut gefunden werden kann.

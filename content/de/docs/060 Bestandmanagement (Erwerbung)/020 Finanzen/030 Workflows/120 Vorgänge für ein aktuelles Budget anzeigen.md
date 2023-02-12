@@ -11,8 +11,8 @@ Description: "
 
 Es gibt zwei Methoden, um eine Liste aller Vorgänge für ein Budget anzuzeigen:
 
--   Von einem Fonds aus: [Den Fonds suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), für den Vorgänge angezeigt werden sollen und ihn auswählen, um die Ansicht der Fondsdetails zu öffnen. Auf **Aktionen > Vorgänge für das aktuelle Budget anzeigen** klicken.
--   Von einem Budget aus: [Das Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), für das Vorgänge angezeigt werden sollen und es auswählen. Im Fenster **Budgetdetails** unter Vorgänge auf **Vorgänge anzeigen** klicken. Das Fenster Vorgänge öffnet sich und zeigt alle Vorgänge an.
+* Von einem Fonds aus: [Den Fonds suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), für den Vorgänge angezeigt werden sollen und ihn auswählen, um die Ansicht der Fondsdetails zu öffnen. Auf **Aktionen > Vorgänge für das aktuelle Budget anzeigen** klicken.
+* Von einem Budget aus: [Das Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), für das Vorgänge angezeigt werden sollen und es auswählen. Im Fenster **Budgetdetails** unter Vorgänge auf **Vorgänge anzeigen** klicken. Das Fenster Vorgänge öffnet sich und zeigt alle Vorgänge an.
 
 ## Budgetvorgänge suchen
 
@@ -25,22 +25,22 @@ Um nach Budgetvorgängen zu suchen, wie folgt vorgehen:
 
 Um Vorgänge nach Typ zu filtern, eine der folgenden Möglichkeiten wählen:
 
--   **Zuweisung**. Filtert Vorgänge nach der Art der Zuweisung.
--   **Gutschrift**. Filtert Vorgänge nach der Art des Kredits.
--   **Bindung**. Filtert Vorgänge nach der Art der Bindung.
--   **Zahlung**. Filtert Vorgänge nach der Art der Zahlung.
--   **Ausstehende Zahlung**. Filtern Sie Vorgänge nach der Art der ausstehenden Zahlung.
--   **Übertrag beim Jahresübergang**. Filtert Vorgänge nach der Art des Jahresübergangs.
--   **Transfer/Übertrag**. Filtert Vorgänge nach der Art des Transfers.
+* **Zuweisung**. Filtert Vorgänge nach der Art der Zuweisung.
+* **Gutschrift**. Filtert Vorgänge nach der Art des Kredits.
+* **Bindung**. Filtert Vorgänge nach der Art der Bindung.
+* **Zahlung**. Filtert Vorgänge nach der Art der Zahlung.
+* **Ausstehende Zahlung**. Filtern Sie Vorgänge nach der Art der ausstehenden Zahlung.
+* **Übertrag beim Jahresübergang**. Filtert Vorgänge nach der Art des Jahresübergangs.
+* **Transfer/Übertrag**. Filtert Vorgänge nach der Art des Transfers.
 
 ### Quelle
 
 Um Vorgänge nach Quelle zu filtern, eine der folgenden Möglichkeiten wählen:
 
--   **Haushaltsjahr**. Vorgänge, die während des Jahresübergangs des Haushaltsjahres generiert wurden. Zum Beispiel automatische Zuweisungen während des Jahresübergangs, wie in [Einstellungen für den Jahresübergan](https://info.gbv.de/pages/viewpage.action?pageId=850002063)g definiert.
--   **Rechnung**. Vorgänge, die durch die Rechnungsstellung generiert werden, insbesondere Vorgangsarten wie Gutschrift und Ausstehende Zahlung.
--   **Bestellposten**. Vorgänge, die aus einem Bestellposten generiert werden, insbesondere Bindungs-Vorgangsarten.
--   **Personen**. Vorgänge, die von einer Person über das Aktionsmenü des Fonds erstellt wurden, insbesondere die Transaktionsarten Zugewiesen und Transferieren.
+* **Haushaltsjahr**. Vorgänge, die während des Jahresübergangs des Haushaltsjahres generiert wurden. Zum Beispiel automatische Zuweisungen während des Jahresübergangs, wie in [Einstellungen für den Jahresübergan](https://info.gbv.de/pages/viewpage.action?pageId=850002063)g definiert.
+* **Rechnung**. Vorgänge, die durch die Rechnungsstellung generiert werden, insbesondere Vorgangsarten wie Gutschrift und Ausstehende Zahlung.
+* **Bestellposten**. Vorgänge, die aus einem Bestellposten generiert werden, insbesondere Bindungs-Vorgangsarten.
+* **Personen**. Vorgänge, die von einer Person über das Aktionsmenü des Fonds erstellt wurden, insbesondere die Transaktionsarten Zugewiesen und Transferieren.
 
 ### Bestellpostennummer der Quelle
 
@@ -72,13 +72,13 @@ Um Vorgänge nach Kostenart zu filtern, wie folgt vorgehen:
 
 Nach der Suche erscheinen die folgenden Spalten in der Tabelle der Suchergebnisse im Bereich Vorgänge. Auf den Spaltennamen klicken, um nach dieser Spalte zu sortieren.
 
--   **Vorgangsdatum**. Datum des Vorgangs.
--   **Typ**. Art des Vorgangs: Zuweisung, Gutschrift, Bindung, Zahlung, Ausstehende Zahlung oder Transfer.
--   **Betrag**. Betrag für die Transaktion. Negative Werte stehen in Klammern.
--   **Von**. Fondscode des Fonds, aus dem ein Transfer in den Haushalt vorgenommen wurde.
--   **Zu/auf**. Fondscode des Fonds, an den ein Transfer aus dem Haushalt vorgenommen wurde.
--   **Quelle**. Haushaltsjahr, Rechnung, Bestellposten oder Person.
--   **Tags**. Alle mit der Transaktion verbundenen Markierungen.
+* **Vorgangsdatum**. Datum des Vorgangs.
+* **Typ**. Art des Vorgangs: Zuweisung, Gutschrift, Bindung, Zahlung, Ausstehende Zahlung oder Transfer.
+* **Betrag**. Betrag für die Transaktion. Negative Werte stehen in Klammern.
+* **Von**. Fondscode des Fonds, aus dem ein Transfer in den Haushalt vorgenommen wurde.
+* **Zu/auf**. Fondscode des Fonds, an den ein Transfer aus dem Haushalt vorgenommen wurde.
+* **Quelle**. Haushaltsjahr, Rechnung, Bestellposten oder Person.
+* **Tags**. Alle mit der Transaktion verbundenen Markierungen.
 
 ## Budgetvorgänge anzeigen
 
@@ -86,45 +86,45 @@ Um zusätzliche Informationen zu einer Transaktion anzuzeigen, auf die Transakti
 
 ### Zuweisungsvorgänge anzeigen
 
--   **Datensatz zuletzt aktualisiert**. Datum und Uhrzeit, zu der der Datensatz zuletzt aktualisiert wurde. Auf **Datensatz zuletzt aktualisiert** klicken, um die nächsten drei Felder anzuzeigen.
-    -   **Quelle**. Name der Person, die den Datensatz zuletzt aktualisiert hat.
-    -   **Datensatz erstellt**. Datum und Uhrzeit, zu der der Datensatz erstellt wurde.
-    -   **Quelle**. Name der Person, die den Datensatz erstellt hat.
--   **Vorgangsdatum**. Datum des Vorgangs.
--   **Haushaltsjahr**. Das Haushaltsjahr für das Budget.
--   **Betrag**. Betrag der Transaktion. Negative Werte stehen in Klammern.
--   **Quelle**. Haushaltsjahr oder Person.
--   **Typ**. Art des Vorgangs: Zuweisung.
--   **Von**. Fondsname und Fondscode, aus dem die Zuweisung in dieses Budget erfolgt ist, falls zutreffend. Weitere Informationen sind unter [Folio: Budget Mittel zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Budget+Mittel+zuweisen) zu finden.
--   **Zu/auf**. Fondsname und Fondscode dieses Budgets, in das die Zuweisung erfolgt ist.
--   **Kostenart**. Dieses Feld bleibt bei Vorgängen für Zuweisungen leer, da Kostenarten für Zuweisungen vom System nicht unterstützt werden.
--   **Tags**. Alle mit dem Vorgang verbundenen Tags.
--   **Beschreibung**. Eine Beschreibung, die von der Person bei der Zuweisung von Mitteln zu einem Budget eingegeben wird.
+* **Datensatz zuletzt aktualisiert**. Datum und Uhrzeit, zu der der Datensatz zuletzt aktualisiert wurde. Auf **Datensatz zuletzt aktualisiert** klicken, um die nächsten drei Felder anzuzeigen.
+    * **Quelle**. Name der Person, die den Datensatz zuletzt aktualisiert hat.
+    * **Datensatz erstellt**. Datum und Uhrzeit, zu der der Datensatz erstellt wurde.
+    * **Quelle**. Name der Person, die den Datensatz erstellt hat.
+* **Vorgangsdatum**. Datum des Vorgangs.
+* **Haushaltsjahr**. Das Haushaltsjahr für das Budget.
+* **Betrag**. Betrag der Transaktion. Negative Werte stehen in Klammern.
+* **Quelle**. Haushaltsjahr oder Person.
+* **Typ**. Art des Vorgangs: Zuweisung.
+* **Von**. Fondsname und Fondscode, aus dem die Zuweisung in dieses Budget erfolgt ist, falls zutreffend. Weitere Informationen sind unter [Folio: Budget Mittel zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Budget+Mittel+zuweisen) zu finden.
+* **Zu/auf**. Fondsname und Fondscode dieses Budgets, in das die Zuweisung erfolgt ist.
+* **Kostenart**. Dieses Feld bleibt bei Vorgängen für Zuweisungen leer, da Kostenarten für Zuweisungen vom System nicht unterstützt werden.
+* **Tags**. Alle mit dem Vorgang verbundenen Tags.
+* **Beschreibung**. Eine Beschreibung, die von der Person bei der Zuweisung von Mitteln zu einem Budget eingegeben wird.
 
 ### Gutschriftvorgänge anzeigen
 
 Die Ansicht für Gutschriftenvorgänge enthält viele der gleichen Felder wie die Ansicht für die Zuweisung. Einige Felder werden bei Gutschriftenvorgängen anders ausgefüllt:
 
--   **Quelle**. Rechnungsnummer oder Kennung, die diesen Gutschriftenvorgang erzeugt hat. Auf die Rechnungskennung klicken, um die Rechnungsansicht der App Rechnungen für diese Rechnung zu öffnen.
--   **Typ**. Art des Vorgangs: Gutschrift.
--   **Von**. Dieses Feld ist bei Gutschriftenvorgängen leer.
--   **Zu/auf**. Fondsname und Fondscode dieses Budgets, auf das die Gutschrift erfolgt ist.
--   **Beschreibung**. Dieses Feld ist bei Gutschriftenvorgängen leer.
+* **Quelle**. Rechnungsnummer oder Kennung, die diesen Gutschriftenvorgang erzeugt hat. Auf die Rechnungskennung klicken, um die Rechnungsansicht der App Rechnungen für diese Rechnung zu öffnen.
+* **Typ**. Art des Vorgangs: Gutschrift.
+* **Von**. Dieses Feld ist bei Gutschriftenvorgängen leer.
+* **Zu/auf**. Fondsname und Fondscode dieses Budgets, auf das die Gutschrift erfolgt ist.
+* **Beschreibung**. Dieses Feld ist bei Gutschriftenvorgängen leer.
 
 ### Bindungsvorgänge anzeigen
 
 Wenn ein Auftrag geöffnet wird, der einen Bestellposten mit einer Fondsaufteilung enthält, wird ein Bindungsvorgang gegen das Budget des aktuellen Haushaltsjahres für den Fonds erstellt. Die Ansicht für Bindungsvorgänge enthält viele der gleichen Felder wie die Ansicht für Zuweisungen. Einige Felder werden für Bindungsvorgänge anders ausgefüllt:
 
--   **Quelle**. Die Nummer des Bestellpostens, der diesen Bindungsvorgang erzeugt hat. Auf die Bestellpostennummer klicken, um die Bestellpostenansicht der App Bestellungen für diese Bestellposition zu öffnen.
--   **Typ**. Art des Vorgangs: Bindung.
--   **Von**. Fondsname und -code für dieses Budget, auf das diese Bindung angewendet wurde.
--   **Zu/auf**. Dieses Feld ist bei Bindungsvorgängen leer.
--   **Kostenart**. Die diesem Bindungsvorgang zugewiesene Kostenart.
--   **Anfängliche Bindung**. Der Betrag, der anfänglich durch die zugehörige Bestellposition belastet wurde; der Schätzpreis.
--   **Zur Zahlung vorgesehen**. Der Betrag, der auf die Zahlung wartet.
--   **Ausgaben**. Der aufgewendete Betrag. Dieser Betrag wird ausgefüllt, nachdem eine Rechnung für den zugehörigen Bestellposten bezahlt wurde.
--   **Status**. Der Status dieser Bindung: Nicht freigegeben oder Freigegeben. Die Bindung kann manuell durch die Person oder automatisch durch das System nach Zahlung einer Rechnung freigegeben werden.
--   **Beschreibung**. Dieses Feld ist bei Bindungsvorgängen leer.
+* **Quelle**. Die Nummer des Bestellpostens, der diesen Bindungsvorgang erzeugt hat. Auf die Bestellpostennummer klicken, um die Bestellpostenansicht der App Bestellungen für diese Bestellposition zu öffnen.
+* **Typ**. Art des Vorgangs: Bindung.
+* **Von**. Fondsname und -code für dieses Budget, auf das diese Bindung angewendet wurde.
+* **Zu/auf**. Dieses Feld ist bei Bindungsvorgängen leer.
+* **Kostenart**. Die diesem Bindungsvorgang zugewiesene Kostenart.
+* **Anfängliche Bindung**. Der Betrag, der anfänglich durch die zugehörige Bestellposition belastet wurde; der Schätzpreis.
+* **Zur Zahlung vorgesehen**. Der Betrag, der auf die Zahlung wartet.
+* **Ausgaben**. Der aufgewendete Betrag. Dieser Betrag wird ausgefüllt, nachdem eine Rechnung für den zugehörigen Bestellposten bezahlt wurde.
+* **Status**. Der Status dieser Bindung: Nicht freigegeben oder Freigegeben. Die Bindung kann manuell durch die Person oder automatisch durch das System nach Zahlung einer Rechnung freigegeben werden.
+* **Beschreibung**. Dieses Feld ist bei Bindungsvorgängen leer.
 
 #### Bindungen manuelle freigeben
 
@@ -142,11 +142,11 @@ Um eine Bindung freizugeben, folgendermaßen vorgehen:
 
 Wenn eine Rechnung bezahlt wird, wird der Wert des bestehenden Datensatzes **Ausstehende Zahlung** vom Typ Ausstehende Zahlung auf den Typ **Zahlung** aktualisiert. Die Ansicht für die Zahlungsvorgänge enthält viele der gleichen Felder wie die Ansicht für die Zuweisungen. Einige Felder werden bei Zahlungsvorgängen anders ausgefüllt:
 
--   **Quelle**. Rechnungsnummer oder Kennung, die diesen Gutschriftenvorgang erzeugt hat. Auf die Rechnungskennung klicken, um die Rechnungsdetailsansicht der App Rechnungen für diese Rechnung zu öffnen.
--   **Typ**. Art des Vorgangs: Zahlung.
--   **Von**. Fondsname und -code für das Budget, dem diese Zahlung zugewiesen wurde.
--   **Zu/auf**. Bei Zahlungsvorgängen bleibt dieses Feld leer.
--   **Beschreibung**. Dieses Feld ist bei Zahlungsvorgängen leer.
+* **Quelle**. Rechnungsnummer oder Kennung, die diesen Gutschriftenvorgang erzeugt hat. Auf die Rechnungskennung klicken, um die Rechnungsdetailsansicht der App Rechnungen für diese Rechnung zu öffnen.
+* **Typ**. Art des Vorgangs: Zahlung.
+* **Von**. Fondsname und -code für das Budget, dem diese Zahlung zugewiesen wurde.
+* **Zu/auf**. Bei Zahlungsvorgängen bleibt dieses Feld leer.
+* **Beschreibung**. Dieses Feld ist bei Zahlungsvorgängen leer.
 
 ### Ausstehende Zahlung - Vorgänge anzeigen
 
@@ -160,8 +160,8 @@ Der Prozess des Jahresübergangs erstellt Transfervorgänge, wenn die [Einstell
 
 Wenn Mittel zwischen zwei Fonds transferiert werden, wird eine Transfervorgang erstellt. Die Ansicht für die Transfers enthält viele der gleichen Felder wie die Ansicht für die Zuweisung. Einige Felder werden bei Transfer Vorgängen anders ausgefüllt:
 
--   **Quelle**. Bei Transfervorgängen auf Person eingestellt.
--   **Typ**. Art des Vorgangs: Transfer.
--   **Von**. Fondsname und Fondscode, aus dem der Transfer in dieses Budget erfolgt ist.
--   **Auf/zu**. Fondsname und Fondscode dieses Budgets, in das die Zuweisung erfolgt ist.
--   **Beschreibung**. Eine Beschreibung, die von der Person während des Transfers hinzugefügt wurde.
+* **Quelle**. Bei Transfervorgängen auf Person eingestellt.
+* **Typ**. Art des Vorgangs: Transfer.
+* **Von**. Fondsname und Fondscode, aus dem der Transfer in dieses Budget erfolgt ist.
+* **Auf/zu**. Fondsname und Fondscode dieses Budgets, in das die Zuweisung erfolgt ist.
+* **Beschreibung**. Eine Beschreibung, die von der Person während des Transfers hinzugefügt wurde.

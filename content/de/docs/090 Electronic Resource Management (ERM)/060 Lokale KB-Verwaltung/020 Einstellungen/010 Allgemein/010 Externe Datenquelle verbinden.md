@@ -18,16 +18,16 @@ Die App Lokale KB-Verwaltung bietet die Möglichkeit, externe Datenquellen zu ko
 
 ## Felder
 
--   **Name**. Der Name der externen Quelle, wie er in eManagement > E-Ressourcen (Registerkarte) > Filter Externe Datenquelle angezeigt wird.
--   **Typ**. Der Adaptertyp, z.B. für die Verbindung mit GOKb
+* **Name**. Der Name der externen Quelle, wie er in eManagement > E-Ressourcen (Registerkarte) > Filter Externe Datenquelle angezeigt wird.
+* **Typ**. Der Adaptertyp, z.B. für die Verbindung mit GOKb
     `org.olf.kb.adapters.GOKbOAIAdapter`
--   **Datensatz-Typ**. Der Datensatztyp, der zum Starten des Abrufvorgangs verwendet wird. Wenn er auf Paket gesetzt ist, holt der Harvester alle Pakete und die in diesen Paketen enthaltenen Titel ab.
--   **URI**. URL, die auf den OAI-Zugang verweist.
--   **Vertrauenswürdig für Titelinstanz-Metadaten**. Wenn diese Checkbox aktiviert ist, überschreiben die Daten im OAI-Stream alle vorhandenen Titeldaten, die während des Importvorgangs abgeglichen werden. Auf diese Weise kann z.B. den Namen einer E-Ressource aktualisiert werden, die bereits in der lokalen KB vorhanden ist. Wenn die Checkbox nicht aktiviert ist, werden die Daten im OAI-Stream keine vorhandenen Titeldaten überschreiben.
--   **Ist aktiv**. Wenn diese Checkbox aktiviert ist, wird die Datenquelle in das Harvesting einbezogen.
--   **Unterstützt das Harvesting**. (Derzeit nicht funktionsfähig). Zeigt an, ob die Datenquelle das Harvesting von Daten unterstützt
--   **Aktivierung eingeschaltet**. (Derzeit nicht funktionsfähig). Zeigt an, ob die Datenquelle Aktivierungs-/Auswahlinformationen für Ressourcen unterstützt.
--   **Listprefix**. Für Datenquellen, die mit dem OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) gesammelt wurden, kann hier das Metadatenpräfix für die ListRecords-Methode angegeben werden. Dies kann je nach dem für die Quelle angegebenen Adaptertyp erforderlich sein
--   **Fullprefix**. Für Datenquellen, die mit dem OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) gesammelt wurden, kann dies verwendet werden, um das Metadatenpräfix für die Fullprefix-Methode anzugeben. Dies kann je nach dem für die Quelle angegebenen Adaptertyp erforderlich sein
--   **Kundenkennung**: Die Konto-ID für die externe KB.
--   **Credentials**: Der API-Schlüssel für die externe KB.
+* **Datensatz-Typ**. Der Datensatztyp, der zum Starten des Abrufvorgangs verwendet wird. Wenn er auf Paket gesetzt ist, holt der Harvester alle Pakete und die in diesen Paketen enthaltenen Titel ab.
+* **URI**. URL, die auf den OAI-Zugang verweist.
+* **Vertrauenswürdig für Titelinstanz-Metadaten**. Wenn diese Checkbox aktiviert ist, überschreiben die Daten im OAI-Stream alle vorhandenen Titeldaten, die während des Importvorgangs abgeglichen werden. Auf diese Weise kann z.B. den Namen einer E-Ressource aktualisiert werden, die bereits in der lokalen KB vorhanden ist. Wenn die Checkbox nicht aktiviert ist, werden die Daten im OAI-Stream keine vorhandenen Titeldaten überschreiben.
+* **Ist aktiv**. Wenn diese Checkbox aktiviert ist, wird die Datenquelle in das Harvesting einbezogen.
+* **Unterstützt das Harvesting**. (Derzeit nicht funktionsfähig). Zeigt an, ob die Datenquelle das Harvesting von Daten unterstützt
+* **Aktivierung eingeschaltet**. (Derzeit nicht funktionsfähig). Zeigt an, ob die Datenquelle Aktivierungs-/Auswahlinformationen für Ressourcen unterstützt.
+* **Listprefix**. Für Datenquellen, die mit dem OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) gesammelt wurden, kann hier das Metadatenpräfix für die ListRecords-Methode angegeben werden. Dies kann je nach dem für die Quelle angegebenen Adaptertyp erforderlich sein
+* **Fullprefix**. Für Datenquellen, die mit dem OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) gesammelt wurden, kann dies verwendet werden, um das Metadatenpräfix für die Fullprefix-Methode anzugeben. Dies kann je nach dem für die Quelle angegebenen Adaptertyp erforderlich sein
+* **Kundenkennung**: Die Konto-ID für die externe KB.
+* **Credentials**: Der API-Schlüssel für die externe KB.

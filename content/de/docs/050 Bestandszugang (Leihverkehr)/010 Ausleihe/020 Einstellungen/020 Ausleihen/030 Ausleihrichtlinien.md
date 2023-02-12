@@ -35,8 +35,8 @@ Nachdem die Ausleihrichtlinien erstellt wurden, sollten sie getestet werden, um 
 
 **Ausleihprofil**. Die Art des Ausleihprofils wählen. Je nach Auswahl werden unterschiedliche Felder angezeigt.
 
--   **Festgelegt** wählen, wenn Exemplare, die während eines bestimmten Zeitraums ausgeliehen werden, ein festes Enddatum haben sollen. Dies ist zum Beispiel für Exemplare zu verwenden, die bis zum Ende des Semesters ausgeliehen werden.
--   **Rollend** wählen, wenn die Ausleihe für einen bestimmten Zeitraum erfolgt, einschließlich Kurzausleihen. Diese Option z. B. für Exemplare verwenden, die für 28 Tage ausgeliehen werden.
+* **Festgelegt** wählen, wenn Exemplare, die während eines bestimmten Zeitraums ausgeliehen werden, ein festes Enddatum haben sollen. Dies ist zum Beispiel für Exemplare zu verwenden, die bis zum Ende des Semesters ausgeliehen werden.
+* **Rollend** wählen, wenn die Ausleihe für einen bestimmten Zeitraum erfolgt, einschließlich Kurzausleihen. Diese Option z. B. für Exemplare verwenden, die für 28 Tage ausgeliehen werden.
 
 Je nachdem, welches Ausleihprofil gewählt wurde, werden unterschiedliche Felder angezeigt.
 
@@ -46,8 +46,8 @@ Wurde **Festgelegt** gewählt, werden die folgenden Felder angezeigt:
 
 **Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten**. Legt fest, wann das Exemplar fällig ist, wenn das berechnete Fälligkeitsdatum eines Exemplars in die Schließungszeit der Servicestelle fällt.
 
--   Wenn das Ausleihintervall eines Exemplars in Minuten oder Stunden angegeben ist, richtet sich das Fälligkeitsdatum nach der in der Ausleihrichtlinie angegebenen Auswahl.
--   Wenn das Ausleihintervall eines Exemplars in Tagen, Wochen oder Monaten angegeben ist, richtet sich das Fälligkeitsdatum nur dann nach der Ausleihrichtlinie, wenn die Servicestelle an dem Tag, an dem das Exemplar fällig wäre, vollständig geschlossen ist. Bei der Erstellung der Ausleihe prüft FOLIO den [Kalender](https://info.gbv.de/pages/viewpage.action?pageId=844890129) der Servicestelle; ist die Servicestelle an dem Tag, an dem das Exemplar fällig ist, zu einem beliebigen Zeitpunkt geöffnet, setzt FOLIO den Fälligkeitszeitpunkt auf 23:59 Uhr an diesem Tag.
+* Wenn das Ausleihintervall eines Exemplars in Minuten oder Stunden angegeben ist, richtet sich das Fälligkeitsdatum nach der in der Ausleihrichtlinie angegebenen Auswahl.
+* Wenn das Ausleihintervall eines Exemplars in Tagen, Wochen oder Monaten angegeben ist, richtet sich das Fälligkeitsdatum nur dann nach der Ausleihrichtlinie, wenn die Servicestelle an dem Tag, an dem das Exemplar fällig wäre, vollständig geschlossen ist. Bei der Erstellung der Ausleihe prüft FOLIO den [Kalender](https://info.gbv.de/pages/viewpage.action?pageId=844890129) der Servicestelle; ist die Servicestelle an dem Tag, an dem das Exemplar fällig ist, zu einem beliebigen Zeitpunkt geöffnet, setzt FOLIO den Fälligkeitszeitpunkt auf 23:59 Uhr an diesem Tag.
 
 Kulanzfrist. Eine Schonfrist für überfällige Exemplare eingeben. Wenn eine Kulanzfrist gewählt wird, ist das Exemplar erst nach dem Fälligkeitsdatum/der Fälligkeitszeit der Ausleihe plus der Kulanzfrist überfällig. Wenn die Kulanzfrist abläuft und das Exemplar nicht zurückgegeben wurde, wird die Kulanzfrist bei der Berechnung einer Forderung für überfälligen oder verlorenen Exemplare berücksichtigt. Das Hinzufügen einer Kulanzfrist zu einem Fälligkeitsdatum folgt der gleichen Logik, die für die Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten gewählt ist, wenn die Kulanzfrist in eine Schließzeit der Servicestelle fällt.
 
@@ -61,8 +61,8 @@ Wurde **Rollend** ausgewählt, werden die folgenden Felder angezeigt:
 
 **Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten**. Legt fest, wann das Exemplar fällig ist, wenn das berechnete Fälligkeitsdatum eines Exemplars in die Schließungszeit der Servicestelle fällt.
 
--   Wenn das Ausleihintervall eines Exemplars in Minuten oder Stunden angegeben ist, richtet sich das Fälligkeitsdatum nach der in der Ausleihrichtlinie angegebenen Auswahl.
--   Wenn das Ausleihintervall eines Exemplars in Tagen, Wochen oder Monaten angegeben ist, richtet sich das Fälligkeitsdatum nur dann nach der Ausleihrichtlinie, wenn die Servicestelle an dem Tag, an dem das Exemplar fällig wäre, vollständig geschlossen ist. Bei der Erstellung der Ausleihe prüft FOLIO den Kalender der Servicestelle; ist die Servicestelle an dem Tag, an dem das Exemplar fällig ist, zu einem beliebigen Zeitpunkt geöffnet, setzt FOLIO den Fälligkeitszeitpunkt auf 23:59 Uhr an diesem Tag.
+* Wenn das Ausleihintervall eines Exemplars in Minuten oder Stunden angegeben ist, richtet sich das Fälligkeitsdatum nach der in der Ausleihrichtlinie angegebenen Auswahl.
+* Wenn das Ausleihintervall eines Exemplars in Tagen, Wochen oder Monaten angegeben ist, richtet sich das Fälligkeitsdatum nur dann nach der Ausleihrichtlinie, wenn die Servicestelle an dem Tag, an dem das Exemplar fällig wäre, vollständig geschlossen ist. Bei der Erstellung der Ausleihe prüft FOLIO den Kalender der Servicestelle; ist die Servicestelle an dem Tag, an dem das Exemplar fällig ist, zu einem beliebigen Zeitpunkt geöffnet, setzt FOLIO den Fälligkeitszeitpunkt auf 23:59 Uhr an diesem Tag.
 **Kulanzfrist**. Eine Kulanzfrist für überfällige Exemplare eingeben. Wird sich für eine Kulanzfrist entschieden, ist das Exemplar erst nach dem Fälligkeitsdatum/der Fälligkeitszeit der Ausleihe plus dem Zeitraum der Kulanzfrist überfällig. Wenn die Kulanzfrist abläuft und das Exemplar nicht zurückgegeben wurde, wird die Kulanzfrist bei der Berechnung einer überfälligen oder verlorenen Forderung berücksichtigt. Das Hinzufügen einer Kulanzfrist zu einem Fälligkeitsdatum folgt der gleichen Logik, die für die Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten gewählt wurde, wenn die Kulanzfrist in eine Schließzeit der Servicestelle fällt
 
 **Exemplarlimit**. Ein Limit für Exemplare eingeben, die im Rahmen dieser Richtlinie ausgeliehen werden.

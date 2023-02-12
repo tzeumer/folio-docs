@@ -30,10 +30,10 @@ Die Suchleiste verwenden, um nach Jobprofilen in der Tabelle Jobprofile zu suche
 
 Die Tabelle Jobprofile enthält die folgenden Spalten:
 
--   **Name**. Name des Jobprofils.
--   **Tags**. Alle dem Jobprofil zugewiesenen Tags
--   **Aktualisiert**. Datum, an dem das Jobprofil zuletzt aktualisiert wurde.
--   **Aktualisiert von**. Person, die das Jobprofil zuletzt aktualisiert hat.
+* **Name**. Name des Jobprofils.
+* **Tags**. Alle dem Jobprofil zugewiesenen Tags
+* **Aktualisiert**. Datum, an dem das Jobprofil zuletzt aktualisiert wurde.
+* **Aktualisiert von**. Person, die das Jobprofil zuletzt aktualisiert hat.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -41,33 +41,33 @@ Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte
 
 Um die Details eines Jobprofils anzuzeigen, folgendermaßen vorgehen:
 
--   In der Ansicht **Jobprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Jobprofil** wird angezeigt.
+* In der Ansicht **Jobprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Jobprofil** wird angezeigt.
 
 ## Jobprofil für Importjob bearbeiten
 
--   In der Ansicht **Jobprofile** das Profil suchen, das bearbeitet werden soll und es auswählen.
--   In der Ansicht **Details zum Jobprofil** auf **Aktionen > Bearbeiten** klicken.
--   die gewünschten Änderungen an dem Jobprofil vornehmen.
--   Auf **Als Profil speichern & schließen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Jobprofil wird aktualisiert.
+* In der Ansicht **Jobprofile** das Profil suchen, das bearbeitet werden soll und es auswählen.
+* In der Ansicht **Details zum Jobprofil** auf **Aktionen > Bearbeiten** klicken.
+* die gewünschten Änderungen an dem Jobprofil vornehmen.
+* Auf **Als Profil speichern & schließen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Jobprofil wird aktualisiert.
 
 ## Jobprofil für Importjob duplizieren
 
--   In der Ansicht **Jobprofile** das Profil suchen, das dupliziert werden soll und es auswählen.
--   In der Ansicht **Details zum Jobprofil** auf **Aktionen > Duplizieren** klicken.
--   Im Fenster **Neues Jobprofil** die gewünschten Änderungen vornehmen.
--   Auf **Als Profil speichern & schließen** klicken. Es wird eine Bestätigungsmeldung angezeigt und das doppelte Jobprofil wird erstellt.
+* In der Ansicht **Jobprofile** das Profil suchen, das dupliziert werden soll und es auswählen.
+* In der Ansicht **Details zum Jobprofil** auf **Aktionen > Duplizieren** klicken.
+* Im Fenster **Neues Jobprofil** die gewünschten Änderungen vornehmen.
+* Auf **Als Profil speichern & schließen** klicken. Es wird eine Bestätigungsmeldung angezeigt und das doppelte Jobprofil wird erstellt.
 
 ## Jobprofil für Importjob löschen
 
--   In der Ansicht **Jobprofile** das Profil suchen, das gelöscht werden soll und es auswählen.
--   In der Ansicht **Details zum Jobprofil** auf **Aktionen > Löschen** klicken.
--   Im Dialog **Jobprofil löschen** auf **Löschen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Jobprofil wird gelöscht.
+* In der Ansicht **Jobprofile** das Profil suchen, das gelöscht werden soll und es auswählen.
+* In der Ansicht **Details zum Jobprofil** auf **Aktionen > Löschen** klicken.
+* Im Dialog **Jobprofil löschen** auf **Löschen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Jobprofil wird gelöscht.
 
 ## Jobprofil für Importjob mit Tag versehen
 
--   In der Ansicht **Jobprofile** das Profil suchen, das getaggt werden soll und es auswählen.
--   In der Ansicht **Details zum Jobprofil** auf **Tags** klicken.
--   Im Feld **Tags** entweder ein Tag auswählen oder ein Tag eingeben. Das Tag wird automatisch für das Profil angewendet.
+* In der Ansicht **Jobprofile** das Profil suchen, das getaggt werden soll und es auswählen.
+* In der Ansicht **Details zum Jobprofil** auf **Tags** klicken.
+* Im Feld **Tags** entweder ein Tag auswählen oder ein Tag eingeben. Das Tag wird automatisch für das Profil angewendet.
 
 ## Jobprofil für Importjob exportieren
 

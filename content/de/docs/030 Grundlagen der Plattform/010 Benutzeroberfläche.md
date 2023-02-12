@@ -16,9 +16,9 @@ Description: "
 
 ## Akkordeons
 
--   das erste Akkordeon ist immer ausgeklappt, alle weiteren zunächst zugeklappt
--   alle können aufgeklappt werden,
--   rechts ist zu sehen wie viele Daten in den Akkordeons hinterlegt sind, z.B. Anzahl der Ausleihen
+* das erste Akkordeon ist immer ausgeklappt, alle weiteren zunächst zugeklappt
+* alle können aufgeklappt werden,
+* rechts ist zu sehen wie viele Daten in den Akkordeons hinterlegt sind, z.B. Anzahl der Ausleihen
 
 ![](/img/de/010%20Benutzeroberfläche/010%20Benutzeroberfläche_2023-02-05-15-30-36.png)
 

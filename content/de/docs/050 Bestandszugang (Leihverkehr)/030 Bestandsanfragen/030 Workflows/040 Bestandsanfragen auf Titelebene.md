@@ -81,8 +81,8 @@ Um eine Bestandsanfrage-Warteliste aus dem Datensatz einer Bestandsanfrage anzuz
 
 **Bereitstellung läuft** zeigt Anfragen an, die in Bearbeitung sind und denen ein Exemplar zugeordnet ist. Zu diesen Bestandsanfragen gehören:
 
--   Bestandsanfragen, unabhängig vom Status der Anfrage. Das bedeutet, dass in diesem Abschnitt Bestandsanfragen mit dem Status **Offen - Noch nicht erfüllt** zu sehen sind.
--   Bestandsanfragen, die **Offen - Im Abholregal** sind
+* Bestandsanfragen, unabhängig vom Status der Anfrage. Das bedeutet, dass in diesem Abschnitt Bestandsanfragen mit dem Status **Offen - Noch nicht erfüllt** zu sehen sind.
+* Bestandsanfragen, die **Offen - Im Abholregal** sind
     Bestandsanfragen, die **Offen - Warten auf Lieferung** sind
     Bestandsanfragen, die **Offen - In Transport** sind
 
@@ -90,7 +90,7 @@ Um eine Bestandsanfrage-Warteliste aus dem Datensatz einer Bestandsanfrage anzuz
 
 In diesem Bereich kann die Spalte **Exemplarbarcode** Informationen enthalten oder auch leer sein.
 
--   Bestandsanfrage auf Exemplarebene - der Barcode des angeforderten Exemplars ist zu sehen.
--   Rückruf auf Titelebene - der Barcode des Exemplars, das zurückgerufen wurde, ist zu sehen. Bitte beachten, dass, wenn das Exemplar zurückgegeben wird und es eine Anfrage erfüllen könnte, die weiter oben in der Warteliste steht, diese Anfrage erfüllt wird, nicht die Anfrage, die den Rückruf ausgelöst hat.
--   Bestandsanfrage auf Titelebene - die Spalte **Exemplarbarcode** ist leer.
+* Bestandsanfrage auf Exemplarebene - der Barcode des angeforderten Exemplars ist zu sehen.
+* Rückruf auf Titelebene - der Barcode des Exemplars, das zurückgerufen wurde, ist zu sehen. Bitte beachten, dass, wenn das Exemplar zurückgegeben wird und es eine Anfrage erfüllen könnte, die weiter oben in der Warteliste steht, diese Anfrage erfüllt wird, nicht die Anfrage, die den Rückruf ausgelöst hat.
+* Bestandsanfrage auf Titelebene - die Spalte **Exemplarbarcode** ist leer.
 

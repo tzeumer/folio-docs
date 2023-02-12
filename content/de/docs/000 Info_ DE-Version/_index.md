@@ -28,7 +28,7 @@ Description: "
 ### Todo
 Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Verbesserungen zu bedenken sind, sind hier notiert.
 
-* Replace "-   " mit "* "
+* Replace "* " mit "* "
 * Dateinamen nochmal überlegen
   * Interne Links (info.gbv.de) anpassen
 * Bilder aus _moved_from_wrong_pasting nochmal schön einordnen ggf.
@@ -56,7 +56,6 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 ### Todo
 The first run aims at completeness. Some things to consider for future improvements are noted here.
 
-* Replace "- " with "* "
 * Reconsider file names
   * Adapt internal links (info.gbv.de)
 * Arrange pictures from _moved_from_wrong_pasting again nicely if necessary.
@@ -64,3 +63,6 @@ The first run aims at completeness. Some things to consider for future improveme
 * Remove `date: 2023-02-01T00:00:00-00:00` if necessary? Autogenerate from Git(hub) as in layouts\partials\page-meta-lastmod.html ??
 * C:\ProgramsPortable\__NoSync\Seafile\Filesafe\Programs\UniServerZ\www\_gitRep\tub_dd\folio\folio-docs\docs.folio.org_en-branched\content\de\docs\110 Dashboard\030 Workflows\080 TUB HH [Dashboard] - Create Widgets (Quick Start Guide).md 
   * Images
+
+### Done
+* Replace "-   " with "* "

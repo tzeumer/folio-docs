@@ -35,16 +35,16 @@ Weitere Informationen unter [Schnittstellen](https://info.gbv.de/display/FOLIOG
 
 Die Informationen, die unter Lieferanteninformationen eingegeben werden, legen einige der Standardwerte fest, die angezeigt werden, wenn der Lieferanten für eine Bestellung oder Rechnung verwendet wird.
 
--   **Zahlungsart**. Die Zahlungsart, die als Standardzahlungsart für den Lieferanten auf einer Rechnung angegeben werden soll. Weitere Informationen sind unter Rechnungen > Erweiterte Informationen zu finden.
--   **Währungen**. Die von dem Lieferanten akzeptierten Währungen.
--   **Erwartetes Aktivierungsintervall**. Der Standard-Aktivierungszeitraum für den Lieferanten, in Tagen. Hinweis: Das Intervall, das hier eingegeben wird, wird im Feld Aktivierungsfrist im Abschnitt E-Ressourcen-Details einer mit dem Lieferanten verbundenen Bestellzeile verwendet. Wenn das Intervall z.B. auf 365 eingestellt wird, wird das Feld Fälligkeit der Aktivierung mit dem Datum gefüllt, das ein Jahr nach dem Erstellungsdatum der Bestellzeile liegt.
--   **Erwartetes Rechnungsintervall**. Das Standard-Rechnungsintervall für den Lieferanten, in Tagen. Derzeit wird diese Information nicht auf Rechnungen angezeigt.
--   **Forderungsintervall**. Das Standard-Forderungsintervall für den Lieferanten, in Tagen.
--   **Erwartetes Eingangsintervall**. Der Standardzeitraum, in dem bestellte Exemplare vom Lieferanten eingehen, in Tagen.
--   **Rabatt in Prozent**. Der mit dem Lieferanten ausgehandelte Rabatt als Prozentwert. Wenn eine Bestellzeile für eine Bestellung beim Lieferanten erstellt wird, wird dieser Wert als Standardwert im Feld Rabatt angezeigt.
--   **Aktivierungsintervall für Verlängerung**. Das Standardintervall für die Aktivierung der Erneuerung für diesen Lieferanten in Tagen.
--   **Abonnementintervall**. Der Standard-Abonnementzeitraum für den Lieferanten in Tagen.
--   **An Haushaltssystem exportieren**. Um anzugeben, dass Rechnungen für den Lieferanten Belegsätze für den Export in ein externes Buchhaltungssystem erstellen sollen, die Checkbox An Haushaltssystem exportieren markieren. Beim Erstellen einer Rechnung für den Lieferanten legt der Wert im Datensatz Organisation den Standardwert für das Feld Export in die Buchhaltung fest.
+* **Zahlungsart**. Die Zahlungsart, die als Standardzahlungsart für den Lieferanten auf einer Rechnung angegeben werden soll. Weitere Informationen sind unter Rechnungen > Erweiterte Informationen zu finden.
+* **Währungen**. Die von dem Lieferanten akzeptierten Währungen.
+* **Erwartetes Aktivierungsintervall**. Der Standard-Aktivierungszeitraum für den Lieferanten, in Tagen. Hinweis: Das Intervall, das hier eingegeben wird, wird im Feld Aktivierungsfrist im Abschnitt E-Ressourcen-Details einer mit dem Lieferanten verbundenen Bestellzeile verwendet. Wenn das Intervall z.B. auf 365 eingestellt wird, wird das Feld Fälligkeit der Aktivierung mit dem Datum gefüllt, das ein Jahr nach dem Erstellungsdatum der Bestellzeile liegt.
+* **Erwartetes Rechnungsintervall**. Das Standard-Rechnungsintervall für den Lieferanten, in Tagen. Derzeit wird diese Information nicht auf Rechnungen angezeigt.
+* **Forderungsintervall**. Das Standard-Forderungsintervall für den Lieferanten, in Tagen.
+* **Erwartetes Eingangsintervall**. Der Standardzeitraum, in dem bestellte Exemplare vom Lieferanten eingehen, in Tagen.
+* **Rabatt in Prozent**. Der mit dem Lieferanten ausgehandelte Rabatt als Prozentwert. Wenn eine Bestellzeile für eine Bestellung beim Lieferanten erstellt wird, wird dieser Wert als Standardwert im Feld Rabatt angezeigt.
+* **Aktivierungsintervall für Verlängerung**. Das Standardintervall für die Aktivierung der Erneuerung für diesen Lieferanten in Tagen.
+* **Abonnementintervall**. Der Standard-Abonnementzeitraum für den Lieferanten in Tagen.
+* **An Haushaltssystem exportieren**. Um anzugeben, dass Rechnungen für den Lieferanten Belegsätze für den Export in ein externes Buchhaltungssystem erstellen sollen, die Checkbox An Haushaltssystem exportieren markieren. Beim Erstellen einer Rechnung für den Lieferanten legt der Wert im Datensatz Organisation den Standardwert für das Feld Export in die Buchhaltung fest.
 
 ## Steuer
 

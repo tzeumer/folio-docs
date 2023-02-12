@@ -10,9 +10,9 @@ Description: "
 ---
 
 {{% pageinfo %}}
--   Aus Lokalise übernommen (Tobias; Stand 12.01.2023); [https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/](https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/)
--   Gelegentlich zu aktualisieren. Kann bei Übersetzungsmänglen in der Doku hilfreich sein.
--   Es könnte auch eine Spalte "früher" ergänzt werden, um obsolete Begriffe noch referenziert zu haben.
+* Aus Lokalise übernommen (Tobias; Stand 12.01.2023); [https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/](https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/)
+* Gelegentlich zu aktualisieren. Kann bei Übersetzungsmänglen in der Doku hilfreich sein.
+* Es könnte auch eine Spalte "früher" ergänzt werden, um obsolete Begriffe noch referenziert zu haben.
 {{% /pageinfo %}}
 
 |Englisch|Deutsch|Tags|Bemerkung Deutsch|Beschreibung/Eingrenzung|

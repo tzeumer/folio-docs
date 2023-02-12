@@ -13,7 +13,7 @@ Diese Einstellung legt fest, wie die Ressourcen, die bestellt werden, mit der Ap
 
 Es gibt vier Standardinteraktionen, die ausgewählt werden können:
 
--   **Instanz, Bestand, Exemplar**. Sobald die Bestellung geöffnet wird, werden eine Instanz, ein Bestand und ein Exemplar in der App Im Katalog erstellt oder ermittelt.
--   **Instanz**. Sobald die Bestellung geöffnet wird, wird eine Instanz in der App Katalog ermittelt oder erstellt.
--   **Instanz, Bestand**. Sobald die Bestellung geöffnet wird, werden eine Instanz und ein Bestand in der App Katalog ermittelt oder erstellt.
--   **Nichts**. In der App Katalog wird nichts gesucht oder erstellt.
+* **Instanz, Bestand, Exemplar**. Sobald die Bestellung geöffnet wird, werden eine Instanz, ein Bestand und ein Exemplar in der App Im Katalog erstellt oder ermittelt.
+* **Instanz**. Sobald die Bestellung geöffnet wird, wird eine Instanz in der App Katalog ermittelt oder erstellt.
+* **Instanz, Bestand**. Sobald die Bestellung geöffnet wird, werden eine Instanz und ein Bestand in der App Katalog ermittelt oder erstellt.
+* **Nichts**. In der App Katalog wird nichts gesucht oder erstellt.

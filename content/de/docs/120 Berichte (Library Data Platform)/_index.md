@@ -21,11 +21,11 @@ Der grundlegende Datenfluss von FOLIO zur LDP wird in der folgenden Abbildung be
 
 ## Features der LDP
 
--   Open-Source-Software und Erstellung von Abfragen
--   Basiert auf vertrauenswürdigen Datenbankplattformen
--   Möglichkeit, benutzerdefinierte Tabellen zu erstellen, um Nicht-FOLIO-Daten zu importieren
--   Verfolgung der Historie von FOLIO-Datensätzen
--   Möglichkeit der Anbindung von einer Vielzahl von Berichtsanwendungen
--   Möglichkeit, App-übergreifende FOLIO-Abfragen durchzuführen
--   Möglichkeit zur Abfrage von FOLIO-Daten ohne Beeinträchtigung der Leistung der Produktionsanwendung
--   Möglichkeit zur Abfrage eines vereinfachten FOLIO-Datenmodells durch die Verwendung abgeleiteter Tabellen
+* Open-Source-Software und Erstellung von Abfragen
+* Basiert auf vertrauenswürdigen Datenbankplattformen
+* Möglichkeit, benutzerdefinierte Tabellen zu erstellen, um Nicht-FOLIO-Daten zu importieren
+* Verfolgung der Historie von FOLIO-Datensätzen
+* Möglichkeit der Anbindung von einer Vielzahl von Berichtsanwendungen
+* Möglichkeit, App-übergreifende FOLIO-Abfragen durchzuführen
+* Möglichkeit zur Abfrage von FOLIO-Daten ohne Beeinträchtigung der Leistung der Produktionsanwendung
+* Möglichkeit zur Abfrage eines vereinfachten FOLIO-Datenmodells durch die Verwendung abgeleiteter Tabellen

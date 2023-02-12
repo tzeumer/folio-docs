@@ -25,14 +25,14 @@ Sobald die CSV-Datei hochgeladen ist, wird die Anzahl der übereinstimmenden Dat
 
 Die folgenden Informationen werden in der Ansicht Vorschau der übereinstimmenden Datensätze angezeigt:
 
--   **Status**. Der Status der Person.
--   **Nachname**. Der Nachname der Person.
--   **Vorname**. Der Vorname der Person.
--   **Barcode**. Der Barcode aus dem Personendatensatz.
--   **Personengruppe**. Die Personengruppe, zu der die Person gehört.
--   **Kennung**. Die Kennung der Person.
--   **E-Mail**. Die E-Mail Adresse der Person.
--   **Ablaufdatum**. Das Ablaufdatum des Personendatensatzes.
+* **Status**. Der Status der Person.
+* **Nachname**. Der Nachname der Person.
+* **Vorname**. Der Vorname der Person.
+* **Barcode**. Der Barcode aus dem Personendatensatz.
+* **Personengruppe**. Die Personengruppe, zu der die Person gehört.
+* **Kennung**. Die Kennung der Person.
+* **E-Mail**. Die E-Mail Adresse der Person.
+* **Ablaufdatum**. Das Ablaufdatum des Personendatensatzes.
 
 Wenn eine oder mehrere dieser Spalten in der Ansicht fehlen, auf die Schaltfläche **Aktionen** klicken und sie aus dem Dropdown-Menü auswählen.
 
@@ -42,8 +42,8 @@ Wenn bei der Suche nach den übereinstimmenden Datensätzen Fehler gefunden wurd
 
 Es werden zwei Spalten angezeigt:
 
--   **Datensatzidentifikator**. Der Datensatzidentifikator für den Datensatz, bei dem der Fehler aufgetreten ist
--   **Fehlergrund**. Der Grund, warum die Suche nicht zu einem passenden Datensatz geführt hat.
+* **Datensatzidentifikator**. Der Datensatzidentifikator für den Datensatz, bei dem der Fehler aufgetreten ist
+* **Fehlergrund**. Der Grund, warum die Suche nicht zu einem passenden Datensatz geführt hat.
 
 ## Änderungen vornehmen
 

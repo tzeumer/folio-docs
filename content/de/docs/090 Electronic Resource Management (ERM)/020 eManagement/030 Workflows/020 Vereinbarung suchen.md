@@ -19,18 +19,18 @@ Es kann auch nach Vereinbarungen gesucht werden, indem einer der Filter in der A
 
 Um Vereinbarungen nach ihrem Status zu filtern, eine der folgenden Optionen wählen:
 
--   **Aktiv**. Vereinbarungen, die derzeit von der Bibliothek verwendet werden.
--   **Abgeschlossen**. Vereinbarungen, die von der Bibliothek nicht mehr genutzt werden.
--   **Entwurf**. Eine Vereinbarung, die im Entwurfsstadium ist.
--   **In Verhandlung**. Eine Vereinbarung, die derzeit zwischen der Bibliothek und einem Anbieter ausgehandelt wird.
--   **Angefordert**. Wenn die Bibliothek eine Vereinbarung bei einem Anbieter angefordert hat.
+* **Aktiv**. Vereinbarungen, die derzeit von der Bibliothek verwendet werden.
+* **Abgeschlossen**. Vereinbarungen, die von der Bibliothek nicht mehr genutzt werden.
+* **Entwurf**. Eine Vereinbarung, die im Entwurfsstadium ist.
+* **In Verhandlung**. Eine Vereinbarung, die derzeit zwischen der Bibliothek und einem Anbieter ausgehandelt wird.
+* **Angefordert**. Wenn die Bibliothek eine Vereinbarung bei einem Anbieter angefordert hat.
 
 ## Verlängerungspriorität
 
 Um Vereinbarungen nach ihrer Verlängerungspriorität zu filtern, eine der aufgeführten Optionen wählen. Mögliche Prioritäten können sein:
 
--   **Auf jeden Fall verlängern (Definitely renew)**. Vereinbarungen, die verlängert werden sollen.
--   **Definitiv stornieren (Definitely cancel)**. Vereinbarungen, die nicht verlängert werden sollen.
+* **Auf jeden Fall verlängern (Definitely renew)**. Vereinbarungen, die verlängert werden sollen.
+* **Definitiv stornieren (Definitely cancel)**. Vereinbarungen, die nicht verlängert werden sollen.
 
 Die Werte für die Verlängerungspriorität werden unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert. Siehe auch Best Practices.
 

@@ -10,16 +10,16 @@ Description: "
 ---
 
 {{% pageinfo %}}
--   Siehe auch [FOLIO Project - DACH-Fachgruppe: Erwerbung](https://wiki.folio.org/display/Deutsche/D-Erwerbung)
+* Siehe auch [FOLIO Project - DACH-Fachgruppe: Erwerbung](https://wiki.folio.org/display/Deutsche/D-Erwerbung)
 {{% /pageinfo %}}
 
 In FOLIO umfasst der Erwerb wesentliche Funktionen. Diese Funktionen umfassen:
 
--   Erstellen von Budgets und Verwalten von Geldern
--   Erstellen und Verwalten von Erwerbungsaufträgen
--   Inventarisierung der von der Bibliothek bestellten Ressourcen
--   Kontrolle und Verwalten der Bezahlung von Ressourcen
--   Anlegen und Verwalten von Organisationen und Lieferanten
+* Erstellen von Budgets und Verwalten von Geldern
+* Erstellen und Verwalten von Erwerbungsaufträgen
+* Inventarisierung der von der Bibliothek bestellten Ressourcen
+* Kontrolle und Verwalten der Bezahlung von Ressourcen
+* Anlegen und Verwalten von Organisationen und Lieferanten
 
 ## Einstellungen für die Erwerbung
 

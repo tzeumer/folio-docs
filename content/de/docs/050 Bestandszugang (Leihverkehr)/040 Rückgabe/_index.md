@@ -17,4 +17,4 @@ Zu Konfiguration der Dienstzettel, die bei der Rückgabe eines Exemplars erzeugt
 
 Die unten aufgeführten Berechtigungen ermöglichen die Interaktion mit der App Ausleihe und legen fest, was in der App getan werden kann und was nicht. Personen können in der App Personen Berechtigungen zugewiesen werden. Wenn einem Personen keine dieser Berechtigungen zugewiesen ist, kann sie die App Ausleihe und alle damit verbundenen Informationen nicht sehen.
 
--   **Rückgabe: Alle Berechtigungen**. (Check in: all permissions)
+* **Rückgabe: Alle Berechtigungen**. (Check in: all permissions)

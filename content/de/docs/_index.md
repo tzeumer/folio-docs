@@ -16,8 +16,8 @@ Für die Verwendung dieser Dokumentation, siehe [Diese Dokumentation (Entwurf)]
 
 Diese Dokumentation befindet sich zur Zeit im Aufbau. Der Status einzelner Abschnitte ist in der Überschrift wie folgt vermerkt:
 
--   (Entwurf) - Diese Seite befindet sich noch im Entwurfsstatus, die Inhalte sind noch nicht final.
--   (geplant) - Für dieses Thema sind Inhalte geplant. Derzeit ist die Seite jedoch noch leer.
+* (Entwurf) - Diese Seite befindet sich noch im Entwurfsstatus, die Inhalte sind noch nicht final.
+* (geplant) - Für dieses Thema sind Inhalte geplant. Derzeit ist die Seite jedoch noch leer.
 
 Dies ist die FOLIO-Dokumentation mit dem [Stand](https://info.gbv.de/pages/viewpage.action?pageId=853016752) der letzten vollständigen Prüfung gegenüber der englischen Dokumentation vom 30.01.023 (Version zu dem Stand: Nolana).
 

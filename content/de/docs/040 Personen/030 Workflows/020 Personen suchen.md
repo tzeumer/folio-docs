@@ -17,16 +17,16 @@ Es kann auch nach Personendatensätzen gesucht werden, indem einer der Filter im
 
 Im Bereich Personensuche bei Bedarf das Akkordeon Status erweitern und alle gewünschten Filter auswählen :
 
--   **Aktiv**. Person mit dem Status Aktiv.
--   **Inaktiv**. Person mit dem Status Inaktiv.
+* **Aktiv**. Person mit dem Status Aktiv.
+* **Inaktiv**. Person mit dem Status Inaktiv.
 
 ## Benutzer-Gruppe
 
 Um Personen nach ihrer Personengruppe zu filtern, im Bereich Benutzersuche bei Bedarf das Akkordeon "Personengruppe" erweitern  und eine der aufgeführten Optionen wählen. Mögliche Personengruppen sind zum Beispiel diese:
 
--   **Erwachsene**. Personen über 18 Jahren.
--   **Lehrkörper**. Personen mit Fakultätsstatus.
--   **Studierende**. Personen, die für ein Studium eingeschrieben sind.
+* **Erwachsene**. Personen über 18 Jahren.
+* **Lehrkörper**. Personen mit Fakultätsstatus.
+* **Studierende**. Personen, die für ein Studium eingeschrieben sind.
 
 Personengruppen werden unter [Einstellungen > Benutzer > Personengruppen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Personengruppen) konfiguriert.
 

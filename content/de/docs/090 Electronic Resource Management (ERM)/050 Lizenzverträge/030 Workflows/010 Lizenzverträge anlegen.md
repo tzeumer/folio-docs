@@ -98,9 +98,9 @@ Ein Hauptdokument ist jedes zentrale Dokument, das für den Lizenzdatensatz rele
 2.  Einen **Namen** in das Feld eingeben.
 3.  (Optional) Eine **Notiz** zu dem Hauptdokument eingeben.
 4.  Es muss mindestens einen der folgenden Schritte ausgeführt werden:
-    -   Eine Datei in den Lizenzvertrag hochladen, indem die Datei per Drag & Drop in das Feld **Drag & Drop zum Hochladen** gezogen wird oder auf **oder Datei auswählen** klicken.
-    -   **Physischer Standort** des Dokuments in das Feld eingeben.
-    -   Die **URL** des Dokuments in das Feld eingeben.
+    * Eine Datei in den Lizenzvertrag hochladen, indem die Datei per Drag & Drop in das Feld **Drag & Drop zum Hochladen** gezogen wird oder auf **oder Datei auswählen** klicken.
+    * **Physischer Standort** des Dokuments in das Feld eingeben.
+    * Die **URL** des Dokuments in das Feld eingeben.
 5.  Die Schritte 1-4 je nach Bedarf wiederholen. Das Hauptdokument wird gespeichert, sobald der Lizenzvertrag gespeichert wird.
 
 ### Hauptdokument entfernen
@@ -149,9 +149,9 @@ Ein ergänzendes Dokument ist jedes zusätzliche Dokument, das für den Lizenzve
 3.  Eine **Kategorie** aus der Dropdown-Liste wählen. Kategorien für Zusatzdokumente können in der App Einstellungen unter [Einstellungen > Lizenzverträge > Auswahllisten](https://info.gbv.de/pages/viewpage.action?pageId=847085668) konfiguriert werden.
 4.  (Optional) Eine Notiz zu dem Ergänzenden Dokumente eingeben.
 5.  Es muss mindestens einer der folgenden Schritte ausgeführt werden:
-    -   Eine Datei in den Lizenzvertrag hochladen, indem die Datei per Drag & Drop in das Feld **Drag & Drop zum Hochladen** gezogen wird oder auf **oder Datei auswählen** klicken.
-    -   **Physischer Standort** des Dokuments in das Feld eingeben.
-    -   Die **URL** des Dokuments in das Feld eingeben.
+    * Eine Datei in den Lizenzvertrag hochladen, indem die Datei per Drag & Drop in das Feld **Drag & Drop zum Hochladen** gezogen wird oder auf **oder Datei auswählen** klicken.
+    * **Physischer Standort** des Dokuments in das Feld eingeben.
+    * Die **URL** des Dokuments in das Feld eingeben.
 6.  Die Schritte 1-5 je nach Bedarf wiederholen. Das Zusatzdokument wird gespeichert, sobald der Lizenzvertrag gespeichert wird.
 
 ### Ergänzendes Dokumente entfernen

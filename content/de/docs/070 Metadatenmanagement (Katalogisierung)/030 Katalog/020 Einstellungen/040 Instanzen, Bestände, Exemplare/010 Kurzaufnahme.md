@@ -15,12 +15,12 @@ Mit dieser Einstellung kann für Kurzaufnahmen der Standard-Instanzstatus angepa
 
 Aus der Dropdown-Liste **Standard-Instanzstatus** den Instanzstatus auswählen, der für jeden mit Kurzaufnahme erstellten Instanzdatensatz gewünscht ist:
 
--   Batch Loaded (Batch-Import)
--   Other (Anderer)
--   Not yet assigned (Noch nicht zugewiesen)
--   Uncataloged (Nicht katalogisiert)
--   Temporary (Vorübergehend)
--   Cataloged (Katalogisiert)
+* Batch Loaded (Batch-Import)
+* Other (Anderer)
+* Not yet assigned (Noch nicht zugewiesen)
+* Uncataloged (Nicht katalogisiert)
+* Temporary (Vorübergehend)
+* Cataloged (Katalogisiert)
 
 ## Standardmäßig Nachweis unterdrücken
 

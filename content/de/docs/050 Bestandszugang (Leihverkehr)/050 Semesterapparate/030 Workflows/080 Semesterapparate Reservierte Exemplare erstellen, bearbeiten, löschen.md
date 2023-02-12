@@ -26,8 +26,8 @@ Das bedeutet, dass wenn sich Informationen des reservierten Exemplars im Katalog
 
 Zu den Informationen, die zur Unterstützung der Suchfunktion kopiert werden, gehören:
 
--   Titel und Mitwirkende aus dem Instanzdatensatz;
--   Barcode, Dauerhafter Standort, Signatur, Band, Exemplar, Bandnummer und elektronischer Zugriffslink aus dem Exemplardatensatz
+* Titel und Mitwirkende aus dem Instanzdatensatz;
+* Barcode, Dauerhafter Standort, Signatur, Band, Exemplar, Bandnummer und elektronischer Zugriffslink aus dem Exemplardatensatz
 
 Das Anfangs- und Enddatum eines Exemplars wird in der App Bestandsanfragen gepflegt. FOLIO aktualisiert den temporären Standort des Exemplars im Katalog, wenn es zum ersten Mal reserviert wird, basierend auf dem Standort, der im Kursdatensatz angegeben ist.
 
@@ -65,12 +65,12 @@ Jedes Reservierte Exemplar enthält einen Abschnitt zur Erfassung von  Urheberr
 
 Der häufigste Anwendungsfall für diese Felder ist, wenn ein elektronisches Exemplar in die Reservierung gestellt wird, aber es gibt keine eingebaute Einschränkung für die Verwendung für andere Exemplare. Es gibt keine automatisierten Arbeitsabläufe, die diese Felder verwenden. Sie sind alle optional.
 
--   **Copyright-Status**. Dies ist ein Dropdown-Feld. Die Bibliothek kann die Dropdown-Werte in **Einstellungen > Semesterapparate** konfigurieren.
--   **Gesamtzahl der Seiten im Exemplar**. Da die meisten Urheberrechtsnachverfolgungen auf Scans von physischen Exemplaren basieren, können hier die Seiten für das gesamte Exemplar erfasst werden.
--   **Gesamtzahl der verwendeten Seiten**. Mit diesem Feld kann die Anzahl der gescannten Seiten als Teil der Reservierung verfolgt werden.
--   **Gesamt % der verwendeten Seiten**. Diese Zahl muss von dem Bibliotheksmitarbeitenden berechnet werden. Bibliotheken, die Urheberrechtsgebühren (Tantieme) zu entrichten haben, können in einigen Fällen anhand des Prozentsatzes des genutzten Werks ermitteln, was entrichtet werden muss.
--   **Zahlung basierend auf** Dies ist ein Freitextfeld. Die meisten Bibliotheken setzen einen von zwei Werten ein -  **Nutzung** oder **Personenzahl (Immatrikulationen).**
--   **Zusätzlich verwendete Abschnitte dieses Exemplars**. Bei einigen Exemplaren werden Bibliotheken mehrere Scans desselben Buches als Exemplare reservieren - zum Beispiel ein Buch mit zehn wissenschaftlichen Artikeln, von denen jeweils drei gescannt und als separate Exemplare reserviert werden. In diesen Fällen können Bibliotheken dieses Kästchen ankreuzen, um anzugeben, dass die Exemplare miteinander verknüpft werden sollen, um eine korrekte Berechnung der Urheberrechtsgebühren zu ermöglichen.
+* **Copyright-Status**. Dies ist ein Dropdown-Feld. Die Bibliothek kann die Dropdown-Werte in **Einstellungen > Semesterapparate** konfigurieren.
+* **Gesamtzahl der Seiten im Exemplar**. Da die meisten Urheberrechtsnachverfolgungen auf Scans von physischen Exemplaren basieren, können hier die Seiten für das gesamte Exemplar erfasst werden.
+* **Gesamtzahl der verwendeten Seiten**. Mit diesem Feld kann die Anzahl der gescannten Seiten als Teil der Reservierung verfolgt werden.
+* **Gesamt % der verwendeten Seiten**. Diese Zahl muss von dem Bibliotheksmitarbeitenden berechnet werden. Bibliotheken, die Urheberrechtsgebühren (Tantieme) zu entrichten haben, können in einigen Fällen anhand des Prozentsatzes des genutzten Werks ermitteln, was entrichtet werden muss.
+* **Zahlung basierend auf** Dies ist ein Freitextfeld. Die meisten Bibliotheken setzen einen von zwei Werten ein -  **Nutzung** oder **Personenzahl (Immatrikulationen).**
+* **Zusätzlich verwendete Abschnitte dieses Exemplars**. Bei einigen Exemplaren werden Bibliotheken mehrere Scans desselben Buches als Exemplare reservieren - zum Beispiel ein Buch mit zehn wissenschaftlichen Artikeln, von denen jeweils drei gescannt und als separate Exemplare reserviert werden. In diesen Fällen können Bibliotheken dieses Kästchen ankreuzen, um anzugeben, dass die Exemplare miteinander verknüpft werden sollen, um eine korrekte Berechnung der Urheberrechtsgebühren zu ermöglichen.
 
 ## Reserviertes Exemplar aus einem Kurs entfernen
 

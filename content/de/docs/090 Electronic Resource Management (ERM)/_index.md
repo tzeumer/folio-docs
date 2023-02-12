@@ -11,10 +11,10 @@ Description: "
 
 Zu den wesentlichen ERM-Funktionen in FOLIO gehören:
 
--   Vereinbarungen anlegen und verwalten
--   Lizenzverträge anlegen und verwalten
--   Externe oder interne KB verwalten
--   Elektronische Resourcen der Bibliothek verwalten
+* Vereinbarungen anlegen und verwalten
+* Lizenzverträge anlegen und verwalten
+* Externe oder interne KB verwalten
+* Elektronische Resourcen der Bibliothek verwalten
 
 ## ERM-Einstellungen
 

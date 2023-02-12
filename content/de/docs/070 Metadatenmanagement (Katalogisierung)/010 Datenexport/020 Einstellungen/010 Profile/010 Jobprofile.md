@@ -33,9 +33,9 @@ Die Suchleiste verwenden, um nach Profilen in der Tabelle Jobprofile zu suchen.
 
 Die Tabelle Jobprofile enthält die folgenden Spalten:
 
--   **Name**. Name des Jobprofils.
--   **Aktualisiert**. Datum, an dem das Jobprofil zuletzt aktualisiert wurde.
--   **Aktualisiert von**. Person, die das Jobprofil zuletzt aktualisiert hat.
+* **Name**. Name des Jobprofils.
+* **Aktualisiert**. Datum, an dem das Jobprofil zuletzt aktualisiert wurde.
+* **Aktualisiert von**. Person, die das Jobprofil zuletzt aktualisiert hat.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -43,7 +43,7 @@ Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte
 
 Um die Details eines Jobprofils anzuzeigen, wie folgt vorgehen:
 
--   In der Ansicht **Jobprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster mit den **Details des Jobprofils für den Export** wird angezeigt.
+* In der Ansicht **Jobprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster mit den **Details des Jobprofils für den Export** wird angezeigt.
 
 ## Jobprofil für den Export bearbeiten
 

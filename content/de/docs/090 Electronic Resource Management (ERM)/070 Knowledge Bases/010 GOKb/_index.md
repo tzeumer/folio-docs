@@ -45,15 +45,15 @@ Freischaltung und Zuordnung zur Kuratierendengruppe durch die VZG
 
 ### Allgemeine Informationen
 
--   Farbgestaltung Test-GOKb (blau) vs. Produktiv-GOKb (rot)
--   Pakete können direkt in die produktive GOKb geladen werden
-    -   Optional, ggf. für eigene Sicherheit: Pakete erst in Test-GOKb laden
-    -   empfiehlt sich vor allem, wenn etwas zum ersten Mal erledigt wird
+* Farbgestaltung Test-GOKb (blau) vs. Produktiv-GOKb (rot)
+* Pakete können direkt in die produktive GOKb geladen werden
+    * Optional, ggf. für eigene Sicherheit: Pakete erst in Test-GOKb laden
+    * empfiehlt sich vor allem, wenn etwas zum ersten Mal erledigt wird
 
 ### Hotline und Infostunde
 
--   **GOKb spezifische Fragen und Anforderungen bitte an** [**info@gokb.org**](mailto:info@gokb.org) **und in CC an** [**foliohotline@lists.gbv.de**](mailto:foliohotline@lists.gbv.de)
--   Willkommen: Teilnahme an GOKb-Infostunden des GOKb-Teams (hbz/VZG)
-    -   In der Regel am ersten Montag im Monat von 15-16 Uhr
-    -   Meetingraum [https://global.gotomeeting.com/join/397788117](http://goe-mx-21.hawk.de:32224/?dmVyPTEuMDAxJiY5NjllN2ZmYzEzNTQ4ZmQxOT02MkY1MDA5Rl82NjQ5OF8xODI3OF8xJiZjMzIxMTMyNTMxNWQyN2E9MTIzMyYmdXJsPWh0dHBzJTNBJTJGJTJGZ2xvYmFsJTJFZ290b21lZXRpbmclMkVjb20lMkZqb2luJTJGMzk3Nzg4MTE3)
-    -   [Protokolle](https://service-wiki.hbz-nrw.de/display/GOKB/Protokolle+GOKb-Infostunde)
+* **GOKb spezifische Fragen und Anforderungen bitte an** [**info@gokb.org**](mailto:info@gokb.org) **und in CC an** [**foliohotline@lists.gbv.de**](mailto:foliohotline@lists.gbv.de)
+* Willkommen: Teilnahme an GOKb-Infostunden des GOKb-Teams (hbz/VZG)
+    * In der Regel am ersten Montag im Monat von 15-16 Uhr
+    * Meetingraum [https://global.gotomeeting.com/join/397788117](http://goe-mx-21.hawk.de:32224/?dmVyPTEuMDAxJiY5NjllN2ZmYzEzNTQ4ZmQxOT02MkY1MDA5Rl82NjQ5OF8xODI3OF8xJiZjMzIxMTMyNTMxNWQyN2E9MTIzMyYmdXJsPWh0dHBzJTNBJTJGJTJGZ2xvYmFsJTJFZ290b21lZXRpbmclMkVjb20lMkZqb2luJTJGMzk3Nzg4MTE3)
+    * [Protokolle](https://service-wiki.hbz-nrw.de/display/GOKB/Protokolle+GOKb-Infostunde)

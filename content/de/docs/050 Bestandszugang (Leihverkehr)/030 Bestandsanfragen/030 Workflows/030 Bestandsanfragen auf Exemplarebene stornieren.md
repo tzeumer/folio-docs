@@ -13,9 +13,9 @@ Es können nur offene Bestandsanfragen storniert werden. Sobald eine Bestandsanf
 
 Hinweis: Wenn eine Bestandsanfrage stornieren wird, sollte Folgendes beachtet werden:
 
--   Wenn eine Bestandsanfrage storniert wird und sich keine anderen Anfragen in der Warteliste befinden, ändert sich der Status des Exemplars wieder auf Verfügbar.
--   Wenn eine Bestandsanfrage storniert wird, deren Bearbeitung bereits begonnen hat (sie hat den Status Offen - Im Transport oder Offen - Im Abholregal), ändert sich der Status der Bestandsanfrage in Geschlossen - Storniert, aber der Status des Exemplars ändert sich erst, wenn es zurückgebucht wird.
--   Wenn ein angefordertes Exemplar zur Abholung bereitsteht und die Bestandsanfrage storniert wird, erscheint es in der Abräumliste für das Abholregal.
+* Wenn eine Bestandsanfrage storniert wird und sich keine anderen Anfragen in der Warteliste befinden, ändert sich der Status des Exemplars wieder auf Verfügbar.
+* Wenn eine Bestandsanfrage storniert wird, deren Bearbeitung bereits begonnen hat (sie hat den Status Offen - Im Transport oder Offen - Im Abholregal), ändert sich der Status der Bestandsanfrage in Geschlossen - Storniert, aber der Status des Exemplars ändert sich erst, wenn es zurückgebucht wird.
+* Wenn ein angefordertes Exemplar zur Abholung bereitsteht und die Bestandsanfrage storniert wird, erscheint es in der Abräumliste für das Abholregal.
 1.  [Die Bestandsanfrage suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+suchen), die storniert werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Anfrage stornieren** wählen.
 3.  Im Dialog **Stornierung der Bestandsanfrage bestätigen** den **Grund für die Stornierung** auswählen.

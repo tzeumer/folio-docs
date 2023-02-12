@@ -21,17 +21,17 @@ Die Bedingungen legen fest, welche Aktionen Personen nicht mehr erlaubt sind, so
 
 Dies sind alle Kategorien, für die Bedingungen und Grenzen festlgelehgt werden können:
 
--   Maximale Anzahl der ausgeliehener Exemplare
-    -   (Ausleihmaximum)
--   Maximale Anzahl verlorener Exemplare
-    -   (Verlustmaximum)
--   Maximale Anzahl überfälliger Exemplare
-    -   (Ausleihfristüberschreitungen)
--   Maximale Anzahl überfälliger Vormerkungen
-    -   (Ausleihfristüberschreitungen (Vormerkungen))
--   Maximale ausstehende Forderungen
-    -   (Forderungslimit)
--   Maximalzahl überfällige Tage bei Vormerkungen
+* Maximale Anzahl der ausgeliehener Exemplare
+    * (Ausleihmaximum)
+* Maximale Anzahl verlorener Exemplare
+    * (Verlustmaximum)
+* Maximale Anzahl überfälliger Exemplare
+    * (Ausleihfristüberschreitungen)
+* Maximale Anzahl überfälliger Vormerkungen
+    * (Ausleihfristüberschreitungen (Vormerkungen))
+* Maximale ausstehende Forderungen
+    * (Forderungslimit)
+* Maximalzahl überfällige Tage bei Vormerkungen
 
 ## Kontosperrbedingungen konfigurieren
 

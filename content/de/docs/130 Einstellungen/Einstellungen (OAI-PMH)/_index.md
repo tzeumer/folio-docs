@@ -17,9 +17,9 @@ Im Abschnitt OAI-PMH der App Einstellungen kann das Verhalten des OAI-PMH-Feeds 
 
 FOLIO unterstützt derzeit drei Metadatenformate:
 
--   marc21
--   oai\_dc
--   marc21\_withholdings
+* marc21
+* oai\_dc
+* marc21\_withholdings
 
 Diese Liste kann mit dem [**ListMetadataFormats** verb](http://www.openarchives.org/OAI/openarchivesprotocol.html#ListMetadataFormats) eingesehen werden.
 
@@ -27,7 +27,7 @@ Diese Liste kann mit dem [**ListMetadataFormats** verb](http://www.openarchive
 
 Um mit den OAI-PMH-Einstellungen zu interagieren, muss einer Person die folgende Berechtigung zugewiesen werden:
 
--   **Einstellungen (OAI-PMH): Liste der Einstellungsseiten anzeigen**.  (Settings (OAI-PMH): Can view)
+* **Einstellungen (OAI-PMH): Liste der Einstellungsseiten anzeigen**.  (Settings (OAI-PMH): Can view)
     Diese Berechtigung ermöglicht es der Person, alle OAI-PMH-Einstellungen anzuzeigen, aber die Schaltfläche "Speichern" ist deaktiviert. Personen erhalten die Meldung "Ihnen fehlen die erforderlichen Berechtigungen zum Bearbeiten der OAI-PMH-Einstellungen. Bitte wenden Sie sich an den Systemadministrator."
--   **Einstellungen (OAI-PMH): Kann Einstellungen anzeigen und bearbeiten**. (Settings (OAI-PMH): Can view and edit settings)
+* **Einstellungen (OAI-PMH): Kann Einstellungen anzeigen und bearbeiten**. (Settings (OAI-PMH): Can view and edit settings)
     Diese Berechtigung erlaubt der Person, die OAI-PMH-Einstellungen anzuzeigen und zu bearbeiten.

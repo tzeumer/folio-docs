@@ -15,5 +15,5 @@ Im Bereich Finanzen der App Einstellungen werden die Kategorien festgelegt, die 
 
 Um mit den Finanzeinstellungen interagieren zu können, muss einer Person die folgende Berechtigung zugewiesen werden:
 
--   **Einstellungen (Finanzen): anzeigen, bearbeiten, erstellen, löschen**. (Settings (Finance): Can view and edit settings)
+* **Einstellungen (Finanzen): anzeigen, bearbeiten, erstellen, löschen**. (Settings (Finance): Can view and edit settings)
     Mit dieser Berechtigung kann die Person alle Finanzeinstellungen anzeigen, erstellen, bearbeiten und löschen.

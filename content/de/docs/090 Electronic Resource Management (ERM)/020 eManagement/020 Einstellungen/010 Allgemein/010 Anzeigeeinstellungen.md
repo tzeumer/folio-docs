@@ -21,19 +21,19 @@ Wenn eine externe Knowledgebase verwendet wird (z.B. GOKb oder EBSCO mit der App
 
 Wird die Checkbox aktiviert, geschieht Folgendes:
 
--   Die Registerkarte E-Ressourcen in der App eManagement wird ausgeblendet.
--   Das Symbol für die Merkliste in der App eManagement wird ausgeblendet.
--   Die E-Ressourcen, auf die sich dieser Abschnitt der Vereinbarungen bezieht, erscheinen nicht in der Ansicht für die Details der Vereinbarungen.
+* Die Registerkarte E-Ressourcen in der App eManagement wird ausgeblendet.
+* Das Symbol für die Merkliste in der App eManagement wird ausgeblendet.
+* Die E-Ressourcen, auf die sich dieser Abschnitt der Vereinbarungen bezieht, erscheinen nicht in der Ansicht für die Details der Vereinbarungen.
 
 ## Seitenzählung der tabellarische Liste
 
 Mit dieser Einstellung wird die Anzahl der Zeilen gesteuert, die pro Seite (d.h. bevor die Schaltfläche "Mehr laden" angezeigt wird) in mehrspaltigen Listen (tabellarischen Listen) in der Anwendung eManagement angezeigt werden. Der Standardwert für alle Listen ist 10. Die betroffenen mehrspaltigen Listen sind:
 
--   Bereich "Vereinbarungsansicht" > Vereinbarungskomponenten
--   Bereich "Vereinbarungsansicht" > Unter diese Vereinbarung fallende E-Ressourcen
--   Bereich "E-Ressourcen-Ansicht" > Optionen für den Erwerb dieser E-Ressource
--   Bereich "Paketansicht" > E-Ressourcen im Paket
--   Bereich "E-Ressourcen-Ansicht" > Vereinbarungen für diese E-Ressouce
+* Bereich "Vereinbarungsansicht" > Vereinbarungskomponenten
+* Bereich "Vereinbarungsansicht" > Unter diese Vereinbarung fallende E-Ressourcen
+* Bereich "E-Ressourcen-Ansicht" > Optionen für den Erwerb dieser E-Ressource
+* Bereich "Paketansicht" > E-Ressourcen im Paket
+* Bereich "E-Ressourcen-Ansicht" > Vereinbarungen für diese E-Ressouce
 
 ## Einstellung "Nachweis unterdrückt" anzeigen
 
@@ -59,4 +59,4 @@ Mit dieser Einstellung können Institutionen, die das eUsage-Modul nicht verwend
 
 Wird die Checkbox aktiviert, geschieht Folgendes:
 
--   Das Modul Nutzungsdatenquelle in der App eManagement wird ausgeblendet.
+* Das Modul Nutzungsdatenquelle in der App eManagement wird ausgeblendet.

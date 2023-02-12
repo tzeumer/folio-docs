@@ -17,24 +17,24 @@ Es kann auch nach Importjobs gesucht werden, indem einer der Filter in der **An
 
 Um Jobs nach dem Status ihrer Ausführung zu filtern, eine der folgenden Optionen wählen:
 
--   **In Warteschlange**: Jobs, die in der Warteliste stehen, aber noch nicht verarbeitet wurden.
--   **In Bearbeitung**: Jobs, die gerade verarbeitet werden.
--   **Beendet**: Jobs, die verarbeitet wurden.
+* **In Warteschlange**: Jobs, die in der Warteliste stehen, aber noch nicht verarbeitet wurden.
+* **In Bearbeitung**: Jobs, die gerade verarbeitet werden.
+* **Beendet**: Jobs, die verarbeitet wurden.
 
 ## Ergebnis
 
 Um Jobs nach ihrem Bearbeitungsstatus zu filtern, eine der folgenden Möglichkeiten wählen:
 
--   **Erfolg**: Jobs, die ohne Fehler zu Ende geführt wurden.
--   **Teilerfolg**: Jobs, die mit einigen Fehlern bis zum Abschluss gelaufen sind.
--   **Misserfolg**: Jobs, die nicht erfolgreich gelaufen sind.
--   **Unterbrochen**: Jobs, die aufgrund einer unbekannten Unterbrechung nicht zu Ende geführt werden konnten.
+* **Erfolg**: Jobs, die ohne Fehler zu Ende geführt wurden.
+* **Teilerfolg**: Jobs, die mit einigen Fehlern bis zum Abschluss gelaufen sind.
+* **Misserfolg**: Jobs, die nicht erfolgreich gelaufen sind.
+* **Unterbrochen**: Jobs, die aufgrund einer unbekannten Unterbrechung nicht zu Ende geführt werden konnten.
 
 ## Jobtyp
 
 Um Jobs nach ihrem Typ zu filtern, eine der folgenden Möglichkeiten wählen
 
--   **Titelharvester**: Jobs, die durch einen automatischen Harvesting-Job ausgelöst wurden.
--   **Datei-Import**: Jobs, die durch einen JSON- oder KBART-Dateiimport ausgelöst wurden.
+* **Titelharvester**: Jobs, die durch einen automatischen Harvesting-Job ausgelöst wurden.
+* **Datei-Import**: Jobs, die durch einen JSON- oder KBART-Dateiimport ausgelöst wurden.
 
 Harvesting-Jobs können unter Einstellungen > Lokale KB-Administration > Externe Datenquelle konfiguriert werden.

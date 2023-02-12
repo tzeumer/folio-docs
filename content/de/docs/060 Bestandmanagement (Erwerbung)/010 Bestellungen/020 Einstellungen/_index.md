@@ -15,17 +15,17 @@ Im Abschnitt Bestellungen der App Einstellungen wird festgelegt, ob eine Genehmi
 
 Um mit den Einstellungen für Bestellungen interagieren zu können, müssen einer Person die folgenden Berechtigungen zugewiesen werden:
 
--   **Einstellungen (Bestellungen): Kann alle Einstellungen anzeigen**. (Settings(Orders): Can view all settings)
+* **Einstellungen (Bestellungen): Kann alle Einstellungen anzeigen**. (Settings(Orders): Can view all settings)
     Mit dieser Berechtigung können alle Einstellungen für Bestellungen eingesehen werden.
--   **Einstellungen (Bestellungen): Kann alle Einstellungen anzeigen und bearbeiten**. (Settings (Orders): Can view and edit all settings)
+* **Einstellungen (Bestellungen): Kann alle Einstellungen anzeigen und bearbeiten**. (Settings (Orders): Can view and edit all settings)
     Mit dieser Berechtigung können alle Einstellungen für Bestellungen angezeigt und bearbeitet werden.
--   **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen**.  (Settings(Orders): Can view Order Templates)
+* **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen**.  (Settings(Orders): Can view Order Templates)
     Mit dieser Berechtigung können die Bestellvorlagen in Einstellungen > Bestellungen eingesehen werden.
--   **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen und bearbeiten**. (Settings(Orders): Can view, edit Order Templates)
+* **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen und bearbeiten**. (Settings(Orders): Can view, edit Order Templates)
     Mit dieser Berechtigung können Bestellvorlagen unter Einstellungen > Bestellungen angezeigt und bearbeitet werden.
--   **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen, bearbeiten und erstellen**. (Settings(Orders): Can view, edit, create Order Templates)
+* **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen, bearbeiten und erstellen**. (Settings(Orders): Can view, edit, create Order Templates)
     Mit dieser Berechtigung können Bestellvorlagen unter Einstellungen > Bestellungen angezeigt, bearbeitet und erstellt werden.
--   **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen, bearbeiten und löschen**. (Settings(Orders): Can view, edit, delete Order Templates)
+* **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen, bearbeiten und löschen**. (Settings(Orders): Can view, edit, delete Order Templates)
     Mit dieser Berechtigung können Bestellvorlagen unter Einstellungen > Bestellungen angezeigt, bearbeitet und gelöscht werden.
 
 Informationen zur Zuweisung von Berechtigungen an Personen sind unter [Zuweisung von Berechtigungen zu einem Personendatensatz](https://info.gbv.de/display/FOLIOGBVEXTERN/VZG+%5BPersonen%5D+-+Berechtigungskonzepte)

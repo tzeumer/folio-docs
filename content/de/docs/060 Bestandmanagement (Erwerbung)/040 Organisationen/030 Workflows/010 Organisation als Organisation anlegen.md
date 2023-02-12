@@ -17,16 +17,16 @@ Wird eine Organisation angelegt, kann sie entweder als allgemeine Organisation o
 
 ## Übersicht
 
--   **Name (erforderlich)**. Der Name der Organisation.
--   **Code (erforderlich)**. Ein eindeutiger Identifikator für die Organisation. Hinweis: Es kann keine doppelten Organisationscodes geben. Die Codes für jede Organisation müssen unterschiedlich sein.
--   **Buchhaltungscode**. Der Buchhaltungscode, der von der Bibliothek in dem Zahlungssystem (z.B. SAP) in Bezug auf die Organisation verwendet wird.
--   **Status (erforderlich)**. Einen Organisationsstatus auswählen: Aktiv, Inaktiv oder Vorläufig. Der hier ausgewählte Status wird von den Apps Bestellungen und Rechnungen ausgewertet. Bestellungen können nur geöffnet und Rechnungen nur bezahlt werden, wenn die Organisation ein Lieferant mit dem Status Aktiv ist. Es kann der Status Vorläufig verwenden werden, um zu signalisieren, dass es sich bei dem Organisationseintrag um einen Entwurf handelt.
--   **Typ**. Einen oder mehrere Organisationstypen auswählen. Weitere Informationen sind unter [Einstellungen > Organisationen > Erstellen eines neuen Typs](https://info.gbv.de/pages/viewpage.action?pageId=842793092) zu finden.
--   **Standardsprache**. Die Standardsprache der Organisation wählen.
--   **Lieferant**. Soll eine Lieferantenorganisation erstellt werden, die Checkbox **Lieferant** markieren. Weitere Informationen sind unter [Lieferanten anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Lieferanten+anlegen) zu finden.
--   **Erwerbungsteams**. Die Erwerbungsteams wählen, die auf den Organisationsdatensatz angewendet werden sollen. Siehe [Einstellungen > Erwerbungsteams](https://info.gbv.de/pages/viewpage.action?pageId=849379720) für weitere Informationen.
--   **Beschreibung**. Eine Beschreibung der Organisation eingeben.
--   **Alternative Namen**. Alternative Namen, die von der Organisation verwendet werden, wie z.B. Abkürzungen oder frühere Namen.
+* **Name (erforderlich)**. Der Name der Organisation.
+* **Code (erforderlich)**. Ein eindeutiger Identifikator für die Organisation. Hinweis: Es kann keine doppelten Organisationscodes geben. Die Codes für jede Organisation müssen unterschiedlich sein.
+* **Buchhaltungscode**. Der Buchhaltungscode, der von der Bibliothek in dem Zahlungssystem (z.B. SAP) in Bezug auf die Organisation verwendet wird.
+* **Status (erforderlich)**. Einen Organisationsstatus auswählen: Aktiv, Inaktiv oder Vorläufig. Der hier ausgewählte Status wird von den Apps Bestellungen und Rechnungen ausgewertet. Bestellungen können nur geöffnet und Rechnungen nur bezahlt werden, wenn die Organisation ein Lieferant mit dem Status Aktiv ist. Es kann der Status Vorläufig verwenden werden, um zu signalisieren, dass es sich bei dem Organisationseintrag um einen Entwurf handelt.
+* **Typ**. Einen oder mehrere Organisationstypen auswählen. Weitere Informationen sind unter [Einstellungen > Organisationen > Erstellen eines neuen Typs](https://info.gbv.de/pages/viewpage.action?pageId=842793092) zu finden.
+* **Standardsprache**. Die Standardsprache der Organisation wählen.
+* **Lieferant**. Soll eine Lieferantenorganisation erstellt werden, die Checkbox **Lieferant** markieren. Weitere Informationen sind unter [Lieferanten anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Lieferanten+anlegen) zu finden.
+* **Erwerbungsteams**. Die Erwerbungsteams wählen, die auf den Organisationsdatensatz angewendet werden sollen. Siehe [Einstellungen > Erwerbungsteams](https://info.gbv.de/pages/viewpage.action?pageId=849379720) für weitere Informationen.
+* **Beschreibung**. Eine Beschreibung der Organisation eingeben.
+* **Alternative Namen**. Alternative Namen, die von der Organisation verwendet werden, wie z.B. Abkürzungen oder frühere Namen.
 
 ### Alternativen Namen hinzufügen
 
@@ -48,10 +48,10 @@ Im Bereich Kontaktinformationen werden die Kontaktinformationen der Organisation
 
 Kategorien für Kontaktinformationen werden in der App Einstellungen konfiguriert. Wird einer Art von Kontaktinformationen, die in diesem Abschnitt eingeben werden, eine Kategorie zugewiesen, werden die Kontaktinformationen nach dieser Kategorie sortiert, wenn die Organisation angezeigt wird.
 
--   **Adresse**. Die mit der Organisation verbundenen Adressen. Es können mehrere Adressen hinzugefügt werden.
--   **Telefonnummern**. Die Telefonnummern, die mit der Organisation verbunden sind. Es können mehrere Telefonnummern hinzugefügt werden.
--   **E-Mail Adressen**. Die E-Mail-Adressen, die mit der Organisation verbunden sind. Es können mehrere E-Mail-Adressen hinzugefügt werden.
--   **URLs**. Die URLs, die mit der Organisation verbunden sind. Es können mehrere Websites oder FTP-Verbindungen hinzugefügt werden.
+* **Adresse**. Die mit der Organisation verbundenen Adressen. Es können mehrere Adressen hinzugefügt werden.
+* **Telefonnummern**. Die Telefonnummern, die mit der Organisation verbunden sind. Es können mehrere Telefonnummern hinzugefügt werden.
+* **E-Mail Adressen**. Die E-Mail-Adressen, die mit der Organisation verbunden sind. Es können mehrere E-Mail-Adressen hinzugefügt werden.
+* **URLs**. Die URLs, die mit der Organisation verbunden sind. Es können mehrere Websites oder FTP-Verbindungen hinzugefügt werden.
 
 ### Adressen
 

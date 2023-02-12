@@ -15,13 +15,13 @@ Die Details zu inventarisierenden Titeln können von jeder Person mit der **Ber
 
 Wird nach Titel gesucht, werden in der Ansicht Inventarisierung die folgenden Informationen angezeigt:
 
--   **Titel**. Der Titel der Ressource, die inventarisiert werden soll.
--   **Erwartetes Eingangsdatum**. Das Datum, an dem die Ressource voraussichtlich inventarisiert wird.
--   **Paket**. Der Name des Pakets, mit dem der zu inventarisierende Titel verbunden ist (falls zutreffend).
--   **Bestellpostennummer**. Die Nummer des Bestellpostens. Auf diese Nummer klicken, um den zugehörigen Bestellposten in der App Bestellungen zu öffnen.
--   **Inventarisierungsnotiz**. Anmerkungen zum Erhalt der Ressource.
--   **Standorte**. Der Standort/die Standorte, dem/denen die Bestellung zugeordnet ist.
--   **Bestellungsstatus**. Der Status der Bestellung, entweder offen, geschlossen oder ausstehend.
+* **Titel**. Der Titel der Ressource, die inventarisiert werden soll.
+* **Erwartetes Eingangsdatum**. Das Datum, an dem die Ressource voraussichtlich inventarisiert wird.
+* **Paket**. Der Name des Pakets, mit dem der zu inventarisierende Titel verbunden ist (falls zutreffend).
+* **Bestellpostennummer**. Die Nummer des Bestellpostens. Auf diese Nummer klicken, um den zugehörigen Bestellposten in der App Bestellungen zu öffnen.
+* **Inventarisierungsnotiz**. Anmerkungen zum Erhalt der Ressource.
+* **Standorte**. Der Standort/die Standorte, dem/denen die Bestellung zugeordnet ist.
+* **Bestellungsstatus**. Der Status der Bestellung, entweder offen, geschlossen oder ausstehend.
 
 In den Suchergebnissen auf einen zu inventarisierenden Titel klicken, um ihn anzuzeigen. Die Ansicht zu inventarisierenden Titeln wird mit zusätzlichen Informationen über den Titel angezeigt.
 
@@ -33,15 +33,15 @@ In diesem Bereich werden die unter [Folio: Inventarisierung eines Titels durchf
 
 In diesem Abschnitt werden die Details zu den Bestellposten angezeigt.
 
--   **Bestellpostennummer**. Die Nummer des Bestellpostens.
--   **Erwartetes Eingangsdatum**. Das Datum, an dem das Teil voraussichtlich inventarisiert wird.
--   **Inventarisierungsnotiz**. Anmerkungen zum Erhalt der Ressource.
--   **Bestellungstyp**. Die Art der Bestellung, entweder einmalig oder laufend.
--   **Organisation**. Die Organisation, von der die Ressource erworben wurde.
--   **Zugangsanbieter**. Der Name der Organisation des Zugangsanbieters. Dieses Feld wird nur bei Bestellungen angezeigt, deren Bestellformat auf Elektronische Ressource oder KGV-Mix eingestellt ist.
--   **Materiallieferant**. Der Name der Organisation des Materiallieferanten. Dieses Feld wird nur für Bestellungen angezeigt, bei denen das Bestellformat auf Physische Ressource oder KGV-Mix eingestellt ist.
--   **Bestandsanfrage für**. Die Person, die das Exemplar angefordert hat.
--   **Eilt**. Dieses Kennzeichen gibt an, ob für diese Bestellung eine Eilabwicklung durchgeführt werden soll.
+* **Bestellpostennummer**. Die Nummer des Bestellpostens.
+* **Erwartetes Eingangsdatum**. Das Datum, an dem das Teil voraussichtlich inventarisiert wird.
+* **Inventarisierungsnotiz**. Anmerkungen zum Erhalt der Ressource.
+* **Bestellungstyp**. Die Art der Bestellung, entweder einmalig oder laufend.
+* **Organisation**. Die Organisation, von der die Ressource erworben wurde.
+* **Zugangsanbieter**. Der Name der Organisation des Zugangsanbieters. Dieses Feld wird nur bei Bestellungen angezeigt, deren Bestellformat auf Elektronische Ressource oder KGV-Mix eingestellt ist.
+* **Materiallieferant**. Der Name der Organisation des Materiallieferanten. Dieses Feld wird nur für Bestellungen angezeigt, bei denen das Bestellformat auf Physische Ressource oder KGV-Mix eingestellt ist.
+* **Bestandsanfrage für**. Die Person, die das Exemplar angefordert hat.
+* **Eilt**. Dieses Kennzeichen gibt an, ob für diese Bestellung eine Eilabwicklung durchgeführt werden soll.
 
 ## Erwartet
 

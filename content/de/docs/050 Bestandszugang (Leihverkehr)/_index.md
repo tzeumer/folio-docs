@@ -11,11 +11,11 @@ Description: "
 
 In FOLIO umfasst der Bestandszugang wesentliche Vorgänge des Leihverkehrs. Diese Vorgänge umfassen:
 
--   Ausleihe und Ausgabe von Bibliotheksmaterialien
--   Rückgabe von Materialien
--   Verarbeitung von Bestandsanfragen
--   Verarbeitung von Semesterapparaten
--   Verwaltung von Leihverkehrsprotokollen
+* Ausleihe und Ausgabe von Bibliotheksmaterialien
+* Rückgabe von Materialien
+* Verarbeitung von Bestandsanfragen
+* Verarbeitung von Semesterapparaten
+* Verwaltung von Leihverkehrsprotokollen
 
 ## Einstellungen für den Leihverkehr
 

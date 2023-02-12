@@ -63,9 +63,9 @@ Diese Daten liefert FOLIO mit. Einige können gelöscht werden, andere nicht. Di
 
 Hinweise von Bibliotheken
 
--   TUBHH:
-    -   Die Default-Werte bei bestehenden und verwendeten Listen sind gelöscht (sofern nicht TUBHH hinter "Referenzdaten" steht).
-    -   Meist wurden wir _nicht_  die Referenzdaten genommen, sondern ein eigener "Wert" genutzt (verhindert Überschreibung und macht eigene Nutzung eindeutiger, gerade wenn bei Updates Listen wieder gefüllt werden)
+* TUBHH:
+    * Die Default-Werte bei bestehenden und verwendeten Listen sind gelöscht (sofern nicht TUBHH hinter "Referenzdaten" steht).
+    * Meist wurden wir _nicht_  die Referenzdaten genommen, sondern ein eigener "Wert" genutzt (verhindert Überschreibung und macht eigene Nutzung eindeutiger, gerade wenn bei Updates Listen wieder gefüllt werden)
 
 |Auswahlliste|Label|Ergänzt durch|Genutzt von|Löschbar|
 |:----|:----|:----|:----|:----|

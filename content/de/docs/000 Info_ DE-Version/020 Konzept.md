@@ -25,7 +25,7 @@ Verbesserungen können sukzessive aber immer vorgenommen werden ab 2023-01. Insg
 
 ## Todos
 
--   Evtl. ein paar sinnvolle topic-tags ergänzen
+* Evtl. ein paar sinnvolle topic-tags ergänzen
 
 ## Aktuell halten & Konkordanz
 
@@ -37,13 +37,13 @@ Diese Informationen sind am 12.1.2022 zu [Diese Dokumentation (Entwurf)](https:
 
 ## Temporäre Notizen
 
--   Prinzipiell wäre eine Übernahme Confluence > Hugo möglich ([Beispiel](https://inflo.ws/blog/posts/2018-07-06-migrate-from-confluence-to-hugo/)) - möglicherweise wäre das zukünftig eine bessere Alternative
-    -   Ansatz 2023-02-11
--   "pane" ist mit "Ansicht" übersetzt. Könnte auch "Spalte mit dem Titel" o.ä. sein
--   Merker Inhalt/Struktur
-    -   Die Kleinteiligkeit ist sinnvoll, da
-        -   Die Hilfe auch für die Anzeige in Folio selbst benutzt werden soll. Da muss jeder Schritt einzeln und vollständig erklärt sein
-        -   Leichte Sprache, keine Annahme zum Stand der Person vorm Bildschirm
-        -   Vieles nur einmal, aber richtig verstanden werden muss
-        -   Sie ist auch gut, weil sie wie Bugfest-Checklisten funktionieren, wo einfach Fehler/Änderungen zu finden sind, da nichts ausgelassen/gedanklich übersprungen wird
--   Da oft Seiten verlinkt waren, die noch nicht existierten, wurden die zu verlinkenden Texte hochgestellt formatiert. Sofern noch hochgestellte Texte vorhanden sind, wurden diese nur übersehen.
+* Prinzipiell wäre eine Übernahme Confluence > Hugo möglich ([Beispiel](https://inflo.ws/blog/posts/2018-07-06-migrate-from-confluence-to-hugo/)) - möglicherweise wäre das zukünftig eine bessere Alternative
+    * Ansatz 2023-02-11
+* "pane" ist mit "Ansicht" übersetzt. Könnte auch "Spalte mit dem Titel" o.ä. sein
+* Merker Inhalt/Struktur
+    * Die Kleinteiligkeit ist sinnvoll, da
+        * Die Hilfe auch für die Anzeige in Folio selbst benutzt werden soll. Da muss jeder Schritt einzeln und vollständig erklärt sein
+        * Leichte Sprache, keine Annahme zum Stand der Person vorm Bildschirm
+        * Vieles nur einmal, aber richtig verstanden werden muss
+        * Sie ist auch gut, weil sie wie Bugfest-Checklisten funktionieren, wo einfach Fehler/Änderungen zu finden sind, da nichts ausgelassen/gedanklich übersprungen wird
+* Da oft Seiten verlinkt waren, die noch nicht existierten, wurden die zu verlinkenden Texte hochgestellt formatiert. Sofern noch hochgestellte Texte vorhanden sind, wurden diese nur übersehen.

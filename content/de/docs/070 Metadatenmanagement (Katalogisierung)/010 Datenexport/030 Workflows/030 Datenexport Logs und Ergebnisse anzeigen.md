@@ -13,14 +13,14 @@ Sobald ein Export abgeschlossen ist, unabhängig davon, ob er fehlerfrei oder mi
 
 Die Tabelle Protokolle enthält die folgenden Spalten:
 
--   **Dateiname**. Name der MARC-Datei, die erstellt wurde.
--   **Status**. Status des Exports: Abgeschlossen, Abgeschlossen mit Fehlern oder Fehlgeschlagen.
--   **Gesamt**. Anzahl der Datensätze im Export.
--   **Fehlgeschlagen**. Anzahl der Datensätze, die fehlgeschlagen sind.
--   **Jobprofil**. Name des verwendeten Jobprofils.
--   **Lauf beendet**. Datum und Uhrzeit, zu der der Export beendet wurde.
--   **Ausgeführt von**. Person oder System, von dem der Export erstellt wurde.
--   **ID**. Identifikationsnummer des Exports.
+* **Dateiname**. Name der MARC-Datei, die erstellt wurde.
+* **Status**. Status des Exports: Abgeschlossen, Abgeschlossen mit Fehlern oder Fehlgeschlagen.
+* **Gesamt**. Anzahl der Datensätze im Export.
+* **Fehlgeschlagen**. Anzahl der Datensätze, die fehlgeschlagen sind.
+* **Jobprofil**. Name des verwendeten Jobprofils.
+* **Lauf beendet**. Datum und Uhrzeit, zu der der Export beendet wurde.
+* **Ausgeführt von**. Person oder System, von dem der Export erstellt wurde.
+* **ID**. Identifikationsnummer des Exports.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 

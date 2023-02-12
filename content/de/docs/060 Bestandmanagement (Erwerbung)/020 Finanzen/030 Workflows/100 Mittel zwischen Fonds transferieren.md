@@ -14,9 +14,9 @@ Es können Mittel zwischen den Budgets des aktuellen Haushaltsjahres zweier Fond
 1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), auf das Mittel transferiert werden sollen und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Transfer** klicken.
 3.  Im Dialogfeld **Transfer/Übertrag** die folgenden Informationen eingeben:
-    -   **Von (erforderlich)**. Den Fonds wählen, aus dem Mittel transferiert werden sollen.
-    -   **Nach (erforderlich)**. Den Fonds auswählen, an den Mittel transferiert werden sollen.
-    -   **Betrag (erforderlich)**. Einen Betrag als numerischen Wert eingeben. Es werden Werte mit oder ohne Dezimalstellen akzeptiert (100 oder 100,00). Negative Werte werden akzeptiert.
-    -   **Tags**. Alle Tags eingeben oder sie aus der Dropdown-Liste auswählen, die auf die Transfer-Aktion angewendet werden sollen.
-    -   **Beschreibung**. Eine Beschreibung des Transfers eingeben.
+    * **Von (erforderlich)**. Den Fonds wählen, aus dem Mittel transferiert werden sollen.
+    * **Nach (erforderlich)**. Den Fonds auswählen, an den Mittel transferiert werden sollen.
+    * **Betrag (erforderlich)**. Einen Betrag als numerischen Wert eingeben. Es werden Werte mit oder ohne Dezimalstellen akzeptiert (100 oder 100,00). Negative Werte werden akzeptiert.
+    * **Tags**. Alle Tags eingeben oder sie aus der Dropdown-Liste auswählen, die auf die Transfer-Aktion angewendet werden sollen.
+    * **Beschreibung**. Eine Beschreibung des Transfers eingeben.
 4.  Auf **Bestätigen** klicken. Es erscheint eine Bestätigungsmeldung und der Transfer ist abgeschlossen.

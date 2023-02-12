@@ -10,7 +10,7 @@ Description: "
 ---
 
 {{% pageinfo %}}
--   Sieh auch [Berechtigungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Berechtigungen)
+* Sieh auch [Berechtigungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Berechtigungen)
 {{% /pageinfo %}}
 
 ## Zugewiesene Berechtigung(en) entfernen

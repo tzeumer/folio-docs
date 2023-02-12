@@ -19,5 +19,5 @@ Die Feldmapping- und Jobprofile erhöhen die Flexibilität des Datenexports und 
 
 Um mit den Einstellungen für den Datenexport interagieren zu können, muss einer Person die folgende Berechtigung zugewiesen werden:
 
--   **Einstellungen (Datenexport): Liste der Einstellungsseiten anzeigen**. (Settings (data-export): display list of settings pages)
+* **Einstellungen (Datenexport): Liste der Einstellungsseiten anzeigen**. (Settings (data-export): display list of settings pages)
     Mit dieser Berechtigung kann die Person Datenexportprofile einrichten.

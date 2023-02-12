@@ -24,18 +24,18 @@ Anmerkung: Damit ein erwartetes Teil in der Inventarisierung hinzugefügt werden
 
 ## Teil hinzufügen
 
--   **Bezeichnung**. Ein Wort, eine Phrase oder eine Abkürzung, die die Teile angibt, in die der Verlag die Serie unterteilt hat, z. B. "Band", "Teil" oder "Band".
--   **Exemplarnummer**. Die Nummer des Exemplars des Teils.
--   **Zählung**. Die Zählung des Teils, die die fortlaufende numerische und/oder alphabetische Bezeichnung angibt, die von einem Verlag verwendet wird, um die einzelnen bibliografischen oder physischen Teile zu identifizieren und die Beziehung jedes Teils zur bibliografischen Einheit als Ganzes aufzuzeigen.
--   **Chronologie**. Die Chronologie des Teils, z. B. "Jahr", "Monat".
--   **Stückformat**. Das Format der Bestellung, wie in Bestellungen ausgewählt. Dieses Feld ist nicht bearbeitbar.
--   **Erwartetes Eingangsdatum**. Das Datum, an dem das Teil voraussichtlich inventarisiert wird.
--   **Kommentar**. Kommentare oder Anmerkungen zu dem Teil.
--   **Bestellposten Standorte**. Eine Liste der Standorte, die auf dem Bestellposten ausgewählt wurden.
--   **Bestand auswählen**. In der Dropdown-Liste den Bestand für dieses Teil auswählen. Der Standort kann geändert werden, indem auf **Neue Bestände für Standort anlegen** geklickt wird.
--   **Exemplar erstellen**. Die Checkbox **Artikel erstellen** markieren, um das neue Teil mit einer Instanz im Katalog zu verknüpfen. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Bestellposten **Im Katalog erstellen** auf "Instanz/Bestand/Exemplar" eingestellt ist. . Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen](https://info.gbv.de/pages/viewpage.action?pageId=851345510) für weitere Informationen.
--   **Ergänzung**. Die Checkbox Ergänzung markieren, um anzugeben, dass es sich bei dem Teil um eine ergänzende Ressource wie eine CD oder eine Karte handelt.
--   **Anzeige**. Die Checkbox **Anzeige** markieren, um anzugeben, dass Informationen zu diesem Teil in der App Katalog im Abschnitt Erwerbungen des Bestandsdatensatzes angezeigt werden sollen. Weitere Informationen sind unter Katalog > Erwerbung zu finden.
+* **Bezeichnung**. Ein Wort, eine Phrase oder eine Abkürzung, die die Teile angibt, in die der Verlag die Serie unterteilt hat, z. B. "Band", "Teil" oder "Band".
+* **Exemplarnummer**. Die Nummer des Exemplars des Teils.
+* **Zählung**. Die Zählung des Teils, die die fortlaufende numerische und/oder alphabetische Bezeichnung angibt, die von einem Verlag verwendet wird, um die einzelnen bibliografischen oder physischen Teile zu identifizieren und die Beziehung jedes Teils zur bibliografischen Einheit als Ganzes aufzuzeigen.
+* **Chronologie**. Die Chronologie des Teils, z. B. "Jahr", "Monat".
+* **Stückformat**. Das Format der Bestellung, wie in Bestellungen ausgewählt. Dieses Feld ist nicht bearbeitbar.
+* **Erwartetes Eingangsdatum**. Das Datum, an dem das Teil voraussichtlich inventarisiert wird.
+* **Kommentar**. Kommentare oder Anmerkungen zu dem Teil.
+* **Bestellposten Standorte**. Eine Liste der Standorte, die auf dem Bestellposten ausgewählt wurden.
+* **Bestand auswählen**. In der Dropdown-Liste den Bestand für dieses Teil auswählen. Der Standort kann geändert werden, indem auf **Neue Bestände für Standort anlegen** geklickt wird.
+* **Exemplar erstellen**. Die Checkbox **Artikel erstellen** markieren, um das neue Teil mit einer Instanz im Katalog zu verknüpfen. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Bestellposten **Im Katalog erstellen** auf "Instanz/Bestand/Exemplar" eingestellt ist. . Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen](https://info.gbv.de/pages/viewpage.action?pageId=851345510) für weitere Informationen.
+* **Ergänzung**. Die Checkbox Ergänzung markieren, um anzugeben, dass es sich bei dem Teil um eine ergänzende Ressource wie eine CD oder eine Karte handelt.
+* **Anzeige**. Die Checkbox **Anzeige** markieren, um anzugeben, dass Informationen zu diesem Teil in der App Katalog im Abschnitt Erwerbungen des Bestandsdatensatzes angezeigt werden sollen. Weitere Informationen sind unter Katalog > Erwerbung zu finden.
 
 ### Neuen Bestand für Standort anlegen
 

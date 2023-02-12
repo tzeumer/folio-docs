@@ -11,4 +11,4 @@ Description: "
 
 Der Bericht über Exemplare in Transport zeigt alle Exemplare mit dem Exemplarstatus In Transport an.
 
--   In der Ansicht Katalog auf **Aktionen > Bericht über Exemplare im Transport (CSV)** klicken. Je nach Browser und dessen Konfiguration wird die Datei automatisch heruntergeladen oder es wird aufgefordert, sie zu speichern.
+* In der Ansicht Katalog auf **Aktionen > Bericht über Exemplare im Transport (CSV)** klicken. Je nach Browser und dessen Konfiguration wird die Datei automatisch heruntergeladen oder es wird aufgefordert, sie zu speichern.

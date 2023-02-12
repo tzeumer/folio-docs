@@ -21,9 +21,9 @@ Mit der App "eVergleich" können die Inhalte 2 verschiedener Zeitschriften- oder
 
 Die Pakete, die miteinander verglichen werden sollen, müssen
 
--   in den e-Ressourcen als Paket vorhanden sein (Paket aus GOKb) oder
--   als Vereinbarungskomponente mit einer Vereinbarung verknüpft sein, oder
--   über die App "Lokale KB-Verwaltung als KBART oder JSON-Datei importiert worden sein.
+* in den e-Ressourcen als Paket vorhanden sein (Paket aus GOKb) oder
+* als Vereinbarungskomponente mit einer Vereinbarung verknüpft sein, oder
+* über die App "Lokale KB-Verwaltung als KBART oder JSON-Datei importiert worden sein.
 
 ## Durchführung eines Vergleichs mit Paketen
 
@@ -48,9 +48,9 @@ Die Pakete, die miteinander verglichen werden sollen, müssen
 
 ## Durchführung eines Vergleichs mit Vereinbarungen
 
--   Der Vergleich von 2 Vereinbarungen wird genauso durchgeführt, wie oben für Pakete beschrieben. Anstatt auf "Paket hinzufügen" muss man auf "Vereinbarung hinzufügen" und "Vereinbarung verknüpfen" klicken
--   Im Suchfenster wird die Liste aller Vereinbarungen angezeigt
--   Zu beachten beim Vergleich von Vereinbarungen ist, dass alle Pakete die in einer Vereinbarung enthalten sind verglichen werden. Im Vergleichsbericht ist nicht zu erkennen, aus welchem Paket ein bestimmter Titel stammt.
+* Der Vergleich von 2 Vereinbarungen wird genauso durchgeführt, wie oben für Pakete beschrieben. Anstatt auf "Paket hinzufügen" muss man auf "Vereinbarung hinzufügen" und "Vereinbarung verknüpfen" klicken
+* Im Suchfenster wird die Liste aller Vereinbarungen angezeigt
+* Zu beachten beim Vergleich von Vereinbarungen ist, dass alle Pakete die in einer Vereinbarung enthalten sind verglichen werden. Im Vergleichsbericht ist nicht zu erkennen, aus welchem Paket ein bestimmter Titel stammt.
 
 ## Löschen eines Vergleichs
 

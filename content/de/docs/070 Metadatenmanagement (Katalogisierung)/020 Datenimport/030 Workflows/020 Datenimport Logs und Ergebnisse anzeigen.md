@@ -15,13 +15,13 @@ Sobald ein Import abgeschlossen ist, unabhängig davon, ob er fehlerfrei oder mi
 
 Die Tabelle Protokolle enthält die folgenden Spalten:
 
--   **Dateiname**. Name der MARC-Datei, die importiert wurde.
--   **Status**. Status des Imports: Abgeschlossen, Abgeschlossen mit Fehlern oder Fehlgeschlagen.
--   **Datensätze**. Anzahl der Datensätze im Import.
--   **Jobprofil**. Name des verwendeten Jobprofils.
--   **Lauf beendet**. Datum und Uhrzeit, zu der der Import beendet wurde.
--   **Ausgeführt von**. Person oder System, von dem der Import erstellt wurde.
--   **ID**. Identifikationsnummer des Imports.
+* **Dateiname**. Name der MARC-Datei, die importiert wurde.
+* **Status**. Status des Imports: Abgeschlossen, Abgeschlossen mit Fehlern oder Fehlgeschlagen.
+* **Datensätze**. Anzahl der Datensätze im Import.
+* **Jobprofil**. Name des verwendeten Jobprofils.
+* **Lauf beendet**. Datum und Uhrzeit, zu der der Import beendet wurde.
+* **Ausgeführt von**. Person oder System, von dem der Import erstellt wurde.
+* **ID**. Identifikationsnummer des Imports.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -33,9 +33,9 @@ Protokolle werden nie gelöscht. Die neun aktuellsten Protokolle werden in der T
 
 Nachdem alle Protokolle angezeigt werden, kann in der Ansicht **Suchen & Filtern** nach Dateien gesucht werden. Um nach einer Datei zu suchen, die Bedingungen in das Feld eingeben. Die Dropdown-Liste **Schlüsselwort** wählen, um in einem der folgenden Felder zu suchen:
 
--   **Schlüsselwort (ID, Dateiname)**. Schlüsselwortsuche über die Felder ID und Dateiname.
--   **ID**. Identifikation des Imports.
--   **Dateiname**. Name der Importdatei.
+* **Schlüsselwort (ID, Dateiname)**. Schlüsselwortsuche über die Felder ID und Dateiname.
+* **ID**. Identifikation des Imports.
+* **Dateiname**. Name der Importdatei.
 
 Es kann auch nach Protokollen gesucht werden, indem einer der Filter in der Ansicht **Suchen & Filtern** ausgewählt wird. Außerdem können die Filter nach einer Suche angewendet werden, um die Ergebnisse einzuschränken. Weitere Informationen sind in den folgenden Abschnitten zu finden.
 
@@ -43,8 +43,8 @@ Es kann auch nach Protokollen gesucht werden, indem einer der Filter in der Ansi
 
 Um Protokolle danach zu filtern, ob sie Fehler enthalten oder nicht, eine der folgenden Optionen wählen:
 
--   **Nein**. Protokolle, die keine Fehler enthalten.
--   **Ja**. Protokolle mit Fehlern.
+* **Nein**. Protokolle, die keine Fehler enthalten.
+* **Ja**. Protokolle mit Fehlern.
 
 ##### Datum
 
@@ -74,8 +74,8 @@ Einzeldatensatzimporte sind Datensätze, die aus einer externen Quelle wie OCLC 
 
 Um Protokolle danach zu filtern, ob es sich um Einzeldatensatzimporte aus dem Katalog handelt oder nicht, in der Ansicht **Suchen & Filtern** auf **Einzeldatensatzimporte aus dem Katalog** klicken und eine der folgenden Optionen auswählen:
 
--   **Nein**. Alle anderen Arten von Protokollen.
--   **Ja**. Protokolle für Katalog-Einzelsatzimporte.
+* **Nein**. Alle anderen Arten von Protokollen.
+* **Ja**. Protokolle für Katalog-Einzelsatzimporte.
 
 ## Abrufen von Datenexportergebnissen
 

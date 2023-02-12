@@ -12,9 +12,9 @@ Description: "
 {{% pageinfo %}}
 Siehe auch
 
--   [FOLIO Wiki: Guides to FOLIO Permissions](https://wiki.folio.org/display/FOLIOtips/Guides+to+FOLIO+Permissions)
--   [Folio: Person Rechte zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+zuweisen)
--   [Folio: Person Rechte entziehen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+entziehen)
+* [FOLIO Wiki: Guides to FOLIO Permissions](https://wiki.folio.org/display/FOLIOtips/Guides+to+FOLIO+Permissions)
+* [Folio: Person Rechte zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+zuweisen)
+* [Folio: Person Rechte entziehen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+entziehen)
 {{% /pageinfo %}}
 
 FOLIO verfügt über ein System von Benutzerrechten, mit dem sich genau steuern lässt, worauf Benutzer in FOLIO zugreifen können.
@@ -29,16 +29,16 @@ Eine Berechtigung ist ein Objekt in FOLIO, das verwendet werden kann, um den Zug
 
 Eine Berechtigung kann eine Reihe verschiedener Attribute haben, je nachdem, ob Sie die Berechtigung im FOLIO-Code betrachten oder ob Sie die Berechtigungen für einen Benutzer in einem FOLIO-Mandanten betrachten. Attribute können sein:
 
--   **permissionName**. Dies ist der eindeutige Name der Berechtigung.
--   **displayName**. Dies ist ein von Menschen lesbarer Name für die Berechtigung, der in der Regel dem Namen entspricht, der in der Benutzeroberfläche angezeigt wird. Zu beachten ist, dass es sich bei der Anzeige in der FOLIO-Benutzeroberfläche um eine übersetzte Bezeichnung für den Berechtigungsnamen handelt; die Übersetzungen werden für die unterstützten Sprachen in jedem FOLIO-Modul gespeichert. Der displayName wurde in früheren Versionen von FOLIO verwendet, erfüllt aber in der FOLIO-Benutzeroberfläche keinen Zweck mehr.
--   **id**. Die id ist ein eindeutiger Bezeichner für die Berechtigung auf Mandantenebene, der erstellt wird, wenn das entsprechende FOLIO-Modul installiert wird.
--   **Description**. Eine Beschreibung der Berechtigung, wie sie vom Entwickler bereitgestellt wurde. Dieses Feld ist optional.
--   **subPermissions**. Viele Berechtigungen sind eigentlich eine Gruppierung von spezifischeren Berechtigungen - wenn dies der Fall ist, werden diese spezifischeren Berechtigungen unter subPermissions aufgeführt.
--   **childOf**. Wenn eine Berechtigung eine Unterberechtigung für eine andere Berechtigung ist, wird diese "übergeordnete" (=parent) Berechtigung aufgelistet.
--   **grantedTo**. Wenn die Berechtigung einem FOLIO-Benutzer erteilt wurde, wird dessen Benutzer-ID für die Berechtigung aufgelistet.
--   **mutable**. Eine Berechtigung kann entweder veränderbar oder unveränderbar sein; standardmäßig sind Berechtigungen unveränderbar. Wenn eine Berechtigung als "mutable" : false definiert ist, kann sie nicht geändert werden, ohne den zugehörigen Modulcode zu ändern und das Modul neu zu starten. Wenn eine Berechtigung als "mutable" : true definiert ist, kann sie in der Benutzeroberfläche geändert werden, ohne dass das zugehörige Modul angehalten und neu gestartet werden muss.
--   **visible**. Eine Berechtigung kann entweder sichtbar oder unsichtbar sein. Standardmäßig ist eine Berechtigung unsichtbar. Wenn eine Berechtigung als "visible" : true definiert ist, dann ist sie in der FOLIO-Benutzeroberfläche sichtbar. Wenn eine Berechtigung als "visible" : false definiert ist, dann ist sie standardmäßig in der FOLIO-Benutzeroberfläche nicht sichtbar.
--   deprecated **moduleName** und **moduleVersion**. Diese Felder erscheinen nur, wenn man sich eine FOLIO-Installation direkt ansieht, sie sind nicht im Code enthalten. Diese Felder geben Auskunft darüber, welches Modul die Berechtigungsdefinition bereitgestellt hat und welche Version dieses Moduls läuft.
+* **permissionName**. Dies ist der eindeutige Name der Berechtigung.
+* **displayName**. Dies ist ein von Menschen lesbarer Name für die Berechtigung, der in der Regel dem Namen entspricht, der in der Benutzeroberfläche angezeigt wird. Zu beachten ist, dass es sich bei der Anzeige in der FOLIO-Benutzeroberfläche um eine übersetzte Bezeichnung für den Berechtigungsnamen handelt; die Übersetzungen werden für die unterstützten Sprachen in jedem FOLIO-Modul gespeichert. Der displayName wurde in früheren Versionen von FOLIO verwendet, erfüllt aber in der FOLIO-Benutzeroberfläche keinen Zweck mehr.
+* **id**. Die id ist ein eindeutiger Bezeichner für die Berechtigung auf Mandantenebene, der erstellt wird, wenn das entsprechende FOLIO-Modul installiert wird.
+* **Description**. Eine Beschreibung der Berechtigung, wie sie vom Entwickler bereitgestellt wurde. Dieses Feld ist optional.
+* **subPermissions**. Viele Berechtigungen sind eigentlich eine Gruppierung von spezifischeren Berechtigungen - wenn dies der Fall ist, werden diese spezifischeren Berechtigungen unter subPermissions aufgeführt.
+* **childOf**. Wenn eine Berechtigung eine Unterberechtigung für eine andere Berechtigung ist, wird diese "übergeordnete" (=parent) Berechtigung aufgelistet.
+* **grantedTo**. Wenn die Berechtigung einem FOLIO-Benutzer erteilt wurde, wird dessen Benutzer-ID für die Berechtigung aufgelistet.
+* **mutable**. Eine Berechtigung kann entweder veränderbar oder unveränderbar sein; standardmäßig sind Berechtigungen unveränderbar. Wenn eine Berechtigung als "mutable" : false definiert ist, kann sie nicht geändert werden, ohne den zugehörigen Modulcode zu ändern und das Modul neu zu starten. Wenn eine Berechtigung als "mutable" : true definiert ist, kann sie in der Benutzeroberfläche geändert werden, ohne dass das zugehörige Modul angehalten und neu gestartet werden muss.
+* **visible**. Eine Berechtigung kann entweder sichtbar oder unsichtbar sein. Standardmäßig ist eine Berechtigung unsichtbar. Wenn eine Berechtigung als "visible" : true definiert ist, dann ist sie in der FOLIO-Benutzeroberfläche sichtbar. Wenn eine Berechtigung als "visible" : false definiert ist, dann ist sie standardmäßig in der FOLIO-Benutzeroberfläche nicht sichtbar.
+* deprecated **moduleName** und **moduleVersion**. Diese Felder erscheinen nur, wenn man sich eine FOLIO-Installation direkt ansieht, sie sind nicht im Code enthalten. Diese Felder geben Auskunft darüber, welches Modul die Berechtigungsdefinition bereitgestellt hat und welche Version dieses Moduls läuft.
 
 ## Namenskonvention
 
@@ -51,27 +51,27 @@ Berechtigungsnamen folgen im Allgemeinen einem von zwei Formaten:
 
 ### Beispiele
 
--   Vereinbarungen: Vereinbarungen bearbeiten
-    -   Mit dieser Berechtigung können FOLIO-Benutzer Datensätze von Vereinbarungen in der App für Vereinbarungen bearbeiten.
--   Einstellungen (Katalog): Materialarten erstellen, bearbeiten, löschen
-    -   Mit dieser Berechtigung können FOLIO-Benutzer auf die Einstellungen im Katalog zugreifen und Materialarten hinzufügen, ändern oder löschen.
+* Vereinbarungen: Vereinbarungen bearbeiten
+    * Mit dieser Berechtigung können FOLIO-Benutzer Datensätze von Vereinbarungen in der App für Vereinbarungen bearbeiten.
+* Einstellungen (Katalog): Materialarten erstellen, bearbeiten, löschen
+    * Mit dieser Berechtigung können FOLIO-Benutzer auf die Einstellungen im Katalog zugreifen und Materialarten hinzufügen, ändern oder löschen.
 
 ## Schlüsselbegriffe
 
--   **Gruppenberechtigung**. Eine Gruppenberechtigung in FOLIO besteht aus einer oder mehreren Unterberechtigungen.
-    -   Gruppenberechtigungen können im FOLIO-System von einem Entwickler erstellt werden.
-    -   Gruppenberechtigungen können auch von einzelnen Bibliotheken unter Einstellungen → Personen erstellt werden.
--   **CRUD**. CRUD steht für "Erstellen, Lesen, Aktualisieren und Löschen" (Create, Read, Update and Delete). In Diskussionen über Berechtigungen wird dieser Begriff oft als Abkürzung verwendet. Die meisten FOLIO-Berechtigungen erlauben "CRUD"-Funktionalität - sie geben die Möglichkeit, FOLIO-Datensätze zu erstellen, zu lesen, zu aktualisieren und/oder zu löschen.
-    -   Eine Berechtigung, die den Zugriff auf das Erstellen, Aktualisieren oder Löschen eines Datensatzes erlaubt, beinhaltet in der Regel auch die Möglichkeit, den Datensatz anzusehen. Zum Beispiel beinhaltet die Berechtigung "Benutzer: Kann Benutzerprofil bearbeiten" eine Unterberechtigung für die Anzeige von Benutzerprofilen enthalten. Sie müssen einem FOLIO-Benutzer nicht beide Berechtigungen erteilen, um das Anzeigen und Bearbeiten von Benutzerdatensätzen zu ermöglichen.
--   **Sichtbare Berechtigung**. Eine sichtbare Berechtigung ist eine Berechtigung, die Sie in der Liste der Berechtigungen in der Benutzeroberfläche sehen können. Sie können Benutzern direkt zugewiesen werden und/oder Sie können sie einer Gruppenberechtigung über Einstellungen → Personen → Allgemein → Gruppenberechtigungen hinzufügen.
--   **Unsichtbare Berechtigung**: Eine unsichtbare Berechtigung ist in der FOLIO-Benutzeroberfläche verborgen und wird normalerweise nicht direkt einem FOLIO-Benutzer zugewiesen. Unsichtbare Berechtigungen sind in der Regel Teil eines Backend-Moduls. Sie bieten einen sehr spezifischen, begrenzten Zugriff auf Funktionen in FOLIO.
+* **Gruppenberechtigung**. Eine Gruppenberechtigung in FOLIO besteht aus einer oder mehreren Unterberechtigungen.
+    * Gruppenberechtigungen können im FOLIO-System von einem Entwickler erstellt werden.
+    * Gruppenberechtigungen können auch von einzelnen Bibliotheken unter Einstellungen → Personen erstellt werden.
+* **CRUD**. CRUD steht für "Erstellen, Lesen, Aktualisieren und Löschen" (Create, Read, Update and Delete). In Diskussionen über Berechtigungen wird dieser Begriff oft als Abkürzung verwendet. Die meisten FOLIO-Berechtigungen erlauben "CRUD"-Funktionalität - sie geben die Möglichkeit, FOLIO-Datensätze zu erstellen, zu lesen, zu aktualisieren und/oder zu löschen.
+    * Eine Berechtigung, die den Zugriff auf das Erstellen, Aktualisieren oder Löschen eines Datensatzes erlaubt, beinhaltet in der Regel auch die Möglichkeit, den Datensatz anzusehen. Zum Beispiel beinhaltet die Berechtigung "Benutzer: Kann Benutzerprofil bearbeiten" eine Unterberechtigung für die Anzeige von Benutzerprofilen enthalten. Sie müssen einem FOLIO-Benutzer nicht beide Berechtigungen erteilen, um das Anzeigen und Bearbeiten von Benutzerdatensätzen zu ermöglichen.
+* **Sichtbare Berechtigung**. Eine sichtbare Berechtigung ist eine Berechtigung, die Sie in der Liste der Berechtigungen in der Benutzeroberfläche sehen können. Sie können Benutzern direkt zugewiesen werden und/oder Sie können sie einer Gruppenberechtigung über Einstellungen → Personen → Allgemein → Gruppenberechtigungen hinzufügen.
+* **Unsichtbare Berechtigung**: Eine unsichtbare Berechtigung ist in der FOLIO-Benutzeroberfläche verborgen und wird normalerweise nicht direkt einem FOLIO-Benutzer zugewiesen. Unsichtbare Berechtigungen sind in der Regel Teil eines Backend-Moduls. Sie bieten einen sehr spezifischen, begrenzten Zugriff auf Funktionen in FOLIO.
 
 ## Allgemeine Workflows
 
 Gängige Berechtigungs-Workflows umfassen:
 
--   Folio: Zuweisung von Berechtigungen und Berechtigungsgruppen zu einem Benutzerdatensatz
--   Folio: Eigene Berechtigungsgruppen erstellen
+* Folio: Zuweisung von Berechtigungen und Berechtigungsgruppen zu einem Benutzerdatensatz
+* Folio: Eigene Berechtigungsgruppen erstellen
 
 ## Sichtbare versus unsichtbare Berechtigungen
 

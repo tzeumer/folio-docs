@@ -15,6 +15,6 @@ Das Verschieben der Rechnung in den Status Bezahlt löst eine Aktualisierung des
 
 Um eine Rechnung zu bezahlen, folgendermaßen vorgehen:
 
--   [Die Rechnung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+suchen), die freigegeben ist und bezahlt werden soll und sie auswählen.
--   In der Ansicht **Belegnummer der Rechnung** auf **Aktionen > Bezahlen** klicken.
--   Auf **Absenden** klicken.
+* [Die Rechnung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+suchen), die freigegeben ist und bezahlt werden soll und sie auswählen.
+* In der Ansicht **Belegnummer der Rechnung** auf **Aktionen > Bezahlen** klicken.
+* Auf **Absenden** klicken.

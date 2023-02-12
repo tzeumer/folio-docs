@@ -13,12 +13,12 @@ Diese Einstellung verwenden, um die Servicestellen der Bibliothek zu konfigurier
 
 Ein Servicepunkt wird benötigt, wenn mindestens einen der folgenden Dienste an diesem Ort angeboten werden:
 
--   Exemplare ausleihen.
--   Exemplare zurückgeben.
--   Bestandsanfrage für die Lieferung von Exemplaren an Personen.
--   Bestandsanfrage zur Abholung durch eine Person.
--   Exemplare an einen anderen Standort transportieren lassen.
--   Forderungen für Transaktionen erheben, die an diesem Standort stattgefunden haben.
+* Exemplare ausleihen.
+* Exemplare zurückgeben.
+* Bestandsanfrage für die Lieferung von Exemplaren an Personen.
+* Bestandsanfrage zur Abholung durch eine Person.
+* Exemplare an einen anderen Standort transportieren lassen.
+* Forderungen für Transaktionen erheben, die an diesem Standort stattgefunden haben.
 
 Jeder Standort, der über physische Materialien verfügt, benötigt einen zugehörigen primären Servicepunkt, um diese Materialien zu verwalten. Daher sollten die gewünschten Servicestellen angelegt werden, bevor die Standorthierarchie erstellt wird.
 

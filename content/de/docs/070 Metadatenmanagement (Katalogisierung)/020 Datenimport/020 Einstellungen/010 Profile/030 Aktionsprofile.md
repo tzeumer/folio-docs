@@ -38,11 +38,11 @@ Die Suchleiste verwenden, um nach Aktionsprofil en in der Tabelle Aktionsprofil 
 
 Die Tabelle Aktionsprofile enthält die folgenden Spalten:
 
--   **Name**. Name des Aktionsprofils.
--   **Aktion**. Die im Aktionsprofil enthaltene Aktion.
--   **Tags**. Alle dem Aktionsprofil zugewiesenen Tags
--   **Aktualisiert**. Datum, an dem das Aktionsprofil zuletzt aktualisiert wurde.
--   **Aktualisiert von**. Person, die das Aktionsprofil zuletzt aktualisiert hat.
+* **Name**. Name des Aktionsprofils.
+* **Aktion**. Die im Aktionsprofil enthaltene Aktion.
+* **Tags**. Alle dem Aktionsprofil zugewiesenen Tags
+* **Aktualisiert**. Datum, an dem das Aktionsprofil zuletzt aktualisiert wurde.
+* **Aktualisiert von**. Person, die das Aktionsprofil zuletzt aktualisiert hat.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -50,7 +50,7 @@ Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte
 
 Um die Details eines Aktionsprofil s anzuzeigen, folgendermaßen vorgehen:
 
--   In der Ansicht **Aktionsprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Aktionsprofil** wird angezeigt.
+* In der Ansicht **Aktionsprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Aktionsprofil** wird angezeigt.
 
 ## Aktionsprofil für Importjob bearbeiten
 

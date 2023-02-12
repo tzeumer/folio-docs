@@ -11,8 +11,8 @@ Description: "
 
 FOLIO bietet Funktionen für Bestandsanfragen sowohl auf Exemplar- als auch auf Titelebene. Bestandsanfragen auf Titelebene sind standardmäßig deaktiviert. Wenn die Bibliothek diese Funktion nutzen möchte, müssen die entsprechenden Einstellungen in diesem Abschnitt aktivieren und konfiguriert werden.
 
--   **Bestandsanfragen auf Titelebene zulassen**. Wenn die Bibliothek die Bestandsanfrage auf Titelebene verwenden möchte, dieses Feld markieren.
--   **"Bestandsanfrage auf Titelebene erstellen" ist standardmäßig aktiviert**. Wenn Bestandsanfragen auf Titelebene verwendet werden, gibt es in der Bestandsanfragen-App ein Kästchen, mit dem umgeschaltet werden kann, ob eine Anfrage auf Titel- oder auf Exemplarebene gestellt wird. Wenn Bestandsanfragen auf Titelebene standardmäßig ausgewählt sein sollen, dieses Feld markieren.
+* **Bestandsanfragen auf Titelebene zulassen**. Wenn die Bibliothek die Bestandsanfrage auf Titelebene verwenden möchte, dieses Feld markieren.
+* **"Bestandsanfrage auf Titelebene erstellen" ist standardmäßig aktiviert**. Wenn Bestandsanfragen auf Titelebene verwendet werden, gibt es in der Bestandsanfragen-App ein Kästchen, mit dem umgeschaltet werden kann, ob eine Anfrage auf Titel- oder auf Exemplarebene gestellt wird. Wenn Bestandsanfragen auf Titelebene standardmäßig ausgewählt sein sollen, dieses Feld markieren.
 
 Unten auf dem Bildschirm auf **Speichern** klicken, um alle Änderungen zu speichern.
 
@@ -24,7 +24,7 @@ Benachrichtigungen, die durch Bestandsanfragen auf Titelebene ausgelöst werden,
 
 FOLIO sendet Personen Benachrichtigungen für Im Abholregal und im Abholregal ablaufende Exemplare, wenn diese in der entsprechenden Ausleihregel konfiguriert sind.
 
--   **Bestätigungsbenachrichtigung** : Eine Benachrichtigungsvorlage aus der Dropdown-Liste auswählen, wenn gewünscht ist, dass eine Person eine Benachrichtigung erhält, wenn eine Bestandsanfrage auf Titelebene erstellt wird.
--   **Stornierungsbenachrichtigung**: Eine Benachrichtigungsvorlage aus der Dropdown-Liste wählen, wenn eine Person benachrichtigt werden soll, wenn eine Bestandsanfrage auf Titelebene storniert wird.
--   Ablaufbenachrichtigung: Eine Benachrichtigungsvorlage aus der Dropdown-Liste wählen, wenn eine Person benachrichtigt werden soll, wenn eine Bestandsanfrage ausläuft, ohne dass sie erfüllt wurde.
--   Unten auf dem Bildschirm auf **Speichern** klicken, um die Änderungen zu speichern.
+* **Bestätigungsbenachrichtigung** : Eine Benachrichtigungsvorlage aus der Dropdown-Liste auswählen, wenn gewünscht ist, dass eine Person eine Benachrichtigung erhält, wenn eine Bestandsanfrage auf Titelebene erstellt wird.
+* **Stornierungsbenachrichtigung**: Eine Benachrichtigungsvorlage aus der Dropdown-Liste wählen, wenn eine Person benachrichtigt werden soll, wenn eine Bestandsanfrage auf Titelebene storniert wird.
+* Ablaufbenachrichtigung: Eine Benachrichtigungsvorlage aus der Dropdown-Liste wählen, wenn eine Person benachrichtigt werden soll, wenn eine Bestandsanfrage ausläuft, ohne dass sie erfüllt wurde.
+* Unten auf dem Bildschirm auf **Speichern** klicken, um die Änderungen zu speichern.

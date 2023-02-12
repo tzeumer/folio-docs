@@ -21,26 +21,26 @@ Nach Protokollen suchen, indem einer der Filter in der Ansicht Suchen & Filtern 
 
 Um nach Status zu filtern, einen Filter wählen:
 
--   **Geplant**. Dieser Export wurde geplant, aber noch nicht ausgeführt.
--   **In Bearbeitung**. Dieser Export wird gerade ausgeführt.
--   **Erfolgreich**. Dieser Export wurde bis zum Ende ausgeführt.
--   **Fehlgeschlagen**. Dieser Export konnte nicht durchgeführt werden. Auf  die Zeilen mit diesem Status klicken um Fehlerdetails zu erhalten.
+* **Geplant**. Dieser Export wurde geplant, aber noch nicht ausgeführt.
+* **In Bearbeitung**. Dieser Export wird gerade ausgeführt.
+* **Erfolgreich**. Dieser Export wurde bis zum Ende ausgeführt.
+* **Fehlgeschlagen**. Dieser Export konnte nicht durchgeführt werden. Auf  die Zeilen mit diesem Status klicken um Fehlerdetails zu erhalten.
 
 ## Jobtyp
 
 Um nach Jobtyp zu filtern, einen Filter wählen:
 
--   **Bursar**. Dieser Export enthält Gebühren und/oder Erstattungen, die an den Zahlmeister überwiesen wurden. Das Ausgabeformat ist .dat.
--   **Ausleihprotokoll**. Dieser Export enthält Suchergebnisse aus dem Ausleihprotokoll. Das Ausgabeformat ist .csv.
--   **eHoldings**. Dieser Export enthält Paket- und Titeldetails aus eHoldings. Das Ausgabeformat ist .csv.
--   **Massenbearbeitung**. Dieser Export enthält heruntergeladene Informationen aus der Massenbearbeitung. Das Ausgabeformat ist .csv.
+* **Bursar**. Dieser Export enthält Gebühren und/oder Erstattungen, die an den Zahlmeister überwiesen wurden. Das Ausgabeformat ist .dat.
+* **Ausleihprotokoll**. Dieser Export enthält Suchergebnisse aus dem Ausleihprotokoll. Das Ausgabeformat ist .csv.
+* **eHoldings**. Dieser Export enthält Paket- und Titeldetails aus eHoldings. Das Ausgabeformat ist .csv.
+* **Massenbearbeitung**. Dieser Export enthält heruntergeladene Informationen aus der Massenbearbeitung. Das Ausgabeformat ist .csv.
 
 ## System
 
 Um danach zu filtern, ob der Auftrag vom System generiert wurde oder nicht, eine der folgenden Optionen wählen:
 
--   **Ja**. Der Export wurde automatisch initiiert.
--   **Nein**. Der Export wurde von einer Person manuell ausgelöst.
+* **Ja**. Der Export wurde automatisch initiiert.
+* **Nein**. Der Export wurde von einer Person manuell ausgelöst.
 
 ## Quelle
 

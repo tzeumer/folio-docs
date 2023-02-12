@@ -15,16 +15,16 @@ Standorte sind für jede Bibliothek erforderlich, die Bestands- oder Exemplardat
 
 Die Standorteinrichtung besteht aus vier hierarchischen Elementen - jede Ebene der Hierarchie muss mindestens einen Wert aufweisen, damit ein Wert auf der nächsten, spezifischeren Ebene erstellt werden kann.
 
--   **Institution**. Eine Institution ist die höchste Ebene der FOLIO-Standorthierarchie. Eine Institution repräsentiert in der Regel Entitäten wie ein Institut oder eine Universität, wobei dies keine Vorgabe von FOLIO ist. Sie können eine oder mehrere Institutionen erstellen.
--   **Campus**. Ein Campus ist die zweithöchste Ebene der FOLIO-Standorthierarchie. Ein Campus repräsentiert typischerweise verschiedene Teile einer Institution, wie einen physischen oder einen Zweigcampus oder Online-Programme, wobei dies keine Vorgabe von FOLIO ist.
--   **Bibliothek**. Eine Bibliothek ist die dritte Ebene der FOLIO-Standorthierarchie. Eine Bibliothek repräsentiert typischerweise physische Gebäude auf einem Campus oder Dienstbereiche auf einem virtuellen Campus, wobei dies keine Vorgabe von FOLIO ist.
--   **Standort**. Ein Standort ist die vierte und detaillierteste Ebene der FOLIO-Standorthierarchie. Ein Standort repräsentiert in der Regel bestimmte Regalbereiche, wie z. B. die Magazine, Lehrbücher oder bestimmte Sprachsammlungen, wobei dies keine Vorgabe von FOLIO ist.
+* **Institution**. Eine Institution ist die höchste Ebene der FOLIO-Standorthierarchie. Eine Institution repräsentiert in der Regel Entitäten wie ein Institut oder eine Universität, wobei dies keine Vorgabe von FOLIO ist. Sie können eine oder mehrere Institutionen erstellen.
+* **Campus**. Ein Campus ist die zweithöchste Ebene der FOLIO-Standorthierarchie. Ein Campus repräsentiert typischerweise verschiedene Teile einer Institution, wie einen physischen oder einen Zweigcampus oder Online-Programme, wobei dies keine Vorgabe von FOLIO ist.
+* **Bibliothek**. Eine Bibliothek ist die dritte Ebene der FOLIO-Standorthierarchie. Eine Bibliothek repräsentiert typischerweise physische Gebäude auf einem Campus oder Dienstbereiche auf einem virtuellen Campus, wobei dies keine Vorgabe von FOLIO ist.
+* **Standort**. Ein Standort ist die vierte und detaillierteste Ebene der FOLIO-Standorthierarchie. Ein Standort repräsentiert in der Regel bestimmte Regalbereiche, wie z. B. die Magazine, Lehrbücher oder bestimmte Sprachsammlungen, wobei dies keine Vorgabe von FOLIO ist.
 
 In der Praxis stellen die meisten Bibliotheken physische Standorte in ihrem Standortbaum dar, aber FOLIO schreibt dies nicht vor. Bibliotheken können Standorte auf verschiedene Weise darstellen.
 
--   Eine Bibliothek könnte sich dafür entscheiden, ihre Sammlung durch den physischen Standort der Bestände zu beschreiben, z. B. 3. Stock, N-Seite, Gang 1, Seite A.
--   Eine Bibliothek kann ihre Standorte nach der Verwaltungsstruktur gruppieren, z. B. eine Institution mit zwei Standorten, einer für wissenschaftliche Mitarbeitende und einer für Studierende.
--   Eine Bibliothek könnte sich dafür entscheiden, ihre elektronischen Exemplare in ihre Standortstruktur einzubeziehen und eine Institution für physische Exemplare und eine Institution für elektronische Exemplare zu haben, wobei jede Institution ihren eigenen Campus, ihre eigene Bibliothek und ihre eigene Standortstruktur hat.
+* Eine Bibliothek könnte sich dafür entscheiden, ihre Sammlung durch den physischen Standort der Bestände zu beschreiben, z. B. 3. Stock, N-Seite, Gang 1, Seite A.
+* Eine Bibliothek kann ihre Standorte nach der Verwaltungsstruktur gruppieren, z. B. eine Institution mit zwei Standorten, einer für wissenschaftliche Mitarbeitende und einer für Studierende.
+* Eine Bibliothek könnte sich dafür entscheiden, ihre elektronischen Exemplare in ihre Standortstruktur einzubeziehen und eine Institution für physische Exemplare und eine Institution für elektronische Exemplare zu haben, wobei jede Institution ihren eigenen Campus, ihre eigene Bibliothek und ihre eigene Standortstruktur hat.
 
 ## Dauerhafte, temporäre und tatsächliche Standorte
 
@@ -66,9 +66,9 @@ Der Tatsächliche Standort wird verwendet, um Informationen über den Standort v
 
 Im Bestandsdatensatz gibt es drei Standortfelder:
 
--   Dauerhafter Standort des Bestandes (erforderlich)
--   Temporärer Standort des Bestandes (optional)
--   Tatsächlicher Standort des Bestandes ( ermittelter Wert, von FOLIO festgelegt)
+* Dauerhafter Standort des Bestandes (erforderlich)
+* Temporärer Standort des Bestandes (optional)
+* Tatsächlicher Standort des Bestandes ( ermittelter Wert, von FOLIO festgelegt)
 
 FOLIO setzt den tatsächlichen Standort des Bestands auf den ersten Wert, den es in der folgenden Liste findet:
 
@@ -85,9 +85,9 @@ Der tatsächliche Standort eines Exemplars wird in mehreren Apps verwendet, daru
 
 Im Exemplardatensatz gibt es drei Standortfelder:
 
--   Dauerhafter Standort des Exemplars (optional)
--   Temporärer Standort des Exemplars (optional)
--   Tatsächlicher Standort des Exemplars (berechneter Wert, von FOLIO festgelegt)
+* Dauerhafter Standort des Exemplars (optional)
+* Temporärer Standort des Exemplars (optional)
+* Tatsächlicher Standort des Exemplars (berechneter Wert, von FOLIO festgelegt)
 
 FOLIO setzt den tatsächlichen Standort des Exemplars auf den ersten Wert, den es in der folgenden Liste findet:
 

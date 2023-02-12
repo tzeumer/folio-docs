@@ -11,11 +11,11 @@ Description: "
 
 In der Ansicht **Suchen & Filtern** kann nach Rechnungen gesucht werden. Um nach Rechnungen zu suchen, die gewünschten Zeiträume in das Feld eingeben. Die Dropdown-Liste Alle wählen, um in einem der folgenden Felder zu suchen:
 
--   **Alle**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
--   **Belegnummer**. Die Belegnummer der Rechnung.
--   **Rechnungsnummer des Lieferanten**. Die Rechnungsnummer des Lieferanten für die Rechnung. Auf das Symbol für die Zwischenablage neben der Rechnungsnummer des Lieferanten klicken, um den Wert in die Zwischenablage zu kopieren.
--   **Buchhaltungscode**. Der Buchhaltungscode für die Rechnung.
--   **Bestellnummern**.
+* **Alle**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
+* **Belegnummer**. Die Belegnummer der Rechnung.
+* **Rechnungsnummer des Lieferanten**. Die Rechnungsnummer des Lieferanten für die Rechnung. Auf das Symbol für die Zwischenablage neben der Rechnungsnummer des Lieferanten klicken, um den Wert in die Zwischenablage zu kopieren.
+* **Buchhaltungscode**. Der Buchhaltungscode für die Rechnung.
+* **Bestellnummern**.
 
 Es kann auch nach Rechnungen gesucht werden, indem einer der Filter in der Ansicht **Suchen & Filtern** ausgewählt wird. Außerdem können die Filter nach einer Suche angewendet werden, um die Ergebnisse einzuschränken. In den folgenden Abschnitten sind weitere Informationen zu den Filtern zu finden.
 
@@ -23,11 +23,11 @@ Es kann auch nach Rechnungen gesucht werden, indem einer der Filter in der Ansic
 
 In der Ansicht **Suchen & Filtern** auf **Status** klicken und alle anwendbaren Filter auswählen:
 
--   **Offen**. Derzeit offene Rechnungen für die Bibliothek. Dies ist der Standardstatus für neue Rechnungen.
--   **Überprüft**. Rechnungen, die von Ihrer Bibliothek geprüft wurden. Um eine Rechnung als "Überprüft" einzustufen, kann der Status "Überprüft" aus der Dropdown-Liste auf dem Bildschirm "Lieferantenrechnung erstellen" oder dem Bildschirm "Lieferantenrechnung bearbeiten" ausgewählt werden.
--   **Freigegeben**. Rechnungen, die von der Bibliothek freigegeben worden sind. Das Menü Aktion verwenden, um eine Rechnung freizugeben.
--   **Bezahlt**. Rechnungen, die von der Bibliothek bezahlt worden sind. Das Menü Aktion verwenden, um eine Rechnung zu bezahlen.
--   **Storniert**. Rechnungen, die von der Bibliothek storniert wurden.
+* **Offen**. Derzeit offene Rechnungen für die Bibliothek. Dies ist der Standardstatus für neue Rechnungen.
+* **Überprüft**. Rechnungen, die von Ihrer Bibliothek geprüft wurden. Um eine Rechnung als "Überprüft" einzustufen, kann der Status "Überprüft" aus der Dropdown-Liste auf dem Bildschirm "Lieferantenrechnung erstellen" oder dem Bildschirm "Lieferantenrechnung bearbeiten" ausgewählt werden.
+* **Freigegeben**. Rechnungen, die von der Bibliothek freigegeben worden sind. Das Menü Aktion verwenden, um eine Rechnung freizugeben.
+* **Bezahlt**. Rechnungen, die von der Bibliothek bezahlt worden sind. Das Menü Aktion verwenden, um eine Rechnung zu bezahlen.
+* **Storniert**. Rechnungen, die von der Bibliothek storniert wurden.
 
 ## Lieferantenname
 
@@ -82,14 +82,14 @@ Um Rechnungen nach dem Datum der fälligen Zahlung zu suchen, wie folgt vorgehen
 
 In der Ansicht **Suchen & Filtern** auf Zahlungsart klicken und die entsprechenden Filter auswählen:
 
--   **Bargeld**. Mit Bargeld bezahlte Rechnungen.
--   **Kreditkarte**. Rechnungen, die mit Kreditkarte bezahlt werden.
--   **EFT**. Rechnungen, die mit einem elektronischen Fonds transferiert werden.
--   **Einzahlungskonto**. Rechnungen, die durch direkte Einzahlung bezahlt werden.
--   **Scheck**. Rechnungen, die mit einem Scheck bezahlt werden.
--   **Banküberweisung**. Rechnungen, die per Banküberweisung bezahlt werden.
--   **Interner Transfer**. Per internem Transfer bezahlte Rechnungen.
--   **Weitere**. Rechnungen, die mit einer anderen Methode als den oben aufgeführten bezahlt wurden.
+* **Bargeld**. Mit Bargeld bezahlte Rechnungen.
+* **Kreditkarte**. Rechnungen, die mit Kreditkarte bezahlt werden.
+* **EFT**. Rechnungen, die mit einem elektronischen Fonds transferiert werden.
+* **Einzahlungskonto**. Rechnungen, die durch direkte Einzahlung bezahlt werden.
+* **Scheck**. Rechnungen, die mit einem Scheck bezahlt werden.
+* **Banküberweisung**. Rechnungen, die per Banküberweisung bezahlt werden.
+* **Interner Transfer**. Per internem Transfer bezahlte Rechnungen.
+* **Weitere**. Rechnungen, die mit einer anderen Methode als den oben aufgeführten bezahlt wurden.
 
 ## Freigabedatum
 
@@ -102,17 +102,17 @@ Um Rechnungen nach Freigabedatum zu suchen, wie folgt vorgehen:
 
 Um Rechnungen nach ihrer Quelle zu filtern, eine oder mehrere der folgenden Möglichkeiten wählen :
 
--   **Person**. Rechnungen, die von einer Person in FOLIO erstellt wurden.
--   **API**. Rechnungen, die über ein Application Programming Interface erstellt wurden.
--   **EDI**. Rechnungen, die durch elektronischen Datenaustausch erstellt wurden.
--   **MARC**. Rechnungen, die über den Import von Datensätzen im Format MAchine-Readable Cataloging importiert werden.
+* **Person**. Rechnungen, die von einer Person in FOLIO erstellt wurden.
+* **API**. Rechnungen, die über ein Application Programming Interface erstellt wurden.
+* **EDI**. Rechnungen, die durch elektronischen Datenaustausch erstellt wurden.
+* **MARC**. Rechnungen, die über den Import von Datensätzen im Format MAchine-Readable Cataloging importiert werden.
 
 ## An Haushaltssystem exportieren
 
 Um nach Rechnungen auf der Grundlage der Checkbox **An Haushaltssystem exportieren** zu filtern:
 
--   **Ja**. Rechnungen, bei denen die Checkbox **An Haushaltssystem exportieren** aktiviert ist.
--   **Nein**. Rechnungen, bei denen die Checkbox **An Haushaltssystem exportieren** nicht aktiviert ist.
+* **Ja**. Rechnungen, bei denen die Checkbox **An Haushaltssystem exportieren** aktiviert ist.
+* **Nein**. Rechnungen, bei denen die Checkbox **An Haushaltssystem exportieren** nicht aktiviert ist.
 
 ## Zahlungsdatum
 

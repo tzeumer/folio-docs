@@ -29,14 +29,14 @@ Großbuchstaben werden beim Speichern des Tags in Kleinbuchstaben umgewandelt.
 
 Diese Einstellung verwenden, um Tags in den folgenden FOLIO Apps zu aktivieren oder zu deaktivieren:
 
--   Erwerbung > Fonds
--   Katalog
--   Rechnungen
--   Bestellungen
--   Organisationen
--   Rücknahme
--   Bestandsbestellungen
--   Personen
+* Erwerbung > Fonds
+* Katalog
+* Rechnungen
+* Bestellungen
+* Organisationen
+* Rücknahme
+* Bestandsbestellungen
+* Personen
 
 ### Tags aktivieren
 

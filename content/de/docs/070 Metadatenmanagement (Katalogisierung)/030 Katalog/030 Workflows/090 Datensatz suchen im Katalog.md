@@ -17,56 +17,56 @@ Um zu suchen, zunächst die Art des Datensatzes auswählen (Instanz, Bestand ode
 
 Tab Instanz/Alle
 
--   **Stichwort (Titel, Mitwirkende/-r, Identifikator)**. Stichwortsuche über die Felder Titel, Mitwirkender und Bezeichner.
--   **Mitwirkende/-r**. Stichwortsuche über alle Mitwirkenden-Felder.
--   **Titel (Alle)**. Stichwortsuche in allen Titelfeldern. Dies beinhaltet die Suche nach dem Äquivalent des eigentlichen Titels, alternativen Titeln (einschließlich einheitlicher Titel) und Serientiteln, aber nicht nach vorangehenden und nachfolgenden Titeln.
--   **Identifikator (alle)**. Durchsucht alle Identifikatortypen. Nicht normalisiert: Die Suche kann trunkiert bleiben, andernfalls muss der gesamte Identifikator, einschließlich eines Präfixes, eingegeben werden.
--   **ISBN**. Sucht die Nummer genau so, wie sie in den Daten erscheint. Wenn die Daten z.B. Bindestriche enthalten, müssen die Bindestriche in die Suche eingegeben werden.
--   **ISSN**. Die Suche sollte Bindestriche enthalten.
--   **OCLC-Nummer, normalisiert**. Sucht nach der OCLC-Nummer mit oder ohne Präfixe.
--   **Instanzanmerkungen (alle)**. Stichwortsuche über alle Instanzanmerkungen; schließt Verwaltungsnotizen ein.
--   **Instanzverwaltungsnotiz**. Stichwortsuche nach Verwaltungsnotizen im Instanzdatensatz.
--   **Schlagwort**. Schlagwortsuche über alle Schlagwortfelder. Dies kann Library of Congress Subjects, FAST und andere Schlagwörter enthalten, einschließlich Genre/Form-Begriffe.
--   **Effektive Signatur (Exemplar), Regalordnung**. Ruft Instanzdatensätze ab, die auf dem Regalordnungselement im Exemplardatensatz basieren.
--   **Titel-HRID**. Von Menschen lesbarer Identifikator für den Instanzdatensatz.
--   **Instanz-UUID**. Universell eindeutiger Bezeichner für den Instanzdatensatz.
--   **Normdaten-UUID.** (Fehlt in Originaldoku?)
--   **Alle**. Durchsucht alle Felder in allen Datensatztypen. Kann die Leistung beeinträchtigen.
--   **CQL-Suche (Experte)**. Eine Suche für fortgeschrittene Personen zur Abfrage nach Eigenschaftsnamen mit CQL.
+* **Stichwort (Titel, Mitwirkende/-r, Identifikator)**. Stichwortsuche über die Felder Titel, Mitwirkender und Bezeichner.
+* **Mitwirkende/-r**. Stichwortsuche über alle Mitwirkenden-Felder.
+* **Titel (Alle)**. Stichwortsuche in allen Titelfeldern. Dies beinhaltet die Suche nach dem Äquivalent des eigentlichen Titels, alternativen Titeln (einschließlich einheitlicher Titel) und Serientiteln, aber nicht nach vorangehenden und nachfolgenden Titeln.
+* **Identifikator (alle)**. Durchsucht alle Identifikatortypen. Nicht normalisiert: Die Suche kann trunkiert bleiben, andernfalls muss der gesamte Identifikator, einschließlich eines Präfixes, eingegeben werden.
+* **ISBN**. Sucht die Nummer genau so, wie sie in den Daten erscheint. Wenn die Daten z.B. Bindestriche enthalten, müssen die Bindestriche in die Suche eingegeben werden.
+* **ISSN**. Die Suche sollte Bindestriche enthalten.
+* **OCLC-Nummer, normalisiert**. Sucht nach der OCLC-Nummer mit oder ohne Präfixe.
+* **Instanzanmerkungen (alle)**. Stichwortsuche über alle Instanzanmerkungen; schließt Verwaltungsnotizen ein.
+* **Instanzverwaltungsnotiz**. Stichwortsuche nach Verwaltungsnotizen im Instanzdatensatz.
+* **Schlagwort**. Schlagwortsuche über alle Schlagwortfelder. Dies kann Library of Congress Subjects, FAST und andere Schlagwörter enthalten, einschließlich Genre/Form-Begriffe.
+* **Effektive Signatur (Exemplar), Regalordnung**. Ruft Instanzdatensätze ab, die auf dem Regalordnungselement im Exemplardatensatz basieren.
+* **Titel-HRID**. Von Menschen lesbarer Identifikator für den Instanzdatensatz.
+* **Instanz-UUID**. Universell eindeutiger Bezeichner für den Instanzdatensatz.
+* **Normdaten-UUID.** (Fehlt in Originaldoku?)
+* **Alle**. Durchsucht alle Felder in allen Datensatztypen. Kann die Leistung beeinträchtigen.
+* **CQL-Suche (Experte)**. Eine Suche für fortgeschrittene Personen zur Abfrage nach Eigenschaftsnamen mit CQL.
 
 Tab Browsen (exklusive Felder)
 
--   Browsen von **Signaturen**. Die Suche nach Signaturnummern basiert auf dem Element Regalordnung im Exemplardatensatz; es werden nur Exemplare mit Exemplardatensätzen abgerufen. Sie umfasst LC-, Dewey Decimal-, NLM-, SuDoc- und lokale Signaturen.
--   Browsen von **Mitwirkenden**. Die Suche nach Mitwirkenden basiert auf dem Feld Mitwirkende in Instanzdatensätzen. Die Namen so eingeben, wie sie im Mitwirkenden-Feld erscheinen.
--   Browsen von **Schlagwörter**. Die Schlagwortsuche basiert auf dem Schlagwort-Feld in Instanzdatensätzen.
+* Browsen von **Signaturen**. Die Suche nach Signaturnummern basiert auf dem Element Regalordnung im Exemplardatensatz; es werden nur Exemplare mit Exemplardatensätzen abgerufen. Sie umfasst LC-, Dewey Decimal-, NLM-, SuDoc- und lokale Signaturen.
+* Browsen von **Mitwirkenden**. Die Suche nach Mitwirkenden basiert auf dem Feld Mitwirkende in Instanzdatensätzen. Die Namen so eingeben, wie sie im Mitwirkenden-Feld erscheinen.
+* Browsen von **Schlagwörter**. Die Schlagwortsuche basiert auf dem Schlagwort-Feld in Instanzdatensätzen.
 
 Tab Bestand (exklusive Felder)
 
--   **Signatur, lesbar**. Erfordert die Eingabe der Signatur genau so, wie sie im Bestandsdatensatz erscheint, einschließlich Interpunktion.
--   **Signatur, normalisiert**. Ignoriert alle Zeichen außer Zahlen und Buchstaben, wie z.B. Interpunktionszeichen und Leerzeichen.
--   **Bestandsvormerkungen (alle)**. Stichwortsuche über alle Vormerkungen, einschließlich der Verwaltungsnotizen.
--   **Exemplarverwaltungsnotizen**. Stichwortsuche nach Verwaltungsnotizen zu Bestandsdatensätzen.
--   **Bestands-HRID** . Von Menschen lesbarer Identifikator für den Bestandsdatensatz.
--   **Bestands-UUID**. Universell eindeutiger Identifikator für den Bestandsdatensatz.
+* **Signatur, lesbar**. Erfordert die Eingabe der Signatur genau so, wie sie im Bestandsdatensatz erscheint, einschließlich Interpunktion.
+* **Signatur, normalisiert**. Ignoriert alle Zeichen außer Zahlen und Buchstaben, wie z.B. Interpunktionszeichen und Leerzeichen.
+* **Bestandsvormerkungen (alle)**. Stichwortsuche über alle Vormerkungen, einschließlich der Verwaltungsnotizen.
+* **Exemplarverwaltungsnotizen**. Stichwortsuche nach Verwaltungsnotizen zu Bestandsdatensätzen.
+* **Bestands-HRID** . Von Menschen lesbarer Identifikator für den Bestandsdatensatz.
+* **Bestands-UUID**. Universell eindeutiger Identifikator für den Bestandsdatensatz.
 
 Tab Exemplar (exklusive Felder)
 
--   **Barcode**. Ermöglicht Ihnen das Scannen, Kopieren/Einfügen oder Eingeben eines Barcodes.
--   **Effektive Signatur (Exemplar), lesbar**. Erfordert die Eingabe der Signatur genau so, wie sie im Bestandsdatensatz erscheint, einschließlich der Interpunktion und des Signatur-Präfixes.
--   **Effektive Signatur (Exemplar), normalisiert**. Ignoriert alle Zeichen außer Zahlen und Buchstaben, wie z.B. Interpunktionszeichen und Leerzeichen.
--   **Exemplaranmerkungen(alle)**. Stichwortsuche über alle Exemplare; einschließlich Verwaltungsnotizen, Anmerkungen zur Rückgabe und Ausleihe.
--   **Exemplarverwaltungsnotizen**. Stichwortsuche in den Verwaltungsnotizen des Exemplardatensatzes.
--   **Ausleihanmerkungen**. Stichwortsuche in den Anmerkungen zur Rückgabe und Ausleihe.
--   **Exemplar-HRID**. Von Menschen lesbarer Identifikator für den Exemplardatensatz.
--   **Exemplar-UUID**. Universell eindeutiger Identifikator für den Exemplardatensatz.
+* **Barcode**. Ermöglicht Ihnen das Scannen, Kopieren/Einfügen oder Eingeben eines Barcodes.
+* **Effektive Signatur (Exemplar), lesbar**. Erfordert die Eingabe der Signatur genau so, wie sie im Bestandsdatensatz erscheint, einschließlich der Interpunktion und des Signatur-Präfixes.
+* **Effektive Signatur (Exemplar), normalisiert**. Ignoriert alle Zeichen außer Zahlen und Buchstaben, wie z.B. Interpunktionszeichen und Leerzeichen.
+* **Exemplaranmerkungen(alle)**. Stichwortsuche über alle Exemplare; einschließlich Verwaltungsnotizen, Anmerkungen zur Rückgabe und Ausleihe.
+* **Exemplarverwaltungsnotizen**. Stichwortsuche in den Verwaltungsnotizen des Exemplardatensatzes.
+* **Ausleihanmerkungen**. Stichwortsuche in den Anmerkungen zur Rückgabe und Ausleihe.
+* **Exemplar-HRID**. Von Menschen lesbarer Identifikator für den Exemplardatensatz.
+* **Exemplar-UUID**. Universell eindeutiger Identifikator für den Exemplardatensatz.
 
 Es kann auch nach Instanze, Bestandsdatensätzen oder Exemplaren gesucht werden, indem einer der Filter in der **Ansicht Suchen & Filtern** ausgewählt wird. Außerdem können die Filter nach einer Suche angewendet werden, um die Ergebnisse einzuschränken. Die verfügbaren Filter hängen davon ab, ob nach einer Instanz, einem Bestand oder einem Exemplar-Datensatz gesucht wird. Weitere Informationen sind in den folgenden Abschnitten zu finden.
 
 Wenn Filter verwendet werden, sollte Folgendes beachten werden:
 
--   Mehrere Filter können kombiniert werden, um die Suche weiter einzuschränken.
--   Mehrere Werte in demselben Filter werden mit "ODER" kombiniert.
--   Mehrere Werte in verschiedenen Filtern werden mit "UND" kombiniert.
+* Mehrere Filter können kombiniert werden, um die Suche weiter einzuschränken.
+* Mehrere Werte in demselben Filter werden mit "ODER" kombiniert.
+* Mehrere Werte in verschiedenen Filtern werden mit "UND" kombiniert.
 
 Eine Suche, die nach mehreren Standorten gefiltert ist, findet beispielsweise Ressourcen, die mit einem dieser Standorte übereinstimmen. Eine Suche, die nach einem Standort und einer Sprache gefiltert wird, findet jedoch Ressourcen an diesem Standort und in dieser Sprache.
 
@@ -124,15 +124,15 @@ Die folgenden Schritte ausführen, um nach Instanzen auf der Grundlage ihrer Art
 
 Um Instanzen zu suchen, die für Mitarbeiter unterdrückt sind oder nicht, in der Ansicht **Suchen & Filtern** auf **Unterdrückt für Mitarbeitende** klicken und eine der folgenden Möglichkeiten wählen:
 
--   **Ja**, die Instanz ist für Mitarbeiter unterdrückt.
--   **Nein**. Die Instanz ist für Mitarbeiter nicht unterdrückt.
+* **Ja**, die Instanz ist für Mitarbeiter unterdrückt.
+* **Nein**. Die Instanz ist für Mitarbeiter nicht unterdrückt.
 
 ### Nachweis unterdrückt
 
 Um Instanzen, Bestände oder Exemplare zu suchen, die bei der Suche unterdrückt werden oder nicht, in der Ansicht **Suchen & Filtern** auf Nachweis unterdrückt klicken und eine der folgenden Optionen wählen:
 
--   **Ja**. Die Instanz, der Betrieb oder das Exemplar wird von der Suche unterdrückt.
--   **Nein**. Die Instanz, der Betrieb oder das Exemplar wird nicht von der Entdeckung ausgeschlossen.
+* **Ja**. Die Instanz, der Betrieb oder das Exemplar wird von der Suche unterdrückt.
+* **Nein**. Die Instanz, der Betrieb oder das Exemplar wird nicht von der Entdeckung ausgeschlossen.
 
 ### Statistischer Code
 
@@ -178,16 +178,16 @@ Folgendermaßen vorgehen, um nach Instanzen auf der Grundlage ihrer Quelle zu su
 
 Anmerkung: Die Quellen können von Institution zu Institution unterschiedlich sein. Im Folgenden sind Beispiele für Quellen, die angezeigt werden können:
 
--   **FOLIO**. Die Instanz wurde in FOLIO erstellt.
--   **MARC**. Die Instanz wurde durch das Hochladen von MARC-Datensätzen erstellt.
+* **FOLIO**. Die Instanz wurde in FOLIO erstellt.
+* **MARC**. Die Instanz wurde durch das Hochladen von MARC-Datensätzen erstellt.
 
 ### Tags
 
 Folgendermaßen vorgehen, um nach Instanzen auf der Grundlage von zugewiesenen Tags zu suchen:
 
--   In der Ansicht **Suchen & Filtern** auf **Tags** klicken.
--   Auf die Dropdown-Liste klicken und entweder das Tag eingeben oder es aus der Liste auswählen.
--   Schritt 2 wiederholen, um mehr als ein Tag hinzuzufügen. Die Suchergebnisse werden in der Ansicht Katalog angezeigt.
+* In der Ansicht **Suchen & Filtern** auf **Tags** klicken.
+* Auf die Dropdown-Liste klicken und entweder das Tag eingeben oder es aus der Liste auswählen.
+* Schritt 2 wiederholen, um mehr als ein Tag hinzuzufügen. Die Suchergebnisse werden in der Ansicht Katalog angezeigt.
 
 ## Tab Bestand (exklusive Felder)
 

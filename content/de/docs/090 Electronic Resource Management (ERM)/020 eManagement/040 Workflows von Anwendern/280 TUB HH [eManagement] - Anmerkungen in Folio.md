@@ -16,33 +16,33 @@ Description: "
 
 ## Anmerkungen in Folio
 
--   Anmerkungen werden nur im Lesemodus einer App als Akkordeon angezeigt, nicht im Bearbeitungsmodus
--   Anmerkungen können App-übergreifend genutzt werden. Wir nutzen sie aber vorerst nur zentral in den Vereinbarungen
--   Anmerkungen werden einmal erstellt und können dann in verschiedenen Datensätzen gleichzeitig genutzt werden. Das heißt wenn man eine Anmerkung ändert, ändert man diese auch in allen anderen Vereinbarungen, in denen sie genutzt werden.
+* Anmerkungen werden nur im Lesemodus einer App als Akkordeon angezeigt, nicht im Bearbeitungsmodus
+* Anmerkungen können App-übergreifend genutzt werden. Wir nutzen sie aber vorerst nur zentral in den Vereinbarungen
+* Anmerkungen werden einmal erstellt und können dann in verschiedenen Datensätzen gleichzeitig genutzt werden. Das heißt wenn man eine Anmerkung ändert, ändert man diese auch in allen anderen Vereinbarungen, in denen sie genutzt werden.
 
 Siehe auch:
 
--   [GBV FOLIO Dokumentation > Einstellungen (Notizen)](https://info.gbv.de/pages/viewpage.action?pageId=844890132)
--   [GBV FOLIO Dokumentation > eManagement > Vereinbarung Anmerkungen hinzufügen und entfernen](https://info.gbv.de/pages/viewpage.action?pageId=845250613)
+* [GBV FOLIO Dokumentation > Einstellungen (Notizen)](https://info.gbv.de/pages/viewpage.action?pageId=844890132)
+* [GBV FOLIO Dokumentation > eManagement > Vereinbarung Anmerkungen hinzufügen und entfernen](https://info.gbv.de/pages/viewpage.action?pageId=845250613)
 
 ## Hinzufügen von Anmerkungen zu einer Vereinbarung
 
 Möchte man eine bereits existierende Anmerkung zu einer Vereinbarung hinzufügen:
 
--   öffnet man das Akkordeon "Anmerkungen" im Lesemodus
--   Klickt auf Zuweisen/Entfernen
--   Setzt ein Häkchen beim Status "nicht zugewiesen"
--   setzt ein Häkchen bei der gewünschten Anmerkung und klickt auf "speichern\*
+* öffnet man das Akkordeon "Anmerkungen" im Lesemodus
+* Klickt auf Zuweisen/Entfernen
+* Setzt ein Häkchen beim Status "nicht zugewiesen"
+* setzt ein Häkchen bei der gewünschten Anmerkung und klickt auf "speichern\*
 
 ## Entfernen von Anmerkungen von einer Vereinbarung
 
 Hat man eine Aufgabe erledigt kann die Anmerkung von der Vereinbarung entfernt werden:
 
--   Akkordeon "Anmerkungen" öffnen
--   Auf "Zuweisen/Entfernen" klicken
--   Ein Häkchen beim Status "zugewiesen" setzen
--   bei der zu entfernenden Anmerkung das Häkchen löschen und auf "speichern" klicken
--   Achtung! Die Anmerkung kann nur entfernt werden, wenn sie noch mindestens an einer weiteren Vereinbarung hängt. Deshalb werden alle erstellten Anmerkungen in der Vereinbarung "tub: Verwaltung von Anmerkungen" gespeichert
+* Akkordeon "Anmerkungen" öffnen
+* Auf "Zuweisen/Entfernen" klicken
+* Ein Häkchen beim Status "zugewiesen" setzen
+* bei der zu entfernenden Anmerkung das Häkchen löschen und auf "speichern" klicken
+* Achtung! Die Anmerkung kann nur entfernt werden, wenn sie noch mindestens an einer weiteren Vereinbarung hängt. Deshalb werden alle erstellten Anmerkungen in der Vereinbarung "tub: Verwaltung von Anmerkungen" gespeichert
 
 ## Eine neue Anmerkung erstellen
 
@@ -58,14 +58,14 @@ Hat man eine Aufgabe erledigt kann die Anmerkung von der Vereinbarung entfernt w
 
 ## Löschen von Anmerkungen
 
--   Wird eine Anmerkung nicht weiter verwendet, kann sie komplett gelöscht werden.
--   Durch das Löschen wird sie aus allen Vereinbarungen/Datensätzen entfernt.
--   Damit dies nicht ungewollt passiert, wurde die Berechtigung zum Löschen von Anmerkungen bei den normalen Folio Benutzern entfernt
--   Eine Anmerkung kann somit nur von einem Benutzer mit Admin-Rechten gelöscht werden
--   **Zum Löschen**:
-    -   Eine Anmerkung in einer Vereinbarung löschen
-    -   Sicher stellen, dass die Anmerkung wirklich gelöscht werden soll
-    -   Auf "Aktionen" und dann auf "löschen" klicken
+* Wird eine Anmerkung nicht weiter verwendet, kann sie komplett gelöscht werden.
+* Durch das Löschen wird sie aus allen Vereinbarungen/Datensätzen entfernt.
+* Damit dies nicht ungewollt passiert, wurde die Berechtigung zum Löschen von Anmerkungen bei den normalen Folio Benutzern entfernt
+* Eine Anmerkung kann somit nur von einem Benutzer mit Admin-Rechten gelöscht werden
+* **Zum Löschen**:
+    * Eine Anmerkung in einer Vereinbarung löschen
+    * Sicher stellen, dass die Anmerkung wirklich gelöscht werden soll
+    * Auf "Aktionen" und dann auf "löschen" klicken
 
 ## Anmerkungen sortieren
 

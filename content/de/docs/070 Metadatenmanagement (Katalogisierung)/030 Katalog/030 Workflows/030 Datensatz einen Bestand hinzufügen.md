@@ -27,12 +27,12 @@ Description: "
 
 Der Abschnitt Administrative Daten enthält technische Informationen zu den Beständen.
 
--   **Nachweis unterdrückt**. Wenn der Datensatz in dem Discoverysystem unterdrückt werden soll, die Checkbox Nachweis unterdrücken markieren.
--   **Bestands-HRID**. Die Human Readable ID ("Augenlesbare ID"). Eine vom System zugewiesene fortlaufende ID, die der Bestands-ID zugeordnet ist.
--   **Quelle**. Format des Bestandsdatensatzes, wenn ein Quelldatensatz vorhanden ist. Zum Beispiel FOLIO, wenn es sich um einen in Katalog erstellten Datensatz handelt, MARC, wenn es sich um einen in MARCcat erstellten MARC-Datensatz handelt, oder EPKB, wenn es sich um einen Datensatz aus eHoldings handelt.
--   **Frühere Bestands-ID**. Frühere Bestands-ID
--   **Bestandstyp**. Gibt die Art des bibliografischen Formats des Bestandsdatensatzes an. Zum Beispiel, gedruckt oder elektronisch. Konfiguriert in [Einstellungen > Katalog > Bestandstypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Bestandstypen).
--   **Statistischer Code**. Statistische Codes (z.B. ASER; Name: Active serial; Typ: SERM (Serienverwaltung) oder Bücher; Name: Buch, Druck (Bücher); Typ ARL (Sammlungsstatistik) usw.). Wird in den Einstellungen konfiguriert.
+* **Nachweis unterdrückt**. Wenn der Datensatz in dem Discoverysystem unterdrückt werden soll, die Checkbox Nachweis unterdrücken markieren.
+* **Bestands-HRID**. Die Human Readable ID ("Augenlesbare ID"). Eine vom System zugewiesene fortlaufende ID, die der Bestands-ID zugeordnet ist.
+* **Quelle**. Format des Bestandsdatensatzes, wenn ein Quelldatensatz vorhanden ist. Zum Beispiel FOLIO, wenn es sich um einen in Katalog erstellten Datensatz handelt, MARC, wenn es sich um einen in MARCcat erstellten MARC-Datensatz handelt, oder EPKB, wenn es sich um einen Datensatz aus eHoldings handelt.
+* **Frühere Bestands-ID**. Frühere Bestands-ID
+* **Bestandstyp**. Gibt die Art des bibliografischen Formats des Bestandsdatensatzes an. Zum Beispiel, gedruckt oder elektronisch. Konfiguriert in [Einstellungen > Katalog > Bestandstypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Bestandstypen).
+* **Statistischer Code**. Statistische Codes (z.B. ASER; Name: Active serial; Typ: SERM (Serienverwaltung) oder Bücher; Name: Buch, Druck (Bücher); Typ ARL (Sammlungsstatistik) usw.). Wird in den Einstellungen konfiguriert.
 
 #### Frühere Bestands-ID hinzufügen
 
@@ -55,25 +55,25 @@ Der Abschnitt Administrative Daten enthält technische Informationen zu den Best
 
 Der Abschnitt Standort enthält Informationen über den physischen oder elektronischen Standort des Bestands.
 
--   **Dauerhafter Standort (erforderlich)**. Der Standardstandort der Ressource, der ein physischer Standort oder ein Online-Standort sein kann, an dem die Ressource gespeichert ist. Der dauerhafte Standort wird auf der Ebene des Bestands zugewiesen, kann aber bei Bedarf auf der Ebene des Exemplars überschrieben werden. Einen Dauerhaften Standort aus der Dropdown-Liste auswählen oder auf Standortsuche klicken, um einen Standort auszuwählen.
--   **Vorläufiger Standort**. Ein Vorläufiger Standort für die Ressource, der ein physischer Standort oder ein Online-Standort sein kann, an dem die Ressource gespeichert ist. Vorläufige Standorte können auf der Ebene der Bestände zugewiesen und bei Bedarf auf der Ebene der Exemplare überschrieben werden. Einen Vorläufigen Standort aus der Dropdown-Liste auswählen oder auf Standortsuche klicken, um einen Standort auszuwählen.
--   **Regalordnung**. Eine vom System generierte Normalisierung der Signatur, die eine Sortierung der Signatur in Berichten und in Suchergebnissen ermöglicht.
--   **Regaltitel**. Beschriftung des Regals.
--   **Exemplarnummer**. Die Exemplarnummer des Bestandes.
--   **Signaturtyp**. Das für die Signatur verwendete Klassifikationssystem. Den **Signaturtyp** aus der Dropdown-Liste wählen. Konfiguriert unter Einstellungen > Katalog > Signaturtypen.
--   **Signatur-Präfix**. Präfix der Signatur auf der Bestandsebene. Zum Beispiel: FIC.
--   **Signatur**. Die Signatur ist eine einem Exemplar zugewiesene Kennung, die normalerweise auf einem am Exemplar angebrachten Etikett steht. Die Signatur wird verwendet, um die physische Position des Exemplars in einer Regalreihenfolge zu bestimmen (z.B. K1 .M44)
--   **Signatur-Suffix**. Suffix der Signatur auf der Bestandsebene. Zum Beispiel das Jahr (2001).
+* **Dauerhafter Standort (erforderlich)**. Der Standardstandort der Ressource, der ein physischer Standort oder ein Online-Standort sein kann, an dem die Ressource gespeichert ist. Der dauerhafte Standort wird auf der Ebene des Bestands zugewiesen, kann aber bei Bedarf auf der Ebene des Exemplars überschrieben werden. Einen Dauerhaften Standort aus der Dropdown-Liste auswählen oder auf Standortsuche klicken, um einen Standort auszuwählen.
+* **Vorläufiger Standort**. Ein Vorläufiger Standort für die Ressource, der ein physischer Standort oder ein Online-Standort sein kann, an dem die Ressource gespeichert ist. Vorläufige Standorte können auf der Ebene der Bestände zugewiesen und bei Bedarf auf der Ebene der Exemplare überschrieben werden. Einen Vorläufigen Standort aus der Dropdown-Liste auswählen oder auf Standortsuche klicken, um einen Standort auszuwählen.
+* **Regalordnung**. Eine vom System generierte Normalisierung der Signatur, die eine Sortierung der Signatur in Berichten und in Suchergebnissen ermöglicht.
+* **Regaltitel**. Beschriftung des Regals.
+* **Exemplarnummer**. Die Exemplarnummer des Bestandes.
+* **Signaturtyp**. Das für die Signatur verwendete Klassifikationssystem. Den **Signaturtyp** aus der Dropdown-Liste wählen. Konfiguriert unter Einstellungen > Katalog > Signaturtypen.
+* **Signatur-Präfix**. Präfix der Signatur auf der Bestandsebene. Zum Beispiel: FIC.
+* **Signatur**. Die Signatur ist eine einem Exemplar zugewiesene Kennung, die normalerweise auf einem am Exemplar angebrachten Etikett steht. Die Signatur wird verwendet, um die physische Position des Exemplars in einer Regalreihenfolge zu bestimmen (z.B. K1 .M44)
+* **Signatur-Suffix**. Suffix der Signatur auf der Bestandsebene. Zum Beispiel das Jahr (2001).
 
 ### Details zum Bestand
 
 Der Abschnitt Bestandsdetails enthält zusätzliche Angaben zu den Beständen.
 
--   **Exemplarzahl**. Anzahl der Exemplare des Bestands
--   **Bestandsangaben**. Gibt den genauen Inhalt an, auf den die Bibliothek Zugriff hat, typischerweise für fortlaufende Publikationen.
--   **Richtlinie zur Fernleihe**. Eine Liste von Werten auswählen, die die Verleihrichtlinien der Bibliothek definieren, die Fernleih-Richtlinien. Zum Beispiel: Wird ausgeliehen, Wird nicht ausgeliehen, Wird vervielfältigt, Wird nicht vervielfältigt, usw. Konfiguriert unter [Einstellungen > Katalog > Fernleihrichtlinien](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Fernleihrichtlinien).
--   **Richtlinie zur Digitalisierung**. Anmerkungen zu den Digitalisierungsrichtlinien.
--   **Richtlinie zur Aufbewahrung**. Anmerkungen zu den Aufbewahrungsrichtlinien.
+* **Exemplarzahl**. Anzahl der Exemplare des Bestands
+* **Bestandsangaben**. Gibt den genauen Inhalt an, auf den die Bibliothek Zugriff hat, typischerweise für fortlaufende Publikationen.
+* **Richtlinie zur Fernleihe**. Eine Liste von Werten auswählen, die die Verleihrichtlinien der Bibliothek definieren, die Fernleih-Richtlinien. Zum Beispiel: Wird ausgeliehen, Wird nicht ausgeliehen, Wird vervielfältigt, Wird nicht vervielfältigt, usw. Konfiguriert unter [Einstellungen > Katalog > Fernleihrichtlinien](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Fernleihrichtlinien).
+* **Richtlinie zur Digitalisierung**. Anmerkungen zu den Digitalisierungsrichtlinien.
+* **Richtlinie zur Aufbewahrung**. Anmerkungen zu den Aufbewahrungsrichtlinien.
 
 #### Bestandsangaben hinzufügen
 
@@ -150,9 +150,9 @@ Anmerkung: Das Hinzufügen eines elektronischen Zugangs ist optional, aber wenn 
 
 Der Abschnitt Erwerb enthält Informationen über den Erwerb von Beständen.
 
--   **Erwerbungsmethode**. Die Methode, mit der der Bestand erworben wurde.
--   **Bestellungsformat**. Das Bestellformat des Bestands. Zum Beispiel: DVD oder Monographie.
--   **Inventarisierungsstatus**. Der Inventarisierungsstatus. Zum Beispiel: Ausstehend, Inventarisierung erwartet, Teilweise inventarisiert, Vollständig inventarisiert, Inventarisierung nicht erforderlich und Storniert.
+* **Erwerbungsmethode**. Die Methode, mit der der Bestand erworben wurde.
+* **Bestellungsformat**. Das Bestellformat des Bestands. Zum Beispiel: DVD oder Monographie.
+* **Inventarisierungsstatus**. Der Inventarisierungsstatus. Zum Beispiel: Ausstehend, Inventarisierung erwartet, Teilweise inventarisiert, Vollständig inventarisiert, Inventarisierung nicht erforderlich und Storniert.
 
 ### Inventarisierungsverlauf
 
@@ -168,5 +168,5 @@ Die Inventarisierung wird für Serien und fortlaufende Ressourcen verwendet. Zei
 
  Inventarisierungsverlauf löschen
 
--   Den  Inventarisierungsverlauf suchen, der gelöscht werden soll.
--   Auf das **Mülleimersymbol** neben dem  Inventarisierungsverlauf klicken. Der  Inventarisierungsverlauf wird aus dem Datensatz entfernt und gelöscht, sobald der Bestandsdatensatz gespeichert wird.
+* Den  Inventarisierungsverlauf suchen, der gelöscht werden soll.
+* Auf das **Mülleimersymbol** neben dem  Inventarisierungsverlauf klicken. Der  Inventarisierungsverlauf wird aus dem Datensatz entfernt und gelöscht, sobald der Bestandsdatensatz gespeichert wird.

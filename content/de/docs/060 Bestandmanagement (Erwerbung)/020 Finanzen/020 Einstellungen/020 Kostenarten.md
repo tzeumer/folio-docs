@@ -17,9 +17,9 @@ Weitere Informationen zum Hinzufügen von Fonds und Fondsinformationen sind unte
 
 1.  Auf **Neu** klicken.
 2.  Einen **Namen**, einen **Code** und eine **Externe Kostenstellenerweiterung** in die Felder ein.
-    -   **Name**. Der Name, mit dem die Kostenart bezeichnet wird.
-    -   **Code**. Ein selbst erstellter, auf dem Namen basierender, eindeutiger Bezeichner für die Kostenart.
-    -   **Externe Kostenstellenerweiterung**. Die Finanzkontenliste außerhalb des Systems, die mit der Kostenart verknüpft ist. Zum Beispiel: 01.
+    * **Name**. Der Name, mit dem die Kostenart bezeichnet wird.
+    * **Code**. Ein selbst erstellter, auf dem Namen basierender, eindeutiger Bezeichner für die Kostenart.
+    * **Externe Kostenstellenerweiterung**. Die Finanzkontenliste außerhalb des Systems, die mit der Kostenart verknüpft ist. Zum Beispiel: 01.
 3.  Auf **Speichern** klicken. Die Kostenart wird gespeichert und erscheint in der Liste Kostenart.
 
 ## Kostenart bearbeiten

@@ -22,11 +22,11 @@ Grundsätzlich sollten Pakete in der GOKb erfasst und gepflegt werden und werden
 1.  In der App "Lokale KB-Verwaltung" oben rechts auf "Aktionen" klicken
 2.  "KBART-Importjob auswählen
 3.  Die Pflichtfelder ausfüllen:
-    -   Paketname: Der Name sollte eindeutig sein und den Paketnamen in der GOKb entsprechen, da das Paket der internen Knowledgebase in Folio hinzugefügt wird
-    -   Paketquelle: Bei Paketen aus der GOKb ist hier "GOKb" angegeben. Bei lokal eingespielten Paketen würde ich "Lokale KB" angeben, damit zu erkennen ist, dass das Paket nicht aus der GOKb stammt
-    -   Paketreferenz: Sollte dem Pakettitel entsprechen, nur dass die einzelnen Wörter mit Unterstrich getrennt werden, z.B.: Springer\_Mathematics\_and\_Statistics\_eBooks\_2022\_English/International\_2
-    -   Außerdem muss ein Häkchen gesetzt werden bei "Diesem Job als Quelle für Titelinstanz-Metadaten vertrauen"
-    -   Weiterhin sollte der Paketanbieter erfasst werden, auch wenn dies kein Pflichtfeld ist
+    * Paketname: Der Name sollte eindeutig sein und den Paketnamen in der GOKb entsprechen, da das Paket der internen Knowledgebase in Folio hinzugefügt wird
+    * Paketquelle: Bei Paketen aus der GOKb ist hier "GOKb" angegeben. Bei lokal eingespielten Paketen würde ich "Lokale KB" angeben, damit zu erkennen ist, dass das Paket nicht aus der GOKb stammt
+    * Paketreferenz: Sollte dem Pakettitel entsprechen, nur dass die einzelnen Wörter mit Unterstrich getrennt werden, z.B.: Springer\_Mathematics\_and\_Statistics\_eBooks\_2022\_English/International\_2
+    * Außerdem muss ein Häkchen gesetzt werden bei "Diesem Job als Quelle für Titelinstanz-Metadaten vertrauen"
+    * Weiterhin sollte der Paketanbieter erfasst werden, auch wenn dies kein Pflichtfeld ist
 4.  Die Datei hochladen durch Drag & Drop oder durch Auswählen der Datei
 5.  Auf "Speichern und schließen" klicken
 6.  Der Importjob wird nun in der Ergebnisliste der lokalen KB-Verwaltung angezeigt ![](/img/de/../../../attachments/070TUB~1_2023-02-10-17-59-25.png)

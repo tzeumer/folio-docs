@@ -21,22 +21,22 @@ Fehlende Dokumentation (und natürlich Übersetzung) im Original. Zurückmelden.
 
 #### Aggregatoren
 
--   German National Statistics Serve
+* German National Statistics Serve
 
 #### Anzeigeeinstellungen
 
--   SUSHI-Anmeldeinformationen in Detailansicht verstecken
+* SUSHI-Anmeldeinformationen in Detailansicht verstecken
 
 ### Abruf
 
 #### Anzahl der Fehlversuche
 
--   Anzahl der Fehlversuche
+* Anzahl der Fehlversuche
 
 #### Abruf starten
 
--   Abruf für aktuellen Mandanten starten: Abruf starten
+* Abruf für aktuellen Mandanten starten: Abruf starten
 
 #### Periodischer Abruf
 
--   Es ist kein periodischer Abruf definiert und dadurch nicht verfügbar. Auf + klicken, um einen periodischen Abruf zu definieren.
+* Es ist kein periodischer Abruf definiert und dadurch nicht verfügbar. Auf + klicken, um einen periodischen Abruf zu definieren.

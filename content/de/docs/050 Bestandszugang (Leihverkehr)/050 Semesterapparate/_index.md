@@ -23,48 +23,48 @@ Die unten aufgeführten Berechtigungen ermöglichen die Interaktion mit der App 
 
 Nachfolgend sind alle Semesterapparate-Bererchtigungen in der Reihenfolge der geringsten bis stärksten Einschränkung zu finden:
 
--   **Semesterapparate: Alle Berechtigungen**. (Courses: All permissions)
+* **Semesterapparate: Alle Berechtigungen**. (Courses: All permissions)
     Mit dieser Berechtigung können Personen Kurse, Exemplare, Dozenten und verknüpfte Kurse verwalten (anzeigen, hinzufügen, bearbeiten und löschen).
--   **Semesterapparate: Kurse anzeigen, hinzufügen und bearbeiten**. (Courses: Read, add, and edit courses)
+* **Semesterapparate: Kurse anzeigen, hinzufügen und bearbeiten**. (Courses: Read, add, and edit courses)
     Mit dieser Berechtigung können Personen einen Kurs ansehen, hinzufügen und bearbeiten. Sie können einen Kurs jedoch nicht löschen.
--   **Semesterapparate: reservierte Exemplare hinzufügen, bearbeiten und entfernen**.  (Courses: Add and edit courses’ reserved items)
+* **Semesterapparate: reservierte Exemplare hinzufügen, bearbeiten und entfernen**.  (Courses: Add and edit courses’ reserved items)
     Mit dieser Berechtigung können Personen Exemplare zu einem Kurs hinzufügen und bearbeiten. Sie können keine Exemplare aus einem Kurs entfernen.
--   **Semesterapparate: reservierte Exemplare hinzufügen und bearbeiten**. (Courses: Add, edit, and remove courses’ reserved items)
+* **Semesterapparate: reservierte Exemplare hinzufügen und bearbeiten**. (Courses: Add, edit, and remove courses’ reserved items)
     Mit dieser Berechtigung können Personen Exemplare, die mit einem Kurs verbunden sind, anzeigen, hinzufügen, bearbeiten und entfernen.
--   **Semesterapparate: Alles anzeigen**. (Courses: Read All)
+* **Semesterapparate: Alles anzeigen**. (Courses: Read All)
     Mit dieser Berechtigung können Personen alle Kurse und Exemplarinformationen einsehen.
--   **Einstellungen (Semesterapparate): Kann Semesterapparate-Einstellungen erstellen, bearbeiten und löschen**. (Settings (Courses): Can create, edit and delete Course Settings)
+* **Einstellungen (Semesterapparate): Kann Semesterapparate-Einstellungen erstellen, bearbeiten und löschen**. (Settings (Courses): Can create, edit and delete Course Settings)
     Mit dieser Berechtigung können Personen alle Kurseinstellungen verwalten (anzeigen, hinzufügen, bearbeiten und löschen).
 
 ## Überlegungen zur Einführung
 
 Bevor die App Semesterapparate eingesetzt wird, bitte sicherstellen, dass die folgenden Bedingungen erfüllt sind:
 
--   App Katalog ist eingerichtet.
--   Ausleihregeln sind konfiguriert.
--   Personen sind importiert oder erstellt.
+* App Katalog ist eingerichtet.
+* Ausleihregeln sind konfiguriert.
+* Personen sind importiert oder erstellt.
 
 Wenn die App Semesterapparate zum ersten Mal konfiguriert wird, müssen zunächst die folgenden Eigenschaften in der App Einstellungen eingerichtet werden, falls benötigt:
 
--   Laufzeiten
--   Kurstypen
--   Kurs Fachbereiche
--   Kursabteilungen
--   Copyright-Status
+* Laufzeiten
+* Kurstypen
+* Kurs Fachbereiche
+* Kursabteilungen
+* Copyright-Status
 
 Sobald die oben genannten Einstellungen vorgenommen sind, sind die folgende Tätigkeiten möglich:
 
--   Semesterapparate erstellen.
--   Dozenten hinzufügen.
--   Verknüpfte Kurse hinzufügen.
--   Semesterapparate zu Kursen hinzufügen.
+* Semesterapparate erstellen.
+* Dozenten hinzufügen.
+* Verknüpfte Kurse hinzufügen.
+* Semesterapparate zu Kursen hinzufügen.
 
 ## Anbindungen
 
 Die Semesterapparate können optional mit diesen Anwendungen verbunden werden:
 
--   EBSCO Discovery Service (EDS)
--   VuFind
+* EBSCO Discovery Service (EDS)
+* VuFind
 
 Darüber hinaus kann die App Semesterapparate über das "Learning Tools Interoperability"-Protokoll (LTI) mit einem Lernmanagementsystem verbunden werden. Für die LTI-Unterstützung ist ein separates Modul zu installieren. Weitere Informationen sind unter Semesterapparate - LTI-Konnektivität zu finden.
 

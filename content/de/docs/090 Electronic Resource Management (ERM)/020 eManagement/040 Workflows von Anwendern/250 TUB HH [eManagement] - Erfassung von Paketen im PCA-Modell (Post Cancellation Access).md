@@ -21,30 +21,30 @@ Bei dauerhaftem Zugriff auf ein Paket kann es notwendig sein eine 2. Vereinbarun
 
 ### E-Management-App
 
--   Im Kopf der Vereinbarung wird bei "Dauerhafter Zugriff" "ja" ausgewählt
--   In den Vereinbarungskomponenten wird das Datum "Aktiv bis" nicht gesetzt
+* Im Kopf der Vereinbarung wird bei "Dauerhafter Zugriff" "ja" ausgewählt
+* In den Vereinbarungskomponenten wird das Datum "Aktiv bis" nicht gesetzt
 
 ### Lizenzverträge-App
 
--   Die Lizenzbedingung "Post-Cancellation-Bedingungen enthalten?" wird mit "ja" beantwortet.
--   Hat der Lizenzvertrag ein Enddatum, wird dieses entsprechend gesetzt, der Vertrag bleibt aber auch nach Ablauf weiter auf dem Status "aktiv", da er weiterhin für Medien im dauerhaften Zugriff gültig ist.
+* Die Lizenzbedingung "Post-Cancellation-Bedingungen enthalten?" wird mit "ja" beantwortet.
+* Hat der Lizenzvertrag ein Enddatum, wird dieses entsprechend gesetzt, der Vertrag bleibt aber auch nach Ablauf weiter auf dem Status "aktiv", da er weiterhin für Medien im dauerhaften Zugriff gültig ist.
 
 ## Eine 2. Vereinbarung
 
 ### Gründe für eine 2. Vereinbarung zum PCA
 
--   nur ein Teil der E-Medien aus der laufenden Vereinbarung sind auch dauerhaft zugänglich
--   gegenüber der laufenden Vereinbarung haben sich wesentliche Punkte geändert
+* nur ein Teil der E-Medien aus der laufenden Vereinbarung sind auch dauerhaft zugänglich
+* gegenüber der laufenden Vereinbarung haben sich wesentliche Punkte geändert
 
 ### Gründe für einen 2. Lizenzvertrag
 
--   Die Lizenzbedingungen für die laufende Vereinbarung unterscheiden sich von denen für den dauerhaften Zugriff.
-    -   Nachdem der Bezug des Pakets/der Pakete eingestellt wurde, wird in der Vereinbarung der Vertrag für den dauerhaften Zugriff als wirkend verknüpft
+* Die Lizenzbedingungen für die laufende Vereinbarung unterscheiden sich von denen für den dauerhaften Zugriff.
+    * Nachdem der Bezug des Pakets/der Pakete eingestellt wurde, wird in der Vereinbarung der Vertrag für den dauerhaften Zugriff als wirkend verknüpft
 
 ### Anlegen einer 2. Vereinbarung
 
--   Der Name der Vereinbarung erhält den Zusatz "PCA"
--   In den Vereinbarungskomponenten werden die Medien/Pakete mit dauerhaftem Zugang erfasst
--   Im Akkordeon "Zugehörige Vereinbarungen" wird die 2. Vereinbarung mit der 1. verknüpft, mit der Beziehung "provides post-cancellation access for". In der laufenden Vereinbarung wird stattdessen die Beziehung "has post cancellation-access in" ausgewählt
--   Ansonsten wird die Vereinbarung, wie gewohnt ausgefüllt. GGf. macht ein Dublizieren der 1. Vereinbarung Sinn.
--   Gibt es einen zusätzlichen Lizenzvertrag für PCA wird dieser verknüpft, wenn nicht wird der gleiche verknüpt, wie in der laufenden Vereinbarung.
+* Der Name der Vereinbarung erhält den Zusatz "PCA"
+* In den Vereinbarungskomponenten werden die Medien/Pakete mit dauerhaftem Zugang erfasst
+* Im Akkordeon "Zugehörige Vereinbarungen" wird die 2. Vereinbarung mit der 1. verknüpft, mit der Beziehung "provides post-cancellation access for". In der laufenden Vereinbarung wird stattdessen die Beziehung "has post cancellation-access in" ausgewählt
+* Ansonsten wird die Vereinbarung, wie gewohnt ausgefüllt. GGf. macht ein Dublizieren der 1. Vereinbarung Sinn.
+* Gibt es einen zusätzlichen Lizenzvertrag für PCA wird dieser verknüpft, wenn nicht wird der gleiche verknüpt, wie in der laufenden Vereinbarung.

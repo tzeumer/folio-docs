@@ -11,8 +11,8 @@ Description: "
 
 Eine Person kann gefunden werden, indem entweder:
 
--   Des von der Person angegebenen Barcode gescannt oder eingegeben wird
--   Die Personensuche verwendet wird
+* Des von der Person angegebenen Barcode gescannt oder eingegeben wird
+* Die Personensuche verwendet wird
 
 Person mittels eines Barcodes finden:
 

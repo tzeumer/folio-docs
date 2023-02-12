@@ -11,15 +11,15 @@ Description: "
 
 ## Permission Sets - Ständig in Arbeit
 
--   Diese Seite bietet Ihnen eine Vorlage zum Einrichten Ihrer Berechtigungssets, bitte beachten Sie, dass nach jedem Systemupdate auch neue Berechtigungen hinzukommen können. Um eine Übersicht über die neuen Berechtigungen zu erhalten, können Sie die SysAdmin-Kennung (mit allen Berechtigungen) suchen und nach nicht zugewiesenen Berechtigungen Filtern. Daran können Sie dann auch entscheiden, ob die neuen Berechtigungen evtl. anderen Berechtigungssets zugewiesen werden müssen. Sie finden die Information darüber aber auch in den jeweiligen Release Notes.
--   In Testbetrieb wird nicht zwischen ERM-Bibliothekar\*innen, Fachreferent\*innen, Abteilungsleitung usw. unterschieden. Es wird ein Permission Set definiert, welches den ERM-Bearbeiter\*innen in der User-Verwaltung zugewiesen wird.
--   Zusätzlich gibt es ein Permission Set für Administrative ERM-Aufgaben in den Systemeinstellungen, wie bspw. das Anlegen neuer License Terms oder anderer Kategorien.
--   Für die systemweite Administration gibt es ein weitere Permission Set, welches alle verfügbaren Berechtigungen enthält. Dieses Permission Set wird allen Systemverwalter\*innen zugewiesen. **Sofern ein Systemverwalter auch reguläre Aufgaben im System wahrnimmt, sollte dafür ein separater Account ohne "sudo"-Permissions genutzt werden.**
+* Diese Seite bietet Ihnen eine Vorlage zum Einrichten Ihrer Berechtigungssets, bitte beachten Sie, dass nach jedem Systemupdate auch neue Berechtigungen hinzukommen können. Um eine Übersicht über die neuen Berechtigungen zu erhalten, können Sie die SysAdmin-Kennung (mit allen Berechtigungen) suchen und nach nicht zugewiesenen Berechtigungen Filtern. Daran können Sie dann auch entscheiden, ob die neuen Berechtigungen evtl. anderen Berechtigungssets zugewiesen werden müssen. Sie finden die Information darüber aber auch in den jeweiligen Release Notes.
+* In Testbetrieb wird nicht zwischen ERM-Bibliothekar\*innen, Fachreferent\*innen, Abteilungsleitung usw. unterschieden. Es wird ein Permission Set definiert, welches den ERM-Bearbeiter\*innen in der User-Verwaltung zugewiesen wird.
+* Zusätzlich gibt es ein Permission Set für Administrative ERM-Aufgaben in den Systemeinstellungen, wie bspw. das Anlegen neuer License Terms oder anderer Kategorien.
+* Für die systemweite Administration gibt es ein weitere Permission Set, welches alle verfügbaren Berechtigungen enthält. Dieses Permission Set wird allen Systemverwalter\*innen zugewiesen. **Sofern ein Systemverwalter auch reguläre Aufgaben im System wahrnimmt, sollte dafür ein separater Account ohne "sudo"-Permissions genutzt werden.**
 
 ## History
 
--   2022-12-07: Spalte "Seit Version" ergänzt
--   2022-12-07: [Neue Lotus-Berechtigungen](https://wiki.folio.org/display/REL/Lotus+(R1+2022)+Release+Notes#Lotus(R12022)ReleaseNotes-PermissionsUpdates) ergänzt
+* 2022-12-07: Spalte "Seit Version" ergänzt
+* 2022-12-07: [Neue Lotus-Berechtigungen](https://wiki.folio.org/display/REL/Lotus+(R1+2022)+Release+Notes#Lotus(R12022)ReleaseNotes-PermissionsUpdates) ergänzt
 
 
 |Permission Set Name|Beschreibung (für Description-Feld in Folio)|besteht aus folgenden Berechtigungen|Seit Version|

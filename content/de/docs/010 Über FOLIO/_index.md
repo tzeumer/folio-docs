@@ -17,6 +17,6 @@ FOLIO wird zu 100 % von der Gemeinschaft getragen und steht ihr offen. Als echte
 
 Wenn kommerzielle Hosting- oder Supportdienste in Anspruch genommen werden sollen, gibt es viele Möglichkeiten, mit Anbietern in der FOLIO-Community zusammenzuarbeiten. Zu den Dienstleistungen gehören: Implementierung, Hosting, Service, Support und Schulung. Hier ist eine Liste von Anbietern, die derzeit Implementierungs-, Hosting- und Support-Dienste für FOLIO anbieten:
 
--   [Liste der Lieferanten](https://www.folio.org/community/support/)
+* [Liste der Lieferanten](https://www.folio.org/community/support/)
 
 Anmerkung: Einige Konsortien bieten auch FOLIO-Support für Mitgliedsbibliotheken an.

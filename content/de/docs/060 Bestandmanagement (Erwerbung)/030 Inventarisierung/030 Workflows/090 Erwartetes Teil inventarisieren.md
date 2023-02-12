@@ -38,15 +38,15 @@ Mit der Funktion Inventarisierung können mehrere Teile auf einmal inventarisier
 
 ### Inventarisiert
 
--   **Bestellposten Standorte**. Eine Liste der Standorte, die auf dem Bestellposten ausgewählt wurden.
--   **Bezeichnung**. Ein Wort, eine Phrase oder eine Abkürzung, die die Teile angibt, in die der Verlag die Serie unterteilt hat, z. B. "Band", "Teil" oder "Band".
--   **Zählung**. Die Zählung des Teils, die die fortlaufende numerische und/oder alphabetische Bezeichnung angibt, die von einem Verlag verwendet wird, um die einzelnen bibliographischen oder physischen Teile zu identifizieren und die Beziehung jedes Teils zur bibliographischen Einheit als Ganzes zu zeigen.
--   **Exemplarnummer**. Die Exemplarnummer des Teils.
--   **Barcode**. Ein eindeutiger Barcode für den Teil. Es kann nur dann ein Barcode hinzugefügt werden, wenn das Teil bereits mit einer Instanz im Katalog **verbunden** ist, oder wenn die Checkbox **Exemplar erstellen** aktiviert ist.
--   **Stückformat**. Das Bestellformat, wie es in Bestellungen ausgewählt wurde. Dieses Feld ist nicht bearbeitbar.
--   **Bestandsanfrage**. Informationen aus der App Bestandsanfragen zu dieser bestellten Ressource. Ein Wert von "Ja" zeigt an, dass eine Bestandsanfrage für den Teil offen ist.
--   **Kommentar**. Kommentare oder Anmerkungen zu dem Teil.
--   **Standort auswählen**. Der Standort, wie er in Bestellungen ausgewählt wurde. Der Standort kann geändert werden, indem auf **Neue Bestände für den Standort anlegen** geklickt wird.
--   **Exemplarstatus**. In dieses Feld wird der Exemplarstatus eingetragen, der im Katalog angezeigt wird, nachdem das Exemplar inventarisiert wurde. Der Status des Exemplars ändert sich von "Im Erwerbungsvorgang" zu "in Bearbeitung".
--   **Signatur**. Die Signatur für das Teil eingeben. Es kann nur dann eine Signatur hinzugefügt werden, wenn das Teil bereits mit einer Instanz im Katalog **verbunden** ist, oder wenn die Checkbox **Exemplar erstellen** aktiviert ist.
--   **Exemplar erstellen**. Wenn die Checkbox **Exemplar erstellen** markiert wird, wird das neue Teil mit einer Instanz im Katalog verknüpft. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Wert für die Bestellposten **Im Katalog erstellen** auf "Instanz/Exemplar" gesetzt ist. Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Bestellungen%29%3A+Allgemein) für weitere Informationen.
+* **Bestellposten Standorte**. Eine Liste der Standorte, die auf dem Bestellposten ausgewählt wurden.
+* **Bezeichnung**. Ein Wort, eine Phrase oder eine Abkürzung, die die Teile angibt, in die der Verlag die Serie unterteilt hat, z. B. "Band", "Teil" oder "Band".
+* **Zählung**. Die Zählung des Teils, die die fortlaufende numerische und/oder alphabetische Bezeichnung angibt, die von einem Verlag verwendet wird, um die einzelnen bibliographischen oder physischen Teile zu identifizieren und die Beziehung jedes Teils zur bibliographischen Einheit als Ganzes zu zeigen.
+* **Exemplarnummer**. Die Exemplarnummer des Teils.
+* **Barcode**. Ein eindeutiger Barcode für den Teil. Es kann nur dann ein Barcode hinzugefügt werden, wenn das Teil bereits mit einer Instanz im Katalog **verbunden** ist, oder wenn die Checkbox **Exemplar erstellen** aktiviert ist.
+* **Stückformat**. Das Bestellformat, wie es in Bestellungen ausgewählt wurde. Dieses Feld ist nicht bearbeitbar.
+* **Bestandsanfrage**. Informationen aus der App Bestandsanfragen zu dieser bestellten Ressource. Ein Wert von "Ja" zeigt an, dass eine Bestandsanfrage für den Teil offen ist.
+* **Kommentar**. Kommentare oder Anmerkungen zu dem Teil.
+* **Standort auswählen**. Der Standort, wie er in Bestellungen ausgewählt wurde. Der Standort kann geändert werden, indem auf **Neue Bestände für den Standort anlegen** geklickt wird.
+* **Exemplarstatus**. In dieses Feld wird der Exemplarstatus eingetragen, der im Katalog angezeigt wird, nachdem das Exemplar inventarisiert wurde. Der Status des Exemplars ändert sich von "Im Erwerbungsvorgang" zu "in Bearbeitung".
+* **Signatur**. Die Signatur für das Teil eingeben. Es kann nur dann eine Signatur hinzugefügt werden, wenn das Teil bereits mit einer Instanz im Katalog **verbunden** ist, oder wenn die Checkbox **Exemplar erstellen** aktiviert ist.
+* **Exemplar erstellen**. Wenn die Checkbox **Exemplar erstellen** markiert wird, wird das neue Teil mit einer Instanz im Katalog verknüpft. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Wert für die Bestellposten **Im Katalog erstellen** auf "Instanz/Exemplar" gesetzt ist. Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Bestellungen%29%3A+Allgemein) für weitere Informationen.

@@ -23,9 +23,9 @@ Anmerkung: Informationen zur Zuweisung von Berechtigungen an Personen finden Sie
 
 Im Folgenden sind alle Berechtigungen für die Exportmanager App zu finden:
 
--   **Exportmanager: Alle**. (Export manager: All)
+* **Exportmanager: Alle**. (Export manager: All)
     Diese Berechtigung aktiviert die Exportmanager App für die Person und erlaubt ihr, Protokolle einzusehen und darauf zuzugreifen, Dateien aus der Exportmanager App herunterzuladen und EDIFACT-Exportaufträge herunterzuladen und erneut zu senden.
--   **Exportmanager: Herunterladen und erneutes Senden von Dateien**. (Export manager: Download and re-send files)
+* **Exportmanager: Herunterladen und erneutes Senden von Dateien**. (Export manager: Download and re-send files)
     Diese Berechtigung ermöglicht es Personen, EDIFACT-Exportaufträge herunterzuladen und erneut zu senden.
 
 Da Exporte in anderen FOLIO Apps und nicht in der Exportmanager App beginnen, benötigt eine Person zusätzliche Berechtigungen, um einen Export zu starten, kann aber Dateien mit der **Exportmanager: Alle-**Berechtigung herunterladen.

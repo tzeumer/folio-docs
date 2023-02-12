@@ -24,22 +24,22 @@ Notizen sind eine Möglichkeit für die Bibliothek, einem Datensatz zusätzliche
 
 Um mit den Einstellungen für Notizen interagieren zu können, muss einer Person die folgende Berechtigung zugewiesen werden:
 
--   **Einstellungen (Notizen): Liste der Einstellungsseiten anzeigen**. (Settings (notes): display list of settings pages)
+* **Einstellungen (Notizen): Liste der Einstellungsseiten anzeigen**. (Settings (notes): display list of settings pages)
     Mit dieser Berechtigung kann die Person Notizen erstellen, bearbeiten und löschen.
 
 Um an FOLIO-Datensätze angehängte Anmerkungen zu verwalten, sind die folgenden Berechtigungen erforderlich:
 
--   **Notizen: Kann eine Notiz zuweisen oder entfernen**. (Notes: Can assign and unassign a note)
+* **Notizen: Kann eine Notiz zuweisen oder entfernen**. (Notes: Can assign and unassign a note)
     Diese Berechtigung erlaubt es der Person, Notizen zuzuweisen und die Zuweisung aufzuheben.
--   **Notizen: Kann eine Notiz erstellen**. (Notes: Can create a note)
+* **Notizen: Kann eine Notiz erstellen**. (Notes: Can create a note)
     Diese Berechtigung erlaubt es der Person, Notizen zu erstellen.
--   **Notizen: Kann eine Notiz löschen**. (Notes: Can delete a note)
+* **Notizen: Kann eine Notiz löschen**. (Notes: Can delete a note)
     Diese Berechtigung erlaubt es der Person, Notizen zu löschen.
--   **Notizen: Kann eine Notiz bearbeiten**. (Notes: Can edit a note)
+* **Notizen: Kann eine Notiz bearbeiten**. (Notes: Can edit a note)
     Diese Berechtigung erlaubt es der Person, Notizen zu bearbeiten.
--   **Notizen: Kann eine Notiz anzeigen**. (Notes: Can view a note)
+* **Notizen: Kann eine Notiz anzeigen**. (Notes: Can view a note)
     Diese Berechtigung erlaubt es der Person, Notizen einzusehen.
 
 ## Workflows
 
--   [Einstellungen (Notizen): Allgemein \[Notiztypen anlegen, erstellen, löschen\]](https://info.gbv.de/pages/viewpage.action?pageId=844890135)
+* [Einstellungen (Notizen): Allgemein \[Notiztypen anlegen, erstellen, löschen\]](https://info.gbv.de/pages/viewpage.action?pageId=844890135)

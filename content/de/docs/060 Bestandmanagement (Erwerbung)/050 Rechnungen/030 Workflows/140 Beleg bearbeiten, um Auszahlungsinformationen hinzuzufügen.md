@@ -19,6 +19,6 @@ Um Informationen über die Auszahlung des Rechnungsbelegs aus einem externen Fin
 
 Die einzigen Felder, die auf dem Beleg bearbeitet werden können, sind:
 
--   **Auszahlungsnummer**. Eine Kennung aus einem externen System eingeben, die einer Zahlung entspricht, z.B. eine Schecknummer.
--   **Auszahlungsdatum**. Das Datum des Auszahlungsvorgangs im externen System eingeben.
--   **Auszahlungsbetrag**. Den Auszahlungsbetrag eingeben, mit oder ohne Dezimalstellen.
+* **Auszahlungsnummer**. Eine Kennung aus einem externen System eingeben, die einer Zahlung entspricht, z.B. eine Schecknummer.
+* **Auszahlungsdatum**. Das Datum des Auszahlungsvorgangs im externen System eingeben.
+* **Auszahlungsbetrag**. Den Auszahlungsbetrag eingeben, mit oder ohne Dezimalstellen.

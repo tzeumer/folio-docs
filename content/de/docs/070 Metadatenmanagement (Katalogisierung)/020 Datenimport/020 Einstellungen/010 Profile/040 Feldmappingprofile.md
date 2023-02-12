@@ -31,7 +31,7 @@ Feldmapping-Profile ordnen Felder der eingehenden Datensätze in FOLIO gemäß d
 
 Anmerkung: Inaktive Felder können nicht gemappt werden, da sie vom System oder vom MARC-Instanz-Mappingprofil der Bibliothek kontrolliert werden.
 
--   Im Abschnitt **Feldmapping - Instanz** die entsprechenden Felder auswählen. Weitere Informationen zu den Feldern sind unter Manuelles [Erstellen eines Instanzdatensatzes in FOLIO](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen) zu finden.
+* Im Abschnitt **Feldmapping - Instanz** die entsprechenden Felder auswählen. Weitere Informationen zu den Feldern sind unter Manuelles [Erstellen eines Instanzdatensatzes in FOLIO](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen) zu finden.
 
 ### Bestände
 
@@ -66,11 +66,11 @@ Die Suchleiste verwenden, um nach Feldmappingprofilen in der Tabelle Feldmapping
 
 Die Tabelle Feldmappingprofile enthält die folgenden Spalten:
 
--   **Name**. Name des Feldmappingprofils.
--   **FOLIO-Datensatztyp**. Die vom Feldmappingprofil betroffene Datensatzart.
--   **Tags**. Alle dem Feldmappingprofil zugewiesenen Tags
--   **Aktualisiert**. Datum, an dem das Feldmappingprofil zuletzt aktualisiert wurde.
--   **Aktualisiert von**. Person, die das Feldmappingprofil zuletzt aktualisiert hat.
+* **Name**. Name des Feldmappingprofils.
+* **FOLIO-Datensatztyp**. Die vom Feldmappingprofil betroffene Datensatzart.
+* **Tags**. Alle dem Feldmappingprofil zugewiesenen Tags
+* **Aktualisiert**. Datum, an dem das Feldmappingprofil zuletzt aktualisiert wurde.
+* **Aktualisiert von**. Person, die das Feldmappingprofil zuletzt aktualisiert hat.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -78,7 +78,7 @@ Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte
 
 Um die Details eines Feldmappingprofils anzuzeigen, folgendermaßen vorgehen:
 
--   In der Ansicht **Feldmappingprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Feldmappingprofil** wird angezeigt.
+* In der Ansicht **Feldmappingprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Feldmappingprofil** wird angezeigt.
 
 ## Feldmappingprofil für Importjob bearbeiten
 

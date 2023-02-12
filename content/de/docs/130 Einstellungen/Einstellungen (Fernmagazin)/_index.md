@@ -21,12 +21,12 @@ Wenn eine Bibliothek kein Fernmagazin verwendet, muss sie in diesem Bereich von 
 
 Die unten aufgeführten Berechtigungen legen fest, was Sie mit den einzelnen Teilen des Bereichs Fernmagazin der Einstellungen tun oder nicht tun können. Wenn einer Person keine dieser Berechtigungen zugewiesen ist, sieht sie diesen Bereich der App Einstellungen nicht.
 
--   **Einstellungen (Fernmagazin): Kann Fernmagazineinstellungen erstellen, bearbeiten und löschen**. (Remote storage: Create, edit, delete(
+* **Einstellungen (Fernmagazin): Kann Fernmagazineinstellungen erstellen, bearbeiten und löschen**. (Remote storage: Create, edit, delete(
     Mit dieser Berechtigung kann die Person die Einstellungen für den Fernspeicher anzeigen, erstellen, bearbeiten und löschen.
--   **Einstellungen (Fernmagazin): Kann Fernmagazineinstellungen anzeigen**. (Remote storage: View)
+* **Einstellungen (Fernmagazin): Kann Fernmagazineinstellungen anzeigen**. (Remote storage: View)
     Diese Berechtigung ermöglicht es der Person, alle Fernspeichereinstellungen zu sehen.
 
 ## Einstellungen
 
--   [Einstellungen (Fernmagazin): Konfigurationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Fernmagazin%29%3A+Konfigurationen)
--   [Einstellungen (Fernmagazin): Akzessionstabellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Fernmagazin%29%3A+Akzessionstabellen)
+* [Einstellungen (Fernmagazin): Konfigurationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Fernmagazin%29%3A+Konfigurationen)
+* [Einstellungen (Fernmagazin): Akzessionstabellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Fernmagazin%29%3A+Akzessionstabellen)

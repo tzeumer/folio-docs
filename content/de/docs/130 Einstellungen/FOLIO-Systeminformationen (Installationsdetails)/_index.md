@@ -19,22 +19,22 @@ Es gibt keine explizite Berechtigung zum Anzeigen von Einstellungen > Installati
 
 Die Seite ist dreispaltig.
 
--   Benutzeroberfläche: Informationen über Stripes (das FOLIO UI-Framework) und die damit verbundene Infrastruktur
-    -   Basis
-    -   Appmodule
-    -   Pluginmodule
-    -   Module für Einstellungen
-    -   Handler Module
--   Okapi: Informationen über Okapi (das FOLIO API-Gateway) und die zugehörige Infrastruktur
-    -   Okapi
-    -   Module
-    -   Interfaces
--   Abhängigkeiten: Informationen über Abhängigkeiten zwischen verschiedenen Bereichen der FOLIO-Infrastruktur
-    -   Basis
-    -   Appmodule
-    -   Pluginmodule
-    -   Module für Einstellungen
-    -   Handler-Module
+* Benutzeroberfläche: Informationen über Stripes (das FOLIO UI-Framework) und die damit verbundene Infrastruktur
+    * Basis
+    * Appmodule
+    * Pluginmodule
+    * Module für Einstellungen
+    * Handler Module
+* Okapi: Informationen über Okapi (das FOLIO API-Gateway) und die zugehörige Infrastruktur
+    * Okapi
+    * Module
+    * Interfaces
+* Abhängigkeiten: Informationen über Abhängigkeiten zwischen verschiedenen Bereichen der FOLIO-Infrastruktur
+    * Basis
+    * Appmodule
+    * Pluginmodule
+    * Module für Einstellungen
+    * Handler-Module
 
 ## "Blumen"-Releases (Softwareversionen)
 

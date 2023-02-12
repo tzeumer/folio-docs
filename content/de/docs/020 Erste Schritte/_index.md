@@ -15,8 +15,8 @@ Möchten Sie mit FOLIO vertraut werden? Sehen Sie sich die folgenden Ressourcen 
 
 Sehen Sie sich diese Videos an, um mehr über FOLIO zu erfahren:
 
--   [FOLIO-Videos bei der Open Library Foundation](https://www.youtube.com/c/OpenLibraryFoundation)
--   [Weitere FOLIO-Videos](https://www.youtube.com/watch?v=pTKjaE99QI4&list=PLMocoPoiGkwfNHau9jqASXk5BAwcd5ekk)
+* [FOLIO-Videos bei der Open Library Foundation](https://www.youtube.com/c/OpenLibraryFoundation)
+* [Weitere FOLIO-Videos](https://www.youtube.com/watch?v=pTKjaE99QI4&list=PLMocoPoiGkwfNHau9jqASXk5BAwcd5ekk)
 
 ## Sind Sie bereit, FOLIO selbst zu erkunden?
 
@@ -24,19 +24,19 @@ Greifen Sie auf eine unserer Demoseiten zu und entdecken Sie die Funktionen von 
 
 Anmeldung: diku\_admin / admin
 
--   [Aktuelle Version](https://folio-kiwi.dev.folio.org/)
--   [Vorherige Version](https://folio-juniper.dev.folio.org/)
+* [Aktuelle Version](https://folio-kiwi.dev.folio.org/)
+* [Vorherige Version](https://folio-juniper.dev.folio.org/)
 
 Demoinstallationen in Deutschland
 
--   [https://folio-demo.gbv.de/](https://folio-demo.gbv.de/)
--   [https://folio-demo.hbz-nrw.de/](https://folio-demo.hbz-nrw.de/)
+* [https://folio-demo.gbv.de/](https://folio-demo.gbv.de/)
+* [https://folio-demo.hbz-nrw.de/](https://folio-demo.hbz-nrw.de/)
 
 ### Arbeiten mit der Demo-Website
 
 Sie können mit der Plattform experimentieren, um zu sehen, wie sie funktioniert. Einige Beispiele für Dinge, die Sie ausprobieren können:
 
--   Einen Medium ausleihen und zurücknehmen
--   Aktualisieren eines Exemplardatensatzes mit quickMARC
--   Aktualisieren von Lizenzen und Vereinbarungen für eine elektronische Ressource
--   Einsehen und Bearbeiten eines Mitgliederdatensatzes
+* Einen Medium ausleihen und zurücknehmen
+* Aktualisieren eines Exemplardatensatzes mit quickMARC
+* Aktualisieren von Lizenzen und Vereinbarungen für eine elektronische Ressource
+* Einsehen und Bearbeiten eines Mitgliederdatensatzes

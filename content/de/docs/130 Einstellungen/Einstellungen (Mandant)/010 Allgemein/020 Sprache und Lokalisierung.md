@@ -13,9 +13,9 @@ Mit dieser Einstellung können Gebietsschema, Zeitzone und/oder Währung für al
 
 ## Aktualisieren von Gebietsschema, Zeitzone oder Währung
 
--   **Gebietsschema (für Sprachanzeige, Datumsformat usw.)**. Das Gebietsschema passt die Sprachanzeige, das Datumsformat und das Zahlenformat von FOLIO an den Standard für die ausgewählte Region an.
--   **Zahlensystem**. (NICHT IN EN-DOKU)
--   **Zeitzone (Zeitzone, die bei der Anzeige von Datums- und Zeitinformationen verwendet wird)** Zeitzone stellt die Zeitzone von FOLIO für die Datumsanzeige ein. Die Zeitzonen basieren auf den Standard-Zeitzonennamen der Zeitzonen-Datenbank.
--   **Primärwährung (für das anzuzeigende Währungssymbol)**. Die Primärwährung passt das Währungssymbol von FOLIO an, wobei ISO 4217 Standardcodes verwendet werden.
+* **Gebietsschema (für Sprachanzeige, Datumsformat usw.)**. Das Gebietsschema passt die Sprachanzeige, das Datumsformat und das Zahlenformat von FOLIO an den Standard für die ausgewählte Region an.
+* **Zahlensystem**. (NICHT IN EN-DOKU)
+* **Zeitzone (Zeitzone, die bei der Anzeige von Datums- und Zeitinformationen verwendet wird)** Zeitzone stellt die Zeitzone von FOLIO für die Datumsanzeige ein. Die Zeitzonen basieren auf den Standard-Zeitzonennamen der Zeitzonen-Datenbank.
+* **Primärwährung (für das anzuzeigende Währungssymbol)**. Die Primärwährung passt das Währungssymbol von FOLIO an, wobei ISO 4217 Standardcodes verwendet werden.
 1.  Ein **Gebietsschema**, eine **Zeitzone** und/oder eine **Primärwährung** aus den Dropdown-Listen wählen.
 2.  Auf **Speichern** klicken. Eine Bestätigungsmeldung erscheint und Ihre Änderungen werden gespeichert.

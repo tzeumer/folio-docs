@@ -15,16 +15,16 @@ Stand 2023-01
 
 Für lokale Pakete aus der GOKb wurden in FOLIO zwei Eigenschaften hinzugefügt:
 
--   Paketverfügbarkeitsbereich
--   Paketverfügbarkeitsbeschränkungen
+* Paketverfügbarkeitsbereich
+* Paketverfügbarkeitsbeschränkungen
 
 Der Paketverfügbarkeitsbereich wird verwendet, um die allgemeine Verfügbarkeit des Pakets zu erfassen - in der GOKb wird dies als die "Gültigkeit" des Pakets bezeichnet und kann einen der folgenden Werte annehmen:
 
--   Global
--   Konsortial
--   Regional
--   Andere
--   Lokal
+* Global
+* Konsortial
+* Regional
+* Andere
+* Lokal
 
 Paketverfügbarkeitsbeschränkungen werden verwendet, um spezifische Beschränkungen auf der Grundlage des Verfügbarkeitsbereichs aufzuzeichnen. Wenn z.B. der Verfügbarkeitsbereich = "regional" ist, dann ist die Verfügbarkeitsbeschränkung eine Liste der Regionen, in denen das Paket verfügbar ist.
 

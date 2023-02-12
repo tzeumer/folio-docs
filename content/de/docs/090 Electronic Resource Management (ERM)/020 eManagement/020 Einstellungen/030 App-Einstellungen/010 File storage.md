@@ -9,10 +9,10 @@ Description: "
     "
 ---
 
--   S3 access key
--   S3 bucket name
--   S3 Bucket Region
--   S3 endpoint
--   S3 object prefix
--   S3 secret key
--   Storage engine
+* S3 access key
+* S3 bucket name
+* S3 Bucket Region
+* S3 endpoint
+* S3 object prefix
+* S3 secret key
+* Storage engine

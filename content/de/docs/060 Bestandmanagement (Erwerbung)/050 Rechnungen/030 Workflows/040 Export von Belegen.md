@@ -22,9 +22,9 @@ Folgendermaßen vorgehen, um eine Datei mit Beleginformationen im Format Komma-g
 
 Der Abschnitt Details zum Belegexport enthält die folgenden Felder:
 
--   **Batch-Gruppe**. Der Name der für die Rechnung ausgewählten Batch-Gruppe.
--   **Name der Batch-Datei**. Der Name der durch den Belegexport erzeugten Datei, ausgedrückt als Datum und Uhrzeit.
--   **Status der Batchdatei**. Der Status der Stapeldatei des Belegexports: Hochgeladen oder Fehler.
+* **Batch-Gruppe**. Der Name der für die Rechnung ausgewählten Batch-Gruppe.
+* **Name der Batch-Datei**. Der Name der durch den Belegexport erzeugten Datei, ausgedrückt als Datum und Uhrzeit.
+* **Status der Batchdatei**. Der Status der Stapeldatei des Belegexports: Hochgeladen oder Fehler.
 
 Nach dem Export von Belegen können Details zum Export angezeigt und die vollständige Belegexportdatei heruntergeladen werden, indem eine Rechnung gesucht wird, die im Exportauftrag enthalten war. Wie folgt vorgehen, um die Details des Belegexports anzuzeigen und die Datei in lokal herunterzuladen:
 
@@ -36,28 +36,28 @@ Nach dem Export von Belegen können Details zum Export angezeigt und die vollst�
 
 Die Belegexportdatei enthält die folgenden Datenelemente:
 
--   accountingCode
--   accountNo
--   amount
--   batchedVoucherLines/0/amount
--   batchedVoucherLines/0/fundCodes/
--   batchedVoucherLines/0/externalAccountNumber
--   enclosureNeeded
--   exchangeRate
--   folioInvoiceNo
--   invoiceCurrency
--   invoiceDate
--   invoiceTerms
--   status
--   systemCurrency
--   type
--   vendorInvoiceNo
--   vendorName
--   voucherDate
--   voucherNumber
--   vendorAddress/addressLine1
--   vendorAddress/addressLine2
--   vendorAddress/city
--   vendorAddress/stateRegion
--   vendorAddress/zipCode
--   vendorAddress/country
+* accountingCode
+* accountNo
+* amount
+* batchedVoucherLines/0/amount
+* batchedVoucherLines/0/fundCodes/
+* batchedVoucherLines/0/externalAccountNumber
+* enclosureNeeded
+* exchangeRate
+* folioInvoiceNo
+* invoiceCurrency
+* invoiceDate
+* invoiceTerms
+* status
+* systemCurrency
+* type
+* vendorInvoiceNo
+* vendorName
+* voucherDate
+* voucherNumber
+* vendorAddress/addressLine1
+* vendorAddress/addressLine2
+* vendorAddress/city
+* vendorAddress/stateRegion
+* vendorAddress/zipCode
+* vendorAddress/country

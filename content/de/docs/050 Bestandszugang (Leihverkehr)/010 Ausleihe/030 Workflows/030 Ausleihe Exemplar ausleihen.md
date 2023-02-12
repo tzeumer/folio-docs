@@ -19,10 +19,10 @@ Das Fälligkeitsdatum/die Fälligkeitszeit eines Exemplars kann früher oder sp�
 
 Wird ein Exemplar an eine Person ausgeliehen, kann eines der folgenden Popups erscheinen:
 
--   Status des Exemplars
--   Ausleih-Notizen
--   Mehrteilige und/oder fehlende Teile
--   Kontosperre
--   Exemplarsperre
--   Spezielle Zustimmung (=Ausleihregel ignorieren)
+* Status des Exemplars
+* Ausleih-Notizen
+* Mehrteilige und/oder fehlende Teile
+* Kontosperre
+* Exemplarsperre
+* Spezielle Zustimmung (=Ausleihregel ignorieren)
 

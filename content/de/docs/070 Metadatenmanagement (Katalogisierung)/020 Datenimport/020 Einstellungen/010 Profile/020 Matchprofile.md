@@ -32,11 +32,11 @@ Die Suchleiste verwenden, um nach Matchprofilen in der Tabelle Matchprofile zu s
 
 Die Tabelle Matchprofile enthält die folgenden Spalten:
 
--   **Name**. Name des Matchprofils.
--   **Match**. Die im Matchprofil enthaltene Übereinstimmung.
--   **Tags**. Alle dem Matchprofil zugewiesenen Tags
--   **Aktualisiert**. Datum, an dem das Matchprofil zuletzt aktualisiert wurde.
--   **Aktualisiert von**. Person, die das Matchprofil zuletzt aktualisiert hat.
+* **Name**. Name des Matchprofils.
+* **Match**. Die im Matchprofil enthaltene Übereinstimmung.
+* **Tags**. Alle dem Matchprofil zugewiesenen Tags
+* **Aktualisiert**. Datum, an dem das Matchprofil zuletzt aktualisiert wurde.
+* **Aktualisiert von**. Person, die das Matchprofil zuletzt aktualisiert hat.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -44,7 +44,7 @@ Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte
 
 Um die Details eines Matchprofils anzuzeigen, folgendermaßen vorgehen:
 
--   In der Ansicht **Matchprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Matchprofil** wird angezeigt.
+* In der Ansicht **Matchprofile** das Profil suchen, das angezeigt werden soll und es auswählen. Das Fenster **Details zum Matchprofil** wird angezeigt.
 
 ## Matchprofil für Importjob bearbeiten
 

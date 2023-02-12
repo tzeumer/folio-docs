@@ -17,19 +17,19 @@ Eine Universität, die FOLIO gemeinsam mit mehreren unabhängigen Bibliotheken n
 
 Erwerbungsteams können auf die folgenden Arten von Datensätzen in FOLIO angewendet werden:
 
--   Haushaltsjahre
--   Etats
--   Gruppen
--   Fonds
--   Rechnungen
--   Bestellungen
--   Organisationen
+* Haushaltsjahre
+* Etats
+* Gruppen
+* Fonds
+* Rechnungen
+* Bestellungen
+* Organisationen
 
 ## Berechtigungen
 
 Um mit den Einstellungen der Erwerbungsteams interagieren zu können, muss einer Person die folgende Berechtigung zugewiesen werden:
 
--   **Einstellungen (Erwerbungsteams): Kann Erwerbungsteams anzeigen, bearbeiten, erstellen und löschen**. (Settings (acquisition units): Can view, edit, create and delete settings)
+* **Einstellungen (Erwerbungsteams): Kann Erwerbungsteams anzeigen, bearbeiten, erstellen und löschen**. (Settings (acquisition units): Can view, edit, create and delete settings)
     Mit dieser Berechtigung können die Einstellungen der Erwerbungsteams verwaltet werden.
--   **Einstellungen (Erwerbungsteams): Verwalten Sie die Zuweisung von Personen zu Erwerbungsteams.** (Settings (acquisition units): Manage acquisition unit user assignments)
+* **Einstellungen (Erwerbungsteams): Verwalten Sie die Zuweisung von Personen zu Erwerbungsteams.** (Settings (acquisition units): Manage acquisition unit user assignments)
     Mit dieser Berechtigung können Personen den Erwerbungsteams zugewiesen werden.

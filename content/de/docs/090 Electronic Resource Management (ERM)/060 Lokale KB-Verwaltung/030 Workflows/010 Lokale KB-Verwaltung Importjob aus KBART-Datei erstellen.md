@@ -16,10 +16,10 @@ Description: "
 
 ## Felder
 
--   **Paketname**. Der Name des Pakets, der in der App eManagement im Bereich E-Ressourcen angezeigt wird, wenn die lokale KB von der Bibliothek verwendet wird.
--   **Paketquelle**. Angabe der Quelle der Paketliste.
--   **Paketreferenz**. Die Paketreferenz, z.B. eine Paket-ID.
--   **Paketanbieter**. Der Name des Anbieters, auf dessen Plattform der Paketinhalt verfügbar ist. Wenn der eingegebene Anbieter nicht existiert, wird ein neuer in der lokalen Knowledgebase in der App eManagement erstellt.
--   **Diesem Job als Quelle für Titelinstanz-Metadaten vertrauen**. Wenn diese Checkbox aktiviert ist, überschreiben die Daten in der KBART-Datei alle vorhandenen Titeldaten, die während des Importvorgangs abgeglichen werden. Auf diese Weise kann z.B. den Namen einer E-Ressource aktualisiert werden, die bereits in der lokalen KB existiert. Wenn die Checkbox nicht aktiviert ist, werden die Daten in der KBART-Datei keine vorhandenen Titeldaten überschreiben.
+* **Paketname**. Der Name des Pakets, der in der App eManagement im Bereich E-Ressourcen angezeigt wird, wenn die lokale KB von der Bibliothek verwendet wird.
+* **Paketquelle**. Angabe der Quelle der Paketliste.
+* **Paketreferenz**. Die Paketreferenz, z.B. eine Paket-ID.
+* **Paketanbieter**. Der Name des Anbieters, auf dessen Plattform der Paketinhalt verfügbar ist. Wenn der eingegebene Anbieter nicht existiert, wird ein neuer in der lokalen Knowledgebase in der App eManagement erstellt.
+* **Diesem Job als Quelle für Titelinstanz-Metadaten vertrauen**. Wenn diese Checkbox aktiviert ist, überschreiben die Daten in der KBART-Datei alle vorhandenen Titeldaten, die während des Importvorgangs abgeglichen werden. Auf diese Weise kann z.B. den Namen einer E-Ressource aktualisiert werden, die bereits in der lokalen KB existiert. Wenn die Checkbox nicht aktiviert ist, werden die Daten in der KBART-Datei keine vorhandenen Titeldaten überschreiben.
 
 Die Felder Quelle und Referenz werden zusammen als eindeutiger Bezeichner für Pakete verwendet. Wenn ein Paket mit der angegebenen Quelle+Referenz bereits existiert, wird es aktualisiert, andernfalls wird ein neues Paket erstellt.

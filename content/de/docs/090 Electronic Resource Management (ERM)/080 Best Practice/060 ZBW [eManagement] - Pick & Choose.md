@@ -21,8 +21,8 @@ Pick & Choose ist eine Erwerbungsart für elektronische Medien (E-Journals und E
 
 Wann das ERM-Modul für Einzellizenzen genutzt werden sollte:
 
--   Nutzung des FOLIO-ERM-Lizenzmoduls: Verknüpfung von Lizenzinformationen mit Titeldaten (z.B. Infos zur elektronischen Fernleihe).
--   FOLIO-ERM als Datenquelle für Zielsysteme (z.B. Discovery).
+* Nutzung des FOLIO-ERM-Lizenzmoduls: Verknüpfung von Lizenzinformationen mit Titeldaten (z.B. Infos zur elektronischen Fernleihe).
+* FOLIO-ERM als Datenquelle für Zielsysteme (z.B. Discovery).
 
 ### Recherche und Datenimport: Einzeltitel in Paketen
 
@@ -64,18 +64,18 @@ Mit dem Inhalt des Warenkorbs (i.d.R. nur ein  Titel) kann jetzt entweder eine 
 
 Alternativen:
 
--    ![(Haken)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/check.svg) für jeden Titel eine eigene Vereinbarung zu erzeugen = jedesmal, wenn ein neuer Titel dazukommt, wird eine eigene Vereinbarung mit genau einer Vereinbarungskomponente erzeugt.
+*  ![(Haken)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/check.svg) für jeden Titel eine eigene Vereinbarung zu erzeugen = jedesmal, wenn ein neuer Titel dazukommt, wird eine eigene Vereinbarung mit genau einer Vereinbarungskomponente erzeugt.
     Vorteil: Verlängerungen können über die Felder _Vereinbarungszeiträume →Enddatum_ und _→ Stornierungsfrist_ gesteuert werden, z.B. über das **Dashboard-Modul**;
     Beispiel: Für _ABI-Technik und Rundbrief Fotografie_ wird jeweils eine eigene Vereinbarung erstellt
     Nachteil: Die Anzahl der Vereinbarungen wird aufgebläht;
 
--     ![(Haken)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/check.svg) ![(Haken)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/check.svg) Titel mit gemeinsamen Eigenschaften (z.B. alle de Gruyter-Einzellizenzen) jeweils in Vereinbarungen zu clustern = jedesmal, wenn ein neuer Titel dazukommt, wird die zugehörige Vereinbarung um eine neue Vereinbarungskomponente erweitert.
+*   ![(Haken)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/check.svg) ![(Haken)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/check.svg) Titel mit gemeinsamen Eigenschaften (z.B. alle de Gruyter-Einzellizenzen) jeweils in Vereinbarungen zu clustern = jedesmal, wenn ein neuer Titel dazukommt, wird die zugehörige Vereinbarung um eine neue Vereinbarungskomponente erweitert.
     Nachteil: Keine Verwaltung der Vereinbarungszeiträume je Titel ; _Vereinbarungszeiträume → Startdatum_ ist Pflichtfeld und muss daher belegt werden (z.B. Tagesdatum); für alle Titel gelten die selben Bedingungen aus dem ERM-Lizenzmodul.
     Beispiel: _ABI-Technik und Rundbrief Fotografie_ werden als jeweils eigene Vereinbarungskomponenten in einer gemeinsamen Vereinbarung (für de Gruyter-Einzelsubskriptionen) verwaltet.
     Andere Möglichkeiten der inhaltlichen Gruppierung:  Proquest-E-Book-Einzelkäufe mit 1-Nutzer-Lizenz, die 2022 erworben wurden ![](/img/de/_moved_from_wrong_pasting/060%20ZBW%20[eManagement]%20-%20Pick%20&%20Choose_2023-02-10-18-24-05.png)
--    ![(Fehler)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/error.svg) beliebige Titel in einer Sammel-Vereinbarung zu verwalten = jedesmal, wenn ein neuer Titel dazukommt, wird die SammelVereinbarung um eine neue Vereinbarungskomponente erweitert = möglich, aber wenig sinnvoll
+*  ![(Fehler)](https://info.gbv.de/s/-yuig8a/8803/369q8t/_/images/icons/emoticons/error.svg) beliebige Titel in einer Sammel-Vereinbarung zu verwalten = jedesmal, wenn ein neuer Titel dazukommt, wird die SammelVereinbarung um eine neue Vereinbarungskomponente erweitert = möglich, aber wenig sinnvoll
     Nachteil: Der  heterogenen Titelgruppe kann keine gemeinsame Lizenz aus dem **ERM-Lizenzen-Modul** zugewiesen werden.
--   Beispiel: _ABI-Technik und Rundbrief Fotografie_ werden als neue Vereinbarungskomponenten einer bestehenden Vereinbarung zugewiesen, die bereits Einzelabos von Elsevier, OUP und weiteren Verlagen enthält. ![](/img/de/_moved_from_wrong_pasting/060%20ZBW%20[eManagement]%20-%20Pick%20&%20Choose_2023-02-10-18-24-21.png)
+* Beispiel: _ABI-Technik und Rundbrief Fotografie_ werden als neue Vereinbarungskomponenten einer bestehenden Vereinbarung zugewiesen, die bereits Einzelabos von Elsevier, OUP und weiteren Verlagen enthält. ![](/img/de/_moved_from_wrong_pasting/060%20ZBW%20[eManagement]%20-%20Pick%20&%20Choose_2023-02-10-18-24-21.png)
 **Einzellizenzen eines Anbieters in einer Vereinbarung: eine Vereinbarungskomponente je Titel**
 
 Belegung der Felder:

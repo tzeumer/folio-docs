@@ -15,11 +15,11 @@ Mit dieser Einstellung kann festlegt werden, welche Arten von Personen-IDs gesca
 
 Mindestens eine der Optionen muss ausgewählt sein:
 
--   Barcode.
--   Externe System-ID.
--   FOLIO-Datensatznummer (ID).
--   Kennung.
--   Benutzerdefinierte Felder im Personendatensatz.
+* Barcode.
+* Externe System-ID.
+* FOLIO-Datensatznummer (ID).
+* Kennung.
+* Benutzerdefinierte Felder im Personendatensatz.
 
 Werden benutzerdefinierte Felder gewählt, kann ein oder mehrere benutzerdefinierte Felder auswählt werden, die von der App Ausleihe bei der Suche nach Personendatensätzen berücksichtigt werden sollen. Benutzerdefinierte Felder müssen unter [Einstellungen > Personen](https://info.gbv.de/pages/viewpage.action?pageId=841416803) konfiguriert werden, bevor sie hier ausgewählt werden können.
 

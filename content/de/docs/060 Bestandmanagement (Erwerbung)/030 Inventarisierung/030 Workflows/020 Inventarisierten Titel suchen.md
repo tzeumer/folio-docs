@@ -11,13 +11,13 @@ Description: "
 
 In der Ansicht Suchen & Filtern kann nach Bestellungen gesucht werden, die inventarisiert werden sollen. Zur Suche die Zeiträume in das Feld eingeben. Die Dropdown-Liste Stichwort wählen, um in einem der folgenden Felder zu suchen:
 
--   **Stichwort**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
--   **Titel (Inventarisierte Titel)**. Titel der bestellten Ressource.
--   **Paket (Bestellposten Paket)**. Der Name des Pakets, an das ein zu inventarisierender Titel angehängt ist.
--   **Produkt-ID (Titel oder Paket)**. Identifikationsnummer, die in der Regel in Bestellungen vergeben wird, wenn die Bestellung erstellt wird.
--   **Bestellnummer**. Die Bestellungsnummer.
--   **Bestellpostennummer**. Die Nummer des Bestellpostens.
--   **Lieferanten-Referenznummer**. Die Lieferanten-Referenznummer für den Bestellposten zu diesem inventarisierenden Titel.
+* **Stichwort**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
+* **Titel (Inventarisierte Titel)**. Titel der bestellten Ressource.
+* **Paket (Bestellposten Paket)**. Der Name des Pakets, an das ein zu inventarisierender Titel angehängt ist.
+* **Produkt-ID (Titel oder Paket)**. Identifikationsnummer, die in der Regel in Bestellungen vergeben wird, wenn die Bestellung erstellt wird.
+* **Bestellnummer**. Die Bestellungsnummer.
+* **Bestellpostennummer**. Die Nummer des Bestellpostens.
+* **Lieferanten-Referenznummer**. Die Lieferanten-Referenznummer für den Bestellposten zu diesem inventarisierenden Titel.
 
 Es kann auch nach Bestellungen gesucht werden, indem einer der Filter in der Ansicht **Suchen & Filtern** ausgewählt wird. Außerdem können die Filter nach der Suche angewendet werden, um die Ergebnisse einzuschränken. Weitere Informationen sind in den folgenden Abschnitten zu finden.
 
@@ -27,9 +27,9 @@ Um alle Filter zu löschen, in der Ansicht **Suchen & Filtern** auf **Alles z
 
 In der Ansicht **Suchen & Filtern** auf Bestellungsstatus klicken und die entsprechenden Filter auswählen:
 
--   **Abgeschlossen**. Bestellungen, die abgeschlossen sind.
--   **Offen**. Bestellungen, die offen sind.
--   **Ausstehend**. Bestellungen, die noch ausstehen.
+* **Abgeschlossen**. Bestellungen, die abgeschlossen sind.
+* **Offen**. Bestellungen, die offen sind.
+* **Ausstehend**. Bestellungen, die noch ausstehen.
 
 Nur offene Bestellungen können inventarisiert werden.
 
@@ -46,8 +46,8 @@ Um nach Bestellungen von einem bestimmten Lieferanten zu suchen, wie folgt vorge
 
 In der Ansicht **Suchen & Filtern** auf **Bestellungstyp** klicken und die entsprechenden Filter auswählen:
 
--   **Einmalig**. Einmalige Bestellungen, die innerhalb des Jahres eingehen.
--   **Laufend**. Laufende Bestellungen, die sich über mehrere Jahre erstrecken.
+* **Einmalig**. Einmalige Bestellungen, die innerhalb des Jahres eingehen.
+* **Laufend**. Laufende Bestellungen, die sich über mehrere Jahre erstrecken.
 
 ## Materialart
 
@@ -60,10 +60,10 @@ Um nach Bestellungen einer bestimmten Ressource zu suchen, wie folgt vorgehen:
 
 In der Ansicht **Suchen & Filtern** auf **Bestellungsformat** klicken und die entsprechenden Filter auswählen:
 
--   **Elektronische Ressource**. Bestellposten, die eine elektronische Ressource enthalten.
--   **Physische Ressource**. Bestellposten, die eine physische Ressource enthalten.
--   **P/E Mix**. Bestellposten, die eine gemischte physische und elektronische Ressource enthalten.
--   **Sonstig**. Bestellposten, die eine andere Art von Ressource enthalten.
+* **Elektronische Ressource**. Bestellposten, die eine elektronische Ressource enthalten.
+* **Physische Ressource**. Bestellposten, die eine physische Ressource enthalten.
+* **P/E Mix**. Bestellposten, die eine gemischte physische und elektronische Ressource enthalten.
+* **Sonstig**. Bestellposten, die eine andere Art von Ressource enthalten.
 
 ## Tags
 
@@ -85,8 +85,8 @@ Um nach Bestellungen zu suchen, die einem bestimmten Standort zugeordnet sind, w
 
 In der Ansicht **Suchen & Filtern** auf **Inventarisierungsstatus** klicken und die entsprechenden Filter auswählen:
 
--   **Erwartet**. Es wird erwartet, dass die Bestellung eintrifft.
--   **Inventarisiert**. Die Bestellung ist eingetroffen und wurde inventarisiert.
+* **Erwartet**. Es wird erwartet, dass die Bestellung eintrifft.
+* **Inventarisiert**. Die Bestellung ist eingetroffen und wurde inventarisiert.
 
 ## Erwerbungsteams
 

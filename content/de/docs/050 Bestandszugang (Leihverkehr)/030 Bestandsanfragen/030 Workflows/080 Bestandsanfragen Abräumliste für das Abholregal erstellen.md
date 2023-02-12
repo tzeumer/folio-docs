@@ -15,9 +15,9 @@ Abräumlisten für das Abholregal sind spezifisch für einzelne Servicestellen. 
 
 Die Bestandsliste für das Abholregal enthält Anfragen, bei denen
 
--   das Exemplar den Status **Im Abholregal** hat UND
--   die Bestandsanfrage den Status **Geschlossen - Storniert** oder **Geschlossen - Abgeholt** hat UND
--   die Bestandsanfrage-Warteliste des Artikels leer ist ODER die erste Anfrage in der Warteliste NICHT den Status **Offen - Im Abholregal** hat
+* das Exemplar den Status **Im Abholregal** hat UND
+* die Bestandsanfrage den Status **Geschlossen - Storniert** oder **Geschlossen - Abgeholt** hat UND
+* die Bestandsanfrage-Warteliste des Artikels leer ist ODER die erste Anfrage in der Warteliste NICHT den Status **Offen - Im Abholregal** hat
 
 Wenn es keine Exemplare gibt, die den Kriterien des Berichts entsprechen, wird die Option ausgegraut angezeigt.
 

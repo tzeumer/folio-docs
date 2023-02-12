@@ -41,10 +41,10 @@ Es können mehrere Benachrichtigungen in einer Richtlinie eingerichtet werden. O
 
 **Fälligkeitsdatum/-zeit der Ausleihe**. Die Benachrichtigungen werden vor, nach oder bei Fälligkeit eines Exemplars versandt. In der Dropdown-Liste **Versenden** auswählen, wann die Benachrichtigung gesendet werden soll:
 
--   Um die Benachrichtigung zu senden, wenn das Exemplar fällig ist, **Nach/bei** wählen.
--   Um die Benachrichtigung vor der Fälligkeit des Exemplars zu senden, **Vor** wählen. Dann die **Frequenz** der Benachrichtigung festlegen. Um die Benachrichtigung einmalig vor Fälligkeit zu senden, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor das Exemplar fällig wird, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung bis zum Fälligkeitsdatum gesendet wird.
--   Um die Benachrichtigung nach Fälligkeit des Exemplars zu senden, **Nach** wählen. Dann die **Frequenz** der Benachrichtigung festlegen. Um die Benachrichtigung einmal zu senden, nachdem das Exemplar fällig ist, **Einmalig** wählen. Wenn die Benachrichtigung mehrmals nach Fälligkeit des Exemplars gesendet werden soll, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet wird, bis das Exemplar zurückgegeben oder verlängert ist.
--   Außerdem wählen, ob **Wird über Nacht versendet, mit mehreren Ausleihen/Exemplaren pro Person. Nützlich für Langzeit-Ausleihen.** oder **Wird über den ganzen Tag verteilt versendet, ohne mehrere Ausleihen/Exemplare. Nützlich für Kurzzeit-Ausleihen** gelten soll.
+* Um die Benachrichtigung zu senden, wenn das Exemplar fällig ist, **Nach/bei** wählen.
+* Um die Benachrichtigung vor der Fälligkeit des Exemplars zu senden, **Vor** wählen. Dann die **Frequenz** der Benachrichtigung festlegen. Um die Benachrichtigung einmalig vor Fälligkeit zu senden, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor das Exemplar fällig wird, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung bis zum Fälligkeitsdatum gesendet wird.
+* Um die Benachrichtigung nach Fälligkeit des Exemplars zu senden, **Nach** wählen. Dann die **Frequenz** der Benachrichtigung festlegen. Um die Benachrichtigung einmal zu senden, nachdem das Exemplar fällig ist, **Einmalig** wählen. Wenn die Benachrichtigung mehrmals nach Fälligkeit des Exemplars gesendet werden soll, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet wird, bis das Exemplar zurückgegeben oder verlängert ist.
+* Außerdem wählen, ob **Wird über Nacht versendet, mit mehreren Ausleihen/Exemplaren pro Person. Nützlich für Langzeit-Ausleihen.** oder **Wird über den ganzen Tag verteilt versendet, ohne mehrere Ausleihen/Exemplare. Nützlich für Kurzzeit-Ausleihen** gelten soll.
 **Fälligkeitsdatum der Ausleihe geändert**. Diese Benachrichtigung wird gesendet, wenn das Fälligkeitsdatum/der Zeitpunkt eines Exemplars manuell geändert wird.
 
 **Exemplar zurückgerufen**. Die Benachrichtigung wird gesendet, wenn ein Exemplar zurückgerufen wird.
@@ -65,12 +65,12 @@ Bei allen Bestandsanfragen wird das System alle fünf Minuten auf auslösende Er
 
 **Abholregal-Ablaufdatum**. Die Benachrichtigungen werden gesendet, bevor oder wenn das Exemplar nicht mehr im Abholregal zur Abholung verfügbar ist. In der Dropdown-Liste Senden auswählen, wann die Benachrichtigung gesendet werden soll:
 
--   Um die Benachrichtigung zu senden, wenn die Zeit des Exemplars im Abholregal abläuft, **Am/bei** wählen.
--   Um die Benachrichtigung zu senden, bevor die Zeit des Exemplars im Abholregal abläuft, **Vor** wählen. Dann die Frequenz der Benachrichtigung angeben. Um die Benachrichtigung einmal zu senden, bevor die Zeit im Abholregal abläuft, **Einmalig** wählen. Wenn die Benachrichtigungen mehrmals gesendet werden soll, bevor die Zeit des Exemplars im Abholregal abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet werden soll, bis die Zeit im Abholregal abläuft.
+* Um die Benachrichtigung zu senden, wenn die Zeit des Exemplars im Abholregal abläuft, **Am/bei** wählen.
+* Um die Benachrichtigung zu senden, bevor die Zeit des Exemplars im Abholregal abläuft, **Vor** wählen. Dann die Frequenz der Benachrichtigung angeben. Um die Benachrichtigung einmal zu senden, bevor die Zeit im Abholregal abläuft, **Einmalig** wählen. Wenn die Benachrichtigungen mehrmals gesendet werden soll, bevor die Zeit des Exemplars im Abholregal abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet werden soll, bis die Zeit im Abholregal abläuft.
 **Ablaufdatum Bestandsanfrage**. Die Benachrichtigung wird vor oder nach Ablauf der Bestandsanfrage gesendet. Wählen Sie in der Dropdown-Liste Senden aus, wann die Benachrichtigung gesendet wird:
 
--   Um die Benachrichtigung zu senden, wenn die Bestandsanfrage abläuft, **Am/bei** wählen.
--   Um die Benachrichtigung vor Ablauf der Bestandsanfrage zu senden, **Vor** wählen. Dann die **Frequenz** der Benachrichtigung festlegen. Um die Benachrichtigung einmal zu senden, bevor die Bestandsanfrage abläuft, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor die Bestandsanfrage abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet werden soll, bis Zeit im Abholregal abläuft.
+* Um die Benachrichtigung zu senden, wenn die Bestandsanfrage abläuft, **Am/bei** wählen.
+* Um die Benachrichtigung vor Ablauf der Bestandsanfrage zu senden, **Vor** wählen. Dann die **Frequenz** der Benachrichtigung festlegen. Um die Benachrichtigung einmal zu senden, bevor die Bestandsanfrage abläuft, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor die Bestandsanfrage abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet werden soll, bis Zeit im Abholregal abläuft.
 
 ### Forderungs-Ereignisse, die Benachrichtigungen auslösen
 
@@ -78,12 +78,12 @@ Für alle Gebühren-Benachrichtigungen wird das System alle fünf Minuten auf au
 
 **Forderungen für zurückgegebene überfällige Exemplare**. Die Benachrichtigungen werden gesendet, nachdem oder wenn einer Person eine überfälliges Exemplar in Rechnung gestellt wurde. Die Gebühr wird erhoben, wenn das Exemplar zurückgegeben wird. In der Dropdown-Liste Versenden auswählen, wann die Benachrichtigung gesendet wird:
 
--   Um die Benachrichtigungen zu versenden, wenn die Verzugsgebühr in Rechnung gestellt wird, **Am/bei** wählen.
--   Um die Benachrichtigungen nach der Erhebung der Verzugsgebühr zu versenden, **Nach** wählen. Dann die Frequenz der Benachrichtigung festlegen. Um die Benachrichtigung einmalig zu senden, bevor die Bestandsanfrage abläuft, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor die Bestandsanfrage abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet wird, bevor die Forderung abgeschlossen ist.
+* Um die Benachrichtigungen zu versenden, wenn die Verzugsgebühr in Rechnung gestellt wird, **Am/bei** wählen.
+* Um die Benachrichtigungen nach der Erhebung der Verzugsgebühr zu versenden, **Nach** wählen. Dann die Frequenz der Benachrichtigung festlegen. Um die Benachrichtigung einmalig zu senden, bevor die Bestandsanfrage abläuft, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor die Bestandsanfrage abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet wird, bevor die Forderung abgeschlossen ist.
 **Forderungen für verlängerte überfällige Exemplare**. Die Benachrichtigungen werden gesendet, nachdem oder wenn einer Person eine Verzugsgebühr in Rechnung gestellt wurde. Die Gebühr wird erhoben, wenn das Exemplar verlängert wird. In der Dropdown-Liste Versenden auswählen, wann die Benachrichtigung gesendet wird:
 
--   Um die Benachrichtigungen zu versenden, wenn die Verzugsgebühr in Rechnung gestellt wird, **Am/bei** wählen.
--   Um die Benachrichtigung nach der Erhebung der Verzugsgebühr zu versenden, **Nach** wählen. Dann die Frequenz der Benachrichtigung festlegen. Um die Benachrichtigung einmalig zu senden, bevor die Bestandsanfrage abläuft, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor die Bestandsanfrage abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet wird, bevor die Forderung abgeschlossen ist.
+* Um die Benachrichtigungen zu versenden, wenn die Verzugsgebühr in Rechnung gestellt wird, **Am/bei** wählen.
+* Um die Benachrichtigung nach der Erhebung der Verzugsgebühr zu versenden, **Nach** wählen. Dann die Frequenz der Benachrichtigung festlegen. Um die Benachrichtigung einmalig zu senden, bevor die Bestandsanfrage abläuft, **Einmalig** wählen. Um die Benachrichtigung mehrmals zu senden, bevor die Bestandsanfrage abläuft, **Wiederkehrend** wählen und eingeben, wie oft die Benachrichtigung gesendet wird, bevor die Forderung abgeschlossen ist.
 
 ## Richtlinie Benachrichtigungen Benutzende duplizieren
 

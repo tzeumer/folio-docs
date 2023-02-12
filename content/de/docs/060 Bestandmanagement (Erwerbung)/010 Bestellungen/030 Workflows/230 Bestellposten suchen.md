@@ -15,19 +15,19 @@ Fehlende Übersetzungen und fehlende - oder zuviel - Dokumentation im Original
 
 In der Ansicht **Suche & Filter** kann nach Bestellposten gesucht werden. Bestellposten ist standardmäßig ausgewählt. Um nach Bestellposten zu suchen, die Zeiträume in das Feld eingeben. Die Dropdown-Liste Stichwort wählen, um in einem der folgenden Felder zu suchen:
 
--   **Stichwort**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
--   **Mitwirkende(r)**. Mitwirkende(r) an dem Exemplar.
--   **Bestellpostennummer**. Die Nummer des Bestellpostens.
--   **Bestandsanfrage für**. Person die das Exemplar angefordert hat.
--   **Titel oder Paketname**. Der Titel oder der Paketname des Exemplars.
--   **Verlag**. Der Verlag, der das Exemplar herausgibt.
--   **Kreditorenkonto**. Das Lieferantenkonto, das die Bibliothek für den Kauf des Exemplars verwendet.
--   **Lieferanten-Referenznummer**. Die Lieferanten-Referenznummer für diesen Bestellposten.
--   **Spender(in)**. Spender(in) des Exemplars.
--   **Fachreferat**. Das Fachreferat des Exemplars.
--   **Bände**. Die Anzahl der bestellten Bände.
--   **Produkt-ID**. Die Produkt-ID des Exemplars.
--   **Produkt-ID ISBN**. Die ISBN des Exemplars.
+* **Stichwort**. Durchsucht alle Felder in der Dropdown-Liste. Dies ist die Standardsuche.
+* **Mitwirkende(r)**. Mitwirkende(r) an dem Exemplar.
+* **Bestellpostennummer**. Die Nummer des Bestellpostens.
+* **Bestandsanfrage für**. Person die das Exemplar angefordert hat.
+* **Titel oder Paketname**. Der Titel oder der Paketname des Exemplars.
+* **Verlag**. Der Verlag, der das Exemplar herausgibt.
+* **Kreditorenkonto**. Das Lieferantenkonto, das die Bibliothek für den Kauf des Exemplars verwendet.
+* **Lieferanten-Referenznummer**. Die Lieferanten-Referenznummer für diesen Bestellposten.
+* **Spender(in)**. Spender(in) des Exemplars.
+* **Fachreferat**. Das Fachreferat des Exemplars.
+* **Bände**. Die Anzahl der bestellten Bände.
+* **Produkt-ID**. Die Produkt-ID des Exemplars.
+* **Produkt-ID ISBN**. Die ISBN des Exemplars.
 
 Es kann auch nach Bestellposten gesucht werden, indem einer der Filter in der Ansicht Suche & Filter ausgewählt wird. Außerdem können die Filter nach der Suche angewendet werden, um die Ergebnisse einzuschränken. Weitere Informationen sind in den folgenden Abschnitten zu finden.
 
@@ -35,25 +35,25 @@ Es kann auch nach Bestellposten gesucht werden, indem einer der Filter in der An
 
 In der Ansicht **Suche & Filter** auf Inventarisierungsstatus klicken und die entsprechenden Filter auswählen:
 
--   **Inventarisierung erwartet**. Bestellposten, die auf den Eingang warten.
--   **Storniert**. Bestellposten, die storniert wurden.
--   **Vollständig inventarisiert**. Bestellposten, die vollständig inventarisiert wurden.
--   **Laufend**. Bestellposten für eine laufende Bestellung.
--   **Teilweise inventarisiert**. Bestellposten, die teilweise inventarisiert wurden.
--   **Ausstehend**. Bestellposten, die noch ausstehen.
--   **Inventarisierung nicht erforderlich**. Bestellposten, für die keine Inventarisierung erforderlich ist.
+* **Inventarisierung erwartet**. Bestellposten, die auf den Eingang warten.
+* **Storniert**. Bestellposten, die storniert wurden.
+* **Vollständig inventarisiert**. Bestellposten, die vollständig inventarisiert wurden.
+* **Laufend**. Bestellposten für eine laufende Bestellung.
+* **Teilweise inventarisiert**. Bestellposten, die teilweise inventarisiert wurden.
+* **Ausstehend**. Bestellposten, die noch ausstehen.
+* **Inventarisierung nicht erforderlich**. Bestellposten, für die keine Inventarisierung erforderlich ist.
 
 ## Zahlungsstatus
 
 In der Ansicht **Suche & Filter** auf Zahlungsstatus klicken und alle anwendbaren Filter auswählen:
 
--   **Zahlung erwartet**. Bestellposten, die zur Bezahlung vorgesehen sind.
--   **Storniert**. Bestellposten mit stornierter Zahlung.
--   **Vollständig bezahlt**. Bestellposten, die vollständig bezahlt sind.
--   **Laufend**. Bestellposten für eine laufende Bestellung.
--   **Teilweise bezahlt**. Bestellposten, die teilweise bezahlt sind. Anmerkung: Sobald eine oder mehrere Rechnungen, die mit einem Bestellposten verbunden sind, "Freigegeben" wurden, wird der Zahlungsstatus des Bestellpostens in "Teilweise bezahlt" geändert. Siehe [Rechnungen > Rechnung freigeben](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+freigeben).
--   **Zahlung nicht erforderlich**. Bestellposten, für die keine Zahlung erforderlich ist.
--   **Ausstehend**. Bestellposten, bei denen die Zahlung noch aussteht.
+* **Zahlung erwartet**. Bestellposten, die zur Bezahlung vorgesehen sind.
+* **Storniert**. Bestellposten mit stornierter Zahlung.
+* **Vollständig bezahlt**. Bestellposten, die vollständig bezahlt sind.
+* **Laufend**. Bestellposten für eine laufende Bestellung.
+* **Teilweise bezahlt**. Bestellposten, die teilweise bezahlt sind. Anmerkung: Sobald eine oder mehrere Rechnungen, die mit einem Bestellposten verbunden sind, "Freigegeben" wurden, wird der Zahlungsstatus des Bestellpostens in "Teilweise bezahlt" geändert. Siehe [Rechnungen > Rechnung freigeben](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+freigeben).
+* **Zahlung nicht erforderlich**. Bestellposten, für die keine Zahlung erforderlich ist.
+* **Ausstehend**. Bestellposten, bei denen die Zahlung noch aussteht.
 
 ## Präfixe
 
@@ -80,18 +80,18 @@ Um nach Bestellposten zu suchen, die einem bestimmten Erwerbungsteam zugeordnet 
 
 In der Ansicht **Suche & Filter** auf **Erwerbungsarten** klicken und alle anwendbaren Filter auswählen:
 
--   **Genehmigungsplan**. Bestellposten, die über einen Genehmigungsplan erworben wurden.
--   **Bedarfsgesteuerte Erwerbe (DDA).** Bestellposten, die durch DDA erworben wurden.
--   **Verwahrstelle**. Bestellposten, die über eine Depotvereinbarung erworben werden, z.B. für Regierungspublikationen.
--   **Evidenzbasierte Akquisitionen (EBA)**. Bestellposten, die durch EBA erworben werden.
--   **Kostenlos**. Bestellposten, die durch einen Austausch mit einer anderen Bibliothek oder Institution erworben wurden. Kostenlos
--   **Geschenk**. Bestellposten für Ressourcen, die der Bibliothek geschenkt wurden.
--   **Interner Transfer**. Bestellposten, die durch einen internen Transfer erworben wurden.
--   **Mitgliedschaft**. Bestellposten, die durch die Mitgliedschaft erworben wurden.
--   **Sonstiges**. Bestellposten, die durch eine andere, nicht aufgeführte Methode erworben wurden.
--   **Kauf**. Bestellposten, die durch Methoden wie E-Mail oder EDI erworben wurden.
--   **Kauf im System des Lieferanten**. Bestellposten, die über ein externes Lieferantensystem, wie z.B. eine Website, erworben wurden.
--   **Technisch**. Bestellposten zur Verfolgung von Zahlungen für technische Ausgaben wie Serviceaufträge oder Bearbeitungsgebühren von Lieferanten. Dieser Wert kann auch für Exemplare verwendet werden, die von einem externen System migriert wurden.
+* **Genehmigungsplan**. Bestellposten, die über einen Genehmigungsplan erworben wurden.
+* **Bedarfsgesteuerte Erwerbe (DDA).** Bestellposten, die durch DDA erworben wurden.
+* **Verwahrstelle**. Bestellposten, die über eine Depotvereinbarung erworben werden, z.B. für Regierungspublikationen.
+* **Evidenzbasierte Akquisitionen (EBA)**. Bestellposten, die durch EBA erworben werden.
+* **Kostenlos**. Bestellposten, die durch einen Austausch mit einer anderen Bibliothek oder Institution erworben wurden. Kostenlos
+* **Geschenk**. Bestellposten für Ressourcen, die der Bibliothek geschenkt wurden.
+* **Interner Transfer**. Bestellposten, die durch einen internen Transfer erworben wurden.
+* **Mitgliedschaft**. Bestellposten, die durch die Mitgliedschaft erworben wurden.
+* **Sonstiges**. Bestellposten, die durch eine andere, nicht aufgeführte Methode erworben wurden.
+* **Kauf**. Bestellposten, die durch Methoden wie E-Mail oder EDI erworben wurden.
+* **Kauf im System des Lieferanten**. Bestellposten, die über ein externes Lieferantensystem, wie z.B. eine Website, erworben wurden.
+* **Technisch**. Bestellposten zur Verfolgung von Zahlungen für technische Ausgaben wie Serviceaufträge oder Bearbeitungsgebühren von Lieferanten. Dieser Wert kann auch für Exemplare verwendet werden, die von einem externen System migriert wurden.
 
 ## Standort
 
@@ -120,10 +120,10 @@ Folgendermaßen vorgehen, um nach Bestellposten zu suchen, denen eine Kostenart 
 
 In der Ansicht **Suche & Filter** auf **Bestellungsformat** klicken und alle anwendbaren Filter auswählen:
 
--   **Elektronische Ressource**. Bestellposten, die eine elektronische Ressource enthalten.
--   **Physische Ressource**. Bestellposten, die eine physische Ressource enthalten.
--   **P/E-Mix**. Bestellposten, die eine gemischte physische und elektronische Ressource enthalten.
--   **Sonstig**. Bestellposten, die eine andere Art von Ressource enthalten.
+* **Elektronische Ressource**. Bestellposten, die eine elektronische Ressource enthalten.
+* **Physische Ressource**. Bestellposten, die eine physische Ressource enthalten.
+* **P/E-Mix**. Bestellposten, die eine gemischte physische und elektronische Ressource enthalten.
+* **Sonstig**. Bestellposten, die eine andere Art von Ressource enthalten.
 
 ## Materialart, elektronisch
 
@@ -176,15 +176,15 @@ In der Ansicht **Suche & Filter** auf **Quelle** klicken und alle anwendbare
 
 In der Ansicht **Suche & Filter** auf **Sammlung** klicken und alle anwendbaren Filter auswählen:
 
--   **Ja**. Bestellposten, die Teil einer Sammlung sind.
--   **Nein**. Bestellposten, die nicht zu einer Sammlung gehören.
+* **Ja**. Bestellposten, die Teil einer Sammlung sind.
+* **Nein**. Bestellposten, die nicht zu einer Sammlung gehören.
 
 ## Eilt
 
 In der Ansicht **Suche & Filter** auf **Eilt** klicken und alle zutreffenden Filter auswählen:
 
--   **Ja**. Bestellposten, die für eine Eilverarbeitung gekennzeichnet sind.
--   **Nein**. Bestellposten, die keine Eilverarbeitung erfordern.
+* **Ja**. Bestellposten, die für eine Eilverarbeitung gekennzeichnet sind.
+* **Nein**. Bestellposten, die keine Eilverarbeitung erfordern.
 
 ## Zugangsanbieter
 
@@ -216,8 +216,8 @@ So wird nach Bestellposten gesucht, deren Bestellformat Elektronische Ressource 
 
 In der Ansicht **Suche & Filter** auf **Testzugang** klicken und alle anwendbaren Filter auswählen:
 
--   **Ja**. Bestellposten für Ressourcen, die auf Testzugang geprüft werden.
--   **Nein**. Bestellposten für Ressourcen, die keine Testzugänge sind.
+* **Ja**. Bestellposten für Ressourcen, die auf Testzugang geprüft werden.
+* **Nein**. Bestellposten für Ressourcen, die keine Testzugänge sind.
 
 ## Abonnement von
 

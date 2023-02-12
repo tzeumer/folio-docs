@@ -17,14 +17,14 @@ Die App Datenexport wird mit einem Standard Jobprofil geliefert, das festlegt, w
 
 Definition von Bedingungen im Zusammenhang mit der App Datenexport:
 
--   **Jobprofil**. Bestimmt, wie Informationen aus FOLIO in die generierte MARC-Datei exportiert werden.
--   **SRS**. Source Record Storage. Eine Speicherebene in FOLIO. Wenn eine Instanz einen zugrundeliegenden MARC-Datensatz hat, wird dieser Datensatz in SRS gespeichert.
+* **Jobprofil**. Bestimmt, wie Informationen aus FOLIO in die generierte MARC-Datei exportiert werden.
+* **SRS**. Source Record Storage. Eine Speicherebene in FOLIO. Wenn eine Instanz einen zugrundeliegenden MARC-Datensatz hat, wird dieser Datensatz in SRS gespeichert.
 
 ## Berechtigungen
 
 Um die App für den Datenexport anzuzeigen und mit ihr zu interagieren, muss einer Person die folgende Berechtigung zugewiesen werden:
 
--   **UI: Datenexportmodul ist aktiviert**. (UI: Data export module is enabled)
+* **UI: Datenexportmodul ist aktiviert**. (UI: Data export module is enabled)
     Mit dieser Berechtigung kann die Person die App "Datenexport" sehen und verwenden.
 
 Anmerkung: Dies ist die einzige Berechtigung, die für die Datenexport App verfügbar ist. Personen können den Datenexport nicht sehen und darauf zugreifen, wenn ihnen diese Berechtigung nicht zugewiesen ist. Personen kann in der App Personen die Berechtigungen zugewiesen werden.

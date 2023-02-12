@@ -12,7 +12,7 @@ Description: "
 {{% pageinfo %}}
 Diese Seite gibt es so in der offiziellen Dokumentation nicht. Sie wäre sicher aber sinnvoll, trotz der LDP-App? Vielleicht hier oder in einem Bereich "Entwicklung" o.ä. Erst mal als Merker angelegt.
 
--   Nicht Teil der Doku aber des englischprachigen Wikis: [https://wiki.folio.org/display/FOLIOtips/Working+with+FOLIO+APIs](https://wiki.folio.org/display/FOLIOtips/Working+with+FOLIO+APIs)
--   ~Best Practise bzw. Snippets für kleinere Todos? [https://collaborating.tuhh.de/tub/dd/applications/folio/folio-api-queries](https://collaborating.tuhh.de/tub/dd/applications/folio/folio-api-queries)
+* Nicht Teil der Doku aber des englischprachigen Wikis: [https://wiki.folio.org/display/FOLIOtips/Working+with+FOLIO+APIs](https://wiki.folio.org/display/FOLIOtips/Working+with+FOLIO+APIs)
+* ~Best Practise bzw. Snippets für kleinere Todos? [https://collaborating.tuhh.de/tub/dd/applications/folio/folio-api-queries](https://collaborating.tuhh.de/tub/dd/applications/folio/folio-api-queries)
 
 {{% /pageinfo %}}

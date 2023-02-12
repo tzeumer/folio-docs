@@ -10,8 +10,8 @@ Description: "
 ---
 
 {{% pageinfo %}}
--   Ergänzt um Englisch-Deutsch; noch nicht übersetzt
--   DE noch ergänzen um Glossar von Lokalise/Übersetzungs-AG: [https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/](https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/)
+* Ergänzt um Englisch-Deutsch; noch nicht übersetzt
+* DE noch ergänzen um Glossar von Lokalise/Übersetzungs-AG: [https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/](https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/)
 {{% /pageinfo %}}
 
 |Begriff oder Akronym|Term or Acronym|Erläuterung|

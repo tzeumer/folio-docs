@@ -26,9 +26,9 @@ Die Suchleiste verwenden, um nach Dateierweiterungen in der Tabelle Dateierweite
 
 Die Tabelle Dateierweiterungen enthält die folgenden Spalten:
 
--   **Dateierweiterung**. Die Dateierweiterung.
--   **Import blockieren**. Ob ein Import der Dateierweiterung erlaubt oder blockiert ist.
--   **Datentyp(en)**. Der Datentyp, der mit der Dateierweiterung verknüpft ist.
+* **Dateierweiterung**. Die Dateierweiterung.
+* **Import blockieren**. Ob ein Import der Dateierweiterung erlaubt oder blockiert ist.
+* **Datentyp(en)**. Der Datentyp, der mit der Dateierweiterung verknüpft ist.
 
 Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte zu sortieren.
 
@@ -36,7 +36,7 @@ Es kann auf einen beliebigen Spaltennamen geklickt werden, um nach dieser Spalte
 
 Um die Details eines Dateierweiterungsprofils anzuzeigen, wie folgt vorgehen:
 
--   In der Ansicht **Dateierweiterungen** die Dateierweiterung suchen, die angezeigt werden soll und sie auswählen. Das Fenster mit den Details der Dateierweiterung wird angezeigt.
+* In der Ansicht **Dateierweiterungen** die Dateierweiterung suchen, die angezeigt werden soll und sie auswählen. Das Fenster mit den Details der Dateierweiterung wird angezeigt.
 
 ## Dateierweiterung bearbeiten
 

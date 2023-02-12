@@ -17,8 +17,8 @@ Es kann auch nach Lizenzverträgen gesucht werden, indem einer der Filter in der
 
 Um Lizenzverträge nach ihrem Status zu filtern, in der Ansicht **Suchen & Filtern** auf **Status** klicken und eine der aufgeführten Optionen wählen. Mögliche Status sind:
 
--   **Aktiv**. Lizenzverträge, die derzeit von der Bibliothek verwendet werden.
--   **Abgelaufen**. Lizenzverträge, die von Ihrer Bibliothek nicht mehr genutzt werden
+* **Aktiv**. Lizenzverträge, die derzeit von der Bibliothek verwendet werden.
+* **Abgelaufen**. Lizenzverträge, die von Ihrer Bibliothek nicht mehr genutzt werden
 
 Die Statuswerte werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert.
 (GBV: siehe [Community \[Lizenzverträge\]: Parameter: Auswahllisten und -Werte](https://info.gbv.de/pages/viewpage.action?pageId=668106767)).
@@ -27,8 +27,8 @@ Die Statuswerte werden unter [Einstellungen > Lizenzverträge > Auswahllistenwe
 
 Um Lizenzverträge nach ihrem Typ zu filtern, in der Ansicht Suchen & Filtern auf Typ klicken und eine der aufgeführten Optionen wählen. Mögliche Typen sind:
 
--   **Lokal**. Lizenzverträge individuell für die Bibliothek.
--   **Konsortial**. Lizenzverträge, die über ein Bibliothekskonsortium abgeschlossen wurden.
+* **Lokal**. Lizenzverträge individuell für die Bibliothek.
+* **Konsortial**. Lizenzverträge, die über ein Bibliothekskonsortium abgeschlossen wurden.
 
 Die Werte des Typs werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert.
 

@@ -17,9 +17,9 @@ Wenn abgeschlossene Ausleihen anonymisiert werden, werden alle zugehörigen Info
 
 Eine der folgenden Optionen wählen, um festzulegen, ob abgeschlossene Ausleihen anonymisiert werden sollen:
 
--   **Unmittelbar nach dem Schließen von Ausleihe**. Der Anonymisierungsprozess beginnt, nachdem die Sitzung geschlossen wurde. Die sofortige Anonymisierung von Ausleihen läuft nach einem Zeitplan, der vom Systemadministrator oder Hosting-Provider festgelegt werden kann.
--   **Nach dem Schließen von Ausleihe**. Das Dropdown-Menü verwenden, um das Zeitintervall auszuwählen.
--   **Niemals**.
+* **Unmittelbar nach dem Schließen von Ausleihe**. Der Anonymisierungsprozess beginnt, nachdem die Sitzung geschlossen wurde. Die sofortige Anonymisierung von Ausleihen läuft nach einem Zeitplan, der vom Systemadministrator oder Hosting-Provider festgelegt werden kann.
+* **Nach dem Schließen von Ausleihe**. Das Dropdown-Menü verwenden, um das Zeitintervall auszuwählen.
+* **Niemals**.
 
 ### Abgeschlossene Ausleihen mit verbundenen Forderungen anders behandeln
 
@@ -31,9 +31,9 @@ Wenn Ausleihen mit Forderungen anders behandeln werden sollen, **Abgeschlossene
 
 Eine der folgenden Optionen wählen, um festzulegen, ob abgeschlossene Ausleihen mit zugehörigen Forderungen anonymisiert werden sollen:
 
--   **Unmittelbar nach dem Schließen von Forderungen**.
--   **Nach dem Schließen von Forderungen.** Innerhalb einer bestimmten Zeit nach Abschluss der Forderung. Das Dropdown-Menü verwenden, um das Zeitintervall auszuwählen.
--   **Niemals**.
+* **Unmittelbar nach dem Schließen von Forderungen**.
+* **Nach dem Schließen von Forderungen.** Innerhalb einer bestimmten Zeit nach Abschluss der Forderung. Das Dropdown-Menü verwenden, um das Zeitintervall auszuwählen.
+* **Niemals**.
 
 ### Ausnahmen für Zahlungsarten
 
