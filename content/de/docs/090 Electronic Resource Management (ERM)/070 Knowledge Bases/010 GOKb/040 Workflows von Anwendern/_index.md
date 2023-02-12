@@ -1,5 +1,5 @@
 ---
-title: "Workflows"
+title: "Workflows von Anwendern"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [app-gokb, cat-workflows, for-anwender]
