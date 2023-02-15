@@ -10,18 +10,10 @@ Description: "
 ---
 
 {{% pageinfo %}}
-Hier wird die FOLIO-Anwenderdokumentation der GBV-FOLIO-Institutionen erstellt. Verantwortlich für die Erstellung ist die [AG FOLIO](https://verbundwiki.gbv.de/display/GAD/AG+FOLIO) im GBV.
-
-Für die Verwendung dieser Dokumentation, siehe [Diese Dokumentation (Entwurf)]({{< ref "000 Info_ DE-Version.md" >}}).
-
-Diese Dokumentation befindet sich zur Zeit im Aufbau. Der Status einzelner Abschnitte ist in der Überschrift wie folgt vermerkt:
-
-* (Entwurf) - Diese Seite befindet sich noch im Entwurfsstatus, die Inhalte sind noch nicht final.
-* (geplant) - Für dieses Thema sind Inhalte geplant. Derzeit ist die Seite jedoch noch leer.
+Für die Verwendung dieser Dokumentation, siehe [Diese Dokumentation]({{< ref "000 Info_ DE-Version.md" >}}).
 
 Dies ist die FOLIO-Dokumentation mit dem [Stand](https://info.gbv.de/pages/viewpage.action?pageId=853016752) der letzten vollständigen Prüfung gegenüber der englischen Dokumentation vom 30.01.023 (Version zu dem Stand: Nolana).
 
-[Video-Direktlink](https://cloud.tuhh.de/index.php/s/ArTgtzTKnedDp6i/) oder [Download](https://cloud.tuhh.de/index.php/s/ArTgtzTKnedDp6i/download)
 {{% /pageinfo %}}
 
 Willkommen zur FOLIO-Dokumentation. FOLIO ist ein Open-Source-Projekt, das einen Paradigmenwechsel bei der Zusammenarbeit von Bibliotheken, Entwicklungsteams und Firmen darstellt. Diese offene Plattform bringt den Markt weit jenseits traditioneller Bibliotheksmanagementsysteme und eröffnet den Bibliotheken mehr Auswahl bei Funkionalität und Service.
