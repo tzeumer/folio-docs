@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Grundlagen+der+Plattform)
+    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Grundlagen+der+Plattform) -->
     "
 ---
 

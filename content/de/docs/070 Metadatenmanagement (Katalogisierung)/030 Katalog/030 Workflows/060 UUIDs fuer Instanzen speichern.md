@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-workflows, for-anwender]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#saving-instances-uuids) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=852492485)
+    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#saving-instances-uuids) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=852492485) -->
     "
 ---
 

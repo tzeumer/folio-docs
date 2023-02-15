@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-einstellungen, for-admin]
 weight: 80
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_inventory/settings_inventory/#settings--inventory--nature-of-content) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Katalog):+Art+des+Inhalts)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_inventory/settings_inventory/#settings--inventory--nature-of-content) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Katalog):+Art+des+Inhalts) -->
     "
 ---
 

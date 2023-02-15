@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, topic-sip2, app-ausleihe]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/additional-topics/loans/loans/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Ausleihen)
+    Quellen: [Folio](https://docs.folio.org/docs/access/additional-topics/loans/loans/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Ausleihen) -->
     "
 ---
 

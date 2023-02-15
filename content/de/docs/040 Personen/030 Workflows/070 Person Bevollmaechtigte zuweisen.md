@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender]
 weight: 70
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#adding-a-sponsor-to-a-user-record) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#adding-a-sponsor-to-a-user-record) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=) -->
     "
 ---
 

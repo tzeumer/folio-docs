@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, cat-workflows, app-bestellungen]
 weight: 280
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#cancelling-an-order-line) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestellposten+stornieren)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#cancelling-an-order-line) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestellposten+stornieren) -->
     "
 ---
 

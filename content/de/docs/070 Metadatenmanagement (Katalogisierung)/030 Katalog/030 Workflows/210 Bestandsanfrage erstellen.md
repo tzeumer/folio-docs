@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-workflows, for-anwender]
 weight: 210
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#creating-a-new-request) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestandsanfrage+erstellen)
+    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#creating-a-new-request) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestandsanfrage+erstellen) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender]
 weight: 140
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#deleting-a-contact-person) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=851935498)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#deleting-a-contact-person) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=851935498) -->
     "
 ---
 

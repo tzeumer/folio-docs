@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ausleihprotokoll, by-folio, for-anwender, cat-berechtigungen]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/circulation-log/circ_log/#generating-a-circulation-log) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Ausleihprotokolle+erzeugen)
+    Quellen: [Folio](https://docs.folio.org/docs/access/circulation-log/circ_log/#generating-a-circulation-log) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Ausleihprotokolle+erzeugen) -->
     "
 ---
 

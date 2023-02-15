@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, for-admin, cat-einstellungen]
 weight: 70
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--transfer-accounts) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=841809955)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--transfer-accounts) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=841809955) -->
     "
 ---
 

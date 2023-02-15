@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ausleihe, by-folio, cat-workflows, for-anwender]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/#ending-the-check-out-session ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Ausleihe+Session+beenden)
+    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/#ending-the-check-out-session ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Ausleihe+Session+beenden) -->
     "
 ---
 

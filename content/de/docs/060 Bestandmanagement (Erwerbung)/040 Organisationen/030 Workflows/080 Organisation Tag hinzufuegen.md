@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender, topic-tags]
 weight: 80
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#adding-a-tag-to-an-organization) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=842793031)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#adding-a-tag-to-an-organization) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=842793031) -->
     "
 ---
 

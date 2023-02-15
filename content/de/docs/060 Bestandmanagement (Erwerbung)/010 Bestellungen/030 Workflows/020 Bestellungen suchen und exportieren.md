@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, cat-workflows, app-bestellungen, meta-gemeldet_docsfolioorg]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#searching-for-an-order ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestellungen+suchen+und+exportieren)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#searching-for-an-order ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestellungen+suchen+und+exportieren) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-finanzen, by-folio, cat-workflows, by-folio]
 weight: 90
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#allocating-money-to-a-budget) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Budget+Mittel+zuweisen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#allocating-money-to-a-budget) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Budget+Mittel+zuweisen) -->
     "
 ---
 

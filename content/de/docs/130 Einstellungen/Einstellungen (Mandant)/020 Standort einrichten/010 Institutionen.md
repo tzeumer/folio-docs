@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_tenant/settings_tenant/#settings--tenant--institutions ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Mandant):+Institutionen)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_tenant/settings_tenant/#settings--tenant--institutions ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Mandant):+Institutionen) -->
     "
 ---
 

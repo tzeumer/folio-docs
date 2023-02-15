@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/#add-exceptions-to-a-calendar) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Kalender):+Kalender+mit+Ausnahmen+versehen)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/#add-exceptions-to-a-calendar) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Kalender):+Kalender+mit+Ausnahmen+versehen) -->
     "
 ---
 

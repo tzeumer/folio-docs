@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-workflows, for-anwender]
 weight: 110
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#editing-an-instance-record) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Instanzdatensatz+bearbeiten)
+    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#editing-an-instance-record) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Instanzdatensatz+bearbeiten) -->
     "
 ---
 

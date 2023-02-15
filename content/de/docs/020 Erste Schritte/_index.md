@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: []
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/getting-started/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Erste+Schritte)
+    Quellen: [Folio](https://docs.folio.org/docs/getting-started/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Erste+Schritte) -->
     "
 ---
 

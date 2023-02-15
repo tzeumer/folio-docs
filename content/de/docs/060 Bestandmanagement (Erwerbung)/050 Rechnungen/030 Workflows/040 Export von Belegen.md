@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-workflows, for-anwender]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#exporting-vouchers) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Export+von+Belegen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#exporting-vouchers) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Export+von+Belegen) -->
     "
 ---
 

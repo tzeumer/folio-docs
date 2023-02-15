@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, topic-exemplarstatus, topic-übersetzung]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/item-status/itemstatus/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Exemplarstatus)
+    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/item-status/itemstatus/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Exemplarstatus) -->
     "
 ---
 

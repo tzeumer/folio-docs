@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/#settings--calendar--all-calendars) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Kalender):+Alle+Kalender)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/#settings--calendar--all-calendars) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Kalender):+Alle+Kalender) -->
     "
 ---
 

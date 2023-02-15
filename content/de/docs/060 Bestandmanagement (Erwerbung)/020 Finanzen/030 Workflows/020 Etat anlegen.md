@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-finanzen, by-folio, cat-workflows, by-folio]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#creating-a-ledger) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Etat+anlegen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#creating-a-ledger) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Etat+anlegen) -->
     "
 ---
 

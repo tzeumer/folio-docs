@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-e_management, by-folio, cat-workflows, for-anwender]
 weight: 80
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#duplicating-an-agreement) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Vereinbarung+duplizieren)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#duplicating-an-agreement) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Vereinbarung+duplizieren) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ldp, by-folio, for-anwender]
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/reporting/ldlite/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/LDLite)
+    Quellen: [Folio](https://docs.folio.org/docs/reporting/ldlite/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/LDLite) -->
     "
 ---
 

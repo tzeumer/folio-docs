@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-marc_normdaten, by-folio, cat-workflows, for-anwender, meta-entwurf]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/marcauthority/#searching-for-authority-records) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=854294545)
+    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/marcauthority/#searching-for-authority-records) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=854294545) -->
     "
 ---
 

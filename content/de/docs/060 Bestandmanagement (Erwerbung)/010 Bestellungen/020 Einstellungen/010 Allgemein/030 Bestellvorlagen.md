@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-admin, cat-einstellungen, app-bestellungen]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_orders/settings_orders/#settings--orders--order-templates) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Bestellung)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_orders/settings_orders/#settings--orders--order-templates) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Bestellung) -->
     "
 ---
 

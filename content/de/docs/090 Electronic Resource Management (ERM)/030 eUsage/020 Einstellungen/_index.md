@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-e_usage, by-folio, cat-einstellungen, for-admin, meta-gemeldet_docsfolioorg]
 weight: 10
 Description: "
-    Quellen: [Folio](xxx) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=851935503)
+    Quellen: [Folio](xxx) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=851935503) -->
     "
 ---
 

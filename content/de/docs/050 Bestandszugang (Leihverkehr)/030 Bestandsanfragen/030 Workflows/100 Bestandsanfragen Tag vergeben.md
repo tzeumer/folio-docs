@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, app-bestandsanfragen, cat-workflows, topic-tags]
 weight: 100
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/requests/requests/#adding-a-tag-to-a-request) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestandsanfragen+Tag+vergeben)
+    Quellen: [Folio](https://docs.folio.org/docs/access/requests/requests/#adding-a-tag-to-a-request) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestandsanfragen+Tag+vergeben) -->
     "
 ---
 

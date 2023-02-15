@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-inventarisierung, by-folio, cat-workflows, for-anwender, meta-gemeldet_docsfolioorg]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/receiving/#searching-for-a-receiving-title ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Inventarisierte+Titel+anzeigen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/receiving/#searching-for-a-receiving-title ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Inventarisierte+Titel+anzeigen) -->
     "
 ---
 

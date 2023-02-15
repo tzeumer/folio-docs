@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender, topic-drucken, meta-Workflow-Sammlung]
 weight: 170
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#overdue-loans-report) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Person+Berichte+erstellen)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#overdue-loans-report) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Person+Berichte+erstellen) -->
     "
 ---
 

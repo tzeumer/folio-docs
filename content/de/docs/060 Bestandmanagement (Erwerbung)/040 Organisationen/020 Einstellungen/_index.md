@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-berechtigungen, for-admin]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_organizations/settings_organizations/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=842793088)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_organizations/settings_organizations/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=842793088) -->
     "
 ---
 

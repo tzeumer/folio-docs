@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_tenant/settings_tenant/#settings--tenant--preferred-plugins) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Mandant):+Bevorzugte+Plugins)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_tenant/settings_tenant/#settings--tenant--preferred-plugins) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Mandant):+Bevorzugte+Plugins) -->
     "
 ---
 

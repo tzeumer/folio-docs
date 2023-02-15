@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-finanzen, by-folio, cat-workflows, by-folio]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#searching-for-a-fiscal-year-ledger-group-or-fund) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Haushaltsjahr,+Etat,+Gruppe,+Fonds+suchen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#searching-for-a-fiscal-year-ledger-group-or-fund) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Haushaltsjahr,+Etat,+Gruppe,+Fonds+suchen) -->
     "
 ---
 

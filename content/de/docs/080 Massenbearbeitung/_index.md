@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-massenbearbeitung, by-folio, cat-berechtigungen, for-anwender]
 weight: 80
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/bulk-edit/ ) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=845709320)
+    Quellen: [Folio](https://docs.folio.org/docs/bulk-edit/ ) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=845709320) -->
     "
 ---
 

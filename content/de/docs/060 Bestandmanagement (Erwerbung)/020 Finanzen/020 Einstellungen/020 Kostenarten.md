@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-admin, cat-einstellungen, app-finanzen, meta-uebersetzungsproblem]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_finance/settings_finance/#settings--finance--fund-types) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Finanzen):+Kostenarten)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_finance/settings_finance/#settings--finance--fund-types) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Finanzen):+Kostenarten) -->
     "
 ---
 

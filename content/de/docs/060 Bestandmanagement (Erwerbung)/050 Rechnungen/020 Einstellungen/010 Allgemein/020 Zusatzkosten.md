@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-einstellungen, for-admin]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_invoices/settings_invoices/#settings--invoices--adjustments) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Rechnungen):+Zusatzkosten)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_invoices/settings_invoices/#settings--invoices--adjustments) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Rechnungen):+Zusatzkosten) -->
     "
 ---
 

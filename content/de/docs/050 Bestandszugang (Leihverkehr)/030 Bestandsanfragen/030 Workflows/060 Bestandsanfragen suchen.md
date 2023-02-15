@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, app-bestandsanfragen, cat-workflows]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/requests/requests/#searching-for-requests) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestandsanfragen+suchen)
+    Quellen: [Folio](https://docs.folio.org/docs/access/requests/requests/#searching-for-requests) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestandsanfragen+suchen) -->
     "
 ---
 

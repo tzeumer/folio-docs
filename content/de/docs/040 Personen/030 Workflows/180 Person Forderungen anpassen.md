@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender, meta-Workflow-Sammlung]
 weight: 180
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#managing-loans-and-feefines-for-patrons) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Person+Forderungen+anpassen)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#managing-loans-and-feefines-for-patrons) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Person+Forderungen+anpassen) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, cat-workflows, app-bestellungen, topic-drucken, meta-gemeldet_docsfolioorg]
 weight: 160
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#printing-an-order ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestellung+drucken)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#printing-an-order ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestellung+drucken) -->
     "
 ---
 

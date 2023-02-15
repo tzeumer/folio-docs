@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-exportmanager, by-folio, cat-workflows, for-anwender, meta-uebersetzungsproblem]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/export-manager/#searching-and-filtering-jobs) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=845709339)
+    Quellen: [Folio](https://docs.folio.org/docs/export-manager/#searching-and-filtering-jobs) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=845709339) -->
     "
 ---
 

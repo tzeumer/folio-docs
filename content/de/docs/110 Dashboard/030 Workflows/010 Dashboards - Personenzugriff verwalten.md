@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-dashboard, by-folio, cat-workflows, for-anwender]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/dashboard/#managing-user-access-to-dashboards) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Dashboards+-+Personenzugriff+verwalten)
+    Quellen: [Folio](https://docs.folio.org/docs/dashboard/#managing-user-access-to-dashboards) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Dashboards+-+Personenzugriff+verwalten) -->
     "
 ---
 

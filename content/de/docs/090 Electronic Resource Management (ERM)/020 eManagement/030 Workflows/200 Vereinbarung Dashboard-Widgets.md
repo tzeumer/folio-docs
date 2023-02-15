@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-e_management, by-folio, cat-workflows, for-anwender]
 weight: 200
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#dashboard-widgets-for-the-agreements-app) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Vereinbarung+Dashboard-Widgets)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#dashboard-widgets-for-the-agreements-app) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Vereinbarung+Dashboard-Widgets) -->
     "
 ---
 

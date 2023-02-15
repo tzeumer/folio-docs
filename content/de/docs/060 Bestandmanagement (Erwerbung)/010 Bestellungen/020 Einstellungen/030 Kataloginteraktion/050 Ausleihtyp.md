@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-admin, cat-einstellungen, app-bestellungen]
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_orders/settings_orders/#settings--orders--loan-type) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Bestellungen):+Ausleihtyp)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_orders/settings_orders/#settings--orders--loan-type) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Bestellungen):+Ausleihtyp) -->
     "
 ---
 

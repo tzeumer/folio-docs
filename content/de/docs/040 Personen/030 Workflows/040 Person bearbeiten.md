@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#editing-a-user-record) & [GBV](https://info.gbv.de/display/FOLIOG)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#editing-a-user-record) <!-- & [GBV](https://info.gebev.de/display/FOLIOG) -->
     "
 ---
 

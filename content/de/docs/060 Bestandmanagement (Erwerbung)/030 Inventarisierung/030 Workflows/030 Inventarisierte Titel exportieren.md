@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-inventarisierung, by-folio, cat-workflows, for-anwender]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/receiving/#exporting-search-results) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Inventarisierte+Titel+exportieren)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/receiving/#exporting-search-results) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Inventarisierte+Titel+exportieren) -->
     "
 ---
 

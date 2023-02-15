@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-finanzen, by-folio, cat-workflows, by-folio]
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#creating-a-fund ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Budget+anlegen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/finance/#creating-a-fund ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Budget+anlegen) -->
     "
 ---
 

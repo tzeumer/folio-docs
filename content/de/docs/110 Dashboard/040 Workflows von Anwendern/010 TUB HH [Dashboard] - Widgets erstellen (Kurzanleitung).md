@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-dashboard, by-tubhh, cat-workflows, for-anwender, by-community_einzelbeitrag]
 weight: 80
 Description: "
-    Quellen: [Originalquelle](https://intranet.b.tu-harburg.de/mediawiki/index.php/FOLIO/Module/ERM/Workflows/Erstellung_von_Dashboard_Widgets) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=749207653)
+    Quellen: [Originalquelle](https://intranet.b.tu-harburg.de/mediawiki/index.php/FOLIO/Module/ERM/Workflows/Erstellung_von_Dashboard_Widgets) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=749207653) -->
     "
 ---
 

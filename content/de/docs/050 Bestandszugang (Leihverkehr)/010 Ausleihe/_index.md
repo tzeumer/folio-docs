@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, app-ausleihe, cat-berechtigungen]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188607)
+    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188607) -->
     "
 ---
 

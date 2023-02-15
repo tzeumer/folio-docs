@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, topic-sip2, app-ausleihe]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/additional-topics/feesfines/feesfines/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Forderungen)
+    Quellen: [Folio](https://docs.folio.org/docs/access/additional-topics/feesfines/feesfines/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Forderungen) -->
     "
 ---
 

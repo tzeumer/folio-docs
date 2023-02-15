@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-semesterapparate, by-folio, cat-workflows, for-anwender]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/courses/courses/#duplicating-a-course) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Semesterapparate+Kurs+duplizieren)
+    Quellen: [Folio](https://docs.folio.org/docs/access/courses/courses/#duplicating-a-course) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Semesterapparate+Kurs+duplizieren) -->
     "
 ---
 

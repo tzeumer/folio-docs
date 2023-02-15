@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin, meta-workflow_sammlung]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_notes/settings_notes/#settings--notes--general) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=844890135)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_notes/settings_notes/#settings--notes--general) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=844890135) -->
     "
 ---
 

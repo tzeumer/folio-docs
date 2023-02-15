@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-semesterapparate, by-folio, for-anwender, cat-berechtigungen, meta-entwurf]
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/courses/courses/ ) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188613)
+    Quellen: [Folio](https://docs.folio.org/docs/access/courses/courses/ ) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188613) -->
     "
 ---
 

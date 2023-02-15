@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-berechtigungen, for-anwender]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188638)
+    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188638) -->
     "
 ---
 

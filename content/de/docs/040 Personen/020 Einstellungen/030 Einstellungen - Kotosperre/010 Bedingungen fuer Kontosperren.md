@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-admin, cat-einstellungen, app-personen]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--conditions) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=841809962)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--conditions) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=841809962) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-exportmanager, by-folio, cat-workflows, for-anwender, topic-edi]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/export-manager/#managing-edifact-orders-export-jobs) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Exportmanager+EDIFACT-Bestellungen+verwalten)
+    Quellen: [Folio](https://docs.folio.org/docs/export-manager/#managing-edifact-orders-export-jobs) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Exportmanager+EDIFACT-Bestellungen+verwalten) -->
     "
 ---
 

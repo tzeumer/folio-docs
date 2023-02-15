@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, for-admin, cat-einstellungen]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--manual-charges) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Manuelle+Kosten)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--manual-charges) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Manuelle+Kosten) -->
     "
 ---
 

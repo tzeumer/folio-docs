@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-exportmanager, by-folio, cat-berechtigungen, for-anwender, meta-uebersetzungsproblem]
 weight: 100
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/export-manager/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=845709333)
+    Quellen: [Folio](https://docs.folio.org/docs/export-manager/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=845709333) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-lizenzverträge, by-folio, cat-workflows, for-anwender]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/licenses/#searching-for-licenses) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=846266393)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/licenses/#searching-for-licenses) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=846266393) -->
     "
 ---
 

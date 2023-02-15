@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ldp, by-folio, for-admin]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/reporting/ldpmarc/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/ldpmarc)
+    Quellen: [Folio](https://docs.folio.org/docs/reporting/ldpmarc/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/ldpmarc) -->
     "
 ---
 

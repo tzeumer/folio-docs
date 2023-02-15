@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ldp, by-folio, cat-berechtigungen, cat-einstellungen, for-admin, meta-uebersetzungsproblem]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/reporting/ldp-app/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188652)
+    Quellen: [Folio](https://docs.folio.org/docs/reporting/ldp-app/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188652) -->
     "
 ---
 

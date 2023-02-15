@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-berechtigungen, cat-einstellungen, for-admin]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=844890129)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=844890129) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-lokale_kb_verwaltung, by-folio, cat-berechtigungen, for-anwender]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/local-kb-admin/ ) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188721)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/local-kb-admin/ ) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188721) -->
     "
 ---
 

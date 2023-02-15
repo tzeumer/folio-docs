@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: []
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/getting-started/installation/customizations/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=850624536)
+    Quellen: [Folio](https://docs.folio.org/docs/getting-started/installation/customizations/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=850624536) -->
     "
 ---
 

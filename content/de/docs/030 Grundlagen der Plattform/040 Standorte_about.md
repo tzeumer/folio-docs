@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-admin, for-anwender]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/locations/locations/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Standorte)
+    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/locations/locations/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Standorte) -->
     "
 ---
 

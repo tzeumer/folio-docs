@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ldp, by-folio, for-admin, topic-datenschutz]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/reporting/library-data-platform/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Library+Data+Platform)
+    Quellen: [Folio](https://docs.folio.org/docs/reporting/library-data-platform/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Library+Data+Platform) -->
     "
 ---
 

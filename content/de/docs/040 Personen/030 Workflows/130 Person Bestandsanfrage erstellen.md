@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender]
 weight: 130
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#creating-requests) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Person+Bestandsanfrage+erstellen)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#creating-requests) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Person+Bestandsanfrage+erstellen) -->
     "
 ---
 

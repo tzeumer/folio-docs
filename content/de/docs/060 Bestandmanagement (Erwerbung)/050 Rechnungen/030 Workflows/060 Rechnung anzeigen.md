@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-workflows, for-anwender]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#viewing-invoice-details ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Rechnung+anzeigen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#viewing-invoice-details ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Rechnung+anzeigen) -->
     "
 ---
 Sobald nach einer Rechnung gesucht wird, werden die folgenden Ansichten in der Ansicht Rechnungen Suchergebnisse angezeigt:

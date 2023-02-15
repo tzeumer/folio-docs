@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, app-rückgabe, cat-workflows]
 weight: 80
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/check-in/checkin/#creating-a-new-feefine) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=843317323)
+    Quellen: [Folio](https://docs.folio.org/docs/access/check-in/checkin/#creating-a-new-feefine) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=843317323) -->
     "
 ---
 

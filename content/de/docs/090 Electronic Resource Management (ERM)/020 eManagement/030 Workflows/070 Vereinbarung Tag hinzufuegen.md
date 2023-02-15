@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-e_management, by-folio, cat-workflows, for-anwender, topic-tags]
 weight: 70
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#adding-a-tag-to-an-agreement) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=845250589)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#adding-a-tag-to-an-agreement) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=845250589) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender, topic-datenschutz]
 weight: 150
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#deleting-a-user-record-in-the-ui ) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=841416765)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#deleting-a-user-record-in-the-ui ) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=841416765) -->
     "
 ---
 

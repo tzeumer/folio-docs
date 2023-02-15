@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender, topic-tags]
 weight: 110
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#adding-a-tag-to-a-user-record) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Person+Tag+vergeben)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#adding-a-tag-to-a-user-record) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Person+Tag+vergeben) -->
     "
 ---
 

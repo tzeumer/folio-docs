@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-lokale_kb_verwaltung, by-folio, cat-einstellungen, for-admin]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/local-kb-admin/ ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Lokale+KB-Verwaltung):+Allgemein)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/local-kb-admin/ ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Lokale+KB-Verwaltung):+Allgemein) -->
     "
 ---
 

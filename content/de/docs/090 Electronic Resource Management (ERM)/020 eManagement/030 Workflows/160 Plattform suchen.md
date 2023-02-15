@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-e_management, by-folio, cat-workflows, for-anwender]
 weight: 160
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#viewing-an-e-resource ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Plattform+suchen)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/agreements/#viewing-an-e-resource ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Plattform+suchen) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin, meta-uebersetzungsproblem]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_oaipmh/settings_oaipmh/#settings--oai-pmh--behavior) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(OAI-PMH):+Sets)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_oaipmh/settings_oaipmh/#settings--oai-pmh--behavior) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(OAI-PMH):+Sets) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ausleihe, by-folio, cat-workflows, for-anwender, topic-rfid]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/#scanning-the-item-to-check-out ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Ausleihe+Exemplar+ausleihen)
+    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/#scanning-the-item-to-check-out ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Ausleihe+Exemplar+ausleihen) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, cat-workflows, app-bestellungen]
 weight: 100
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#closing-an-order) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=851017759)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#closing-an-order) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=851017759) -->
     "
 ---
 

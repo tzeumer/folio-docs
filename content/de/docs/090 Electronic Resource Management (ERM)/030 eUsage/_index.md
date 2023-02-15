@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-e_usage, by-folio, cat-berechtigungen, for-anwender, meta-fehler_inhalt, meta-uebersetzungsproblem]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/erm/eusage/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188717)
+    Quellen: [Folio](https://docs.folio.org/docs/erm/eusage/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188717) -->
     "
 ---
 

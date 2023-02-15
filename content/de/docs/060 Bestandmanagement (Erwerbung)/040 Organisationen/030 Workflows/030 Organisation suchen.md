@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#searching-for-an-organization) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Organisation+suchen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#searching-for-an-organization) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Organisation+suchen) -->
     "
 ---
 

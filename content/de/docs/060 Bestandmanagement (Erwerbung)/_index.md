@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188620)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188620) -->
     "
 ---
 

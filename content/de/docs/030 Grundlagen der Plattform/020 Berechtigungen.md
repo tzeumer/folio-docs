@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, for-admin, cat-berechtigungen]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/permissions/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Berechtigungen)
+    Quellen: [Folio](https://docs.folio.org/docs/platform-essentials/permissions/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Berechtigungen) -->
     "
 ---
 

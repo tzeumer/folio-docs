@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-workflows, for-anwender]
 weight: 40
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#adding-an-item-to-a-record) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=852492470)
+    Quellen: [Folio](https://docs.folio.org/docs/metadata/inventory/#adding-an-item-to-a-record) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=852492470) -->
     "
 ---
 

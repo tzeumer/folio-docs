@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-dashboard, by-folio, cat-berechtigungen, for-anwender]
 weight: 110
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/dashboard/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188640)
+    Quellen: [Folio](https://docs.folio.org/docs/dashboard/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188640) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-tubhh, for-anwender, cat-bestpractices, topic-tags, by-community_einzelbeitrag]
 weight: 10
 Description: "
-    Quellen: [Folio](xxx) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/TUB+HH+%5BTags%5D+-+Standardisierte+Tags)
+    Quellen: [Folio](xxx) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/TUB+HH+%5BTags%5D+-+Standardisierte+Tags) -->
     "
 ---
 

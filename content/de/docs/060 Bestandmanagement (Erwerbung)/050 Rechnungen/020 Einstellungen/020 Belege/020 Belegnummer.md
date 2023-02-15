@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-einstellungen, for-admin, topic-belegnummer]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_invoices/settings_invoices/#settings--invoices--voucher-number) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Rechnungen):+Belegnummer)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_invoices/settings_invoices/#settings--invoices--voucher-number) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Rechnungen):+Belegnummer) -->
     "
 ---
 

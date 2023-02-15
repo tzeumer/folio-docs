@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, app-rückgabe, cat-workflows, topic-statistik]
 weight: 60
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/check-in/checkin/#recording-in-house-use-of-an-item) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=843317317)
+    Quellen: [Folio](https://docs.folio.org/docs/access/check-in/checkin/#recording-in-house-use-of-an-item) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=843317317) -->
     "
 ---
 

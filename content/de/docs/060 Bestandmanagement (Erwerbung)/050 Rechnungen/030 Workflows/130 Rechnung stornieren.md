@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-workflows, for-anwender]
 weight: 130
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#paying-an-invoice) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Rechnung+stornieren)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#paying-an-invoice) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Rechnung+stornieren) -->
     "
 ---
 

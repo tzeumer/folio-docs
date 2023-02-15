@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, for-admin, cat-einstellungen]
 weight: 10
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--payment-methods) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Zahlungsarten)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_users/settings_users/#settings--users--payment-methods) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Zahlungsarten) -->
     "
 ---
 

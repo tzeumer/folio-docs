@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-inventarisierung, by-folio, cat-workflows, for-anwender, meta-gemeldet_docsfolioorg]
 weight: 90
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/receiving/#receiving-a-piece ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Erwartetes+Teil+inventarisieren)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/receiving/#receiving-a-piece ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Erwartetes+Teil+inventarisieren) -->
     "
 ---
 

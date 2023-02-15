@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ausleihe, by-folio, cat-workflows, for-anwender]
 weight: 20
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/#checking-out-to-a-proxy-borrower ) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=843317345)
+    Quellen: [Folio](https://docs.folio.org/docs/access/check-out/checkout/#checking-out-to-a-proxy-borrower ) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=843317345) -->
     "
 ---
 

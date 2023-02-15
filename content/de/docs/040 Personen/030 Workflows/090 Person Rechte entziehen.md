@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender]
 weight: 90
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/users/#removing-permissions-from-a-users-record ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Person+Rechte+entziehen)
+    Quellen: [Folio](https://docs.folio.org/docs/users/#removing-permissions-from-a-users-record ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Person+Rechte+entziehen) -->
     "
 ---
 

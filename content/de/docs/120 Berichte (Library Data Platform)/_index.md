@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-ldp, by-folio, for-anwender, topic-fernleihe]
 weight: 120
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/reporting/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=839188642)
+    Quellen: [Folio](https://docs.folio.org/docs/reporting/) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=839188642) -->
     "
 ---
 

@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-personen, by-tubhh, for-anwender, cat-workflows, by-community_einzelbeitrag]
 weight: 190
 Description: "
-    Quellen: [Originalquelle TUBHH](https://intranet.b.tu-harburg.de/mediawiki/index.php/FOLIO/Module/ERM/Workflows/Benutzer-Accounts_anlegen) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/TUB+HH+[Personen]+-+Benutzerkonten+anlegen)
+    Quellen: [Originalquelle TUBHH](https://intranet.b.tu-harburg.de/mediawiki/index.php/FOLIO/Module/ERM/Workflows/Benutzer-Accounts_anlegen) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/TUB+HH+[Personen]+-+Benutzerkonten+anlegen) -->
     "
 ---
 

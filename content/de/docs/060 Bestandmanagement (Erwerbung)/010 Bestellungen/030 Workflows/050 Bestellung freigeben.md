@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, cat-workflows, app-bestellungen]
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#approving-an-order) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Bestellung+freigeben)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/orders/#approving-an-order) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Bestellung+freigeben) -->
     "
 ---
 

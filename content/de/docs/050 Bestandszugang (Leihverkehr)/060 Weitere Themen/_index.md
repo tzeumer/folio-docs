@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-anwender, for-admin, app-ausleihe]
 weight: 50
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/access/additional-topics/) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Weitere+Themen)
+    Quellen: [Folio](https://docs.folio.org/docs/access/additional-topics/) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Weitere+Themen) -->
     "
 ---
 

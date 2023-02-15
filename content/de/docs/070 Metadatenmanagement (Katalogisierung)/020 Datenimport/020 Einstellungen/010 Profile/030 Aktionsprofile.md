@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-datenimport, by-folio, cat-einstellungen, for-admin, meta-workflow_sammlung]
 weight: 30
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_data_import/settings_data_import/#settings--data-import--actions-profiles ) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Datenimport):+Aktionsprofile)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_data_import/settings_data_import/#settings--data-import--actions-profiles ) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Einstellungen+(Datenimport):+Aktionsprofile) -->
     "
 ---
 

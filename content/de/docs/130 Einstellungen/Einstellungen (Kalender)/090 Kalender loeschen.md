@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-einstellungen, by-folio, cat-einstellungen, for-admin]
 weight: 90
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/#delete-a-single-calendar) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=850002109)
+    Quellen: [Folio](https://docs.folio.org/docs/settings/settings_calendar/settings_calendar/#delete-a-single-calendar) <!-- & [GBV](https://info.gebev.de/pages/viewpage.action?pageId=850002109) -->
     "
 ---
 

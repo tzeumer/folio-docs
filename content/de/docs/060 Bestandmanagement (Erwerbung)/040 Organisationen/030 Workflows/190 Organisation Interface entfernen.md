@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender]
 weight: 190
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#unassigning-an-interface) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Organisation+Interface+entfernen)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/organizations/#unassigning-an-interface) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Organisation+Interface+entfernen) -->
     "
 ---
 

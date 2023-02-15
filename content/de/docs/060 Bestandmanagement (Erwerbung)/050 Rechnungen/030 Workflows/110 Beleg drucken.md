@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-workflows, for-anwender, topic-drucken]
 weight: 110
 Description: "
-    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#printing-a-voucher) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio:+Beleg+drucken)
+    Quellen: [Folio](https://docs.folio.org/docs/acquisitions/invoices/#printing-a-voucher) <!-- & [GBV](https://info.gebev.de/display/FOLIOGBVEXTERN/Folio:+Beleg+drucken) -->
     "
 ---
 
