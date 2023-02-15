@@ -15,7 +15,7 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 
 ## Vereinbarungskomponente bearbeiten
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente bearbeitet werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente bearbeitet werden soll und sie auswählen.
 2.  In der Ansicht **Vereinbarungsdetails** auf **Vereinbarungskomponenten** klicken.
 3.  In der Tabelle **Vereinbarungskomponenten** die **Vereinbarungskomponente** auswählen, die bearbeitet werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** auf **Aktionen > Bearbeiten** klicken.
@@ -26,7 +26,7 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 
 Anmerkung: Vereinbarungen können auch von Paketen und Titeln in der eHoldings App nicht mehr verknüpft werden.
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente gelöscht werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente gelöscht werden soll und sie auswählen.
 2.  In der Ansicht **Vereinbarungsdetails** auf **Vereinbarungskomponenten** klicken.
 3.  In der Tabelle **Vereinbarungskomponenten** die **Vereinbarungskomponente** auswählen, die gelöscht werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** auf **Aktionen > Löschen** klicken.
@@ -36,7 +36,7 @@ Anmerkung: Vereinbarungen können auch von Paketen und Titeln in der eHoldings A
 
 Um alle Vereinbarungskomponenten, die zu einer bestimmten Vereinbarung gehören, auf einmal zu sehen, kann die Suche nach Vereinbarungskomponenten eingeben werden. Gehen Sie dazu folgendermaßen vor:
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente angezeigt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente angezeigt werden soll und sie auswählen.
 2.  In der Ansicht **Vereinbarungsdetails** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf **Aktionen** und **In Vereinbarungskomponenten suchen anzeigen** wählen.
 4.  Die Ansicht für die Suche nach Vereinbarungskomponenten wird geöffnet. Wird auf eine Vereinbarungskomponente geklickt, wird der Datensatz für die Vereinbarungskomponente angezeigt, in dem die Vereinbarungskomponente bearbeitet oder gelöscht werden kann.

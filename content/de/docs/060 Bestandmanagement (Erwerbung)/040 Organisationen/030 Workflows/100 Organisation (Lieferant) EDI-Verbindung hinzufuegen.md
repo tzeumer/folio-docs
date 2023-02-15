@@ -3,7 +3,7 @@ title: "Organisation (Lieferant) EDI-Verbindung hinzufügen"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender, topic-edi, meta-uebersetzungsproblem]
-weight: 10
+weight: 100
 Description: "
     Quellen: [Folio](xxx) & [GBV](xxx)
     "

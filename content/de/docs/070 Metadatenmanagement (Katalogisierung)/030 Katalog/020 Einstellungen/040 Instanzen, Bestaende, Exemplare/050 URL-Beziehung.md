@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um URL-Beziehungen zu erstellen und zu verwalten. URL-Beziehungen werden in der Dropdown-Liste **Beziehung** angezeigt, wenn ein elektronischen Zugang zu einem [Instanz-](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen), [Bestandsdatensatz](https://info.gbv.de/pages/viewpage.action?pageId=852492467) oder [Exemplardatensatz](https://info.gbv.de/pages/viewpage.action?pageId=852492470) hinzugefügt wird. FOLIO stellt standardmäßig URL-Beziehungen zur Verfügung, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um URL-Beziehungen zu erstellen und zu verwalten. URL-Beziehungen werden in der Dropdown-Liste **Beziehung** angezeigt, wenn ein elektronischen Zugang zu einem [Instanz-]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}), [Bestandsdatensatz]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}) oder [Exemplardatensatz]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}) hinzugefügt wird. FOLIO stellt standardmäßig URL-Beziehungen zur Verfügung, die bearbeitet oder gelöscht werden können.
 
 ## URL-Beziehung erstellen
 

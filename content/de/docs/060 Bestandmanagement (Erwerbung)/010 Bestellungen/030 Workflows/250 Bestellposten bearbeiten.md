@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Nach dem Bestellposten suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+suchen), der bearbeitet werden soll und ihn auswählen.
+1.  [Nach dem Bestellposten suchen]({{< ref "230 Bestellposten suchen" >}}), der bearbeitet werden soll und ihn auswählen.
 2.  In der Ansicht **Details zum Bestellposten** auf **Aktionen > Bearbeiten** klicken.
 3.  Den Bestellposten bearbeiten.
 4.  Auf **Speichern & schließen** klicken. Es erscheint eine Bestätigungsmeldung und der Bestellposten wird aktualisiert.

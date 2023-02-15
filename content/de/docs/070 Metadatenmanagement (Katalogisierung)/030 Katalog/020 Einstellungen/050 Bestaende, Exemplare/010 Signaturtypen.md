@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Signaturtypen zu erstellen und zu verwalten. Signaturtypen erscheinen in der Dropdown-Liste **Signaturtyp** im Abschnitt Standort eines [Bestandsdatensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492467) und im Abschnitt Exemplardaten eines [Exemplardatensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492470). FOLIO stellt standardmäßig Signaturtypen zur Verfügung, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um Signaturtypen zu erstellen und zu verwalten. Signaturtypen erscheinen in der Dropdown-Liste **Signaturtyp** im Abschnitt Standort eines [Bestandsdatensatzes]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}) und im Abschnitt Exemplardaten eines [Exemplardatensatzes]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}). FOLIO stellt standardmäßig Signaturtypen zur Verfügung, die bearbeitet oder gelöscht werden können.
 
 ## Signaturtyp erstellen
 

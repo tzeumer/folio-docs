@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Die Instanz mit dem Exemplar suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), für das eine neue Bestandsanfrage erstellt werden soll und sie auswählen.
+1.  [Die Instanz mit dem Exemplar suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), für das eine neue Bestandsanfrage erstellt werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** im Abschnitt **Bestände** auf den **Barcode des Exemplars** klicken.
 3.  Im Fenster **Details des Exemplardatensatz** auf **Aktionen > Neue Anfrage** klicken.
 4.  Im Fenster **Neue Bestandsanfrage** einen **Bestandsanfragetyp** aus. Welche Optionen angezeigt werden, hängt vom Exemplarstatus des Exemplars ab, das angefordert wird.

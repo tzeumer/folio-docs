@@ -3,7 +3,7 @@ title: "TUB HH [Organisationen] - Ersterfassung und Pflege"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-tubhh, cat-workflows, for-anwender, by-community_einzelbeitrag]
-weight: 10
+weight: 210
 Description: "
     Originalquelle ([by-TUB Hamburg](https://info.gbv.de/display/FOLIOGBVEXTERN/by-TUB+Hamburg); Stand 2023-01) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/TUB+HH+[Organisationen]+-+Ersterfassung+und+Pflege)
     "

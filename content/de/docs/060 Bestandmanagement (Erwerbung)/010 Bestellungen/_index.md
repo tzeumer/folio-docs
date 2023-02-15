@@ -13,7 +13,7 @@ Mit der App Bestellungen können Bestellungen erstellt und verwaltet werden.
 
 Definition von Begriffen im Zusammenhang mit der App Bestellungen:
 
-* **Erwerbungsteams**. Eine zusätzliche Ebene, die zu den Erwerbungsdatensätzen hinzugefügt werden kann und die die Möglichkeit einer Person einschränkt, mit diesen Datensätzen zu interagieren, wenn sie nicht diesem Team zugewiesen wurde. Es können beispielsweise Erwerbungsteams erstellt werden, um die verschiedenen Bibliotheken in dem Bibliothekssystem zu repräsentieren. Die Teams werden von der Bibliothek in der App Einstellungen definiert und festgelegt. Weitere Informationen sind unter [Einstellungen > Erwerbungsteams](https://info.gbv.de/pages/viewpage.action?pageId=849379720) zu finden.
+* **Erwerbungsteams**. Eine zusätzliche Ebene, die zu den Erwerbungsdatensätzen hinzugefügt werden kann und die die Möglichkeit einer Person einschränkt, mit diesen Datensätzen zu interagieren, wenn sie nicht diesem Team zugewiesen wurde. Es können beispielsweise Erwerbungsteams erstellt werden, um die verschiedenen Bibliotheken in dem Bibliothekssystem zu repräsentieren. Die Teams werden von der Bibliothek in der App Einstellungen definiert und festgelegt. Weitere Informationen sind unter [Einstellungen > Erwerbungsteams]({{< ref "010 Einstellungen (Erwerbungsteams)_ Erwerbungsteam erstellen, bearbeiten, loeschen" >}}) zu finden.
 * **Bestellung**. Eine Bestellung mit einer Liste von Titeln oder Paketen (physisch oder elektronisch), die von der Bibliothek bei einem Lieferanten bestellt werden.
 * **Bestellposten**. Ein Bestellposten enthält einen der Titel oder Pakete, die von der Bibliothek bestellt werden. Bestellposten bilden eine Bestellung. Eine Bestellung kann mehrere Bestellposten enthalten.
 

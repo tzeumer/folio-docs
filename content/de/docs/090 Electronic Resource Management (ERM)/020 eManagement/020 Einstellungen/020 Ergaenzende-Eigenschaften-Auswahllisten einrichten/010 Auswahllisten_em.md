@@ -13,7 +13,7 @@ Eine Auswahlliste ist eine anpassbare Dropdown-Liste, die in der App eManagement
 
 Eine Auswahlliste mit Mehrfachauswahl ermöglicht es, mehrere Werte aus der Auswahlliste auszuwählen. Alle ausgewählten Werte werden im Datensatz der Vereinbarung angezeigt.
 
-Diese Einstellung verwenden, um die Namen der verfügbaren Auswahllisten festzulegen. Sobald Auswahllisten benannt wurden, können die Werte, die in jeder Auswahlliste verfügbar sind, unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) werden.
+Diese Einstellung verwenden, um die Namen der verfügbaren Auswahllisten festzulegen. Sobald Auswahllisten benannt wurden, können die Werte, die in jeder Auswahlliste verfügbar sind, unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_em" >}}) werden.
 
 ## Auswahlliste erstellen
 

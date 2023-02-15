@@ -11,4 +11,4 @@ Description: "
 
 Wenn die Rückgabe von Exemplaren abgeschlossen ist, kann die Rückgabe-Session manuell beendet werden. Um eine Session zu beenden und die Tabelle der gescannten Exemplare zu löschen, auf **Session beenden** klicken. Sobald die Session beendet wurde, werden alle entsprechenden Benachrichtigungen an die Personen gesendet.
 
-Standardmäßig ist die Rückgabe-Session so konfiguriert, dass sie nach einer Inaktivität von 3 Minuten automatisch endet. Diese Einstellung kann deaktiviert werden oder die Anzahl der Minuten der Inaktivität, nach der die Session beendet wird, in der [App Einstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Andere+Einstellungen)
+Standardmäßig ist die Rückgabe-Session so konfiguriert, dass sie nach einer Inaktivität von 3 Minuten automatisch endet. Diese Einstellung kann deaktiviert werden oder die Anzahl der Minuten der Inaktivität, nach der die Session beendet wird, in der [App Einstellungen]({{< ref "020 Andere Einstellungen" >}})

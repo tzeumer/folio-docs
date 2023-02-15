@@ -15,7 +15,7 @@ Dei Seite gibt es nur im GBV-Confluence und war mein Vorschlag.
 
 ## Übernahme
 
-Siehe auch [siehe FOLIO-Wiki zum Thema Dokumentation und Konventionen](https://wiki.folio.org/display/SS/FOLIO+Documentation)
+Siehe auch [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}}).
 
 Es sind falle alle Informationen aus der offiziellen Doku 1:1 übernommen worden zwischen 2022-12-10 und 2023-01-10. Die Quelle ist jeweils in einem Meta-Infoblock angegeben. Dort sind ebenfalls (selten) Anmerkungen notiert.
 
@@ -29,11 +29,11 @@ Verbesserungen können sukzessive aber immer vorgenommen werden ab 2023-01. Insg
 
 ## Aktuell halten & Konkordanz
 
-Diese Informationen sind am 12.1.2022 zu [Handbuchseiten-Konkordanz der übersetzen Dokumentation](https://info.gbv.de/pages/viewpage.action?pageId=853016752) umgezogen.
+Diese Informationen sind am 12.1.2022 zu [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}}) umgezogen.
 
 ## Struktur
 
-Diese Informationen sind am 12.1.2022 zu [Diese Dokumentation (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=839909381) umgezogen.
+Diese Informationen sind am 12.1.2022 zu [Diese Dokumentation]({{< ref "010 Diese Dokumentation" >}}) umgezogen.
 
 ## Temporäre Notizen
 

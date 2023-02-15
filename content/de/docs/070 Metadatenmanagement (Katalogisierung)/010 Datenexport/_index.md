@@ -13,7 +13,8 @@ Mit der App Datenexport können bibliografische Daten aus dem Source Record Stor
 
 Wenn die Datensätze aus der App "Katalog" exportiert werden und die zugrunde liegenden MARC-Quelldaten vorhanden sind, werden diese Daten exportiert. Wenn keine zugrunde liegenden Quelldaten vorhanden sind, wird ein vereinfachter MARC-Datensatz erstellt.
 
-Die App Datenexport wird mit einem Standard Jobprofil geliefert, das festlegt, wie die Informationen in die generierte MARC-Datei exportiert werden. Um eigenen Jobprofile zu erstellen, können Jobprofile in der App Einstellungen konfiguriert werden. Weitere Informationen sind unter [Einstellungen > Datenexport](https://info.gbv.de/pages/viewpage.action?pageId=849379672) zu finden.
+Die App Datenexport wird mit einem Standard Jobprofil geliefert, das festlegt, wie die Informationen in die generierte MARC-Datei exportiert werden. Um eigenen Jobprofile zu erstellen, können Jobprofile in der App Einstellungen konfiguriert werden. Weitere Informationen sind unter [Einstellungen > Datenexport]({{< ref "docs/070 Metadatenmanagement (Katalogisierung)/010 Datenexport/020 Einstellungen" >}})
+ zu finden.
 
 Definition von Bedingungen im Zusammenhang mit der App Datenexport:
 

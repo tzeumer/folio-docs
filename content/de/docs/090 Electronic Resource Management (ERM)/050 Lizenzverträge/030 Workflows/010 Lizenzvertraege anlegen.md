@@ -11,8 +11,8 @@ Description: "
 
 1.  In der Ansicht **Lizenzverträge** auf **Aktionen > Neu** klicken.
 2.  Im Fenster **Neuer Lizenzvertrag erstellen** einen **Namen** für den Lizenzvertrag eingeben.
-3.  Einen **Typ** aus der Dropdown-Liste wählen. Zum Beispiel lokal oder konsortial. Lizenzverträge werden in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) zu finden.
-4.  Einen **Status** aus der Dropdown-Liste wählen. Die Lizenzverträge werden in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) zu finden.
+3.  Einen **Typ** aus der Dropdown-Liste wählen. Zum Beispiel lokal oder konsortial. Lizenzverträge werden in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) zu finden.
+4.  Einen **Status** aus der Dropdown-Liste wählen. Die Lizenzverträge werden in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) zu finden.
 5.  (Optional) Um anzugeben, wann der Lizenzvertrag beginnt, ein **Startdatum** eingeben.
 6.  (Optional) Um anzugeben, wann der Lizenzvertrag endet, ein **Enddatum** eingeben. Wenn der Lizenzvertrag kein Enddatum hat, die Checkbox **Offenes Ende** markieren.
 7.  (Optional) In das Feld eine **Beschreibung** des Lizenzvertrags eingeben.
@@ -48,7 +48,7 @@ Interne Kontakte sind in der Regel die Personen innerhalb der Bibliothek, die be
 3.  Im Dialog **Person auswählen** den Namen oder einen Teil des Namens der Person in das Suchfeld in der Ansicht **Personensuche** eingeben und auf **Suche** klicken. Die Ergebnisse der Benutzersuche werden angezeigt.
 4.  (Optional) Die Ergebnisse nach Status oder nach Personengruppe filtern.
 5.  Auf die Person klicken, die ausgewählt werden soll. Die Person wird dem Datensatz des Lizenzvertrags als interner Kontakt hinzugefügt.
-6.  Die Rolle des internen Kontakts aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert werden.
+6.  Die Rolle des internen Kontakts aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert werden.
 7.  Die Schritte 1-6 je nach Bedarf wiederholen. Die internen Kontakte werden gespeichert, sobald der Lizenzvertrag gespeichert wird.
 
 ### Internen Kontakt entfernen
@@ -70,10 +70,10 @@ Organisationen sind alle Institutionen, mit denen die Bibliothek in Verbindung s
 
 1.  Auf **Organisation hinzufügen** klicken.
 2.  Im Feld Organisation auf **Organisation verknüpfen** klicken.
-3.  Im Dialog **Organisation wählen** im Suchfeld der Ansicht **Suche & Filter** den Namen der Organisation eingeben oder die Dropdown-Liste Alle verwenden, um nach bestimmten Organisationsparametern zu suchen, und auf **Suchen** klicken. Weitere Informationen sind unter [Organisation suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+suchen) zu finden.
+3.  Im Dialog **Organisation wählen** im Suchfeld der Ansicht **Suche & Filter** den Namen der Organisation eingeben oder die Dropdown-Liste Alle verwenden, um nach bestimmten Organisationsparametern zu suchen, und auf **Suchen** klicken. Weitere Informationen sind unter [Organisation suchen]({{< ref "030 Organisation suchen" >}}) zu finden.
 4.  (Optional) Die Ergebnisse nach Status der Organisationen, Tags, Ist Lieferant, Land, Sprachen oder Zahlungsart filtern.
 5.  Auf die Organisation klicken, die ausgewählt werden soll. Das Dialogfeld Organisation auswählen wird geschlossen und die Organisation wird dem Lizenzvertrag hinzugefügt.
-6.  Die **Rolle** der Organisation aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > Lizenzverträge > Auswahllisten](https://info.gbv.de/pages/viewpage.action?pageId=847085668) konfiguriert werden.
+6.  Die **Rolle** der Organisation aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > Lizenzverträge > Auswahllisten]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert werden.
 7.  (Optional) Im Feld **Notiz** Anmerkungen zu der Organisation eingeben.
 8.  Die Schritte 1-7 nach Bedarf wiederholen. Die Organisation wird gespeichert, sobald der Lizenzvertrag gespeichert wird.
 
@@ -110,7 +110,7 @@ Ein Hauptdokument ist jedes zentrale Dokument, das für den Lizenzdatensatz rele
 
 ## Bedingungen
 
-Bedingungen sind die Nutzungsbedingungen, die festlegen, was mit den lizenzierten Inhalten getan werden kann und was nicht. In FOLIO können die Bedingungen, die in den Lizenzverträgen erscheinen, durch Konfigurationen in der App Einstellungen festgelegt werden. In der App Einstellungen werden die Bezeichnung, der Typ, die Standardsichtbarkeit und der Status der Bedingungen (primär oder optional) festgelegt. Weitere Informationen sind unter [Einstellungen > Lizenzverträge > Bedingungen](https://info.gbv.de/pages/viewpage.action?pageId=847085665) zu finden.
+Bedingungen sind die Nutzungsbedingungen, die festlegen, was mit den lizenzierten Inhalten getan werden kann und was nicht. In FOLIO können die Bedingungen, die in den Lizenzverträgen erscheinen, durch Konfigurationen in der App Einstellungen festgelegt werden. In der App Einstellungen werden die Bezeichnung, der Typ, die Standardsichtbarkeit und der Status der Bedingungen (primär oder optional) festgelegt. Weitere Informationen sind unter [Einstellungen > Lizenzverträge > Bedingungen]({{< ref "010 Bedingungen" >}}) zu finden.
 
 Primäre Bedingungen erscheinen standardmäßig in jedem Lizenzvertrag. Optionale Bedingungen können auf Lizenzvertragsbasis hinzugefügt werden.
 
@@ -146,7 +146,7 @@ Ein ergänzendes Dokument ist jedes zusätzliche Dokument, das für den Lizenzve
 
 1.  Auf **Ergänzendes Dokumente hinzufügen** klicken.
 2.  Einen **Namen** in das Feld eingeben.
-3.  Eine **Kategorie** aus der Dropdown-Liste wählen. Kategorien für Zusatzdokumente können in der App Einstellungen unter [Einstellungen > Lizenzverträge > Auswahllisten](https://info.gbv.de/pages/viewpage.action?pageId=847085668) konfiguriert werden.
+3.  Eine **Kategorie** aus der Dropdown-Liste wählen. Kategorien für Zusatzdokumente können in der App Einstellungen unter [Einstellungen > Lizenzverträge > Auswahllisten]({{< ref "010 Auswahllisten_li" >}}) konfiguriert werden.
 4.  (Optional) Eine Notiz zu dem Ergänzenden Dokumente eingeben.
 5.  Es muss mindestens einer der folgenden Schritte ausgeführt werden:
     * Eine Datei in den Lizenzvertrag hochladen, indem die Datei per Drag & Drop in das Feld **Drag & Drop zum Hochladen** gezogen wird oder auf **oder Datei auswählen** klicken.

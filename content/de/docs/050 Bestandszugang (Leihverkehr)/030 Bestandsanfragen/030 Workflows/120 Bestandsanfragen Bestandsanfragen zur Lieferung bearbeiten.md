@@ -24,7 +24,7 @@ Die Zustellung muss zunächst im Personendatensatz einer Person aktiviert werden
 
 ## Bestandsanfrage zur Lieferung erstellen
 
-1.  [Eine Bestandsanfrage erstellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+auf+Exemplarebene).
+1.  [Eine Bestandsanfrage erstellen]({{< ref "010 Bestandsanfragen auf Exemplarebene" >}}).
 2.  Wenn die Person nicht die **Bereitstellungspräferenz** Lieferung hat, dann **Lieferung** wählen.
 3.  Eine **Lieferadresse** wählen.
 4.  Auf **Speichern & schließen** klicken, um die Bestandsanfrage zu starten.

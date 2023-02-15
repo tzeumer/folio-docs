@@ -25,13 +25,13 @@ In den Suchergebnissen auf einen Lizenzvertrag klicken, um ihn anzuzeigen. Die A
 
 ## Lizenzvertrag bearbeiten
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), der bearbeitet werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), der bearbeitet werden soll und ihn auswählen.
 2.  In der Ansicht **Lizenzverträge** auf **Aktionen > Bearbeiten** klicken.
 3.  Die gewünschten Änderungen an dem Lizenzvertrag vornehmen.
 4.  Auf **Speichern & schließen** klicken. Es erscheint eine Bestätigungsmeldung und der Lizenzvertrag wird aktualisiert.
 
 ## Lizenzvertrag löschen
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), der gelöscht werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), der gelöscht werden soll und ihn auswählen.
 2.  In der Ansicht **Lizenzverträge** auf **Aktionen > Löschen** klicken.
 3.  Im Dialog **Lizenzvertrag löschen** auf Löschen klicken. Es erscheint eine Bestätigungsmeldung und der Lizenzvertrag wird gelöscht.

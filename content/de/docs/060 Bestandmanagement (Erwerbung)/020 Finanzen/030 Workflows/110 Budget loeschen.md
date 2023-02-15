@@ -11,6 +11,6 @@ Description: "
 
 Anmerkung: Finanzstrukturdatensätze ("Financial structure records") können nicht gelöscht werden, wenn ihnen andere Datensätze zugewiesen sind. Budgets können nicht gelöscht werden, wenn ihnen andere Transaktionen als Zuweisungen zugewiesen sind.
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), das gelöscht werden sollen und es auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), das gelöscht werden sollen und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Löschen** klicken.
 3.  Im Bestätigungsfenster auf **Löschen** klicken. Es erscheint eine Bestätigungsmeldung und das Budget wird gelöscht.

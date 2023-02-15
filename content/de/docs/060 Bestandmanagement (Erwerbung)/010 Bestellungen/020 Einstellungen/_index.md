@@ -28,4 +28,4 @@ Um mit den Einstellungen für Bestellungen interagieren zu können, müssen eine
 * **Einstellungen (Bestellungen): Kann Bestellvorlagen anzeigen, bearbeiten und löschen**. (Settings(Orders): Can view, edit, delete Order Templates)
     Mit dieser Berechtigung können Bestellvorlagen unter Einstellungen > Bestellungen angezeigt, bearbeitet und gelöscht werden.
 
-Informationen zur Zuweisung von Berechtigungen an Personen sind unter [Zuweisung von Berechtigungen zu einem Personendatensatz](https://info.gbv.de/display/FOLIOGBVEXTERN/VZG+%5BPersonen%5D+-+Berechtigungskonzepte)
+Informationen zur Zuweisung von Berechtigungen an Personen sind unter [Zuweisung von Berechtigungen zu einem Personendatensatz]({{< ref "080 Person Rechte zuweisen" >}})

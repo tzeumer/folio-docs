@@ -26,6 +26,6 @@ Um eine Aushebeliste zu erstellen, gehen Sie folgendermaßen vor:
 
 Der Bericht Entnahmezettel erstellt einen einzelnen Entnahmezettel für jedes Exemplar, das aus dem Regal entnommen werden muss. Dieser Bericht druckt automatisch nur die Exemplare aus, deren Tatsächlicher Standort mit der aktuell ausgewählten Servicestelle verknüpft ist. Daher muss die bearbeitende Person an der Servicestelle angemeldet sein, für die die Scheine erstellt werden sollen. Wenn es keine Exemplare gibt, die den Kriterien des Berichts entsprechen, wird die Option ausgegraut angezeigt.
 
-Die Informationen, die auf den Entnahmezetteln erscheinen, können in der [App Einstellunge](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Vorlagen+Benachrichtigungen+Benutzende)n konfiguriert werden.
+Die Informationen, die auf den Entnahmezetteln erscheinen, können in der [App Einstellungen]({{< ref "020 Vorlagen Benachrichtigungen Benutzende" >}})n konfiguriert werden.
 
 Um Entnahmezettel zu drucken, in der Ansicht **Bestandsanfrage** die **Aktionen > Entnahmezettel für \[Ihre Servicestelle\] drucken**

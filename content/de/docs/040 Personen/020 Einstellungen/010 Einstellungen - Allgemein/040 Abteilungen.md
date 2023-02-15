@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung verwenden, um Abteilungen zu konfigurieren. Abteilungen können im [Abschnitt "Erweiterte Informationen"](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+anlegen) eines Personendatensatzes hinzugefügt werden. Es könnten zum Beispiel Abteilungen hinzugefügt werden, um die Abteilungen von Bibliotheksmitarbeitenden oder Universitätsangehörigen abzubilden.
+Diese Einstellung verwenden, um Abteilungen zu konfigurieren. Abteilungen können im [Abschnitt "Erweiterte Informationen"]({{< ref "010 Person anlegen" >}}) eines Personendatensatzes hinzugefügt werden. Es könnten zum Beispiel Abteilungen hinzugefügt werden, um die Abteilungen von Bibliotheksmitarbeitenden oder Universitätsangehörigen abzubilden.
 
 ## Abteilung erstellen
 

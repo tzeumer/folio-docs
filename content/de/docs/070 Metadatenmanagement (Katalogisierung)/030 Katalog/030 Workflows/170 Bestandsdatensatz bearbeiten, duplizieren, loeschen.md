@@ -11,7 +11,7 @@ Description: "
 
 ## Bestandsdatensätzen bearbeiten
 
-1.  [Die Instanz mit dem Bestandsdatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der bearbeitet werden soll und sie auswählen.
+1.  [Die Instanz mit dem Bestandsdatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der bearbeitet werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** im Abschnitt **Bestände** auf **Bestandsdaten anzeigen** klicken.
 3.  Im Fenster **Bestandsdatensatz** auf **Aktionen > Bearbeiten** klicken.
 4.  Die gewünschten Änderungen an dem Bestandsdatensatz vornehmen.
@@ -19,7 +19,7 @@ Description: "
 
 ## Bestandsdatensätze duplizieren
 
-1.  [Die Instanz mit dem Bestandsdatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der dupliziert werden soll und sie auswählen.
+1.  [Die Instanz mit dem Bestandsdatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der dupliziert werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** im Abschnitt **Bestände** auf **Bestandsdaten anzeigen** klicken.
 3.  Im Fenster **Bestandsdatensatz** auf **Aktionen > Duplizieren** klicken.
 4.  Die gewünschten Änderungen an dem Bestandsdatensatz vornehmen.
@@ -27,7 +27,7 @@ Description: "
 
 ## Bestandsdatensätze löschen
 
-1.  [Die Instanz mit dem Bestandsdatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der gelöscht werden soll und sie auswählen.
+1.  [Die Instanz mit dem Bestandsdatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der gelöscht werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** im Abschnitt **Bestände** auf **Bestandsdaten anzeigen** klicken.
 3.  Im Fenster **Bestandsdatensatz** auf **Aktionen > Löschen** klicken.
 4.  Im Dialog **Die Löschung des Bestandsdatensatzes bestätigen** auf **Löschen** klicken. Der Bestandsdatensatz wird gelöscht.

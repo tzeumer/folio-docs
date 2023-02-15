@@ -28,7 +28,7 @@ Hinweis: Bevor ein neuer Kontakt erstellt wird, sollten die Fortschritt bei der 
 * **Vorname**. Der Vorname der Kontaktperson.
 * **Status**. Den Status der Kontaktperson aus der Dropdown-Liste wählen: Aktiv oder Inaktiv.
 * **Sprache**. Die von der Kontaktperson gesprochene Hauptsprache.
-* **Kategorien**. Aus der Dropdown-Liste alle Kategorien auswählen, die den die Kontaktperson beschreiben. Kategorien werden in der App Einstellungen konfiguriert. Siehe [Einstellungen > Organisationen](https://info.gbv.de/pages/viewpage.action?pageId=842793088) für weitere Informationen.
+* **Kategorien**. Aus der Dropdown-Liste alle Kategorien auswählen, die den die Kontaktperson beschreiben. Kategorien werden in der App Einstellungen konfiguriert. Siehe [Einstellungen > Organisationen]({{< ref "docs/060 Bestandmanagement (Erwerbung)/040 Organisationen/020 Einstellungen" >}}) für weitere Informationen.
 * **Notiz**. Alle Notizen, die sich auf den Kontakt beziehen.
 
 ## E-Mails

@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Ressourcentypen zu erstellen und zu verwalten. Ressourcentypen erscheinen in der Dropdown-Liste **Ressourcentyp** im Abschnitt [Beschreibende Daten eines Instanzdatensatzes](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen). FOLIO stellt standardmäßig RDA-Ressourcentypen bereit. Diese Standard-Ressourcentypen können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Ressourcentypen hinzugefügt werden. Der Ressourcentyp erscheint auch als [Filter für die Instanzsuche](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog).
+Diese Einstellung wird verwendet, um Ressourcentypen zu erstellen und zu verwalten. Ressourcentypen erscheinen in der Dropdown-Liste **Ressourcentyp** im Abschnitt [Beschreibende Daten eines Instanzdatensatzes]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}). FOLIO stellt standardmäßig RDA-Ressourcentypen bereit. Diese Standard-Ressourcentypen können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Ressourcentypen hinzugefügt werden. Der Ressourcentyp erscheint auch als [Filter für die Instanzsuche]({{< ref "090 Datensatz suchen im Katalog" >}}).
 
 ## Ressourcentyp erstellen
 

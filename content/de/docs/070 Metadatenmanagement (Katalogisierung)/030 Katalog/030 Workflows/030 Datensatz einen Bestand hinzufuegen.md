@@ -11,14 +11,14 @@ Description: "
 
 ## MARC-Bestandsdatensatz hinzufügen
 
-1.  [Den Instanzdatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), zu dem ein Bestand hinzugefügt werden soll und ihn auswählen.
+1.  [Den Instanzdatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), zu dem ein Bestand hinzugefügt werden soll und ihn auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** im Abschnitt **Bestand** auf **MARC-Bestandsdatensatz hinzufügen** klicken.
 3.  Den neuen Datensatz gemäß den Anweisungen unter Bearbeiten eines MARC-Datensatzes mit quickMARC hinzufügen.
 4.  Sobald alle gewünschten Informationen in den Bestandsdatensatz aufgenommen wurden, auf **Speichern & schließen** klicken**.** Der Datensatz wird gespeichert.
 
 ## FOLIO-Bestandsdatensatzes hinzufügen
 
-1.  [Den Instanzdatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), zu dem ein Bestand hinzugefügt werden soll und ihn auswählen.
+1.  [Den Instanzdatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), zu dem ein Bestand hinzugefügt werden soll und ihn auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** im Abschnitt **Bestand** auf **Bestand hinzufügen** klicken.
 3.  Im Fenster **Bestandsdatensatz** die Abschnitte Administrative Daten, Standort, Details zum Bestand, Anmerkungen zum Bestand, Elektronischer Zugriff, Inventarisierung und Inventarisierungsverlauf ausfüllen. Weitere Informationen zu den Feldern und Aktionen, die in diesen Abschnitten verfügbar sind, sind in den Abschnittsbeschreibungen weiter unten zu finden.
 4.  Sobald alle gewünschten Informationen in den Bestandsdatensatz aufgenommen wurden, auf **Speichern & schließen** klicken. Der Datensatz wird gespeichert.
@@ -31,7 +31,7 @@ Der Abschnitt Administrative Daten enthält technische Informationen zu den Best
 * **Bestands-HRID**. Die Human Readable ID ("Augenlesbare ID"). Eine vom System zugewiesene fortlaufende ID, die der Bestands-ID zugeordnet ist.
 * **Quelle**. Format des Bestandsdatensatzes, wenn ein Quelldatensatz vorhanden ist. Zum Beispiel FOLIO, wenn es sich um einen in Katalog erstellten Datensatz handelt, MARC, wenn es sich um einen in MARCcat erstellten MARC-Datensatz handelt, oder EPKB, wenn es sich um einen Datensatz aus eHoldings handelt.
 * **Frühere Bestands-ID**. Frühere Bestands-ID
-* **Bestandstyp**. Gibt die Art des bibliografischen Formats des Bestandsdatensatzes an. Zum Beispiel, gedruckt oder elektronisch. Konfiguriert in [Einstellungen > Katalog > Bestandstypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Bestandstypen).
+* **Bestandstyp**. Gibt die Art des bibliografischen Formats des Bestandsdatensatzes an. Zum Beispiel, gedruckt oder elektronisch. Konfiguriert in [Einstellungen > Katalog > Bestandstypen]({{< ref "030 Bestandstypen" >}}).
 * **Statistischer Code**. Statistische Codes (z.B. ASER; Name: Active serial; Typ: SERM (Serienverwaltung) oder Bücher; Name: Buch, Druck (Bücher); Typ ARL (Sammlungsstatistik) usw.). Wird in den Einstellungen konfiguriert.
 
 #### Frühere Bestands-ID hinzufügen
@@ -71,7 +71,7 @@ Der Abschnitt Bestandsdetails enthält zusätzliche Angaben zu den Beständen.
 
 * **Exemplarzahl**. Anzahl der Exemplare des Bestands
 * **Bestandsangaben**. Gibt den genauen Inhalt an, auf den die Bibliothek Zugriff hat, typischerweise für fortlaufende Publikationen.
-* **Richtlinie zur Fernleihe**. Eine Liste von Werten auswählen, die die Verleihrichtlinien der Bibliothek definieren, die Fernleih-Richtlinien. Zum Beispiel: Wird ausgeliehen, Wird nicht ausgeliehen, Wird vervielfältigt, Wird nicht vervielfältigt, usw. Konfiguriert unter [Einstellungen > Katalog > Fernleihrichtlinien](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Fernleihrichtlinien).
+* **Richtlinie zur Fernleihe**. Eine Liste von Werten auswählen, die die Verleihrichtlinien der Bibliothek definieren, die Fernleih-Richtlinien. Zum Beispiel: Wird ausgeliehen, Wird nicht ausgeliehen, Wird vervielfältigt, Wird nicht vervielfältigt, usw. Konfiguriert unter [Einstellungen > Katalog > Fernleihrichtlinien]({{< ref "040 Fernleihrichtlinien" >}}).
 * **Richtlinie zur Digitalisierung**. Anmerkungen zu den Digitalisierungsrichtlinien.
 * **Richtlinie zur Aufbewahrung**. Anmerkungen zu den Aufbewahrungsrichtlinien.
 
@@ -115,7 +115,7 @@ Der Abschnitt Anmerkungen zum Bestand enthält alle Anmerkungen zu den Bestände
 #### Anmerkung hinzufügen
 
 1.  Auf **Anmerkung hinzufügen** klicken.
-2.  Den Anmerkungstyp aus der Dropdown-Liste auswählen. Konfiguriert unter [Einstellungen > Katalog > Anmerkungstypen der Instanz](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Anmerkungstypen+der+Instanz).
+2.  Den Anmerkungstyp aus der Dropdown-Liste auswählen. Konfiguriert unter [Einstellungen > Katalog > Anmerkungstypen der Instanz]({{< ref "050 Anmerkungstypen der Instanz" >}}).
 3.  Eine **Anmerkung** in das Feld eingeben.
 4.  Optional: Wenn die Anmerkung nur für Mitarbeitende sichtbar sein soll, die über die entsprechenden Berechtigungen verfügen, die Checkbox Nur Personal markieren.
 5.  Die Schritte 1-4 je nach Bedarf wiederholen. Die Anmerkung wird gespeichert, sobald der Bestandsdatensatz gespeichert wird.

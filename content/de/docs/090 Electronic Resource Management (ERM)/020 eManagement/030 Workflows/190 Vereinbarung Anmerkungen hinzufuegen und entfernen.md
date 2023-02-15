@@ -13,23 +13,23 @@ Es können Anmerkungen zu Vereinbarungsdatensätzen, Vereinbarungskomponenten un
 
 ## Anmerkung zu einer Vereinbarung hinzufügen
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), der eine Anmerkung hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), der eine Anmerkung hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Anmerkungen > Neu** klicken.
-3.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen. Anmerkungstypen werden in der App Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Notizen](https://info.gbv.de/pages/viewpage.action?pageId=844890132) zu finden.
+3.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen. Anmerkungstypen werden in der App Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Notizen]({{< ref "Einstellungen (Notizen)" >}}) zu finden.
 4.  In das Feld einen **Anmerkungstitel** eingeben.
 5.  (Optional) In das Feld **Details** zur Notiz eingeben.
 6.  Auf **Speichern & schließen** klicken. Die Anmerkung wird gespeichert und erscheint im Abschnitt Anmerkungen in der Ansicht Details der Vereinbarung.
 
 ## Anmerkung zu einer Vereinbarung zuweisen
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), der eine Anmerkung zugewiesen werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), der eine Anmerkung zugewiesen werden soll und sie auswählen.
 2.  In der **Detailansicht** der Vereinbarung auf **Anmerkungen > Zuweisen / Entfernen** klicken.
 3.  Im Dialog **Notiz zuweisen / entfernen** über die Suchleiste in der Ansicht Suchen & Filtern nach einer Anmerkung oder einen **Anmerkungstyp** aus der Dropdown-Liste auswählen. Es kann auch nach dem **Status der Anmerkungszuweisung** gefiltert werden.
 4.  Die Checkbox neben der Anmerkung markieren, die der Vereinbarung zugeordnet werden soll und auf **Speichern** klicken. Die Anmerkung wird gespeichert und erscheint im Abschnitt Anmerkungen in der Detailansicht der Vereinbarung.
 
 ## Anmerkung an einer Vereinbarung bearbeiten
 
-1.  [Die Vereinbarung mit der Anmerkung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), die bearbeitet werden soll und sie auswählen.
+1.  [Die Vereinbarung mit der Anmerkung suchen]({{< ref "020 Vereinbarung suchen" >}}), die bearbeitet werden soll und sie auswählen.
 2.  In der **Detailansicht der Vereinbarung** auf **Anmerkungen** klicken.
 3.  Die Anmerkung suchen, die bearbeitet werden soll und unten im Abschnitt Titel und Details der Anmerkung auf **Bearbeiten** klicken.
 4.  Im Fenster **Bearbeiten: Anmerkung** die gewünschten Änderungen an der Anmerkung vornehmen.
@@ -37,7 +37,7 @@ Es können Anmerkungen zu Vereinbarungsdatensätzen, Vereinbarungskomponenten un
 
 ## Anmerkung von einer Vereinbarung entfernen
 
-1.  [Die Vereinbarung mit der Anmerkung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), die entfernt werden soll und sie auswählen.
+1.  [Die Vereinbarung mit der Anmerkung suchen]({{< ref "020 Vereinbarung suchen" >}}), die entfernt werden soll und sie auswählen.
 2.  In der **Detailansicht der Vereinbarung** auf **Anmerkungen** klicken.
 3.  Auf die Anmerkung klicken, die entfernt werden soll.
 4.  Im Fenster **Anmerkung** auf **Aktionen > Löschen** klicken.
@@ -45,7 +45,7 @@ Es können Anmerkungen zu Vereinbarungsdatensätzen, Vereinbarungskomponenten un
 
 ## Anmerkung zu einer Vereinbarungskomponente hinzufügen
 
-1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Anmerkung hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Anmerkung hinzugefügt werden soll und sie auswählen.
 2.  In der **Detailansicht der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  In der Tabelle **Vereinbarungskomponenten** die Vereinbarungskomponente auswählen, die bearbeitet werden soll.
 4.  In der Ansicht Vereinbarungskomponenten unter **Anmerkungen** auf **Neu** klicken.
@@ -53,7 +53,7 @@ Es können Anmerkungen zu Vereinbarungsdatensätzen, Vereinbarungskomponenten un
 
 ## Anmerkung zu einer Vereinbarungskomponente zuweisen
 
-1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Anmerkung zugewiesen werden soll und sie auswählen.
+1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Anmerkung zugewiesen werden soll und sie auswählen.
 2.  In der **Detailansicht der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  In der Tabelle **Vereinbarungskomponenten** die Vereinbarungskomponente auswählen, die bearbeitet werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** unter **Anmerkungen** auf **Zuweisen / Entfernen** klicken.
@@ -61,7 +61,7 @@ Es können Anmerkungen zu Vereinbarungsdatensätzen, Vereinbarungskomponenten un
 
 ## Anmerkung an einer Vereinbarungskomponente bearbeiten
 
-1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Anmerkung hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Anmerkung hinzugefügt werden soll und sie auswählen.
 2.  In der **Detailansicht der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  In der Tabelle **Vereinbarungskomponenten** die Vereinbarungskomponente auswählen, die bearbeitet werden soll.
 4.  Im Bereich **Vereinbarungskomponenten** unter **Anmerkungen** die Anmerkung wählen, die bearbeitet werden soll und unten im Abschnitt Titel und Details der Anmerkung auf **Bearbeiten** klicken.
@@ -70,7 +70,7 @@ Es können Anmerkungen zu Vereinbarungsdatensätzen, Vereinbarungskomponenten un
 
 ## Anmerkung von einer Vereinbarungskomponente entfernen
 
-1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), von der eine Anmerkung entfernt werden soll und sie auswählen.
+1.  [Die Vereinbarung mit der Vereinbarungskomponente suchen]({{< ref "020 Vereinbarung suchen" >}}), von der eine Anmerkung entfernt werden soll und sie auswählen.
 2.  In der **Detailansicht der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  In der Tabelle **Vereinbarungskomponenten** die Vereinbarungskomponente auswählen, die bearbeitet werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** unter **Anmerkungen** die Anmerkung suchen, die entfernt werden soll und sie auswählen.

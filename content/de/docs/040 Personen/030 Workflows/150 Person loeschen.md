@@ -13,7 +13,7 @@ Ein Personendatensatz kann nur gelöscht werden, wenn die Person keine offenen T
 
 Folgendermaßen vorgehen, um in der Benutzeroberfläche nach offenen Transaktionen zu suchen und einen Personendatensatz zu löschen:
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Menü Aktionen die Option **Auf offene Transaktionen prüfen/Personendaten löschen**.
     1.  Wenn es keine offenen Transaktionen für diese Person gibt, erscheint die Meldung _Keine offenen Transaktionen für Benutzer (Nachname, Vorname). Sind Sie sicher, dass Sie diese Personendaten löschen möchten?_ im Fenster Auf offene Transaktionen prüfen/Personendaten löschen.
         1.  Auf Ja klicken, um den Personendatensatz zu löschen. Eine Meldung _Person  (Nachname, Vorname) erfolgreich gelöscht_ bestätigt die Löschung des Personendatensatzes.

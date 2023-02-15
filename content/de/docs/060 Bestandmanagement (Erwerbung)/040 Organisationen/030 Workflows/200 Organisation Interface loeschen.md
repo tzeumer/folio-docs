@@ -1,5 +1,5 @@
 ---
-title: "Organisation Interface entfernen"
+title: "Organisation Interface löschen"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender]
@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Wird ein Interface gelöscht, wird es aus der Liste der Interfaces in der Bibliothek entfernt. Wenn nur ein Interface aus einem Organisationsdatensatz entfernt werden muss, bitte den Abschnitt [Folio: Organisation Interface entfernen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+Interface+entfernen) lesen .
+Wird ein Interface gelöscht, wird es aus der Liste der Interfaces in der Bibliothek entfernt. Wenn nur ein Interface aus einem Organisationsdatensatz entfernt werden muss, bitte den Abschnitt [Folio: Organisation Interface entfernen]({{< ref "190 Organisation Interface entfernen" >}}) lesen .
 
 1.  Das Interface, die gelöscht werden soll, zum Abschnitt Interface hinzufügen, falls dies noch nicht geschehen ist.
 2.  Auf das Interface klicken, das Sie gelöscht werden soll. Wurde die Organisationsdaten nicht gespeichert, wird aufgefordert, dies zu tun, bevor fortgefahren wird.

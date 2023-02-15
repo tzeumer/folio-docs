@@ -21,7 +21,7 @@ Mindestens eine der Optionen muss ausgewählt sein:
 * Kennung.
 * Benutzerdefinierte Felder im Personendatensatz.
 
-Werden benutzerdefinierte Felder gewählt, kann ein oder mehrere benutzerdefinierte Felder auswählt werden, die von der App Ausleihe bei der Suche nach Personendatensätzen berücksichtigt werden sollen. Benutzerdefinierte Felder müssen unter [Einstellungen > Personen](https://info.gbv.de/pages/viewpage.action?pageId=841416803) konfiguriert werden, bevor sie hier ausgewählt werden können.
+Werden benutzerdefinierte Felder gewählt, kann ein oder mehrere benutzerdefinierte Felder auswählt werden, die von der App Ausleihe bei der Suche nach Personendatensätzen berücksichtigt werden sollen. Benutzerdefinierte Felder müssen unter [Einstellungen > Personen]({{< ref "050 Benutzerdefinierte Felder" >}}) konfiguriert werden, bevor sie hier ausgewählt werden können.
 
 ## Automatisches Beenden der Rückgabe und Ausleih-Sitzung nach einer bestimmten Zeit der Inaktivität
 

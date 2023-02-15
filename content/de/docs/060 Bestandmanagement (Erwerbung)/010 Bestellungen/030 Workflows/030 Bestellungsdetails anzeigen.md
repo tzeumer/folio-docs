@@ -41,14 +41,14 @@ Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellung ang
 * **Rechnungsadresse**. Die für die Bestellung gewählte Rechnungsadresse.
 * **Lieferadresse**. Die Lieferadresse, die für die Bestellung ausgewählt wurde.
 * **Manuell**. Wenn die Checkbox Manuell markiert ist, ist die Bestellung von der automatischen Verarbeitung ausgeschlossen. Diese Option kann z.B. gewählt werden, wenn EDI eingerichtet ist, die Bestellung aber auf der Website des Lieferanten aufgegeben wurde und nicht gewünscht ist, dass sie erneut an ihn übermittelt wird.
-* **Erneut belasten**. Eine vollständige Beschreibung dieses Feldes ist unter [Folio: Bestellung anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellung+anlegen) zu finden.
+* **Erneut belasten**. Eine vollständige Beschreibung dieses Feldes ist unter [Bestellung anlegen]({{< ref "010 Bestellung anlegen" >}}) zu finden.
 * **Erstellt von**. Name der Person, die die Bestellung erstellt hat.
 * **Erstellt am**. Das Datum und die Uhrzeit, zu der die Bestellung erstellt wurde.
 * **Öffnungsdatum**. Das Datum und die Uhrzeit, zu der die Bestellung geöffnet wurde.
 
 ## Informationen zur laufenden Bestellung
 
-Dieser Abschnitt wird nur für Bestellungen mit dem Typ Laufend angezeigt. Wenn die Checkbox Abonnement für diese Bestellung markiert ist, werden die folgenden Informationen angezeigt. Beschreibungen zu den einzelnen Feldern sind unter [Folio: Bestellung anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellung+anlegen) zu finden. Nachfolgend ist die Beschreibungen für Felder zu finden, die nicht unter Erstellen einer Bestellung beschrieben sind.
+Dieser Abschnitt wird nur für Bestellungen mit dem Typ Laufend angezeigt. Wenn die Checkbox Abonnement für diese Bestellung markiert ist, werden die folgenden Informationen angezeigt. Beschreibungen zu den einzelnen Feldern sind unter [Folio: Bestellung anlegen]({{< ref "010 Bestellung anlegen" >}}) zu finden. Nachfolgend ist die Beschreibungen für Felder zu finden, die nicht unter Erstellen einer Bestellung beschrieben sind.
 
 * **Abonnement**.
 * **Verlängerungsintervall**.
@@ -105,4 +105,4 @@ In diesem Abschnitt werden Informationen zu den Bestellexporten an Lieferanten a
 * **Dateiname**. Name der Exportdatei.
 * **Exportmethode**. Der **Name der EDI-Verbindung** in den Integrationsdetails des zugehörigen Lieferantendatensatzes.
 
-Im [Workflows Exportmanager](https://info.gbv.de/display/FOLIOGBVEXTERN/Workflows+Exportmanager) sind weitere Informationen zum Anzeigen von Exportaufträgen zu finden.
+Im [Workflows Exportmanager]({{< ref "100 Exportmanager" >}}) sind weitere Informationen zum Anzeigen von Exportaufträgen zu finden.

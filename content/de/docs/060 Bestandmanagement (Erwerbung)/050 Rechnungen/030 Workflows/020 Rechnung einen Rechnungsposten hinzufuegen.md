@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-(Nach Abschluss von [Folio: Rechnung erstellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+erstellen) üblicherweise)
+(Nach Abschluss von [Folio: Rechnung erstellen]({{< ref "010 Rechnung erstellen" >}}) üblicherweise)
 
 ## Rechnungsposten hinzufügen
 
@@ -18,7 +18,7 @@ Description: "
 3.  Optional: Die Ergebnisse filtern.
 4.  Auf **Suchen** klicken. Die Suchergebnisse werden in der Ansicht Suchergebnisse angezeigt.
 5.  Um einen oder mehrere Bestellposten auszuwählen, die Checkboxen links neben der Bestellposten-Nummer markieren.
-6.  Auf **Speichern** klicken. Die Bestellposten erscheinen in der Tabelle Rechnungsposten. Um einen Rechnungsposten anzuzeigen, auf eine Zeile in der Tabelle Rechnungsposten klicken. Weitere Informationen sind unter [Rechnungsposten anzeigen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+anzeigen) zu finden. Wenn ein Bestellposten ausgewählt wird, der einen Lieferanten enthält, der nicht mit der Organisation für die Rechnung übereinstimmt, wird ein Bestätigungsdialog angezeigt. Auf Bestätigen klicken, um mit der Auswahl der Bestellposten fortzufahren oder auf Abbrechen, um einen anderen Bestellposten auszuwählen.
+6.  Auf **Speichern** klicken. Die Bestellposten erscheinen in der Tabelle Rechnungsposten. Um einen Rechnungsposten anzuzeigen, auf eine Zeile in der Tabelle Rechnungsposten klicken. Weitere Informationen sind unter [Rechnungsposten anzeigen]({{< ref "060 Rechnung anzeigen" >}}) zu finden. Wenn ein Bestellposten ausgewählt wird, der einen Lieferanten enthält, der nicht mit der Organisation für die Rechnung übereinstimmt, wird ein Bestätigungsdialog angezeigt. Auf Bestätigen klicken, um mit der Auswahl der Bestellposten fortzufahren oder auf Abbrechen, um einen anderen Bestellposten auszuwählen.
 
 Wenn die ausgewählte Bestellposition den Zahlungsstatus **Vollständig bezahlt** hat, wird oben im Rechnungskopf ein rotes Banner und neben dem entsprechenden Rechnungsposten ein rotes Ausrufezeichen angezeigt, um darauf hinzuweisen, dass der ausgewählte Bestellposten bereits vollständig bezahlt ist.
 
@@ -48,7 +48,7 @@ Wenn Rechnungen im EDIFACT-Format von Lieferanten durch Datenimport in das Syste
 * **Beschreibung**. Die Beschreibung oder der Titel des Rechnungspostens. Sie kann die Ressourcen, die Dienstleistung oder die Gebühr enthalten, die in Rechnung gestellt wird.
 * **Rechnungspostenummer**. Die Nummer des Rechnungspostens, der nach dem Speichern dieser neuen Rechnungszeile erstellt wird.
 * **Status**. Der Status des Rechnungspostens: Offen, Geprüft, Freigegeben, Bezahlt, Gestorniert.
-* **Lieferantenreferenznummern**. Auf **Lieferantenreferenznummer hinzufügen** klicken, um Lieferantenreferenznummern für den Rechnungsposten hinzuzufügen. Weitere Informationen zu Lieferantenreferenznummern sind unter [Bestellungen > Hinzufügen einer Bestellposition zu einer Bestellung > Lieferanten-Referenznummer](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden.
+* **Lieferantenreferenznummern**. Auf **Lieferantenreferenznummer hinzufügen** klicken, um Lieferantenreferenznummern für den Rechnungsposten hinzuzufügen. Weitere Informationen zu Lieferantenreferenznummern sind unter [Bestellungen > Hinzufügen einer Bestellposition zu einer Bestellung > Lieferanten-Referenznummer]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 * **Lieferantenreferenztyp**. Ein Typ zur Definition der Lieferantenreferenznummer. Die eindeutige Lieferantenbestellnummer, die Interne Lieferantennummer, die Lieferantenabonnementnummer, die Lieferantenfortsetzungsnummer oder die eindeutige Lieferantentitelnummer.
 * **Informationen zum Abonnement**. Informationen für diesen Rechnungsposten, z.B. welche Bände in Rechnung gestellt werden.
 * **Beginn des Abonnements**. Das Datum, an dem das Abonnement beginnt.
@@ -57,7 +57,7 @@ Wenn Rechnungen im EDIFACT-Format von Lieferanten durch Datenimport in das Syste
 * **Buchhaltungscode**. Der Buchhaltungscode für den Rechnungsposten. Wenn eine Kontonummer aus der Dropdown-Liste augewählt wird, wird der zugehörige Buchhaltungscode hier angezeigt. Anmerkung: Wenn die Checkbox **An Haushaltssystem exportieren** aktiviert ist, ist der **Buchhaltungscode** erforderlich.
 * **Kundennummer**. Die Kundennummer für den Rechnungsposten. Diese Dropdown-Liste enthält die Kundennummer für den auf der Rechnung ausgewählten Lieferanten, sofern im Datensatz der Organisation des Lieferanten welche vorhanden sind. Wenn im Organisationsdatensatz des Lieferanten ein oder mehrere Lieferantenkonten vorhanden sind, wird das erste Konto in diesem Feld als Standardwert angezeigt.
 * **Anzahl**. Die Anzahl der Exemplare des Rechnungsposten.
-* **Zwischensumme**. Der Betrag für diesen Rechnungsposten. Anmerkung: Der Zwischensummenbetrag muss auf einen oder mehrere Fonds aufgeteilt werden und wird in der Währung angegeben, die unter [Einstellungen > Mandant > Sprache und Lokalisierung](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Mandant%29%3A+Sprache+und+Lokalisierung) definiert ist.
+* **Zwischensumme**. Der Betrag für diesen Rechnungsposten. Anmerkung: Der Zwischensummenbetrag muss auf einen oder mehrere Fonds aufgeteilt werden und wird in der Währung angegeben, die unter [Einstellungen > Mandant > Sprache und Lokalisierung]({{< ref "020 Sprache und Lokalisierung" >}}) definiert ist.
 * **Bindung lösen**. Dieses Feld markieren, um den Restwert der zugehörigen Bindung(en) aus dem Fonds freizugeben, dem sie zugewiesen wurde, wenn die Rechnung in den Status **Freigegeben** übergeht. Wenn dieses Kästchen nicht markiert ist, bleibt der verbleibende Wert der damit verbundenen Bindung auch nach der **Freigabe** der Rechnung bestehen und der Zahlungsstatus der damit verbundenen Bestellposten geht erst dann auf **Vollständig bezahlt** über, wenn die Bindung freigegeben ist. Wenn der Bestellposten beispielsweise 50 € kostet, der Rechnungsbetrag aber 40 € beträgt und die Option Belastung freigeben nicht markiert ist, bleibt die Differenz von 10 € als Bindung auf dem in der Fondverteilung angegebenen Fonds bestehen.
 
 ### Fondverteilung
@@ -67,7 +67,7 @@ Der zu verteilende Restbetrag wird auf der Grundlage der oben eingegebenen Zwisc
 1.  Auf **Fondverteilung hinzufügen** klicken.
 2.  Die Fondsinformationen in die unten beschriebenen Felder einfügen. Es können mehrere Fondsverteilungen hinzugefügt werden. Um eine Fondverteilung zu entfernen, auf das **Mülleimersymbol** neben der entsprechenden Zeile klicken.
 * **Zusatzkosten**. Die Zusatzkosten, die für die Fonds für die Rechnung gelten.
-* **Fonds-ID**. Der Fonds, an den der Betrag vergeben werden soll. Anmerkung: Die Verwendung von Erwerbungsteams kann die Anzeige der Fonds in dieser Liste einschränken. Wenn ein Erwerbungsteam so eingerichtet ist, dass es die Ansichtsberechtigungen einschränkt, werden in der Dropdown-Liste nur Fonds angezeigt, die demselben Erwerbungsteam wie die Person zugewiesen sind. Weitere Informationen sind unter [Einstellungen > Erwerbungsteams](https://info.gbv.de/pages/viewpage.action?pageId=849379720) zu finden.
+* **Fonds-ID**. Der Fonds, an den der Betrag vergeben werden soll. Anmerkung: Die Verwendung von Erwerbungsteams kann die Anzeige der Fonds in dieser Liste einschränken. Wenn ein Erwerbungsteam so eingerichtet ist, dass es die Ansichtsberechtigungen einschränkt, werden in der Dropdown-Liste nur Fonds angezeigt, die demselben Erwerbungsteam wie die Person zugewiesen sind. Weitere Informationen sind unter [Einstellungen > Erwerbungsteams]({{< ref "010 Einstellungen (Erwerbungsteams)_ Erwerbungsteam erstellen, bearbeiten, loeschen" >}}) zu finden.
 * **Kostenart**. Die Kostenart innerhalb des Fonds, auf den der Betrag verteilt werden soll. Dieses Feld wird nur angezeigt, wenn der ausgewählten Fonds-ID Kostenarten zugeordnet sind.
 * **Wert**. Der Geldwert, der auf den Fonds angewendet werden soll, ausgedrückt als Prozentsatz oder Währungswert.
 * **Typ**. Auswählen, ob der **Wert** als Prozent- oder Währungswert ausgedrückt werden soll.
@@ -75,7 +75,7 @@ Der zu verteilende Restbetrag wird auf der Grundlage der oben eingegebenen Zwisc
 
 ### Zusatzkosten
 
-Um voreingestellte Zusatzkosten zu verwenden, diese aus der Dropdown-Liste **Zusatzkosten voreinstellen** auswählen. Voreingestellte Zusatzkosten werden unter [Einstellungen > Rechnungen > Zusatzkosten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Rechnungen%29%3A+Zusatzkosten) erstellt. Wenn neue Zusatzkosten benötigt werden, die noch nicht als Voreinstellung vorhanden sind, auf Zusatzkosten hinzufügen klicken.
+Um voreingestellte Zusatzkosten zu verwenden, diese aus der Dropdown-Liste **Zusatzkosten voreinstellen** auswählen. Voreingestellte Zusatzkosten werden unter [Einstellungen > Rechnungen > Zusatzkosten]({{< ref "020 Zusatzkosten" >}}) erstellt. Wenn neue Zusatzkosten benötigt werden, die noch nicht als Voreinstellung vorhanden sind, auf Zusatzkosten hinzufügen klicken.
 
 * **Beschreibung**. Eine Beschreibung der Zusatzkosten.
 * **Wert**. Die Kosten für die Zusatzkosten.

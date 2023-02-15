@@ -18,4 +18,4 @@ Um mit den Einstellungen von Organisationen zu interagieren, muss einer Personen
 * **Einstellungen (Organisationen): Kann Einstellungen anzeigen und bearbeiten**. (Settings (Organizations): Can view and edit settings)
     Mit dieser Berechtigung kann der Benutzer alle Einstellungen von Organisationen anzeigen, erstellen, bearbeiten und löschen.
 
-Hinweis: Dies ist die einzige Berechtigung, die für die Einstellungen von Organisationen verfügbar ist. Mit einigen anderen Berechtigungen für Organisationen kann die Person die Einstellungen zwar anzeigen, aber nicht erstellen, bearbeiten oder löschen. Sie können Personen in der [App Personen](https://info.gbv.de/pages/viewpage.action?pageId=839188597) Berechtigungen zuweisen.
+Hinweis: Dies ist die einzige Berechtigung, die für die Einstellungen von Organisationen verfügbar ist. Mit einigen anderen Berechtigungen für Organisationen kann die Person die Einstellungen zwar anzeigen, aber nicht erstellen, bearbeiten oder löschen. Sie können Personen in der [App Personen]({{< ref "040 Personen" >}}) Berechtigungen zuweisen.

@@ -26,7 +26,7 @@ Wird ein Kurs erstellt, sollte Folgendes beachtet werden:
 
 ## Kurs bearbeiten
 
-1.  Den [Kurs suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Semesterapparate+Suche+nach+Kursen+und+reservierten+Exemplaren), der bearbeitet werden soll, und ihn in der Liste **Kurse** anklicken.
+1.  Den [Kurs suchen]({{< ref "010 Semesterapparate Suche nach Kursen und reservierten Exemplaren" >}}), der bearbeitet werden soll, und ihn in der Liste **Kurse** anklicken.
 2.  Im Fenster mit den **Kursdetails** auf **Bearbeiten** klicken.
 3.  Die gewünschten Änderungen an dem Kurs vornehmen und auf **Speichern & schließen** klicken .
 
@@ -34,7 +34,7 @@ Wird ein Kurs erstellt, sollte Folgendes beachtet werden:
 
 Semesterapparate können erst gelöscht werden, wenn alle Exemplare aus dem Kurs entfernt wurden.
 
-1.  Den [Kurs suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Semesterapparate+Suche+nach+Kursen+und+reservierten+Exemplaren), der gelöscht werden soll, und ihn in der Liste **Kurse** anklicken.
+1.  Den [Kurs suchen]({{< ref "010 Semesterapparate Suche nach Kursen und reservierten Exemplaren" >}}), der gelöscht werden soll, und ihn in der Liste **Kurse** anklicken.
 2.  Im Fenster mit den **Kursdetails** auf **Bearbeiten** klicken.
 3.  Auf **Löschen** klicken.
 4.  Auf **Wirklich löschen** klicken, um den Kurs zu löschen. Der Kurs wird gelöscht und aus der Kursliste entfernt.

@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Auswahllistenwerte sind die Werte, die in einer Auswahlliste zur Auswahl stehen. Die Auswahlliste muss zunächst unter [Einstellungen > Vereinbarungen > Auswahllisten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllisten) erstellt werden, bevor ihre Werte angelegt werden können.
+Auswahllistenwerte sind die Werte, die in einer Auswahlliste zur Auswahl stehen. Die Auswahlliste muss zunächst unter [Einstellungen > Vereinbarungen > Auswahllisten]({{< ref "010 Auswahllisten_em" >}}) erstellt werden, bevor ihre Werte angelegt werden können.
 
 Anmerkung: FOLIO enthält Standard-Auswahllisten, deren Werte nur bearbeitet werden können. Diese Werte können nicht gelöscht werden, und neue Werte können nicht hinzugefügt werden. Die Schaltfläche Neu erscheint ausgegraut und das Mülleimersymbol ist bei diesen Auswahllisten nicht vorhanden.
 

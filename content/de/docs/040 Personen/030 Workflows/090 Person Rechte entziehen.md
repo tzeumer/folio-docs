@@ -15,7 +15,7 @@ Description: "
 
 ## Zugewiesene Berechtigung(en) entfernen
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich Personendatensatz auf **Aktionen** \> **Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** bei Bedarf das Akkordeon **Systemberechtigungen** erweitern.
 4.  Auf das "x" neben der/den einzelnen Berechtigung(en) klicken, die entfernt werden sollen. Die Berechtigung(en) wird/werden aus dem Benutzerdatensatz entfernt.
@@ -23,7 +23,7 @@ Description: "
 
 Berechtigungen können auch entfernt werden, indem einr modifizierten Version des Verfahrens zum Hinzufügen von Berechtigungen verwendt wird:
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich Personendatensatz auf **Aktionen** \> **Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** bei Bedarf das Akkordeon **Systemberechtigungen** erweitern.
 4.  Auf **Berechtigung hinzufügen** klicken.
@@ -37,7 +37,7 @@ Berechtigungen können auch entfernt werden, indem einr modifizierten Version de
 
 Alle zugewiesenen Berechtigungen können mit einem Klick aus einem Personendatensatz entfernt werden.
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich Personendatensatz auf **Aktionen** \> **Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** bei Bedarf das Akkordeon **Systemberechtigungen** erweitern.
 4.  Auf die Schaltfläche **Alle Berechtigungen** aufheben klicken.

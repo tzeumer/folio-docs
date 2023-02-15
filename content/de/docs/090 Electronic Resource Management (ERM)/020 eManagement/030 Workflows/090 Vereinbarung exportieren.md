@@ -11,5 +11,5 @@ Description: "
 
 Der Export einer Vereinbarung erzeugt eine JSON-Datei. Anmerkung: Ressourcen sind nur für Vereinbarungskomponenten enthalten, die mit Ressourcen in der internen KB verknüpft sind.
 
-1.  [Die Vereinbarung suchen, die exportiert werden soll](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen) und auswählen.
+1.  [Die Vereinbarung suchen, die exportiert werden soll]({{< ref "020 Vereinbarung suchen" >}}) und auswählen.
 2.  In der Ansicht mit den Vereinbarungsdetails auf **Aktionen > Exportieren** klicken. Je nach Browser und dessen Konfigurationen wird die Datei automatisch heruntergeladen oder es wird aufgefordert, sie zu speichern.

@@ -11,7 +11,7 @@ Description: "
 
 ## Instanzen exportieren (MARC)
 
-Siehe [Exportieren von Instanzen (MARC)](https://info.gbv.de/pages/viewpage.action?pageId=852492494).
+Siehe [Exportieren von Instanzen (MARC)]({{< ref "080 Instanzen exportieren (MARC_JSON)" >}}).
 
 ## Instanzen exportieren (JSON)
 

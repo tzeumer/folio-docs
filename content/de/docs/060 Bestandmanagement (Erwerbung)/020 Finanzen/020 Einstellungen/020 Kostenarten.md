@@ -11,7 +11,7 @@ Description: "
 
 Kostenarten ermöglichen es, Ausgaben nach definierten Kategorien innerhalb eines Fonds zu verfolgen. Sie ermöglichen die Kontrolle und Berichterstattung nach den in dieser Einstellung definierten Klassen. Es kann zum Beispiel gewünscht sein, dass die Ausgaben nach dem Format der Bestellung (elektronisch oder gedruckt) verfolgt werden. Bei der Erstellung einer Bestellung oder Rechnung können sowohl der Fonds als auch die Kostenart von der Person ausgewählt werden.
 
-Weitere Informationen zum Hinzufügen von Fonds und Fondsinformationen sind unter [Folio: Fond anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Fond+anlegen) zu finden.
+Weitere Informationen zum Hinzufügen von Fonds und Fondsinformationen sind unter [Folio: Fond anlegen]({{< ref "040 Fond anlegen" >}}) zu finden.
 
 ## Kostenart erstellen
 

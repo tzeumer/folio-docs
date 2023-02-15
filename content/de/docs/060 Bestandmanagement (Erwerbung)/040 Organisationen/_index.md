@@ -13,7 +13,7 @@ Mit der App Organisationen werden Informationen über Organisationen verwaltet, 
 
 Definition von Begriffen im Zusammenhang mit der App Organisationen:
 
-* **Erwerbungsteams**. Eine zusätzliche Ebene, die zu Erwerbungsdatensätzen hinzugefügt werden kann und die es Personen nur dann ermöglicht, mit diesen Datensätzen zu interagieren, wenn sie diesem Team zugewiesen wurden. Es können zum Beispiel Erwerbungsteams erstellt werden, um die verschiedenen Bibliotheken in dem Bibliothekssystem zu repräsentieren. Die Einheiten werden von der Bibliothek in der App Einstellungen definiert und festgelegt. Siehe [Einstellungen > Erwerbungsteams](https://info.gbv.de/pages/viewpage.action?pageId=849379720) für weitere Informationen.
+* **Erwerbungsteams**. Eine zusätzliche Ebene, die zu Erwerbungsdatensätzen hinzugefügt werden kann und die es Personen nur dann ermöglicht, mit diesen Datensätzen zu interagieren, wenn sie diesem Team zugewiesen wurden. Es können zum Beispiel Erwerbungsteams erstellt werden, um die verschiedenen Bibliotheken in dem Bibliothekssystem zu repräsentieren. Die Einheiten werden von der Bibliothek in der App Einstellungen definiert und festgelegt. Siehe [Einstellungen > Erwerbungsteams]({{< ref "010 Einstellungen (Erwerbungsteams)_ Erwerbungsteam erstellen, bearbeiten, loeschen" >}}) für weitere Informationen.
 * **Organisation**. Jede Institution, mit der die Bibliothek in Verbindung steht. Eine Organisation kann, muss aber nicht, zugleich eine Lieferant sein, von der Medien erworben werden.
 * **Lieferant**. Jede Institution, von der die Bibliothek Materialien erwirbt.
 

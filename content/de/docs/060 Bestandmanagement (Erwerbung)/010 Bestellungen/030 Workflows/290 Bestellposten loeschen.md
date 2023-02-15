@@ -9,6 +9,6 @@ Description: "
     "
 ---
 
-1.  [Nach dem Bestellposten suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+suchen), der gelöscht werden soll und ihn auswählen.
+1.  [Nach dem Bestellposten suchen]({{< ref "230 Bestellposten suchen" >}}), der gelöscht werden soll und ihn auswählen.
 2.  In der Ansicht **Details zum** **Bestellposten** auf **Aktionen > Löschen** klicken.
 3.  Im Dialog **Bestellposten löschen** auf **Löschen** klicken. Es erscheint eine Bestätigungsmeldung und der Bestellposten wird gelöscht.

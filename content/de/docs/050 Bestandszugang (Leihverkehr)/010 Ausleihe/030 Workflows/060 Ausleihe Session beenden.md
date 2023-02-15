@@ -15,4 +15,4 @@ Description: "
 
 Wenn die Ausleihe von Exemplaren abgeschlossen ist, kann die Ausleih-Session manuell beendet werden. Um eine Session zu beenden und die Tabelle der gescannten Exemplare zu löschen, auf **Session beenden** klicken. Sobald die Session beendet wurde, werden alle entsprechenden Benachrichtigungen an die Personen gesendet.
 
-Standardmäßig ist die Ausleih-Session so konfiguriert, dass sie nach einer Inaktivität von 3 Minuten automatisch endet. Diese Einstellung kann deaktiviert werden oder die Anzahl der Minuten der Inaktivität, nach der die Session beendet wird, in der [Einstellungen (Ausleihe)](https://info.gbv.de/pages/viewpage.action?pageId=844267611)
+Standardmäßig ist die Ausleih-Session so konfiguriert, dass sie nach einer Inaktivität von 3 Minuten automatisch endet. Diese Einstellung kann deaktiviert werden oder die Anzahl der Minuten der Inaktivität, nach der die Session beendet wird, in der [Einstellungen (Ausleihe)]({{< ref "020 Andere Einstellungen" >}})

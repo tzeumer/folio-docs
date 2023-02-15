@@ -54,7 +54,7 @@ Ausführliche Informationen zur Einrichtung und Konfiguration der LDP sind in de
 
 ## Abgeleitete Tabellen einrichten
 
-Damit Personen die von der Community entwickelten [Berichtsabfragen](https://info.gbv.de/display/FOLIOGBVEXTERN/FOLIO+Analytics) in vollem Umfang nutzen können und einen guten Ausgangspunkt für [Ad-hoc-Abfragen](https://info.gbv.de/display/FOLIOGBVEXTERN/FOLIO+Analytics) haben, wird dringend empfohlen, eine nächtliche Aktualisierung der [abgeleiteten Tabellen](https://github.com/folio-org/folio-analytics/tree/release-1.5/sql/derived_tables) einzurichten. Bitte beachten, dass die Verwendung von Views und materialisierten Views in LDP-Datenbanken nicht unterstützt wird und dazu führen kann, dass die LDP-Software keine Datenaktualisierungen durchführen kann.
+Damit Personen die von der Community entwickelten [Berichtsabfragen]({{< ref "030 FOLIO Analytics" >}}) in vollem Umfang nutzen können und einen guten Ausgangspunkt für [Ad-hoc-Abfragen]({{< ref "030 FOLIO Analytics" >}}) haben, wird dringend empfohlen, eine nächtliche Aktualisierung der [abgeleiteten Tabellen](https://github.com/folio-org/folio-analytics/tree/release-1.5/sql/derived_tables) einzurichten. Bitte beachten, dass die Verwendung von Views und materialisierten Views in LDP-Datenbanken nicht unterstützt wird und dazu führen kann, dass die LDP-Software keine Datenaktualisierungen durchführen kann.
 
 Eine Anleitung zur Einrichtung von [FOLIO Reporting Derived Tables](https://github.com/folio-org/folio-analytics/blob/release-1.5/sql/derived_tables/README.md) ist auf Github zu finden.
 
@@ -99,7 +99,7 @@ Für Postgres gibt es zwei gängige Ansätze:
 
 ## FOLIO-Datenabdeckung in der LDP
 
-Die LDP nutzt die FOLIO-APIs, um die meisten ihrer Inhalte zu erhalten. Weitere Einzelheiten zu den APIs sind in der FOLIO Developers [API documentation](https://dev.folio.org/reference/api/) zu finden (siehe auch [Schnittstellen (API) (geplant)](https://info.gbv.de/pages/viewpage.action?pageId=839909519)).
+Die LDP nutzt die FOLIO-APIs, um die meisten ihrer Inhalte zu erhalten. Weitere Einzelheiten zu den APIs sind in der FOLIO Developers [API documentation](https://dev.folio.org/reference/api/) zu finden (siehe auch [Schnittstellen (API) (geplant)]({{< ref "060 Schnittstellen (API)" >}})).
 
 Ab [Version 1.8.2](https://github.com/library-data-platform/ldp/tree/1.8.2) bezieht die LDP Daten aus den folgenden FOLIO-Modulen:
 

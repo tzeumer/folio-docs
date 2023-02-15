@@ -11,6 +11,6 @@ Description: "
 
 Es können nur offene Bestellungen inventarisiert werden.
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die inventarisiert werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die inventarisiert werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf **Aktionen > Inventarisieren** klicken. Der/die Bestellposten öffnen sich in der App Inventarisierung.
-3.  Die Schritte ausführen, die unter [Inventarisierung > Empfang einer Bestellung](https://info.gbv.de/pages/viewpage.action?pageId=851935415) beschrieben sind.
+3.  Die Schritte ausführen, die unter [Inventarisierung > Inventarisierung eines Titels durchführen]({{< ref "010 Inventarisierung eines Titels durchfuehren" >}}) beschrieben sind.

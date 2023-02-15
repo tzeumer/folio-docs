@@ -9,6 +9,6 @@ Description: "
     "
 ---
 
-1.  [Nach dem Bestellposten suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+suchen), der inventarisiert werden soll und ihn auswählen.
+1.  [Nach dem Bestellposten suchen]({{< ref "230 Bestellposten suchen" >}}), der inventarisiert werden soll und ihn auswählen.
 2.  In der Ansicht **Details zum** **Bestellposten** auf **Aktionen > Inventarisieren** klicken. Der Bestellposten wird in der App Inventarisierung geöffnet.
-3.  Die Schritte befolgen, die in der [Dokumentation der App Inventarisierung](https://info.gbv.de/pages/viewpage.action?pageId=839188630) beschrieben sind.
+3.  Die Schritte befolgen, die in der [Dokumentation der App Inventarisierung]({{< ref "030 Inventarisierung" >}}) beschrieben sind.

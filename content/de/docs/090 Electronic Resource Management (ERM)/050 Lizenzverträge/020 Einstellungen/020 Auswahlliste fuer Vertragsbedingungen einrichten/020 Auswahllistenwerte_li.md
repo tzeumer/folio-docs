@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Auswahllistenwerte sind die Werte, die in einer Auswahlliste zur Auswahl stehen. Die Auswahlliste muss zunächst unter [Einstellungen > Lizenzverträge > Auswahllisten](https://info.gbv.de/pages/viewpage.action?pageId=847085668) erstellt werden, bevor Werte angelegt werden können.
+Auswahllistenwerte sind die Werte, die in einer Auswahlliste zur Auswahl stehen. Die Auswahlliste muss zunächst unter [Einstellungen > Lizenzverträge > Auswahllisten]({{< ref "010 Auswahllisten_li" >}}) erstellt werden, bevor Werte angelegt werden können.
 
 Anmerkung: FOLIO enthält Standard-Auswahllisten, deren Werte nur bearbeitet werden können. Diese Werte können nicht gelöscht werden, und es können keine neuen Werte hinzugefügt werden. Die Schaltfläche Neu erscheint ausgegraut und das Mülleimersymbol ist für diese Auswahllisten nicht vorhanden.
 

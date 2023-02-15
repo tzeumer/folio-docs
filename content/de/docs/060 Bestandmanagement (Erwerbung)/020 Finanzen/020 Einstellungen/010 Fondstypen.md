@@ -11,7 +11,7 @@ Description: "
 
 Ein Fondstyp ist eine Kategorisierung, die dabei hilft, zwischen dem Zweck der verschiedenen Fonds zu unterscheiden. Fondstypen können verwendet werden, um Exemplaren zu kategorisieren, auf die Fonds angewendet werden, z.B. Schenkungen, Spenden und Tauschgeschäfte. Die Fondsarten müssen zunächst in der App Einstellungen hinzugefügt werden, um sie den Fonds zuzuordnen, da die Fondsarten im System erstellt werden. Der Jahresübergang von Fonds wird häufig über die Fondsart definiert. Daher sollte bei der Definition der Fondsarten die Anforderungen an zukünftige Jahresübergänge berücksichtigt werden.
 
-Weitere Informationen zum Hinzufügen von Fonds und Fondsinformationen sind unter [Folio: Fond anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Fond+anlegen) zu finden.
+Weitere Informationen zum Hinzufügen von Fonds und Fondsinformationen sind unter [Folio: Fond anlegen]({{< ref "040 Fond anlegen" >}}) zu finden.
 
 ## Fondstyp erstellen
 

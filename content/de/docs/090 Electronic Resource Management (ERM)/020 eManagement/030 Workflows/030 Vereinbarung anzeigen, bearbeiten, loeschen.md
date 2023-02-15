@@ -15,7 +15,7 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 
 ## Vereinbarung anzeigen
 
-Wird [nach einer Vereinbarung gesucht](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), werden die folgenden Informationen in der Ansicht Vereinbarung angezeigt:
+Wird [nach einer Vereinbarung gesucht]({{< ref "020 Vereinbarung suchen" >}}), werden die folgenden Informationen in der Ansicht Vereinbarung angezeigt:
 
 1.  **Name**. Der Name der Vereinbarung.
 2.  **Status**. Der Auftragsstatus.
@@ -27,7 +27,7 @@ In den Suchergebnissen auf eine Vereinbarung klicken, um sie anzuzeigen. Die Ans
 
 ## Vereinbarung bearbeiten
 
-1.  [Die Vereinbarung suchen, die bearbeitet werden soll](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen).
+1.  [Die Vereinbarung suchen, die bearbeitet werden soll]({{< ref "020 Vereinbarung suchen" >}}).
 2.  In der Ansicht mit den Vereinbarungsdetails auf **Aktionen > Bearbeiten** klicken.
 3.  Die gewünschten Änderungen an der Vereinbarung vornehmen.
 4.  Auf **Speichern & schließen** klicken. Die Vereinbarung wird aktualisiert.
@@ -36,7 +36,7 @@ In den Suchergebnissen auf eine Vereinbarung klicken, um sie anzuzeigen. Die Ans
 
 Anmerkung: Es kann keine Vereinbarung gelöscht werden, die mit einem Lizenzvertrag verknüpft ist, über Vereinbarungskomponenten verfügt oder mit einer anderen Vereinbarung verbunden ist.
 
-1.  [Die Vereinbarung](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen) [suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen)[, die gelöscht werden soll](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen).
+1.  [Die Vereinbarung suchen, die gelöscht werden soll]({{< ref "020 Vereinbarung suchen" >}}).
 2.  In der Ansicht mit den Vereinbarungsdetails auf **Aktionen > Löschen** klicken.
 3.  Im Dialogfeld **Vereinbarung löschen** auf **Löschen** klicken. Es wird eine Bestätigungsmeldung angezeigt und die Vereinbarung wird gelöscht.
 

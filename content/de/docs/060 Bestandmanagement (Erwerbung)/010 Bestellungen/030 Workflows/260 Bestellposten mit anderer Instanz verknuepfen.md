@@ -11,7 +11,7 @@ Description: "
 
 Folgendermaßen vorgehen, um die Verbindung der Katalog-Instanz für einen Bestellposten zu ändern:
 
-1.  [Nach dem Bestellposten suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+suchen), der geändert werden soll und ihn auswählen.
+1.  [Nach dem Bestellposten suchen]({{< ref "230 Bestellposten suchen" >}}), der geändert werden soll und ihn auswählen.
 2.  In der Ansicht **Details zum Bestellposten** auf **Aktionen > Instanz-Verknüpfung ändern** klicken. Das Fenster **Instanz auswählen** wird geöffnet.
 3.  Den Titel mit Hilfe des Suchfeldes und/oder der Filter suchen. Auf den Titel klicken, um ihn auszuwählen. Das Fenster **Titel ändern** wird geöffnet: "Die Titelinformationen dieser Bestellpostens wurden von (VON) nach (ZU) geändert. Alle zugehörigen Exemplardatensätze werden in die neue Instanz verschoben. Wie sollen die zugehörigen Bestände adressiert werden?"
 4.  Auf die Dropdown-Liste **So werden Bestände aktualisiert** klicken und **Transferieren**, **Finde oder erstelle neu** oder **Neu erstellen** wählen.

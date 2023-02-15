@@ -33,9 +33,8 @@ Bedeutsame Quellen sind
 
 ## Lizenz und Version
 
-Diese Dokumentation basiert auf der FOLIO-Version Morning Glory. Zitieren und nachnutzen:
-
-"Projekt FOLIO GBV: Dokumentation" von AG FOLIO (GBV) veröffentlicht unter: [https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Dokumentation](https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Dokumentation)[n](https://info.gbv.de/display/FOLIOGBVEXTERN/Offizielle+Dokumentation) mit der Lizenz: CC-BY 4.0
+Zitieren und nachnutzen (noch zu checken): <strike>
+"Projekt FOLIO GBV: Dokumentation" von AG FOLIO (GBV) veröffentlicht unter: [https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Dokumentation](https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Dokumentation)[n](https://info.gbv.de/display/FOLIOGBVEXTERN/Offizielle+Dokumentation) mit der Lizenz: CC-BY 4.0</strike>
 
 ## Struktur
 

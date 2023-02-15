@@ -18,7 +18,7 @@ Unter Personenzugriff verwalten können Personen zu einem Dashboard hinzugefügt
 3.  Im Fenster Personenzugriff auf **Person hinzufügen** klicken.
 4.  Im Fenster Person auswählen kann eine Person nach Name, Barcode, Kennung oder E-Mail gesucht und nach Status und Personengruppe gefiltert werden.
 5.  Um die Person zu dem Dashboard hinzuzufügen, auf die Person in der Ergebnisliste der Personensuche klicken. Die Person erscheint dann in der Liste der Personen im Fenster Personenzugriff des Dashboards.
-6.  Eine Zugangsebene für die Person auswählen. Zu den Zugangsebenen gehören: Anzeigen, Bearbeiten und Verwalten. Siehe [Dashboard-Zugangsebene](https://info.gbv.de/pages/viewpage.action?pageId=839188640)n.
+6.  Eine Zugangsebene für die Person auswählen. Zu den Zugangsebenen gehören: Anzeigen, Bearbeiten und Verwalten. Siehe [Dashboard-Zugangsebenen]({{< ref "110 Dashboard" >}}).
 7.  Auf **Speichern & schließen** klicken. Das Dashboard erscheint nun in der Dashboard-Menüschaltfläche der hinzugefügten Person mit der gewählten Zugangsebene.
 
 ## Person aus einem Dashboard entfernen

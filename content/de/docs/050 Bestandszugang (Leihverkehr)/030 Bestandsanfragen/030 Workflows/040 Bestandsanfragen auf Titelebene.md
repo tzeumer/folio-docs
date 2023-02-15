@@ -28,7 +28,7 @@ Bitte beachten, dass die Berechtigung zum Erstellen von Bestandsanfragen in der 
     2.  Wenn die Person gefunden wurde, diese aus der Ergebnisliste der Personensuche auswählen. Sie wird auf in der Bestandsanfrage angewendet und  ihre Informationen werden angezeigt.
 9.  Die **Bereitstellungspräferenz** wählen.
 10.  Die **Abholservicestelle** oder die **Lieferadresse** wählen, je nachdem, was im vorherigen Schritt ausgewählt wurde.
-11.  Auf **Speichern & schließen** klicken. Die Bestandsanfrage wird gespeichert und die Ansicht mit den Details der Anfrage wird angezeigt. Die Person erhält eine E-Mail-Benachrichtigung, dass ihre Bestandsanfrage bei der Bibliothek eingegangen ist, [sofern diese Benachrichtigung konfiguriert wurde](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Benachrichtigungen+Benutzende).
+11.  Auf **Speichern & schließen** klicken. Die Bestandsanfrage wird gespeichert und die Ansicht mit den Details der Anfrage wird angezeigt. Die Person erhält eine E-Mail-Benachrichtigung, dass ihre Bestandsanfrage bei der Bibliothek eingegangen ist, [sofern diese Benachrichtigung konfiguriert wurde]({{< ref "040 Benachrichtigungen Benutzende" >}}).
 
 ## Wie FOLIO entscheidet, welches Exemplar eine Bestandsanfrage auf Titelebene erfüllt
 
@@ -58,7 +58,7 @@ Bei Rückrufen zeigt die Exemplarinformation das Exemplar an, das zurückgerufen
 
 Es können nur offene Bestandsanfragen bearbeitet werden. Sobald eine Bestandsanfrage geschlossen ist, kann sie nicht mehr bearbeitet werden.
 
-1.  [Die Bestandsanfrage suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+suchen), die bearbeitet werden soll.
+1.  [Die Bestandsanfrage suchen]({{< ref "060 Bestandsanfragen suchen" >}}), die bearbeitet werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Bearbeiten** wählen.
 3.  Die Bestandsanfrage bearbeiten.
 4.  Auf **Speichern & schließen** klicken. Die Bestandsanfrage wird aktualisiert.
@@ -67,7 +67,7 @@ Es können nur offene Bestandsanfragen bearbeitet werden. Sobald eine Bestandsan
 
 Alle offenen Bestandsanfragen können dupliziert werden. Wenn die Bestandsanfrage dupliziert wird, muss die anfordernde Person geändert werden, da eine Person nicht mehr als eine offene Bestandsanfrage auf derselben Instanz haben kann.
 
-1.  [Die Bestandsanfrage suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+suchen), die duplizieren werden soll.
+1.  [Die Bestandsanfrage suchen]({{< ref "060 Bestandsanfragen suchen" >}}), die duplizieren werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Duplizieren** wählen. Es erscheint ein Fenster **Neue Anfrage** mit denselben Exemplarinformationen, Bestellinformationen und Informationen zur anfordernden Person der Anfrage, die duplizieren werden soll.
 3.  Die Bestandsanfrage bearbeiten, bevor die Anfrage abgeschickt wird.
 4.  Eine **Abholservicestelle** auswählen.

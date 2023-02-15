@@ -51,20 +51,20 @@ In der Ansicht **Suche & Filter** auf Zahlungsstatus klicken und alle anwendba
 * **Storniert**. Bestellposten mit stornierter Zahlung.
 * **Vollständig bezahlt**. Bestellposten, die vollständig bezahlt sind.
 * **Laufend**. Bestellposten für eine laufende Bestellung.
-* **Teilweise bezahlt**. Bestellposten, die teilweise bezahlt sind. Anmerkung: Sobald eine oder mehrere Rechnungen, die mit einem Bestellposten verbunden sind, "Freigegeben" wurden, wird der Zahlungsstatus des Bestellpostens in "Teilweise bezahlt" geändert. Siehe [Rechnungen > Rechnung freigeben](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+freigeben).
+* **Teilweise bezahlt**. Bestellposten, die teilweise bezahlt sind. Anmerkung: Sobald eine oder mehrere Rechnungen, die mit einem Bestellposten verbunden sind, "Freigegeben" wurden, wird der Zahlungsstatus des Bestellpostens in "Teilweise bezahlt" geändert. Siehe [Rechnungen > Rechnung freigeben]({{< ref "090 Rechnung freigeben" >}}).
 * **Zahlung nicht erforderlich**. Bestellposten, für die keine Zahlung erforderlich ist.
 * **Ausstehend**. Bestellposten, bei denen die Zahlung noch aussteht.
 
 ## Präfixe
 
-Folgendermaßen vorgehen, um Bestellposten nach dem Präfix der Bestellnummer zu suchen. Weitere Informationen zum Erstellen von Präfixwerten sind unter [Einstellungen > Bestellungen > Präfixe](https://info.gbv.de/pages/viewpage.action?pageId=851345594) zu finden.
+Folgendermaßen vorgehen, um Bestellposten nach dem Präfix der Bestellnummer zu suchen. Weitere Informationen zum Erstellen von Präfixwerten sind unter [Einstellungen > Bestellungen > Präfixe]({{< ref "020 Bestellnummer-Praefixe" >}}) zu finden.
 
 1.  In der Ansicht **Suche & Filter** auf **Präfix** klicken.
 2.  Das Präfix aus der Dropdown-Liste auswählen. Die Suchergebnisse werden in der Ansicht Bestellposten angezeigt.
 
 ## Suffix
 
-Um Bestellposten nach dem Suffix der Bestellnummer zu suchen, folgendermaßen vorgehen. Weitere Informationen zum Erstellen von Suffix-Werten sind unter [Einstellungen > Bestellungen > Suffixe](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Bestellungen%29%3A+Bestellnummer-Sufffixe) zu finden.
+Um Bestellposten nach dem Suffix der Bestellnummer zu suchen, folgendermaßen vorgehen. Weitere Informationen zum Erstellen von Suffix-Werten sind unter [Einstellungen > Bestellungen > Suffixe]({{< ref "030 Bestellnummer-Suffixe" >}}) zu finden.
 
 1.  In der Ansicht **Suche & Filter** auf **Suffix** klicken.
 2.  Das Suffix aus der Dropdown-Liste wählen. Die Suchergebnisse werden in der Ansicht Bestellposten angezeigt.

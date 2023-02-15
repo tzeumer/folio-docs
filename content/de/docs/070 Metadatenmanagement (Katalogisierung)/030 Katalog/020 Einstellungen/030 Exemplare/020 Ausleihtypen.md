@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Ausleihtypen zu erstellen und zu verwalten. Ausleihtypen erscheinen in den Dropdown-Listen **Dauerhafter Ausleihtyp** und **Temporärer Ausleihtyp** [im Abschnitt Ausleihe und Verfügbarkeit eines Exemplar-Datensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492470). FOLIO stellt standardmäßig Ausleihtypen zur Verfügung, die bearbeitet oder gelöscht werden können. Ausleihtypen werden auch in [Einstellungen (Ausleihe): Ausleihregeln](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Ausleihregeln) verwendet.
+Diese Einstellung wird verwendet, um Ausleihtypen zu erstellen und zu verwalten. Ausleihtypen erscheinen in den Dropdown-Listen **Dauerhafter Ausleihtyp** und **Temporärer Ausleihtyp** [im Abschnitt Ausleihe und Verfügbarkeit eines Exemplar-Datensatzes]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}). FOLIO stellt standardmäßig Ausleihtypen zur Verfügung, die bearbeitet oder gelöscht werden können. Ausleihtypen werden auch in [Einstellungen (Ausleihe): Ausleihregeln]({{< ref "010 Ausleihregeln" >}}) verwendet.
 
 ## Ausleihtyp erstellen
 

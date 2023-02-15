@@ -3,13 +3,13 @@ title: "Fernleihrichtlinien"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [app-katalog, by-folio, cat-berechtigungen, cat-einstellungen, for-admin, topic-fernleihe]
-weight: 10
+weight: 40
 Description: "
     Quellen: [Folio](https://docs.folio.org/docs/settings/settings_inventory/settings_inventory/#settings--inventory--ill-policy) & [GBV](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+(Katalog):++Fernleihrichtlinien)
     "
 ---
 
-Diese Einstellung wird verwendet, um Fernleihrichtlinien zu erstellen und zu verwalten. Fernleihrichtlinien erscheinen in der Dropdown-Liste Fernleihrichtlinien im [Abschnitt Bestandsdetails eines Bestandsdatensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492467). FOLIO stellt standardmäßig Fernleihrichtlinien zur Verfügung, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um Fernleihrichtlinien zu erstellen und zu verwalten. Fernleihrichtlinien erscheinen in der Dropdown-Liste Fernleihrichtlinien im [Abschnitt Bestandsdetails eines Bestandsdatensatzes]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}). FOLIO stellt standardmäßig Fernleihrichtlinien zur Verfügung, die bearbeitet oder gelöscht werden können.
 
 ## Fernleihrichtlinie erstellen
 

@@ -32,7 +32,7 @@ Um Vereinbarungen nach ihrer Verlängerungspriorität zu filtern, eine der aufge
 * **Auf jeden Fall verlängern (Definitely renew)**. Vereinbarungen, die verlängert werden sollen.
 * **Definitiv stornieren (Definitely cancel)**. Vereinbarungen, die nicht verlängert werden sollen.
 
-Die Werte für die Verlängerungspriorität werden unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert. Siehe auch Best Practices.
+Die Werte für die Verlängerungspriorität werden unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}}) konfiguriert. Siehe auch Best Practices.
 
 ## Dauerhafter Zugriff
 

@@ -268,11 +268,11 @@ In diesem Abschnitt werden alle Kostenarten aufgelistet, die mit den der Gruppe 
 
 Die Ansicht Fondsdetails enthält Fondsinformationen und alle aktuellen, geplanten und früheren Budgets sowie Kostenarten, die mit einem Fonds verbunden sind. Die Budgetabschnitte in der Ansicht zeigen die insgesamt zugewiesenen, nicht verfügbaren und verfügbaren Mittel nach Fonds und Kostenart an. Um eine Liste der Transaktionen für das aktuelle Budget eines Fonds anzuzeigen, auf **Aktionen > Transaktionen für aktuelles Budget anzeigen** klicken. Weitere Informationen sind unter Anzeigen von Budgettransaktionen zu finden.
 
-* Um Fondsdetails anzuzeigen, den [gewünschten Fond suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen) und ihn auswählen. Die Ansicht mit den Fondsdetails wird angezeigt.
+* Um Fondsdetails anzuzeigen, den [gewünschten Fond suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}) und ihn auswählen. Die Ansicht mit den Fondsdetails wird angezeigt.
 
 ### Fonds-Informationen
 
-Der Abschnitt Fondinformationen enthält Details über den Fonds. Eine Beschreibung der einzelnen Felder in diesem Abschnitt ist unter Fondsinformationen zu finden. Zusätzlich zu den Feldern, die bei der Fondserstellung verfügbar sind, wird in der Ansicht Fondsdetails die Fondswährung angezeigt. Der Wert der Fondswährung wird unter [Einstellungen > Mandant > Sprache und Lokalisierung](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Mandant%29%3A+Sprache+und+Lokalisierung) auf den Währungswert gesetzt. Anmerkung: Wenn eine Bestellung geöffnet wird, erstellt das System eine Bindungstransaktion für das aktuelle Budget für den Fonds, der im Abschnitt Fondsverteilung der Bestellung ausgewählt wurde. Wenn die Währung der Bestellzeile nicht mit der Budgetwährung übereinstimmt, wird die Bindung im Budget als umgerechneter Betrag angezeigt. Die Budgetwährung wird zum Zeitpunkt der Erstellung des Datensatzes Finanzen > Haushaltsjahr auf den Wert der Mandantenwährung gesetzt. Wenn der Wert der Mandantenwährung aktualisiert wird, basieren daher alle Budgets, die vor der Aktualisierung erstellt wurden, weiterhin auf der Mandantenwährung, die bei der Erstellung des mit dem Budget verbundenen Haushaltsjahres verwendet wurde.
+Der Abschnitt Fondinformationen enthält Details über den Fonds. Eine Beschreibung der einzelnen Felder in diesem Abschnitt ist unter Fondsinformationen zu finden. Zusätzlich zu den Feldern, die bei der Fondserstellung verfügbar sind, wird in der Ansicht Fondsdetails die Fondswährung angezeigt. Der Wert der Fondswährung wird unter [Einstellungen > Mandant > Sprache und Lokalisierung]({{< ref "020 Sprache und Lokalisierung" >}}) auf den Währungswert gesetzt. Anmerkung: Wenn eine Bestellung geöffnet wird, erstellt das System eine Bindungstransaktion für das aktuelle Budget für den Fonds, der im Abschnitt Fondsverteilung der Bestellung ausgewählt wurde. Wenn die Währung der Bestellzeile nicht mit der Budgetwährung übereinstimmt, wird die Bindung im Budget als umgerechneter Betrag angezeigt. Die Budgetwährung wird zum Zeitpunkt der Erstellung des Datensatzes Finanzen > Haushaltsjahr auf den Wert der Mandantenwährung gesetzt. Wenn der Wert der Mandantenwährung aktualisiert wird, basieren daher alle Budgets, die vor der Aktualisierung erstellt wurden, weiterhin auf der Mandantenwährung, die bei der Erstellung des mit dem Budget verbundenen Haushaltsjahres verwendet wurde.
 
 ### Aktuelles Budget
 
@@ -296,7 +296,7 @@ Das Fenster mit den Budgetdetails enthält eine Zusammenfassung des Budgets, ein
 
 Folgendermaßen vorgehen, um die Budgetdetails anzuzeigen:
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), das angezeigt werden soll und ihn auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), das angezeigt werden soll und ihn auswählen.
 2.  In der Ansicht der **Fondsdetails** in den Abschnitten **Aktuelles Budget**, **Geplantes Budget** oder **Vorheriges Budget** auf den **Namen** klicken. Das Fenster mit den Budgetdetails wird angezeigt.
 
 ### Übersicht über das Budget

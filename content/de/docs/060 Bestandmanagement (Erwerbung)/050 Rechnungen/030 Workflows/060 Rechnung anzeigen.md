@@ -20,7 +20,7 @@ In den Suchergebnissen auf eine Rechnung klicken, um weitere Informationen anzuz
 
 ## Informationen zur Rechnung
 
-Informationen zu den meisten Feldern im Bereich Rechnungsinformationen sind unter [Erstellen einer Rechnung > Rechnungsinformationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+erstellen) zu finden. Sobald ein Rechnungsposten erstellt ist, werden die folgenden Felder vom System ausgefüllt und in den Bereich Informationen zur Rechnung aufgenommen:
+Informationen zu den meisten Feldern im Bereich Rechnungsinformationen sind unter [Erstellen einer Rechnung > Rechnungsinformationen]({{< ref "010 Rechnung erstellen" >}}) zu finden. Sobald ein Rechnungsposten erstellt ist, werden die folgenden Felder vom System ausgefüllt und in den Bereich Informationen zur Rechnung aufgenommen:
 
 * **Quelle**. Die Methode, mit der diese Rechnung erstellt wurde: Person, API, EDI oder MARC.
 * **Gesamteinheiten**. Die Gesamteinheiten für die Rechnung, berechnet als Summe der Mengenwerte aller Rechnungsposten.
@@ -46,7 +46,7 @@ Im Abschnitt Rechnungsposten werden alle Rechnungsposten für die Bestellung auf
 * **Gesamt**. Der Gesamtbetrag des Rechnungspostens, berechnet als **Zwischensumme** plus Zusatzkosten.
 * **Lieferantencode**. Der Lieferantencode für die Lieferantenorganisation, die mit dem Bestellposten verbunden ist.
 
-Um weitere Informationen zu einem Rechnungsposten anzuzeigen, auf die Zeile in der Liste der Rechnungsposten klicken. Es öffnet sich eine Ansicht mit Informationen zu dem Rechnungsposten. Eine Ansicht der Felder im Detailbereich der Rechnungsposten ist unter [Erstellen eines neuen Rechnungspostens](https://info.gbv.de/pages/viewpage.action?pageId=851345662) zu finden.
+Um weitere Informationen zu einem Rechnungsposten anzuzeigen, auf die Zeile in der Liste der Rechnungsposten klicken. Es öffnet sich eine Ansicht mit Informationen zu dem Rechnungsposten. Eine Ansicht der Felder im Detailbereich der Rechnungsposten ist unter [Erstellen eines neuen Rechnungspostens]({{< ref "020 Rechnung einen Rechnungsposten hinzufuegen" >}}) zu finden.
 
 ### Andere verwandte Rechnungsposten anzeigen
 
@@ -65,7 +65,7 @@ Auf den Wert eines Rechnungspostens mit der Nummer # klicken, um weitere Informa
 
 ## Fondverteilung auf Rechnungsebene
 
-Der Abschnitt Fondsverteilung auf Rechnungsebene der Rechnungsdetails wird nur angezeigt, wenn die Rechnung Zusatzkosten enthält, die nicht anteilig sind und für die eine Fondsverteilung ausgewählt wurden. Weitere Informationen sind unter Erstellen einer [Rechnung > Zusatzkosten > Hinzufügen von voreingestellten Zusatzkosten](https://info.gbv.de/pages/viewpage.action?pageId=851345662) zu finden. Im Abschnitt Fondverteilung auf Rechnungsebene werden die folgenden Informationen angezeigt:
+Der Abschnitt Fondsverteilung auf Rechnungsebene der Rechnungsdetails wird nur angezeigt, wenn die Rechnung Zusatzkosten enthält, die nicht anteilig sind und für die eine Fondsverteilung ausgewählt wurden. Weitere Informationen sind unter Erstellen einer [Rechnung > Zusatzkosten > Hinzufügen von voreingestellten Zusatzkosten]({{< ref "020 Zusatzkosten" >}}) zu finden. Im Abschnitt Fondverteilung auf Rechnungsebene werden die folgenden Informationen angezeigt:
 
 * **Zusatzkosten**. Beschreibung der Zusatzkosten.
 * **Fonds**. Der Fonds, den der Betrag zugewiesen wurde.
@@ -77,7 +77,7 @@ Der Abschnitt Fondsverteilung auf Rechnungsebene der Rechnungsdetails wird nur a
 
 ## Zusatzkosten auf Rechnungsebene
 
-Der Abschnitt Zusatzkosten auf Rechnungsebene in den Rechnungsdetails wird nur angezeigt, wenn die Rechnung Zusatzkosten enthält, die nicht anteilig sind. Bei Zusatzkosten mit einer Aufteilung nach Betrag, nach Zeile oder nach Menge werden die Zusatzkosten in der Rechnungsposten-Zeile angezeigt. Weitere Informationen sind unter [Erstellen einer Rechnung > Zusatzkosten > Hinzufügen einer voreingestellten Anpassung](https://info.gbv.de/pages/viewpage.action?pageId=851345662) zu finden. Im Abschnitt Zusatzkosten auf Rechnungsebene sind die folgenden Informationen zu finden:
+Der Abschnitt Zusatzkosten auf Rechnungsebene in den Rechnungsdetails wird nur angezeigt, wenn die Rechnung Zusatzkosten enthält, die nicht anteilig sind. Bei Zusatzkosten mit einer Aufteilung nach Betrag, nach Zeile oder nach Menge werden die Zusatzkosten in der Rechnungsposten-Zeile angezeigt. Weitere Informationen sind unter [Erstellen einer Rechnung > Zusatzkosten > Hinzufügen einer voreingestellten Anpassung]({{< ref "020 Rechnung einen Rechnungsposten hinzufuegen" >}}) zu finden. Im Abschnitt Zusatzkosten auf Rechnungsebene sind die folgenden Informationen zu finden:
 
 * **Beschreibung**. Eine Beschreibung der Zusatzkosten.
 * **Wert**. Die Kosten der Anpassung.

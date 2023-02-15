@@ -11,7 +11,7 @@ Description: "
 
 Es können Mittel zwischen den Budgets des aktuellen Haushaltsjahres zweier Fonds transferiert werden. Diese Aktion ist nur zulässig, wenn sowohl der Quell-Fonds als auch der Ziel-Fonds ein Budget für das laufende Haushaltsjahr haben. Transfers sind eine einmalige Bewegung von Mitteln innerhalb eines Haushaltsjahres. Bei einem Jahresübergang werden Transferbeträge bei der anfänglichen Zuweisung für neue Budgets nicht berücksichtigt.
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), auf das Mittel transferiert werden sollen und es auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), auf das Mittel transferiert werden sollen und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Transfer** klicken.
 3.  Im Dialogfeld **Transfer/Übertrag** die folgenden Informationen eingeben:
     * **Von (erforderlich)**. Den Fonds wählen, aus dem Mittel transferiert werden sollen.

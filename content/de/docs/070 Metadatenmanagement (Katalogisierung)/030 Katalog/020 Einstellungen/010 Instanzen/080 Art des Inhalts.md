@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Arten des Inhalts zu erstellen und zu verwalten. Arten des Inhalts erscheinen in der Dropdown-Liste **Art des Inhalts**, wenn eine [Art des Inhalts zu einem Instanzdatensatz hinzufügen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen). FOLIO stellt standardmäßig Arten des Inhalts zur Verfügung. Die Standardarten können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Arten des Inhalts hinzugefügt werden. Die Art des Inhalts erscheint auch als Filter für die Instanzsuche.
+Diese Einstellung wird verwendet, um Arten des Inhalts zu erstellen und zu verwalten. Arten des Inhalts erscheinen in der Dropdown-Liste **Art des Inhalts**, wenn eine [Art des Inhalts zu einem Instanzdatensatz hinzufügen]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}). FOLIO stellt standardmäßig Arten des Inhalts zur Verfügung. Die Standardarten können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Arten des Inhalts hinzugefügt werden. Die Art des Inhalts erscheint auch als Filter für die Instanzsuche.
 
 ## Art des Inhalts erstellen
 

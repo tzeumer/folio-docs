@@ -11,7 +11,7 @@ Description: "
 
 ## Deutsch
 ### Stand der Übersetzung
-2023-02-11. Die Vollständigkeit ist in der Konkordanzseite zu sehen (siehe [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der übersetzen Dokumentation" >}}))
+2023-02-11. Die Vollständigkeit ist in der Konkordanzseite zu sehen (siehe [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}}))
 
 ### Hintergrund
 * Diese Übersetzung der offiziellen FOLIO-Dokumentation ist eine laienhaft und inoffizielle Freizeitübersetzung von [tzeumer@verweisunsgform.de](mailto:tzeumer@verweisunsgform.de)
@@ -23,6 +23,7 @@ Description: "
 ### Änderungen zur offiziellen FOLIO-Dokumentation
 * Config-Dateien aus der Original-Version, die angepasst oder gelöscht/deaktivert wurden, liegen mit der  Dateierweiterung ".folio-official" nochmal in diesem Branch
 * Die Deutsche Version setzt stärker auf Unterseiten, statt sehr langen Seiten zu einzelnen Apps. 
+* Letzte/Nächste Seite über TOC verlinkt (sofern vorhanden)
 * Es wurden Tags vergeben
 
 ### Todo
@@ -39,7 +40,7 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 
 ## English
 ### Status of translation
-2023-02-11. For completeness, see the concordance page (see [manual page concordance of translated documentation]({{< ref "Handbuchseiten-Konkordanz der übersetzen Dokumentation" >}})).
+2023-02-11. For completeness, see the concordance page (see [manual page concordance of translated documentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}})).
 
 ### Background
 * This translation of the official FOLIO documentation is an amateurish and unofficial recreational translation of [tzeumer@verweisunsgform.de](mailto:tzeumer@verweisunsgform.de)
@@ -51,6 +52,7 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 ### Changes to the official FOLIO documentation
 * Config files from the original version, which were adapted or deleted/deactivated, are again in this branch with the file extension ".folio-official".
 * The German version relies more on subpages instead of very long pages for individual apps. 
+* Last/next page linked above TOC (if applicable)
 * Tags were assigned
 
 ### Todo

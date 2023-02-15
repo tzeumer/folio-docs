@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Bestandstypen zu erstellen und zu verwalten. Bestandstypen erscheinen in der Dropdown-Liste **Bestandstyp** im Abschnitt [Administrative Daten eines Bestandsdatensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492467). FOLIO bietet standardmäßig Bestandstypen an, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um Bestandstypen zu erstellen und zu verwalten. Bestandstypen erscheinen in der Dropdown-Liste **Bestandstyp** im Abschnitt [Administrative Daten eines Bestandsdatensatzes]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}). FOLIO bietet standardmäßig Bestandstypen an, die bearbeitet oder gelöscht werden können.
 
 ## Bestandstyp erstellen
 

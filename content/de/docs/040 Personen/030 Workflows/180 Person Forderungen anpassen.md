@@ -17,9 +17,9 @@ Mitarbeitende mit den entsprechenden Berechtigungen können Forderungen für die
 
 ## Forderung anlegen
 
-Eine Bibliothek muss die Forderungseinstellungen konfigurieren, bevor sie Forderungen von Personen erheben kann. Weitere Informationen sind unter [Einstellungen > Personen > Forderungseigentümer/-in](https://info.gbv.de/pages/viewpage.action?pageId=841809942) und [Einstellungen > Personen > Manuelle Kosten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Manuelle+Kosten).
+Eine Bibliothek muss die Forderungseinstellungen konfigurieren, bevor sie Forderungen von Personen erheben kann. Weitere Informationen sind unter [Einstellungen > Personen > Forderungseigentümer/-in]({{< ref "010 ForderungseigentuemerIn" >}}) und [Einstellungen > Personen > Manuelle Kosten]({{< ref "020 Manuelle Kosten" >}}).
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich **Personendatensatz** bei Bedarf das Akkordeon **Forderungen** erweitern.
 3.  Auf **Forderung erstellen** klicken.
 4.  Im Fenster **Neue Forderung** den **Forderungseigentümer/-in** wählen.
@@ -33,7 +33,7 @@ Eine Bibliothek muss die Forderungseinstellungen konfigurieren, bevor sie Forder
 
 ## Forderung begleichen
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich **Personendatensatz** bei Bedarf das Akkordeon **Forderungen** erweitern.
 3.  **(Anzahl) offener Forderungen** wählen, um die offenen Forderungen der Person anzuzeigen.
 4.  Das Modal "**Forderungen**" wird geöffnet. Auf die Forderung klicken, für die die Zahlung akzeptiert werden soll.
@@ -49,7 +49,7 @@ Das Modal wird geschlossen, und die Seite mit den **Forderungsdetails** wird m
 
 Mitarbeitende mit entsprechenden Berechtigungen können eine Forderung teilweise oder vollständig erlassen (oder: ausbuchen).
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich **Personendatensatz** bei Bedarf das Akkordeon **Forderungen** erweitern.
 3.  **(Anzahl) offener Forderungen** wählen, um die offenen Forderungen der Person anzuzeigen.
 4.  Das Modal "**Forderungen**" wird geöffnet. Auf die Forderung klicken, für die die Zahlung erlassen werden soll.
@@ -64,7 +64,7 @@ Das Modal wird geschlossen, und die Seite mit den **Forderungsdetails** wird m
 
 Mitarbeitende mit entsprechender Berechtigung können eine Forderung ganz oder teilweise erstatten. Die Zahlungsmethode muss Erstattungen zulassen.
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich **Personendatensatz** bei Bedarf das Akkordeon **Forderungen** erweitern.
 3.  **Alle Forderungen anzeigen** wählen, um die offenen Forderungen der Person anzuzeigen.
 4.  Das Modal "**Forderungen**" wird geöffnet. Auf die Forderung klicken, für die die Zahlung erstattet werden soll. Sie kann offen oder geschlossen sein.
@@ -81,7 +81,7 @@ Mitarbeitende mit den entsprechenden Berechtigungen können eine Forderung als F
 
 Eine Stornierung kann nur auf eine Forderung im Status "Ausstehend" angewendet werden. Die Kennzeichnung einer Forderung als Fehler ist für den Fall gedacht, dass die Forderung aufgrund eines Personal- oder Systemfehlers erhoben wurde und daher nicht bezahlt werden sollte.
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich **Personendatensatz** bei Bedarf das Akkordeon **Forderungen** erweitern.
 3.  **Alle Forderungen anzeigen** wählen, um die offenen Forderungen der Person anzuzeigen.
 4.  Das Modal "**Forderungen**" wird geöffnet. Auf die Forderung klicken, für die die Zahlung storniert werden soll. Sie kann offen oder geschlossen sein.

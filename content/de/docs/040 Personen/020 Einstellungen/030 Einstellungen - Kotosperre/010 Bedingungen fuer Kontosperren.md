@@ -17,7 +17,7 @@ Die Sperre wird automatisch aufgehoben, sobald die Person das Limit unterschreit
 
 Hinweis: Damit die automatische Personensperren funktioniert, müssen Bedingungen und Grenzwerte festgelegt werden.
 
-Die Bedingungen legen fest, welche Aktionen Personen nicht mehr erlaubt sind, sobald sie die für ihre Personengruppe unter [Einstellungen > Personen > Grenzwerte für Kontosperren](https://info.gbv.de/pages/viewpage.action?pageId=841809967) festgelegten Grenzen erreicht haben.
+Die Bedingungen legen fest, welche Aktionen Personen nicht mehr erlaubt sind, sobald sie die für ihre Personengruppe unter [Einstellungen > Personen > Grenzwerte für Kontosperren]({{< ref "020 Grenzwerte fuer Kontosperren" >}}) festgelegten Grenzen erreicht haben.
 
 Dies sind alle Kategorien, für die Bedingungen und Grenzen festlgelehgt werden können:
 

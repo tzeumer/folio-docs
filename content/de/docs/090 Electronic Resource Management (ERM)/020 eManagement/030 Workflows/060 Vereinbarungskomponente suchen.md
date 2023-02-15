@@ -17,7 +17,7 @@ Es kann auch nach Vereinbarungskomponenten gesucht werden, indem einer der Filte
 
 ## Vereinbarungen
 
-Um Vereinbarungskomponenten nach einem Vereinbarungssatz zu filtern, auf **Vereinbarung auswählen** klicken. Im Fenster **Vereinbarung auswählen** die Funktion **Suchen & Filtern** verwenden, um die gewünschte Vereinbarung ausfindig zu machen und auf sie klicken. Siehe [Suche nach Vereinbarungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen). Die Suche nach Vereinbarungskomponenten wird auf diesen Vereinbarungsdatensatz beschränkt.
+Um Vereinbarungskomponenten nach einem Vereinbarungssatz zu filtern, auf **Vereinbarung auswählen** klicken. Im Fenster **Vereinbarung auswählen** die Funktion **Suchen & Filtern** verwenden, um die gewünschte Vereinbarung ausfindig zu machen und auf sie klicken. Siehe [Suche nach Vereinbarungen]({{< ref "020 Vereinbarung suchen" >}}). Die Suche nach Vereinbarungskomponenten wird auf diesen Vereinbarungsdatensatz beschränkt.
 
 ## Art der Vereinbarungskomponenten
 

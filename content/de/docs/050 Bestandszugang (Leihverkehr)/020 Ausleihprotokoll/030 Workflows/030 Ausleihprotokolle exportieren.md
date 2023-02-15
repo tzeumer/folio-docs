@@ -16,5 +16,5 @@ Liefert die Ihre Suche nach Ausleihprotokoll-Datensätzen Ergebnisse, können di
 
 Eine grüne Erfolgsmeldung informiert darüber, dass die Exportdatei erstellt wird. Sobald die Datei erstellt ist, wird sie automatisch heruntergeladen.
 
-Wenn die Download-Datei nicht heruntergeladen wird, bitte überprüfen, ob der Browser das Popup-Fenster nicht blockiert hat. Wenn das Popup-Fenster blockiert wurde,  die Browsereinstellungen so ändern, dass er Popups zulässt. Danach die Suchergebnisse des Ausleihprotokolls erneut exportieren. Möglicherweise kann auch über die App [📱Exportmanager](https://info.gbv.de/pages/viewpage.action?pageId=845709333)
+Wenn die Download-Datei nicht heruntergeladen wird, bitte überprüfen, ob der Browser das Popup-Fenster nicht blockiert hat. Wenn das Popup-Fenster blockiert wurde,  die Browsereinstellungen so ändern, dass er Popups zulässt. Danach die Suchergebnisse des Ausleihprotokolls erneut exportieren. Möglicherweise kann auch über die App [📱Exportmanager]({{< ref "100 Exportmanager" >}})
 

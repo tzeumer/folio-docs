@@ -11,7 +11,7 @@ Description: "
 
 Um Informationen über die Auszahlung des Rechnungsbelegs aus einem externen Finanzsystem hinzuzufügen, das Menü Aktion verwenden, um den Rechnungsbeleg zu bearbeiten.
 
-1.  [Die Rechnung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+suchen), für die Sie Auszahlungsinformationen aktualisiert werden soll und sie auswählen.
+1.  [Die Rechnung suchen]({{< ref "030 Rechnung suchen" >}}), für die Sie Auszahlungsinformationen aktualisiert werden soll und sie auswählen.
 2.  Nach unten zum Abschnitt **Beleginformationen** scrollen und auf die Schaltfläche **Beleg anzeigen** klicken.
 3.  Im Vollbildfenster **Beleg anzeigen** auf **Aktion > Bearbeiten** klicken.
 4.  Die Auszahlungsinformationen in die unten beschriebenen Felder eingeben.

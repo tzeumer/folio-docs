@@ -10,5 +10,5 @@ Description: "
 ---
 
 {{% pageinfo %}}
-Identisch mit [Folio: Bestandsanfragen auf Exemplarebene stornieren](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+auf+Exemplarebene+stornieren).
+Identisch mit [Folio: Bestandsanfragen auf Exemplarebene stornieren]({{< ref "030 Bestandsanfragen auf Exemplarebene stornieren" >}}).
 {{% /pageinfo %}}

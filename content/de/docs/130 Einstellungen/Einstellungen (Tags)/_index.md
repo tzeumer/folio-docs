@@ -17,7 +17,7 @@ Für die Bearbeitung der Tag-Einstellungen, muss einem Personen die folgende Ber
 
 1.  **Einstellungen (Tags): Kann Tags für alle Apps aktivieren oder deaktivieren** (Settings (Tags): Can enable or disable tags for all apps)
 
-Hinweis: Dies ist die einzige Berechtigung, die für Tags-Einstellungen verfügbar ist. Die Tags-Einstellungen können nicht angzeigt und darauf zugegriffen werden, wenn diese Berechtigung nicht zugewiesen ist. Personen können [in der App "Benutzer" Berechtigungen zugewiesen werden](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+zuweisen).
+Hinweis: Dies ist die einzige Berechtigung, die für Tags-Einstellungen verfügbar ist. Die Tags-Einstellungen können nicht angzeigt und darauf zugegriffen werden, wenn diese Berechtigung nicht zugewiesen ist. Personen können [in der App "Benutzer" Berechtigungen zugewiesen werden]({{< ref "080 Person Rechte zuweisen" >}}).
 
 ## Zulässige Zeichen
 

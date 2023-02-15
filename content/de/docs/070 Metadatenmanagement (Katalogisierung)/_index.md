@@ -10,9 +10,9 @@ Description: "
 ---
 
 {{% pageinfo %}}
-Merker: In [Diese Dokumentation (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=839909381) schon auf DACH hingewiesen. In diesem Kontext spezifischer Hinweis sinnvoll auf [FOLIO Project - DACH-Fachgruppe: Metadaten Management](https://wiki.folio.org/display/Deutsche/D-Metadaten+Management)
+Merker: In [Diese Dokumentation (Entwurf)]({{< ref "docs/000 Info_ DE-Version/010 Diese Dokumentation.md" >}}) schon auf DACH hingewiesen. In diesem Kontext spezifischer Hinweis sinnvoll auf [FOLIO Project - DACH-Fachgruppe: Metadaten Management](https://wiki.folio.org/display/Deutsche/D-Metadaten+Management)
 
-TODO: es gibt noch eine Unterseite MARC Authority ([https://morning-glory.docs.folio.org/docs/metadata/inventory/marcauthority/](https://morning-glory.docs.folio.org/docs/metadata/inventory/marcauthority/)) - für den deutschprachigen Raum evtl. völlig irrelevant. Trotzdem aufnehmen? Zumindest Hinweis auf Fehlen des Inhalts  wäre sonst hier (oder vielleicht noch besser bei [Diese Dokumentation (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=839909381)
+TODO: es gibt noch eine Unterseite MARC Authority ([https://docs.folio.org/docs/metadata/inventory/marcauthority/](https://morning-glory.docs.folio.org/docs/metadata/inventory/marcauthority/)) - für den deutschprachigen Raum evtl. völlig irrelevant. Trotzdem aufnehmen? Zumindest Hinweis auf Fehlen des Inhalts  wäre sonst hier (oder vielleicht noch besser bei [Diese Dokumentation (Entwurf)]({{< ref "docs/000 Info_ DE-Version/010 Diese Dokumentation.md" >}})
 {{% /pageinfo %}}
 
 In FOLIO umfasst die Metadatenverwaltung wesentliche Katalogisierungsfunktionen. Diese Funktionen umfassen:

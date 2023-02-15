@@ -49,10 +49,10 @@ In der Ansicht **Suche & Filter** auf **Ausleihe** klicken und alle anwendba
 * **Ausleihhistorie**. Enthält Exemplare, die zurückgegeben wurden.
 * **Für verloren erklärt**. Enthält Exemplare, die für verloren erklärt wurden.
 * **Als vermisst markiert**. Enthält Exemplare, die als vermisst markiert wurden.
-* **Rückruf angefordert**. Enthält Exemplare, die als [Rückrufe](https://info.gbv.de/pages/viewpage.action?pageId=839188615) angefordert wurden.
+* **Rückruf angefordert**. Enthält Exemplare, die als [Rückrufe]({{< ref "030 Bestandsanfragen" >}}) angefordert wurden.
 * **Verlängert**. Enthält Exemplare, die verlängert wurden.
 * **Verlängert durch spezielle Zustimmung**. Enthält Exemplare, die durch eine spezielle Zustimmung verlängert wurden.
-* **Automatisch für verloren erklärt**. Schließt überfällige Exemplare ein, die den Status "Verloren erklärt" haben. Die Zeit, in der ein überfälliges Exemplar als verloren gilt, wird in den Richtlinien für die [Einstellungen (Ausleihe): Forderungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Forderungen) festgelegt.
+* **Automatisch für verloren erklärt**. Schließt überfällige Exemplare ein, die den Status "Verloren erklärt" haben. Die Zeit, in der ein überfälliges Exemplar als verloren gilt, wird in den Richtlinien für die [Einstellungen (Ausleihe): Forderungen]({{< ref "030 Forderungen" >}}) festgelegt.
 
 Kontosperrungen werden ebenfalls aufgezeichnet, sind aber nicht über Filter verfügbar. Wann manuelle Benutzersperren erstellt oder gelöscht wurden, kann herausgefunden werden, indem im Beschreibungsfeld nach "**Sperre**" ("Block") gesucht wird und bei Bedarf weitere Such-/Filteroptionen angewendet werden.
 

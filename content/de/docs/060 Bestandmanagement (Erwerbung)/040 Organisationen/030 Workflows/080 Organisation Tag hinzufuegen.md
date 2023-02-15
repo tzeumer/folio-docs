@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  Die [Organisation suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+suchen) und auswählen, die einen Tag erhalten soll.
+1.  Die [Organisation suchen]({{< ref "030 Organisation suchen" >}}) und auswählen, die einen Tag erhalten soll.
 2.  In der Ansicht **Organisationsdetails** auf das **Tag-Symbol** klicken.
 3.  In der Ansicht Tags entweder einen Tag aus dem Feld auswählen oder einen Tag eingeben.
 4.  Auf das X in der Ansicht Tag klicken, um die Ansicht zu schließen und den Tag zu speichern. Die Tag-Zahl wird auf die Anzahl der für die Organisation vergebenen Tags aktualisiert.

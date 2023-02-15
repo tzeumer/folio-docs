@@ -10,7 +10,7 @@ Description: "
 ---
 
 {{% pageinfo %}}
-Siehe auch: [Folio: Rückgabe Vor-Ort Nutzung erfassen](https://info.gbv.de/pages/viewpage.action?pageId=843317317)
+Siehe auch: [Folio: Rückgabe Vor-Ort Nutzung erfassen]({{< ref "060 Rueckgabe Vor-Ort Nutzung erfassen" >}})
 {{% /pageinfo %}}
 
 Bibliotheksmitarbeitende verwalten die Ausleihen von Personen in FOLIO über drei primäre Apps - Rückgabe, Ausleihe und Personen. Außerdem können die Mitarbeitenden Informationen über Ausleihen in den Apps Ausleihprotokoll und Katalog einsehen.

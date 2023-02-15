@@ -9,4 +9,4 @@ Description: "
     "
 ---
 
-Bestandsanfrage  können in der App Bestandsanfragen oder über den Exemplardatensatz in der App Katalog erstellt werden. Informationen zum Erstellen von Anfragen sind unter [Workflows Bestandsanfragen](https://info.gbv.de/display/FOLIOGBVEXTERN/Workflows+Bestandsanfragen) zu finden.
+Bestandsanfrage  können in der App Bestandsanfragen oder über den Exemplardatensatz in der App Katalog erstellt werden. Informationen zum Erstellen von Anfragen sind unter [Workflows Bestandsanfragen]({{< ref "docs/050 Bestandszugang (Leihverkehr)/030 Bestandsanfragen/030 Workflows" >}}) zu finden.

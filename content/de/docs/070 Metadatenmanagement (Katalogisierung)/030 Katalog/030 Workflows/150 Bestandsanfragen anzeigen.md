@@ -9,5 +9,5 @@ Description: "
     "
 ---
 
-1.  [Die Instanz mit den Bestandsanfragen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), die angezeigt werden soll und sie auswählen.
+1.  [Die Instanz mit den Bestandsanfragen suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), die angezeigt werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** auf **Aktionen > Bestandsanfragen anzeigen** (Anzahl der Anfragen) klicken. Das Fenster Bestandsanfragen zu Exemplaren wird angezeigt.

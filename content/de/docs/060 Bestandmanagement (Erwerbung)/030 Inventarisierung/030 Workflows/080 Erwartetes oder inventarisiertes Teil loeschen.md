@@ -14,11 +14,11 @@ Um ein erwartetes oder inventarisiertes Teil zu bearbeiten, sicherstellen, dass 
 ## Erwartetes Teil löschen
 
 1.  Das Teil auswählen, da gelöscht werden soll.
-2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=851935460) angezeigt. Weitere Informationen sind dort zu finden.
+2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen]({{< ref "060 Erwartetes Teil hinzufuegen" >}}) angezeigt. Weitere Informationen sind dort zu finden.
 3.  Auf **Löschen** klicken. Es erscheint eine Bestätigungsmeldung. Auf **Bestätigen** klicken und das Teil wird gelöscht.
 
 ## Teil löschen, das inventarisiert wurde
 
 1.  Das Teil auswählen, da gelöscht werden soll.
-2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=851935460) angezeigt. Weitere Informationen sind dort zu finden.
+2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen]({{< ref "060 Erwartetes Teil hinzufuegen" >}}) angezeigt. Weitere Informationen sind dort zu finden.
 3.  Auf **Löschen** klicken. Es erscheint eine Bestätigungsmeldung. Auf **Bestätigen** klicken und das Teil wird gelöscht.

@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Ressourcen-Identifikatorentypen zu erstellen und zu verwalten. Ressourcen-Identifikatorentypen erscheinen in der Dropdown-Liste Typ, wenn Sie einen [Identifikator zu einem Instanzdatensatz hinzufügen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen). FOLIO stellt standardmäßig Identifikatorentypen zur Verfügung. Die Standard-Identifikatortypen können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Identifikatorentypen hinzugefügt werden.
+Diese Einstellung wird verwendet, um Ressourcen-Identifikatorentypen zu erstellen und zu verwalten. Ressourcen-Identifikatorentypen erscheinen in der Dropdown-Liste Typ, wenn Sie einen [Identifikator zu einem Instanzdatensatz hinzufügen]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}). FOLIO stellt standardmäßig Identifikatorentypen zur Verfügung. Die Standard-Identifikatortypen können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Identifikatorentypen hinzugefügt werden.
 
 ## Ressourcen-Identifikatorentyp erstellen
 

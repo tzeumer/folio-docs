@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Den Datensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), zu dem ein Exemplar hinzugefügt werden soll und es auswählen.
+1.  [Den Datensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), zu dem ein Exemplar hinzugefügt werden soll und es auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** im Bereich Bestand auf **Exemplar hinzufügen** klicken.
 3.  Im Fenster **Exemplardatensatz** die Abschnitte Administrative Daten, Exemplardaten, Daten zur Zählung, Zustand, Anmerkungen zum Exemplar, Ausleihe und Verfügbarkeit, Standort und Elektronischer Zugriff ausfüllen. Weitere Informationen zu den Feldern und Aktionen, die in diesen Abschnitten verfügbar sind, sind in den Abschnittsbeschreibungen weiter unten zu finden.
 4.  Sobald alle gewünschten Informationen in den Exemplardatensatz aufgenommen wurden, auf **Speichern & schließen** klicken. Der Exemplardatensatz wird gespeichert.
@@ -49,9 +49,9 @@ Description: "
 
 Der Abschnitt Artikeldaten enthält zusätzliche Informationen über das Exemplar.
 
-* **Materialart (erforderlich)**. Beschreibt die materielle Beschaffenheit eines bestimmten Exemplars, mit der Absicht, spezifischere Informationen als nur den Ressourcentyp zu ermöglichen. Wird unter [Einstellungen > Katalog > Materialarten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Materialarten) konfiguriert.
+* **Materialart (erforderlich)**. Beschreibt die materielle Beschaffenheit eines bestimmten Exemplars, mit der Absicht, spezifischere Informationen als nur den Ressourcentyp zu ermöglichen. Wird unter [Einstellungen > Katalog > Materialarten]({{< ref "030 Materialarten" >}}) konfiguriert.
 * **Exemplarnummer**. Die Exemplarnummer ist die Kennung des Teils. Die Exemplarnummer gibt an, ob die Bibliothek ein (oder mehrere) Exemplare einer einbändigen Monographie besitzt; ein (oder mehrere) Exemplare eines mehrbändigen Werkes, (z.B. Exemplar 1 oder C.7.)
-* **Signaturtyp**. Das Klassifikationssystem, das für die Signatur verwendet wird. Den Signaturtyp aus der Dropdown-Liste auswählen. Wird unter [Einstellungen > Katalog > Signaturtypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Signaturtypen) konfiguriert.
+* **Signaturtyp**. Das Klassifikationssystem, das für die Signatur verwendet wird. Den Signaturtyp aus der Dropdown-Liste auswählen. Wird unter [Einstellungen > Katalog > Signaturtypen]({{< ref "010 Signaturtypen" >}}) konfiguriert.
 * **Signatur-Präfix**. Präfix der Signatur auf der Ebene des Exemplars.
 * **Signatur**. Die Signatur ist eine einem Exemplar zugewiesene Kennung, die in der Regel auf einem am Exemplar angebrachten Etikett steht. Die Signatur wird verwendet, um die physische Position der Ressource in einer Regalreihenfolge zu bestimmen. Zum Beispiel: K1 .M44.
 * **Signatur-Suffix**. Suffix der Signatur auf der Ebene des Exemplars.
@@ -95,7 +95,7 @@ Der Abschnitt Anmerkungen zum Exemplar enthält alle Anmerkungen zum Exemplar.
 ### Anmerkung hinzufügen
 
 1.  Auf **Anmerkung hinzufügen** klicken.
-2.  Den **Anmerkungstyp** aus der Dropdown-Liste wählen. Konfiguriert unter [Einstellungen > Katalog > Anmerkungstypen des Exemplars](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Anmerkungstypen+des+Exemplars).
+2.  Den **Anmerkungstyp** aus der Dropdown-Liste wählen. Konfiguriert unter [Einstellungen > Katalog > Anmerkungstypen des Exemplars]({{< ref "010 Anmerkungstypen des Exemplars" >}}).
 3.  Eine **Anmerkung** in das Feld eingeben.
 4.  Optional: Wenn die Anmerkung nur für Mitarbeitende sichtbar sein soll, die über die entsprechenden Berechtigungen verfügen, die Checkbox Nur Personal markieren.
 5.  Die Schritte 1-4 je nach Bedarf wiederholen. Die Anmerkung wird gespeichert, sobald das Exemplar gespeichert wird.
@@ -109,8 +109,8 @@ Der Abschnitt Anmerkungen zum Exemplar enthält alle Anmerkungen zum Exemplar.
 
 Der Bereich Ausleihe und Verfügbarkeit enthält Informationen über den Ausleihstatus des Exemplars.
 
-* **Dauerhafter Ausleihtyp (erforderlich)**. Die Standardausleihart für das Exemplar. Zum Beispiel: Ausleihbar, Reservierte Exemplare, Lesesaal, Ausgewählt, usw. Wird unter [Einstellungen > Katalog > Ausleihtypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Ausleihtypen) konfiguriert.
-* **Temporärer Ausleihtyp**. Ein temporärer Ausleihtyp für das Exemplar. Zum Beispiel: Kann ausgeliehen werden, Semesterapparate, Lesesaal, Ausgewählt, usw. Konfiguriert unter [Einstellungen > Katalog > Ausleihtypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Ausleihtypen).
+* **Dauerhafter Ausleihtyp (erforderlich)**. Die Standardausleihart für das Exemplar. Zum Beispiel: Ausleihbar, Reservierte Exemplare, Lesesaal, Ausgewählt, usw. Wird unter [Einstellungen > Katalog > Ausleihtypen]({{< ref "020 Ausleihtypen" >}}) konfiguriert.
+* **Temporärer Ausleihtyp**. Ein temporärer Ausleihtyp für das Exemplar. Zum Beispiel: Kann ausgeliehen werden, Semesterapparate, Lesesaal, Ausgewählt, usw. Konfiguriert unter [Einstellungen > Katalog > Ausleihtypen]({{< ref "020 Ausleihtypen" >}}).
 * **Status**. Bezeichnung für den Status des Exemplars. Zum Beispiel: Verfügbar, Ausgeliehen, Im Transport, Im Abholregal, Auf Bestellung, usw. Standardmäßig ist der Status des Exemplars auf Verfügbar eingestellt.
 * **Ausleih-/Rückgabeanmerkungen**. Alle Anmerkungen zu dem Exemplar, die dem Personal bei der Rückgabe oder Ausleihe angezeigt werden sollen.
 
@@ -118,7 +118,7 @@ Der Bereich Ausleihe und Verfügbarkeit enthält Informationen über den Ausleih
 
 Eine Anmerkung bei der Rückgabe oder Ausleihe ist standardmäßig erforderlich.
 
-1.  Den **Anmerkungstyp** aus der Dropdown-Liste wählen. Konfiguriert unter [Einstellungen > Katalog > Anmerkungstypen des Exemplars](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A++Anmerkungstypen+des+Exemplars).
+1.  Den **Anmerkungstyp** aus der Dropdown-Liste wählen. Konfiguriert unter [Einstellungen > Katalog > Anmerkungstypen des Exemplars]({{< ref "010 Anmerkungstypen des Exemplars" >}}).
 2.  Eine **Anmerkung** in das Feld eingeben.
 3.  Optional: Wenn die Anmerkung nur für Mitarbeitende sichtbar sein soll, die über die entsprechenden Berechtigungen verfügen, die Checkbox Nur Personal markieren.
 4.  Um eine weitere Anmerkung hinzuzufügen, auf Ausleih-/Rückgabeanmerkung hinzufügen klicken und die Schritte 1-3 wiederholen. Die Anmerkung wird gespeichert, sobald das Exemplar gespeichert wird.

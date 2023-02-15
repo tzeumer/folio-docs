@@ -37,7 +37,7 @@ Eine Personengruppe kann nur gelöscht werden, wenn sie nicht mehr auf Personend
 
 Um die Anzahl der Personendatensätze zu sehen, die einer Personengruppe zugeordnet sind, wie folgt vorgehen :
 
-* Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen) das Kontrollkästchen neben der entsprechenden Personengruppe wählen. Die Liste der Personendatensätze, die dieser Personengruppe zugeordnet sind, wird im Ergebnisbereich der Personensuche angezeigt. Die Anzahl der gefundenen Datensätze wird im oberen Bereich des Fensters angezeigt. Wenn Null gefundene Datensätze angezeigt werden, kann die Personengruppe gelöscht werden.
+* Via [Personen suchen]({{< ref "020 Personen suchen" >}}) das Kontrollkästchen neben der entsprechenden Personengruppe wählen. Die Liste der Personendatensätze, die dieser Personengruppe zugeordnet sind, wird im Ergebnisbereich der Personensuche angezeigt. Die Anzahl der gefundenen Datensätze wird im oberen Bereich des Fensters angezeigt. Wenn Null gefundene Datensätze angezeigt werden, kann die Personengruppe gelöscht werden.
 
 Folgendermaßen vorgehen, um eine Personengruppe zu löschen:
 

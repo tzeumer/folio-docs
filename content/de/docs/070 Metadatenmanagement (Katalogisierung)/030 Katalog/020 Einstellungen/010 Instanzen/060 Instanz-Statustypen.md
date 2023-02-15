@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Instanz-Statustypen zu erstellen und zu verwalten. Instanz-Statustypen erscheinen in der Dropdown-Liste **Instanz-Statusbegriff** im Bereich [Administrative Daten eines Instanzdatensatzes](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen). FOLIO stellt standardmäßig Statustypen zur Verfügung, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um Instanz-Statustypen zu erstellen und zu verwalten. Instanz-Statustypen erscheinen in der Dropdown-Liste **Instanz-Statusbegriff** im Bereich [Administrative Daten eines Instanzdatensatzes]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}). FOLIO stellt standardmäßig Statustypen zur Verfügung, die bearbeitet oder gelöscht werden können.
 
 ## Instanz-Statustyp erstellen
 

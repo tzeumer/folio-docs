@@ -9,5 +9,5 @@ Description: "
     "
 ---
 
-Wenn das Öffnen von Bestellungen genehmigt werden soll, **Genehmigung erforderlich zum Öffnen der Bestellung** markieren. Wird diese Option gewählt, wird ein zusätzlicher Schritt zwischen Ausstehend und Offen eingefügt. Eine Person mit der entsprechenden Berechtigung muss die Bestellung genehmigen. Sobald die Bestellung genehmigt ist, werden das Datum und die Uhrzeit der Genehmigung sowie die Kennung der Person, die die Genehmigung erteilt hat, erfasst. Weitere Informationen sind unter [Freigeben einer Bestellung](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellung+freigeben) zu finden.
+Wenn das Öffnen von Bestellungen genehmigt werden soll, **Genehmigung erforderlich zum Öffnen der Bestellung** markieren. Wird diese Option gewählt, wird ein zusätzlicher Schritt zwischen Ausstehend und Offen eingefügt. Eine Person mit der entsprechenden Berechtigung muss die Bestellung genehmigen. Sobald die Bestellung genehmigt ist, werden das Datum und die Uhrzeit der Genehmigung sowie die Kennung der Person, die die Genehmigung erteilt hat, erfasst. Weitere Informationen sind unter [Freigeben einer Bestellung]({{< ref "050 Bestellung freigeben" >}}) zu finden.
 

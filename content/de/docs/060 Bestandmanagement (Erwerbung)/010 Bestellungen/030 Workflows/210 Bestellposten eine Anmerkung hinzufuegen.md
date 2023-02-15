@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Nach dem Bestellposten suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+suchen), zu der dem ein Anmerkung hinzugefügt werden soll und ihn auswählen.
+1.  [Nach dem Bestellposten suchen]({{< ref "230 Bestellposten suchen" >}}), zu der dem ein Anmerkung hinzugefügt werden soll und ihn auswählen.
 2.  In der Ansicht **Details zum Bestellposten** unter **Anmerkungen** auf **Neu** klicken.
 3.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste auswählen. Die Notiztypen werden in der App Einstellungen erstellt.
 4.  In das Feld einen **Anmerkungstitel** eingeben.

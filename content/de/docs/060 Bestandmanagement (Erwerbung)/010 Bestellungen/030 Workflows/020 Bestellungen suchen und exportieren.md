@@ -30,14 +30,14 @@ In der Ansicht **Suche & Filter** auf Status klicken und die entsprechenden Fi
 
 ### Präfix
 
-Diese Schritte ausführen, um nach Bestellungen anhand des Präfixes der Bestellnummer zu suchen. Weitere Informationen zum Erstellen von Präfixwerten sind unter [Einstellungen > Bestellungen > Präfixe](https://info.gbv.de/pages/viewpage.action?pageId=851345594) zu finden.
+Diese Schritte ausführen, um nach Bestellungen anhand des Präfixes der Bestellnummer zu suchen. Weitere Informationen zum Erstellen von Präfixwerten sind unter [Einstellungen > Bestellungen > Präfixe]({{< ref "020 Bestellnummer-Praefixe" >}}) zu finden.
 
 1.  In der Ansicht **Suche & Filter** auf **Präfix** klicken.
 2.  Das Präfix aus der Dropdown-Liste auswählen. Die Suchergebnisse werden in der Ansicht Bestellposten angezeigt.
 
 ### Suffix
 
-Wie folgt vorgehen, um nach dem Suffix der Bestellnummer zu suchen. Weitere Informationen zum Erstellen von Suffix-Werten sind unter [Einstellungen > Bestellungen > Suffixe](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Bestellungen%29%3A+Bestellnummer-Sufffixe) zu finden.
+Wie folgt vorgehen, um nach dem Suffix der Bestellnummer zu suchen. Weitere Informationen zum Erstellen von Suffix-Werten sind unter [Einstellungen > Bestellungen > Suffixe]({{< ref "030 Bestellnummer-Suffixe" >}}) zu finden.
 
 1.  In der Ansicht **Suche & Filter** auf **Suffix** klicken.
 2.  Das Suffix aus der Dropdown-Liste wählen. Die Suchergebnisse werden in der Ansicht Bestellposten angezeigt.

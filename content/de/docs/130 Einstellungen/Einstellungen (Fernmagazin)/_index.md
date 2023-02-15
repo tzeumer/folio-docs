@@ -25,8 +25,3 @@ Die unten aufgeführten Berechtigungen legen fest, was Sie mit den einzelnen Tei
     Mit dieser Berechtigung kann die Person die Einstellungen für den Fernspeicher anzeigen, erstellen, bearbeiten und löschen.
 * **Einstellungen (Fernmagazin): Kann Fernmagazineinstellungen anzeigen**. (Remote storage: View)
     Diese Berechtigung ermöglicht es der Person, alle Fernspeichereinstellungen zu sehen.
-
-## Einstellungen
-
-* [Einstellungen (Fernmagazin): Konfigurationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Fernmagazin%29%3A+Konfigurationen)
-* [Einstellungen (Fernmagazin): Akzessionstabellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Fernmagazin%29%3A+Akzessionstabellen)

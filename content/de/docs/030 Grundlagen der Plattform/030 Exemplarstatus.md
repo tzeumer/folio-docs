@@ -61,7 +61,7 @@ Wird das Exemplar wieder ausgeliehen, ändert sich der Status in "Verfügbar" od
 {{% pageinfo %}}
 Sprache
 
-Achtung: Diese Begriffe sind stehend und so von der [DACH-Übersetzungs-AG](https://wiki.folio.org/pages/viewpage.action?pageId=33947726) übersetzt und im [Lokalise-Glossar](https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/) eingepflegt worden. Änderungen sind daher komplex. Am besten mit der Übersetzungs-AG _und_ der FOLIO-AG koordinieren, wenn Begriffe geändert werden sollen. Siehe auch [Glossar (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=839188694)
+Achtung: Diese Begriffe sind stehend und so von der [DACH-Übersetzungs-AG](https://wiki.folio.org/pages/viewpage.action?pageId=33947726) übersetzt und im [Lokalise-Glossar](https://app.lokalise.com/glossary/768473125ada1bc8c67c66.19722909/) eingepflegt worden. Änderungen sind daher komplex. Am besten mit der Übersetzungs-AG _und_ der FOLIO-AG koordinieren, wenn Begriffe geändert werden sollen. Siehe auch [Glossar]({{< ref "020 Glossar" >}}).
 {{% /pageinfo %}}
 
 |Statusbezeichnung|Beschreibung|Apps, die diesen Status verwenden|Kann das Exemplar ausgeliehen werden?|Kann das Exemplar angefordert werden?|

@@ -11,6 +11,6 @@ Description: "
 
 Anmerkung: Wenn eine Bestellung gelöscht wird, bleiben die empfangenen Exemplare im System, aber die Empfangshistorie wird entfernt.
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die gelöscht werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die gelöscht werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf **Aktionen > Löschen** klicken.
 3.  Im Dialogfeld **Bestellung löschen** auf **Löschen** klicken. Es erscheint eine Bestätigungsmeldung und die Bestellung wird gelöscht.

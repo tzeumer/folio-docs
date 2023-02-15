@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-## MARC Normdatensätzen über [📱Datenimport](https://info.gbv.de/pages/viewpage.action?pageId=839188636) aktualisieren.
+## MARC Normdatensätzen über [📱Datenimport]({{< ref "020 Datenimport" >}}) aktualisieren.
 
 ##
 MARC-Normdatensätzen über quickMARC bearbeiten

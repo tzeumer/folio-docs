@@ -13,8 +13,8 @@ Die Anzeige von Plattformen, für die Vereinbarungen gelten, ist nur möglich, w
 
 Es können Plattformen angezeigt werden, indem auf die Registerkarte **Lokale KB-Suche** geklickt und **Plattformen** in der Ansicht **Suchen & Filtern** ausgewählt wird.
 
-In der Ansicht **Plattformen** auf eine Plattform klicken, um sie anzuzeigen. Die Ansicht Plattformdetails mit zusätzlichen Informationen über die Plattform wird angezeigt. Das Feld Lokalisierer wird mit der Basis-URL der Plattform aus der internen KB gefüllt. Den Code für die lokale Plattform ist unter [Plattformen bearbeiten](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Plattform+bearbeiten) zu finden. Die folgenden Akkordeons werden ebenfalls angezeigt:
+In der Ansicht **Plattformen** auf eine Plattform klicken, um sie anzuzeigen. Die Ansicht Plattformdetails mit zusätzlichen Informationen über die Plattform wird angezeigt. Das Feld Lokalisierer wird mit der Basis-URL der Plattform aus der internen KB gefüllt. Den Code für die lokale Plattform ist unter [Plattformen bearbeiten]({{< ref "180 Plattform bearbeiten" >}}) zu finden. Die folgenden Akkordeons werden ebenfalls angezeigt:
 
-**Anpassungseinstellungen für Plattform-URLs**. Siehe [URL-Anpassungen hinzufügen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Plattform+bearbeiten).
+**Anpassungseinstellungen für Plattform-URLs**. Siehe [URL-Anpassungen hinzufügen]({{< ref "180 Plattform bearbeiten" >}}).
 
-**Plattform-Proxyserver-Einstellungen**. Unter [Einstellungen > Lokaler KB-Admin > Proxyservereinstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Lokale+KB-Verwaltung%29%3A+Proxyservereinstellungen) kann eine Proxy-Server-Einstellung hinzugefügt und Plattformen nacheinander ausgeschlossen werden. Jede Plattform, die nicht in der Liste der ausgeschlossenen Plattformen aufgeführt ist, enthält eine generierte Liste von Proxy-URLs.
+**Plattform-Proxyserver-Einstellungen**. Unter [Einstellungen > Lokaler KB-Admin > Proxyservereinstellungen]({{< ref "020 Proxyservereinstellungen" >}}) kann eine Proxy-Server-Einstellung hinzugefügt und Plattformen nacheinander ausgeschlossen werden. Jede Plattform, die nicht in der Liste der ausgeschlossenen Plattformen aufgeführt ist, enthält eine generierte Liste von Proxy-URLs.

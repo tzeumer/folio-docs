@@ -11,8 +11,8 @@ Description: "
 
 Es gibt zwei Methoden, um eine Liste aller Vorgänge für ein Budget anzuzeigen:
 
-* Von einem Fonds aus: [Den Fonds suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), für den Vorgänge angezeigt werden sollen und ihn auswählen, um die Ansicht der Fondsdetails zu öffnen. Auf **Aktionen > Vorgänge für das aktuelle Budget anzeigen** klicken.
-* Von einem Budget aus: [Das Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), für das Vorgänge angezeigt werden sollen und es auswählen. Im Fenster **Budgetdetails** unter Vorgänge auf **Vorgänge anzeigen** klicken. Das Fenster Vorgänge öffnet sich und zeigt alle Vorgänge an.
+* Von einem Fonds aus: [Den Fonds suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), für den Vorgänge angezeigt werden sollen und ihn auswählen, um die Ansicht der Fondsdetails zu öffnen. Auf **Aktionen > Vorgänge für das aktuelle Budget anzeigen** klicken.
+* Von einem Budget aus: [Das Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), für das Vorgänge angezeigt werden sollen und es auswählen. Im Fenster **Budgetdetails** unter Vorgänge auf **Vorgänge anzeigen** klicken. Das Fenster Vorgänge öffnet sich und zeigt alle Vorgänge an.
 
 ## Budgetvorgänge suchen
 
@@ -37,7 +37,7 @@ Um Vorgänge nach Typ zu filtern, eine der folgenden Möglichkeiten wählen:
 
 Um Vorgänge nach Quelle zu filtern, eine der folgenden Möglichkeiten wählen:
 
-* **Haushaltsjahr**. Vorgänge, die während des Jahresübergangs des Haushaltsjahres generiert wurden. Zum Beispiel automatische Zuweisungen während des Jahresübergangs, wie in [Einstellungen für den Jahresübergan](https://info.gbv.de/pages/viewpage.action?pageId=850002063)g definiert.
+* **Haushaltsjahr**. Vorgänge, die während des Jahresübergangs des Haushaltsjahres generiert wurden. Zum Beispiel automatische Zuweisungen während des Jahresübergangs, wie in [Einstellungen für den Jahresübergang]({{< ref "150 Jahresuebergang durchfuehren" >}})g definiert.
 * **Rechnung**. Vorgänge, die durch die Rechnungsstellung generiert werden, insbesondere Vorgangsarten wie Gutschrift und Ausstehende Zahlung.
 * **Bestellposten**. Vorgänge, die aus einem Bestellposten generiert werden, insbesondere Bindungs-Vorgangsarten.
 * **Personen**. Vorgänge, die von einer Person über das Aktionsmenü des Fonds erstellt wurden, insbesondere die Transaktionsarten Zugewiesen und Transferieren.
@@ -95,7 +95,7 @@ Um zusätzliche Informationen zu einer Transaktion anzuzeigen, auf die Transakti
 * **Betrag**. Betrag der Transaktion. Negative Werte stehen in Klammern.
 * **Quelle**. Haushaltsjahr oder Person.
 * **Typ**. Art des Vorgangs: Zuweisung.
-* **Von**. Fondsname und Fondscode, aus dem die Zuweisung in dieses Budget erfolgt ist, falls zutreffend. Weitere Informationen sind unter [Folio: Budget Mittel zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Budget+Mittel+zuweisen) zu finden.
+* **Von**. Fondsname und Fondscode, aus dem die Zuweisung in dieses Budget erfolgt ist, falls zutreffend. Weitere Informationen sind unter [Budget Mittel zuweisen]({{< ref "090 Budget Mittel zuweisen" >}}) zu finden.
 * **Zu/auf**. Fondsname und Fondscode dieses Budgets, in das die Zuweisung erfolgt ist.
 * **Kostenart**. Dieses Feld bleibt bei Vorgängen für Zuweisungen leer, da Kostenarten für Zuweisungen vom System nicht unterstützt werden.
 * **Tags**. Alle mit dem Vorgang verbundenen Tags.
@@ -128,7 +128,7 @@ Wenn ein Auftrag geöffnet wird, der einen Bestellposten mit einer Fondsaufteilu
 
 #### Bindungen manuelle freigeben
 
-Wenn eine Bestellung freigegeben werden muss, ist diese Aktion über die Vorgangsdetails des belasteten Budgets verfügbar. Dies kann erforderlich sein, um Forderungen im Zusammenhang mit laufenden Aufträgen zu verwalten. Um eine Bindung freizugeben, muss die Person über [die Berechtigung](https://info.gbv.de/pages/viewpage.action?pageId=839188622) Finanzen: Manuelle Freigabe der Bindung zugewiesen sein.
+Wenn eine Bestellung freigegeben werden muss, ist diese Aktion über die Vorgangsdetails des belasteten Budgets verfügbar. Dies kann erforderlich sein, um Forderungen im Zusammenhang mit laufenden Aufträgen zu verwalten. Um eine Bindung freizugeben, muss die Person über [die Berechtigung]({{< ref "080 Person Rechte zuweisen" >}}) Finanzen: Manuelle Freigabe der Bindung zugewiesen sein.
 
 Um eine Bindung freizugeben, folgendermaßen vorgehen:
 
@@ -154,7 +154,7 @@ Wenn eine Rechnung freigegeben wird, wird ein Vorgangsdatensatz der Art **Ausst
 
 ### Jahresübergangs-Transfervorgängen anzeigen
 
-Der Prozess des Jahresübergangs erstellt Transfervorgänge, wenn die [Einstellungen für den Jahresübergang](https://info.gbv.de/pages/viewpage.action?pageId=850002063) so definiert sind, dass Transfers in neue Haushaltsjahrbudgets durchgeführt werden.
+Der Prozess des Jahresübergangs erstellt Transfervorgänge, wenn die [Einstellungen für den Jahresübergang]({{< ref "150 Jahresuebergang durchfuehren" >}}) so definiert sind, dass Transfers in neue Haushaltsjahrbudgets durchgeführt werden.
 
 ### Transfervorgängen anzeigen
 

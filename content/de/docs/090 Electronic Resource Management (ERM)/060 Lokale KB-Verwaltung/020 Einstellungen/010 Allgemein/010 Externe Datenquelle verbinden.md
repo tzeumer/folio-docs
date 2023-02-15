@@ -11,7 +11,7 @@ Description: "
 
 Die App Lokale KB-Verwaltung bietet die Möglichkeit, externe Datenquellen zu konfigurieren, die dann in regelmäßigen Abständen auf Änderungen der Metadaten abgefragt werden. Die externe Quelle wird dadurch in der lokalen KB synchron gehalten und kann als Grundlage für Vereinbarungskomponenten in der App eManagement dienen. Um dem System eine externe Datenquelle hinzuzufügen, folgendermaßen vorgehen
 
-1.  [Einstellungen > Lokale KB-Verwaltung > Externe Datenquellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Lokale+KB-Verwaltung%29%3A+Externe+Datenquelle+verbinden) öffnen.
+1.  [Einstellungen > Lokale KB-Verwaltung > Externe Datenquellen]({{< ref "010 Externe Datenquelle verbinden" >}}) öffnen.
 2.  In der Ansicht **Externe Datenquellen** auf **Neu** klicken, um eine neue Datenquelle zum System hinzuzufügen.
 3.  Die Pflichtfelder ausfüllen. Weitere Informationen zu den Feldern sind in den Abschnittsbeschreibungen unten zu finden.
 4.  Sobald alle Informationen über die externe Datenquelle eingegeben wurden, auf **Speichern** klicken. Der Harvester wird bei seinem nächsten Lauf Daten aus der neuen Quelle abrufen.

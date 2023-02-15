@@ -9,4 +9,4 @@ Description: "
     "
 ---
 
-MARC Normdatensätze werden über den [📱Datenimport](https://info.gbv.de/pages/viewpage.action?pageId=839188636) erstellt.
+MARC Normdatensätze werden über den [📱Datenimport]({{< ref "020 Datenimport" >}}) erstellt.

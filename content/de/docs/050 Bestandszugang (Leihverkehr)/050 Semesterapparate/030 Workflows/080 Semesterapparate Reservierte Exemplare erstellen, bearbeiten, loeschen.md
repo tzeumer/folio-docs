@@ -17,7 +17,7 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 
 ### Exemplar ist im Katalog vorhanden
 
-1.  Den [Kurs suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Semesterapparate+Suche+nach+Kursen+und+reservierten+Exemplaren) und ihn in der **Kurse**\-Ansicht anklicken.
+1.  Den [Kurs suchen]({{< ref "010 Semesterapparate Suche nach Kursen und reservierten Exemplaren" >}}) und ihn in der **Kurse**\-Ansicht anklicken.
 2.  Im Bereich **Exemplare** entweder den Barcode des Exemplars in das Feld einscannen oder den Barcode eingeben und auf Exemplar hinzufügen klicken. Das Exemplar wird dem Kurs hinzugefügt und erscheint im Bereich Exemplare.
 
 Anmerkung: Wenn ein Exemplar für einen Kurs reserviert wird, kopiert FOLIO Informationen aus dem Katalog in den Exemplar-Datensatz, um die Suche in der App Semesterapparate zu ermöglichen.
@@ -54,7 +54,7 @@ Wird ein Exemplar bearbeitet, können in den folgenden Feldern Informationen ge�
 3.  **Bearbeitungsstatus**. Dieses Feld gilt nur für die App Semesterapparate und ist als Suchfilter für Reservierte Exemplare verfügbar.
 4.  **Startdatum und Enddatum**. Wenn ein Exemplar reserviert wird, werden das Anfangs- und das Enddatum von der ausgewählten Laufzeit übernommen.
 5.  **Copyright-Informationen**. Dieser Abschnitt erleichtert die Einhaltung des Urheberrechts.
-1.  Den [Kurs suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Semesterapparate+Suche+nach+Kursen+und+reservierten+Exemplaren) suchen, in dem ein Exemplar bearbeitet werden soll und ihn in der **Kurse**\-Ansicht anklicken.
+1.  Den [Kurs suchen]({{< ref "010 Semesterapparate Suche nach Kursen und reservierten Exemplaren" >}}) suchen, in dem ein Exemplar bearbeitet werden soll und ihn in der **Kurse**\-Ansicht anklicken.
 2.  Im Abschnitt **Exemplare** das Exemplar suchen und auf das **Bleistiftsymbol** klicken.
 3.  Im Fenster **Exemplartitel: \[Titel\]** die Änderungen vornehmen.
 4.  Auf **Speichern & schließen** klicken. Das Exemplar wird aktualisiert.
@@ -76,6 +76,6 @@ Der häufigste Anwendungsfall für diese Felder ist, wenn ein elektronisches Exe
 
 Anmerkung: Wenn ein Exemplar aus einem Kurs entfernt wird, wird es nicht aus der Katalog App entfernt. Wenn das reservierte Exemplar einen temporären Standort vom Kurs geerbt hat, wird durch das Entfernen des Exemplars aus dem Kurs der temporäre Standort aus dem Exemplar im Inventar entfernt.
 
-1.  Den [Kurs suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Semesterapparate+Suche+nach+Kursen+und+reservierten+Exemplaren) suchen, in dem ein Exemplar entfernt werden soll und ihn in der **Kurse**\-Ansicht anklicken.
+1.  Den [Kurs suchen]({{< ref "010 Semesterapparate Suche nach Kursen und reservierten Exemplaren" >}}) suchen, in dem ein Exemplar entfernt werden soll und ihn in der **Kurse**\-Ansicht anklicken.
 2.  Im Bereich **Exemplare** das Exemplar such und auf **Entfernen** klicken. Das Exemplar wird entfernt.
 

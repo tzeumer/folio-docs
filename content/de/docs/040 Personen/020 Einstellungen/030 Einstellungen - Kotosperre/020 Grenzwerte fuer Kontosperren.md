@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Grenzwerte legen die maximale Anzahl von Materialien, Vormerkungen, Forderungen oder Zeiträume für überfällige Ausleihen fest, bei deren Erreichen die unter [Einstellungen > Personen > Bedingungen für Kontosperren](https://info.gbv.de/pages/viewpage.action?pageId=841809962) konfigurierten Bedingungen auf das Konto einer Person angewendet werden. Grenzwerte werden auf der Grundlage von Personengruppen festgelegt. Weitere Informationen zum Einrichten von Personengruppen finden Sie unter [Einstellungen > Personen > Personengruppen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Personengruppen).
+Grenzwerte legen die maximale Anzahl von Materialien, Vormerkungen, Forderungen oder Zeiträume für überfällige Ausleihen fest, bei deren Erreichen die unter [Einstellungen > Personen > Bedingungen für Kontosperren]({{< ref "010 Bedingungen fuer Kontosperren" >}}) konfigurierten Bedingungen auf das Konto einer Person angewendet werden. Grenzwerte werden auf der Grundlage von Personengruppen festgelegt. Weitere Informationen zum Einrichten von Personengruppen finden Sie unter [Einstellungen > Personen > Personengruppen]({{< ref "020 Personengruppen" >}}).
 
 ## Grenzwerte für Kontosperren erstellen
 

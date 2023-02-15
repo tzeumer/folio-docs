@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Adresstypen zu konfigurieren. Adresstypen werden verwendet, um die Adressen zu kategorisieren, die in den [Abschnitt Kontaktinformationen](https://info.gbv.de/pages/viewpage.action?pageId=840859861#Folio:Personanlegen(Entwurf)-Kontaktinformationen) eines Personendatensatzes eingegeben werden. Es könnten z. B. die Adresstypen Büro-, Arbeits- oder Privatadresse angelegt werden.
+Diese Einstellung wird verwendet, um Adresstypen zu konfigurieren. Adresstypen werden verwendet, um die Adressen zu kategorisieren, die in den [Abschnitt Kontaktinformationen]({{< ref "010 Person anlegen" >}}) eines Personendatensatzes eingegeben werden. Es könnten z. B. die Adresstypen Büro-, Arbeits- oder Privatadresse angelegt werden.
 
 Hinweis: Die Adresstypen sollten hier konfiguriert sein, bevor ein Import von Personendaten erfolgt, wenn Postadressen gespeichert werden sollen.
 

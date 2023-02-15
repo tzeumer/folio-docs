@@ -30,7 +30,7 @@ Sobald ein Exemplar zurückgebucht ist, erscheinen die folgenden Spalten in der 
 * **Barcode**. Der Barcode des Exemplars.
 * **Effektive Signatur Zeichenkette**. Die vollständige Signatur des Exemplars, einschließlich des Präfixes, des Suffixes und der Exemplarnummer, wie in der App Katalog konfiguriert.
 * **Standort**. Der dauerhafte Standort des Exemplars.
-* **Vor-Ort Nutzung**. Wenn die Vor-Ort Nutzung eines Exemplars erfasst wird, wird hier ein Haussymbol angezeigt. Andernfalls bleibt das Feld leer. Weitere Informationen sind unter [Folio: Rückgabe Vor-Ort Nutzung erfassen (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=843317317) zu finden.
+* **Vor-Ort Nutzung**. Wenn die Vor-Ort Nutzung eines Exemplars erfasst wird, wird hier ein Haussymbol angezeigt. Andernfalls bleibt das Feld leer. Weitere Informationen sind unter [Rückgabe Vor-Ort Nutzung erfassen]({{< ref "060 Rueckgabe Vor-Ort Nutzung erfassen" >}}) zu finden.
 * **Status**. Der Status des Exemplars nach der Rückgabe.
 * **Aktionen**. Auf ..., klicken um zusätzliche Exemplarinformationen anzuzeigen oder die Aktionen zu sehen, die für den Artikel durchgeführt werden können. Weitere Informationen sind unter Zusätzliche Informationen zu einem Exemplar abrufen zu finden.
 

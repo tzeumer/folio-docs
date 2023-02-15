@@ -9,10 +9,10 @@ Description: "
     "
 ---
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich **Personendatensatz** bei Bedarf das Akkordeon **Anmerkungen** erweitern.
 3.  Auf **Neu** klicken
-4.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen.  Anmerkungstypen werden in der App "Einstellungen" erstellt. Weitere Informationen finden Sie unter [Einstellungen > Notizen](https://info.gbv.de/pages/viewpage.action?pageId=844890132).
+4.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen.  Anmerkungstypen werden in der App "Einstellungen" erstellt. Weitere Informationen finden Sie unter [Einstellungen > Notizen]({{< ref "010 Allgemein [Notiztypen anlegen, erstellen, loeschen]" >}}).
 5.  Einen **Anmerkungstitel** für die Anmerkung in das Feld eingeben.
 6.  Optional: In das Feld **Details** weitere Notizen eingeben.
 7.  Wenn diese Notiz als Pop-up erscheinen soll, wenn der Personendatensatz in der App Ausleihe und/oder Person geöffnet wird, das Kontrollkästchen App Ausleihe und/oder App Personen unter der Option **Notiz als Pop-up anzeigen** aktiviert.

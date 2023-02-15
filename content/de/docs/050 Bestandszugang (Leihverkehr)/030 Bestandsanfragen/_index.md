@@ -17,7 +17,7 @@ Bestandsanfragen auf Exemplarebene beziehen sich auf einen einzelnen Exemplardat
 
 Bestandsanfragen auf Titelebene werden auf Instanzebene gestellt. FOLIO wählt das Exemplar aus den Beständen dieser Instanz aus, um die Anfrage zu erfüllen, unabhängig davon, ob das Exemplar sofort verfügbar ist oder erst bei der Rückgabe des Exemplars verfügbar wird.
 
-Bibliotheken können Bestandsanfragen auf Titelebene unter [Einstellungen > Ausleihe > Bestandsanfragen auf Titelebene einschalten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Bestandsanfragen+auf+Titelebene).
+Bibliotheken können Bestandsanfragen auf Titelebene unter [Einstellungen > Ausleihe > Bestandsanfragen auf Titelebene einschalten]({{< ref "030 Bestandsanfragen auf Titelebene" >}}).
 
 Bibliotheken, die Bestandsanfragen auf Titelebene verwenden möchten, sollten dies berücksichtigen:
 

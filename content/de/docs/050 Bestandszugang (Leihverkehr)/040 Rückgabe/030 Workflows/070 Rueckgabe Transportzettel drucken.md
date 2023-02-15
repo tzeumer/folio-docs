@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Wurde vergessen einen Transportzettel auszudrucken oder Transportzettel standardmäßig ausgeschaltet sind, kann ein Transportzettel ausgedruckt werden, nachdem Sie ein Exemplar zurückgebucht wurde. Transportzettel werden in der [App Einstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Dienstzettel) konfiguriert.
+Wurde vergessen einen Transportzettel auszudrucken oder Transportzettel standardmäßig ausgeschaltet sind, kann ein Transportzettel ausgedruckt werden, nachdem Sie ein Exemplar zurückgebucht wurde. Transportzettel werden in der [App Einstellungen]({{< ref "030 Dienstzettel" >}}) konfiguriert.
 
-1.  [Folio: Rückgabe eines Exemplars (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=843317296) durchführen
+1.  [Rückgabe eines Exemplars]({{< ref "010 Rueckgabe eines Exemplars" >}}) durchführen
 2.  In der Spalte **Aktionen** auf **... > Transportzettel drucken** klicken.

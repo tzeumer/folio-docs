@@ -66,7 +66,7 @@ Um nach Organisationen zu suchen, die in einer bestimmten Sprache kommunizieren,
 
 ## Zahlungsart
 
-Um Organisationen nach ihrer standardmäßigen Zahlungsart zu filtern, wie sie im [Abschnitt Lieferanteninformationen eines Lieferantendatensatzes](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Lieferanten+anlegen) angegeben ist, eine der folgenden Optionen wählen:
+Um Organisationen nach ihrer standardmäßigen Zahlungsart zu filtern, wie sie im [Abschnitt Lieferanteninformationen eines Lieferantendatensatzes]({{< ref "020 Organisation als Lieferanten anlegen" >}}) angegeben ist, eine der folgenden Optionen wählen:
 
 * **Bargeld**. Voreingestellte Zahlungsart ist Bargeld.
 * **Kreditkarte**. Voreingestellte Zahlungsart der Kreditkarte.

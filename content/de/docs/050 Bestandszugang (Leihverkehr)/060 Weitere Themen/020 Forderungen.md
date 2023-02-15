@@ -64,7 +64,7 @@ In FOLIO steht ein/e Forderungseigentümer/-in für die Person oder die Dienstst
 
 Ist geplant, Forderungen zu erheben, muss mindestens ein Forderungseigentümer/-in eingerichtet werden. FOLIO verlangt nicht, dass ein/e Forderungseigentümer/-in ein bestimmte Abteilung oder einen Teil eines Bibliothekssystems repräsentiert. Ein/e Forderungseigentümer/-in kann eine Einzelperson, eine bestimmte Dienststelle oder eine bestimmte Bibliothek repräsentieren.
 
-Forderungseigentümer/-in werden unter [Einstellungen > Personen > Forderungen > Eigentümer/-in konfiguriert](https://info.gbv.de/pages/viewpage.action?pageId=841809942).
+Forderungseigentümer/-in werden unter [Einstellungen > Personen > Forderungen > Eigentümer/-in konfiguriert]({{< ref "010 ForderungseigentuemerIn" >}}).
 
 FOLIO-Bibliotheken sollten für jede Servicestelle in ihrem FOLIO-Mandanten einen Forderungseigentümer/-in konfigurieren, auch wenn sie nicht erwarten, dass Exemplare, die an einer bestimmten Servicestelle hängen, ausgeliehen werden und Forderungen generieren. Denn wenn eine solche Ausleihe stattfindet und der Servicestelle kein Forderungseigentümer/-in zugeordnet ist, wird die Forderungstransaktion fehlschlagen. Bibliotheken sollten daher einen Forderungseigentümer/-in für diese Servicestellen als Backup für den Fall einrichten, dass Forderungen anfallen.
 
@@ -110,7 +110,7 @@ Für manuelle Forderungen gibt es zwei Arten von Bescheiden, die verwendet werde
 
 Für beide Arten von Bescheiden können unter Einstellungen>Leihverkehr>Mitteilungen für Personen>Mitteilungsvorlagen für Personen Vorlagen erstellt werden. Für einen **Gebührenbescheid** die Bescheidkategorie "Manuelle Forderung" wählen. Für eine **Maßnahmenbescheid** wählen Sie die Kategorie "Manuelle Forderung (zahlen, erlassen, erstatten, überweisen oder stornieren/fehlerhaft)".
 
-Unter Einstellungen>PErsonen>Gebühren/Gebühren>Manuelle Gebühren kann der entsprechenden Forderungseigentümer/-in ausgewählt und einen **Gebührenbescheid** und einen **Maßnahmenbescheid** mit dieser manuellen Gebühr verknüpfen werden. Es können Standardvorlagen für Gebühren- und/oder Aktionsbescheide für den Eigentümer ausgewählt oder verschiedene Vorlagen für Gebührenbescheide für einzelne Arten von Forderungen festlegt werden.
+Unter Einstellungen>Personen>Gebühren/Gebühren>Manuelle Gebühren kann der entsprechenden Forderungseigentümer/-in ausgewählt und einen **Gebührenbescheid** und einen **Maßnahmenbescheid** mit dieser manuellen Gebühr verknüpfen werden. Es können Standardvorlagen für Gebühren- und/oder Aktionsbescheide für den Eigentümer ausgewählt oder verschiedene Vorlagen für Gebührenbescheide für einzelne Arten von Forderungen festlegt werden.
 
 Wenn eine manuelle Gebühr für das Konto einer Person erstellen oder eine Aktion auf eine bestehende Gebühr angewendet wird, kann über eine Checkbox auswählt werden, ob die Person benachrichtigt werden soll, wenn es eine entsprechende Vorlage gibt.
 

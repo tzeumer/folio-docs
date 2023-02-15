@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Die Vereinbarung suchen, die einen Tag erhalten soll](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen).
+1.  [Die Vereinbarung suchen, die einen Tag erhalten soll]({{< ref "020 Vereinbarung suchen" >}}).
 2.  In der Ansicht **Details der Vereinbarung** auf das **Tag-Symbol** klicken.
 3.  In der Ansicht **Tags wählen** entweder eine Tag aus dem Feld auswählen oder ein Tag eingeben.
 4.  Auf das **X** in der Ansicht Tag klicken, um die Ansicht zu schließen und den Tag zu speichern. Die Tag-Nummer wird auf die Anzahl der auf die Vereinbarung angewendeten Tags aktualisiert.

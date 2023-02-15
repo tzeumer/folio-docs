@@ -39,7 +39,3 @@ Um an FOLIO-Datensätze angehängte Anmerkungen zu verwalten, sind die folgenden
     Diese Berechtigung erlaubt es der Person, Notizen zu bearbeiten.
 * **Notizen: Kann eine Notiz anzeigen**. (Notes: Can view a note)
     Diese Berechtigung erlaubt es der Person, Notizen einzusehen.
-
-## Workflows
-
-* [Einstellungen (Notizen): Allgemein \[Notiztypen anlegen, erstellen, löschen\]](https://info.gbv.de/pages/viewpage.action?pageId=844890135)

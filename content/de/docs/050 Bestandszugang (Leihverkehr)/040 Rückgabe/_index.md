@@ -11,7 +11,7 @@ Description: "
 
 Mit der App Rückgabe werden Exemplare an einer Servicestelle bearbeitet, einschließlich Exemplare, die eine Person an die Bibliothek zurückgibt, Exemplare, die von einer Person angefordert wurden, oder Exemplare, die sich in Bearbeitung befinden. Die App Ausleihe auch verwenden, um eine interne Statistik zu erfassen.
 
-Zu Konfiguration der Dienstzettel, die bei der Rückgabe eines Exemplars erzeugt werden, wie z.B. bei einer Vormerkung, bitte [Dienstzettel](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Dienstzettel) für weitere Informationen lesen.
+Zu Konfiguration der Dienstzettel, die bei der Rückgabe eines Exemplars erzeugt werden, wie z.B. bei einer Vormerkung, bitte [Dienstzettel]({{< ref "030 Dienstzettel" >}}) für weitere Informationen lesen.
 
 ## Berechtigungen
 

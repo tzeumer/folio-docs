@@ -23,9 +23,9 @@ Der Abschnitt Verwaltungsdaten enthält technische Informationen über den Insta
 * **Titel-HRID**. Der Human Readable Identifier ("Menschenlesbare ID"), eine vom System zugewiesene sequentielle ID.
 * **Metadatenquelle (erforderlich)**. Format des Instanzdatensatzes, wenn ein Quelldatensatz vorhanden ist. Zum Beispiel FOLIO, wenn es sich um einen in Katalog erstellten Datensatz handelt, MARC, wenn es sich um einen in MARCcat erstellten MARC-Datensatz handelt, oder EPKB, wenn es sich um einen Datensatz aus eHoldings handelt. Das System ordnet die Quelle automatisch zu.
 * **Katalogisierungsdatum**. Datum, an dem eine Instanz als "katalogisiert" gilt.
-* **Instanz-Statustyp**. Wählen Sie den Typ des Instanzstatus, der dem Datensatz zugewiesen werden soll. Der Instanzstatus kann z.B. sein: katalogisiert, nicht katalogisiert, per Batch eingespielt oder noch nicht zugewiesen. Die Instanz-Statusbegriffe werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Instanz-Statustyp](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Instanz-Statustypen) zu finden.
+* **Instanz-Statustyp**. Wählen Sie den Typ des Instanzstatus, der dem Datensatz zugewiesen werden soll. Der Instanzstatus kann z.B. sein: katalogisiert, nicht katalogisiert, per Batch eingespielt oder noch nicht zugewiesen. Die Instanz-Statusbegriffe werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Instanz-Statustyp]({{< ref "060 Instanz-Statustypen" >}}) zu finden.
 * **Erscheinungsweise**. Eine bibliografische Kategorisierung, die angibt, ob eine Ressource in einem oder mehreren Teilen ausgegeben wird, wie sie aktualisiert wird und ob ihr Abschluss festgelegt ist oder nicht. Die Werte, die in der Dropdown-Liste unter Einstellungen > Katalog > Erscheinungsweisen erscheinen, können konfiguriert werden. Für in FOLIO erstellte Datensätze kann ein Wert zugewiesen werden, aber für Instanzdatensätze mit einem zugrundeliegenden MARC-Datensatz in der SRS-Datenbank wird der Wert anhand der festen MARC-Feldwerte bestimmt.
-* **Statistischer Code**. Statistische Codes sind lokal zugewiesene Werte, die zum Filtern und Sortieren von Datensätzen verwendet werden. Einem Datensatz können mehrere statistische Codes hinzugefügt werden. Statistische Codes werden von der Bibliothek in der App Einstellungen konfiguriert. Siehe [Einstellungen > Katalog > Statistische Codes](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Statistische+Codes) für weitere Informationen.
+* **Statistischer Code**. Statistische Codes sind lokal zugewiesene Werte, die zum Filtern und Sortieren von Datensätzen verwendet werden. Einem Datensatz können mehrere statistische Codes hinzugefügt werden. Statistische Codes werden von der Bibliothek in der App Einstellungen konfiguriert. Siehe [Einstellungen > Katalog > Statistische Codes]({{< ref "040 Statistische Codes" >}}) für weitere Informationen.
 * **Verwaltungsnotizen**. Verwaltungsnotizen sind Freitextfelder, in denen Informationen über den Instanzdatensatz oder die damit durchgeführten Aktionen erfasst werden können.
 
 ### Statistische Codes
@@ -67,7 +67,7 @@ Der Abschnitt Titeldaten enthält Informationen über den Titel der Ressource.
 ### Alternativen Titel hinzufügen
 
 1.  Auf **Alternativen Titel hinzufügen** klicken.
-2.  Den **Typ** des alternativen Titels aus der Dropdown-Liste wählen. Alternative Titeltypen werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Alternative Titelarten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Alternative+Titelarten) zu finden.
+2.  Den **Typ** des alternativen Titels aus der Dropdown-Liste wählen. Alternative Titeltypen werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Alternative Titelarten]({{< ref "010 Alternative Titelarten" >}}) zu finden.
 3.  Den **alternativen Titel** in das Feld eingeben.
 4.  Die Schritte 1-3 je nach Bedarf wiederholen. Der alternative Titel wird gespeichert, sobald die Instanz gespeichert wird.
 
@@ -117,7 +117,7 @@ Ein erweiterbarer Satz von Name-Wert-Paaren von Identifikatoren, die mit der Res
 Anmerkung: Das Hinzufügen eines Identifikators ist optional, aber wenn ein Identifikator hinzufügen geklickt wird, muss ein Typ eingeben oder der Identifikator gelöscht werden, um den Instanzdatensatz zu speichern.
 
 1.  Auf **Identifikator hinzufügen** klicken.
-2.  Den **Typ** aus der Dropdown-Liste wählen. Die Identifikatortypen werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Ressourcen-Identifikatorentypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Ressourcen-Identifikatorentypen) zu finden.
+2.  Den **Typ** aus der Dropdown-Liste wählen. Die Identifikatortypen werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Ressourcen-Identifikatorentypen]({{< ref "060 Instanz-Statustypen" >}}) zu finden.
 3.  Den Identifikator in das Feld eingeben.
 4.  Die Schritte 1-3 je nach Bedarf wiederholen. Der Identifikator wird gespeichert, sobald die Instanz gespeichert wird.
 
@@ -137,7 +137,7 @@ Anmerkung: Das Hinzufügen eines Mitwirkenden ist optional, aber wenn auf **Mit
 1.  Auf **Mitwirkende/-n hinzufügen** klicken.
 2.  Den **Namen** in das Feld eingeben.
 3.  Den **Namenstyp** aus der Dropdown-Liste auswählen.
-4.  Optional: Den **Typ** des Mitwirkenden aus der Dropdown-Liste wählen. Die Typen der Mitwirkenden werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Typen von Mitwirkenden](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Typen+von+Mitwirkenden) zu finden.
+4.  Optional: Den **Typ** des Mitwirkenden aus der Dropdown-Liste wählen. Die Typen der Mitwirkenden werden von der Bibliothek in der App Einstellungen konfiguriert. Weitere Informationen sind unter [Einstellungen > Katalog > Typen von Mitwirkenden]({{< ref "030 Typen von Mitwirkenden" >}}) zu finden.
 5.  Optional: Einen Rollentyp in das Feld **Typ, Freitext** eingeben.
 6.  Optional: Auf **Primär** klicken, um den Mitwirkenden zum primären Mitwirkenden zu machen.
 7.  Die Schritte 1-6 je nach Bedarf wiederholen. Der Mitwirkende wird gespeichert, sobald die Instanz gespeichert wird.
@@ -156,7 +156,7 @@ Beschreibende Daten enthalten deskriptive Informationen über die Ressource.
 * **Physische Beschreibungen**. Physische Beschreibung der beschriebenen Ressource, einschließlich ihres Umfangs, ihrer Abmessungen und anderer physischer Details.
 * **Ressourcentyp (erforderlich)**. Ein eindeutiger Begriff für die Ressource, der aus der Liste der RDA-Inhaltsbegriffe zugewiesen oder lokal definiert werden kann. Wird unter Einstellungen > Katalog > Ressourcentypen konfiguriert.
 * **Art des Inhalts**. Die Art des Inhalts ist eine RDA-Kategorisierung.
-* **Formate**. Ein eindeutiger Zeitraum für das Format, der aus der RDA-Trägerbegriffsliste ("RDA carrier term list") zugewiesen oder lokal definiert werden kann. Konfiguriert unter [Einstellungen > Katalog > Formate](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Formate).
+* **Formate**. Ein eindeutiger Zeitraum für das Format, der aus der RDA-Trägerbegriffsliste ("RDA carrier term list") zugewiesen oder lokal definiert werden kann. Konfiguriert unter [Einstellungen > Katalog > Formate]({{< ref "040 Formate" >}}).
 * **Sprachen**. Die von der Ressource verwendete Sprachen.
 * **Erscheinungsweise**. Das Intervall, in dem Serienausgaben veröffentlicht werden oder eine integrierende Ressource ("integrating resource") aktualisiert wird. Zum Beispiel täglich, wöchentlich, monatlich, vierteljährlich, usw.
 * **Veröffentlichungszeitraum**. Fortlaufenden Bezeichnung/Chronologie der Veröffentlichung, oder Datumsbereich.
@@ -230,7 +230,7 @@ Im Bereich Anmerkungen zur Instanz können beliebige Anmerkungen zum Instanzdate
 Anmerkung: Das Hinzufügen einer Anmerkung ist optional, aber wenn auf **Anmerkung hinzufügen** geklickt wird, muss eine Anmerkung eingeben oder die Anmerkung gelöscht werden, um den Instanzdatensatz zu speichern.
 
 1.  Auf **Anmerkung hinzufügen** klicken.
-2.  Den **Anmerkungstyp** aus der Dropdown-Liste auswählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > Katalog > Anmerkungstypen der Instanz](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Anmerkungstypen+der+Instanz) konfiguriert werden.
+2.  Den **Anmerkungstyp** aus der Dropdown-Liste auswählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > Katalog > Anmerkungstypen der Instanz]({{< ref "050 Anmerkungstypen der Instanz" >}}) konfiguriert werden.
 3.  Eine **Anmerkung** in das Feld eingeben.
 4.  Optional: Wenn die Anmerkung nur für Mitarbeitende mit der Berechtigung "Katalog: Für das Personal unterdrückte Instanzdatensätze anzeigen" angezeigt werden soll, die Checkbox Nur Personal markieren.
 5.  Die Schritte 1-4 nach Bedarf wiederholen. Die Anmerkung wird gespeichert, sobald die Instanz gesüpeichert wird.
@@ -285,7 +285,7 @@ Im Abschnitt Klassifikation können Informationen zur Klassifikation der Ressour
 Anmerkung: Das Hinzufügen einer Klassifikation ist optional, aber wenn Sie auf Klassifikation hinzufügen klicken, müssen Sie einen Klassifikationsidentifikatortyp und eine Klassifikation eingeben oder die Klassifikation löschen, um den Instanzdatensatz zu speichern.
 
 1.  Auf **Klassifikation hinzufügen** klicken.
-2.  Einen **Klassifikations-Identifikatorentyp** aus der Dropdown-Liste wählen. Konfiguriert in [Einstellungen > Katalog > Klassifikations-Identifikatorentypen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Katalog%29%3A+Klassifikations-Identifikatorentypen).
+2.  Einen **Klassifikations-Identifikatorentyp** aus der Dropdown-Liste wählen. Konfiguriert in [Einstellungen > Katalog > Klassifikations-Identifikatorentypen]({{< ref "020 Klassifikations-Identifikatorentypen" >}}).
 3.  Eine **Klassifikation** in das Feld eingeben.
 4.  Die Schritte 1-3 je nach Bedarf wiederholen. Die Klassifikation wird gespeichert, sobald die Instanz gespeichert wird.
 

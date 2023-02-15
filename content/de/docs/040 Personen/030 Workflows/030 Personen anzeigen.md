@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Nach einer [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen) werden die folgenden Informationen im Ergebnisbereich der Personensuche angezeigt:
+Nach einer [Personen suchen]({{< ref "020 Personen suchen" >}}) werden die folgenden Informationen im Ergebnisbereich der Personensuche angezeigt:
 
 * **Name**. Name des Person. Nachname, Vorname oder Nachname, bevorzugter Vorname (Vorname)
 * **Aktiv**. Der Status der Person.
@@ -22,35 +22,35 @@ Im Bereich der Personensuchergebnisse auf einen Personendatensatz klicken, um ih
 
 ## Personeninformationen
 
-Informationen zu den Feldern, die im Abschnitt Personeninformationen angezeigt werden, sind unter [Folio: Person anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+anlegen) > Benutzerinformationen zu finden.
+Informationen zu den Feldern, die im Abschnitt Personeninformationen angezeigt werden, sind unter [Person anlegen]({{< ref "010 Person anlegen" >}}) > Benutzerinformationen zu finden.
 
 ## Kontosperren
 
-Im Abschnitt Kontosperren werden alle Sperren im Benutzerdatensatz angezeigt und manuelle Sperren erstellt. Weitere Informationen zu manuellen Sperren sind unter [Erstellen einer manuellen Kontosperre](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Kontosperren) aufgeführt.
+Im Abschnitt Kontosperren werden alle Sperren im Benutzerdatensatz angezeigt und manuelle Sperren erstellt. Weitere Informationen zu manuellen Sperren sind unter [Erstellen einer manuellen Kontosperre]({{< ref "030 Einstellungen - Kotosperre" >}}) aufgeführt.
 
 Die Sperren der Benutzer werden in einer Tabelle angezeigt, wobei die jüngste Sperre zuerst aufgeführt wird.
 
 ## Erweiterte Informationen
 
-Informationen zu den Feldern, die im Abschnitt "Erweiterte Informationen" angezeigt werden, sind unter [Folio: Person anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+anlegen) > Erweiterte Informationen aufgeführt.
+Informationen zu den Feldern, die im Abschnitt "Erweiterte Informationen" angezeigt werden, sind unter [Person anlegen]({{< ref "010 Person anlegen" >}}) > Erweiterte Informationen aufgeführt.
 
 ## Kontaktinformationen
 
-Informationen zu den Feldern, die im Abschnitt Kontaktinformationen angezeigt werden, sind unter [Folio: Person anlegen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+anlegen) > Kontaktinformationen aufgeführt.
+Informationen zu den Feldern, die im Abschnitt Kontaktinformationen angezeigt werden, sind unter [Person anlegen]({{< ref "010 Person anlegen" >}}) > Kontaktinformationen aufgeführt.
 
 ## Benutzerdefinierte Felder
 
-Benutzerdefinierte Felder werden von der eigenen Institution konfiguriert und ermöglichen zusätzliche Informationen im Personendatensatz. Weitere Informationen zu benutzerdefinierten Feldern sind unter [Einstellungen > Benutzer > Benutzerdefinierte Felder](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Benutzerdefinierte+Felder) aufgeführt.
+Benutzerdefinierte Felder werden von der eigenen Institution konfiguriert und ermöglichen zusätzliche Informationen im Personendatensatz. Weitere Informationen zu benutzerdefinierten Feldern sind unter [Einstellungen > Benutzer > Benutzerdefinierte Felder]({{< ref "050 Benutzerdefinierte Felder" >}}) aufgeführt.
 
 ## Vollmachen
 
-Der Abschnitt Vollmachten zeigt alle mit dem Personendatensatz verbundenen Bevollmächtigten oder Sponsoren an. Weitere Informationen zum Hinzufügen eines Sponsors oder Bevollmächtigten sind unter [Folio: Person Vollmachtgebende zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Vollmachtgebende+zuweisen) und [Folio: Person Bevollmächtigte zuweisen](https://info.gbv.de/pages/viewpage.action?pageId=840859875) aufgeführt.
+Der Abschnitt Vollmachten zeigt alle mit dem Personendatensatz verbundenen Bevollmächtigten oder Sponsoren an. Weitere Informationen zum Hinzufügen eines Sponsors oder Bevollmächtigten sind unter [Person Vollmachtgebende zuweisen]({{< ref "060 Person Vollmachtgebende zuweisen" >}}) und [Person Bevollmächtigte zuweisen]({{< ref "070 Person Bevollmaechtigte zuweisen" >}}) aufgeführt.
 
 ## Forderungen
 
 Der Abschnitt Forderungen zeigt die Anzahl der offenen und geschlossenen Forderungen an. Um zusätzliche Details zu den offenen oder geschlossenen Forderungen der Person anzuzeigen, das Akkordeon Forderungen erweitern und auf offene  Forderungen bzw. geschlossene Forderungen  klicken . Um alle  Forderungen  anzuzeigen, auf Alle Forderungen anzeigen klicken. Weitere Informationen sind unter Gebühren/Geldbußen aufgeführt.
 
-Sie können im Abschnitt Forderungen auch manuelle Forderungen erstellen. Weitere Informationen sind unter [Einstellungen (Personen): Manuelle Kosten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Manuelle+Kosten) aufgeführt.
+Sie können im Abschnitt Forderungen auch manuelle Forderungen erstellen. Weitere Informationen sind unter [Einstellungen (Personen): Manuelle Kosten]({{< ref "020 Manuelle Kosten" >}}) aufgeführt.
 
 ## Ausleihen
 
@@ -76,12 +76,12 @@ Es können auch Bestandsanfragen für die Person Benutzer erstellt werden, indem
 
 ## Systemberechtigungen
 
-Im Abschnitt Systemberechtigungen werden alle dem Personendatensatz zugewiesenen Berechtigungen angezeigt. Weitere Informationen zum Zuweisen von Berechtigungen finden Sie unter [Zuweisen von Berechtigungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+zuweisen) zu einem Personendatensatz.
+Im Abschnitt Systemberechtigungen werden alle dem Personendatensatz zugewiesenen Berechtigungen angezeigt. Weitere Informationen zum Zuweisen von Berechtigungen finden Sie unter [Zuweisen von Berechtigungen]({{< ref "080 Person Rechte zuweisen" >}}) zu einem Personendatensatz.
 
 ## Servicestellen
 
-Im Abschnitt Servicestellen werden alle dem Personendatensatz zugewiesenen Servicestellen angezeigt, einschließlich der Servicestelleneinstellungen der Person, falls zutreffend. Weitere Informationen zum Hinzufügen einer Servicestellen sind unter [Folio: Person Servicestelle zuweisen oder entfernen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Servicestelle+zuweisen+oder+entfernen) aufgeführt,
+Im Abschnitt Servicestellen werden alle dem Personendatensatz zugewiesenen Servicestellen angezeigt, einschließlich der Servicestelleneinstellungen der Person, falls zutreffend. Weitere Informationen zum Hinzufügen einer Servicestellen sind unter [Person Servicestelle zuweisen oder entfernen]({{< ref "100 Person Servicestelle zuweisen oder entfernen" >}}) aufgeführt,
 
 ## Anmerkungen
 
-Der Abschnitt Anmerkungen zeigt alle Anmerkungen über die Person an. Weitere Informationen zu Anmerkungen sind unter [Folio: Person Anmerkung hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=841416763)
+Der Abschnitt Anmerkungen zeigt alle Anmerkungen über die Person an. Weitere Informationen zu Anmerkungen sind unter [Person Anmerkung hinzufügen]({{< ref "140 Person Anmerkung hinzufuegen" >}})

@@ -17,10 +17,10 @@ Description: "
 
 * **Name (erforderlich)**. Der Titel des Vereinbarungsdatensatzes.
 * **Beschreibung**. Eine Beschreibung der Vereinbarung eingeben.
-* **Status (erforderlich)**. Aus der Dropdown-Liste den Status der Vereinbarung auswählen. Zum Beispiel: Aktiv oder Geschlossen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+* **Status (erforderlich)**. Aus der Dropdown-Liste den Status der Vereinbarung auswählen. Zum Beispiel: Aktiv oder Geschlossen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}})
 * **Grund für die Schließung**. Diese Option ist nur verfügbar, wenn in der Dropdown-Liste Status die Option Geschlossen ausgewählt wurde. Dann in der Dropdown-Liste auswählen, warum die Vereinbarung geschlossen wurde. Die Werte, die in der Dropdown-Liste erscheinen, können unter Einstellungen > Vereinbarungen > Werte der Auswahlliste konfiguriert werden.
-* **Verlängerungspriorität**. Aus der Dropdown-Liste den Stand des Interesses an der Verlängerung der Vereinbarung wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
-* **Dauerhafter Zugriff**. Wenn die Vereinbarung einen unbefristeten Zugriff auf die gekauften Ressourcen vorsieht, **Ja** wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+* **Verlängerungspriorität**. Aus der Dropdown-Liste den Stand des Interesses an der Verlängerung der Vereinbarung wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}}) konfiguriert werden.
+* **Dauerhafter Zugriff**. Wenn die Vereinbarung einen unbefristeten Zugriff auf die gekauften Ressourcen vorsieht, **Ja** wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}}) konfiguriert werden.
 * **Alternativer Name**. Alternative Namen für den Datensatz der Vereinbarung.
 
 ### Alternativen Namen hinzufügen
@@ -77,7 +77,7 @@ Interne Kontakte sind in der Regel die Personen innerhalb der Bibliothek, die be
 3.  Im Dialog **Person auswählen** den Namen oder einen Teil des Namens der Person in das Suchfeld in der Ansicht **Personensuche** eingeben und auf **Suche** klicken. Die Ergebnisse der Benutzersuche werden angezeigt.
 4.  (Optional) Die Ergebnisse nach Status oder nach Personengruppe filtern.
 5.  Auf die Person klicken, die ausgewählt werden soll. Die Person wird dem Datensatz der Vereinbarung als interner Kontakt hinzugefügt.
-6.  Die Rolle des internen Kontakts aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+6.  Die Rolle des internen Kontakts aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}}) konfiguriert werden.
 7.  Die Schritte 1-6 je nach Bedarf wiederholen. Die internen Kontakte werden gespeichert, sobald die Vereinbarung gespeichert wird.
 
 ### Internen Kontakt entfernen
@@ -87,13 +87,13 @@ Interne Kontakte sind in der Regel die Personen innerhalb der Bibliothek, die be
 
 ## Vereinbarungskomponenten
 
-Eine Vereinbarungskomponente steht für die Ressource, die von der Vereinbarung abgedeckt wird, z.B. ein Paket oder ein Titel. Soll eine Vereinbarungskomponente hinzugefügt werden, sollte der Fortschritt in dem von erstellten Vereinbarungsdatensatz gesichert oder gewartet werden, bis alle Vereinbarungsinformationen abgeschlossen und gesichert sind, bevor mit dem Prozess der Vereinbarungskomponenten begonnen wird. Anweisungen zum Hinzufügen von Vereinbarungskomponenten zu einem Datensatz sind unter [Folio: Vereinbarungskomponente hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=845250582) zu finden.
+Eine Vereinbarungskomponente steht für die Ressource, die von der Vereinbarung abgedeckt wird, z.B. ein Paket oder ein Titel. Soll eine Vereinbarungskomponente hinzugefügt werden, sollte der Fortschritt in dem von erstellten Vereinbarungsdatensatz gesichert oder gewartet werden, bis alle Vereinbarungsinformationen abgeschlossen und gesichert sind, bevor mit dem Prozess der Vereinbarungskomponenten begonnen wird. Anweisungen zum Hinzufügen von Vereinbarungskomponenten zu einem Datensatz sind unter [Vereinbarungskomponente hinzufügen]({{< ref "040 Vereinbarungskomponente hinzufuegen" >}}) zu finden.
 
 ## Informationen des Lizenzvertrags
 
 Im Abschnitt Informationen des Lizenzvertrags kann der Vereinbarungssdatensatz mit einem Lizenzdatensatz verknüpft werden. Es gibt zwei Arten von Lizenzen, die in diesem Abschnitt hinzufügt werden können: in der App Lizenzverträge erstellte Lizenzdatensätze oder externe Lizenzdatensätze (z.B. von einem Konsortium verwaltete Lizenzen).
 
-Anmerkung: Es können mehrere Lizenzverträge zu einem Vereinbarungsdatensatz hinzugefügt werden, aber nur einer kann der wirkende Lizenzvertrag sein. Alle anderen Lizenzverträge müssen als historisch oder zukünftig gekennzeichnet sein. Weitere Informationen sind in Schritt 6 unter [Lizenzvertrag (aus App: Lizenzverträge) hinzufügen zu einer Vereinbarung](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+anlegen) zu finden.
+Anmerkung: Es können mehrere Lizenzverträge zu einem Vereinbarungsdatensatz hinzugefügt werden, aber nur einer kann der wirkende Lizenzvertrag sein. Alle anderen Lizenzverträge müssen als historisch oder zukünftig gekennzeichnet sein. Weitere Informationen sind in Schritt 6 unter [Lizenzvertrag (aus App: Lizenzverträge) hinzufügen zu einer Vereinbarung]({{< ref "010 Vereinbarung anlegen" >}}) zu finden.
 
 ### Bemerkungen zur Lizenz hinzufügen
 
@@ -147,7 +147,7 @@ Organisationen sind alle Institutionen, mit denen die Bibliothek in Verbindung s
 3.  Im Dialog **Organisation wählen** im Suchfeld der Ansicht **Suche & Filter** den Namen der Organisation eingeben oder die Dropdown-Liste Alle verwenden, um nach bestimmten Organisationsparametern zu suchen, und auf **Suchen** klicken. Die Suchergebnisse werden in der Ansicht Organisationen angezeigt.
 4.  (Optional) Die Ergebnisse mit Hilfe der Filter in der Ansicht **Suche & Filter** filtern.
 5.  Auf die Organisation klicken, die ausgewählt werden soll. Die Organisation wird zum Datensatz der Vereinbarung hinzugefügt.
-6.  Die **Rolle** der Organisation aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+6.  Die **Rolle** der Organisation aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}}) konfiguriert werden.
 7.  (Optional) Im Feld **Notiz** Anmerkungen zu der Organisation eingeben.
 8.  Die Schritte 1-7 nach Bedarf wiederholen. Die Organisation wird gespeichert, sobald die Vereinbarung gespeichert wird.
 
@@ -166,7 +166,7 @@ Organisationen sind alle Institutionen, mit denen die Bibliothek in Verbindung s
 
 Ergänzende Eigenschaften sind eine optionale Möglichkeit, zusätzliche Informationen über die Vereinbarung zu erfassen, die nirgendwo sonst im Datensatz enthalten sind. Zum Beispiel die Authentifizierungsmethode, die für den Zugriff auf die von der Vereinbarung abgedeckte Ressourcen verwendet wird.
 
-Anmerkung: Dieser Abschnitt wird nur angezeigt, wenn zusätzliche Eigenschaften in der App Einstellungen konfiguriert sind. Weitere Informationen zum Einrichten von Eigenschaften sind unter [Einstellungen > eManagement > Ergänzende Eigenschaften](https://info.gbv.de/pages/viewpage.action?pageId=847085641) zu finden.
+Anmerkung: Dieser Abschnitt wird nur angezeigt, wenn zusätzliche Eigenschaften in der App Einstellungen konfiguriert sind. Weitere Informationen zum Einrichten von Eigenschaften sind unter [Einstellungen > eManagement > Ergänzende Eigenschaften]({{< ref "020 Ergaenzende Eigenschaften" >}}) zu finden.
 
 ### Primär-Eigenschaften ausfüllen
 
@@ -200,7 +200,7 @@ Ein ergänzendes Dokument ist jedes zusätzliche Dokument, das für den Datensat
 
 1.  Auf **Ergänzendes Dokumente hinzufügen** klicken.
 2.  Einen **Namen** in das Feld eingeben.
-3.  Eine **Kategorie** aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Auswahllistenwerte) konfiguriert werden.
+3.  Eine **Kategorie** aus der Dropdown-Liste wählen. Die Werte, die in der Dropdown-Liste erscheinen, können unter [Einstellungen > eManagement > Auswahllistenwerte]({{< ref "010 Auswahllisten_em" >}}) konfiguriert werden.
 4.  (Optional) Eine Notiz zu dem Ergänzenden Dokumente eingeben.
 5.  Es muss mindestens einer der folgenden Schritte ausgeführt werden:
     * Eine Datei in den Datensatz der Vereinbarung hochladen, indem die Datei per **Drag & Drop** in das Feld Hochladen gezogen wird oder eine **Datei ausgewählt** wird.

@@ -13,4 +13,4 @@ Um ein Protokoll der Bestellungen anzuzeigen, die an eine Lieferanten übermitte
 
 1.  Die Organisation suchen und auswählen, für die ein Exportprotokoll angezeigt werden soll.
 2.  In der Ansicht **Organisationsdetails** auf **Aktionen > Exportprotokoll anzeigen** klicken.
-3.  Die App Export Manager öffnet sich und zeigt in der Ansicht Suche & Filter die Exporte an, die sich auf den ausgewählte Lieferanten beziehen. Weitere Informationen zum Anzeigen von Exportaufträgen sind unter [Exportmanager](https://info.gbv.de/pages/viewpage.action?pageId=845709333) zu finden.
+3.  Die App Export Manager öffnet sich und zeigt in der Ansicht Suche & Filter die Exporte an, die sich auf den ausgewählte Lieferanten beziehen. Weitere Informationen zum Anzeigen von Exportaufträgen sind unter [Exportmanager]({{< ref "docs/100 Exportmanager" >}}) zu finden.

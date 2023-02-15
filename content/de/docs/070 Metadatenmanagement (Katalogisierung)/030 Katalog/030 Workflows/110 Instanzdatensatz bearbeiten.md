@@ -11,7 +11,7 @@ Description: "
 
 ## Instanzdatensatz bearbeiten
 
-1.  [Die Instanz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), die bearbeitet werden soll und sie auswählen.
+1.  [Die Instanz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), die bearbeitet werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** auf **Aktionen > Bearbeiten** klicken.
 3.  Die gewünschten Änderungen an dem Instanzdatensatz vornehmen.
 4.  Auf **Speichern und schließen** klicken. Der Instanzdatensatz wird aktualisiert.
@@ -22,7 +22,7 @@ Siehe Bearbeiten eines MARC-Eintrags mit quickMARC.
 
 ## Aktualisieren eines Instanzdatensatzes mit zugrunde liegendem MARC unter Verwendung der Aktion Überlagern des bibliografischen Quellendatensatzes in FOLIO
 
-1.  [Die Instanz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), die bearbeitet werden soll und sie auswählen.
+1.  [Die Instanz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), die bearbeitet werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** auf **Aktionen > Quellbibliographischen Datensatz überlagern** klicken.
 3.  Im Dialogfeld **Einzeldatensatz-Import** die Quelle des zu importierenden Datensatzes (z.B. Library of Congress, OCLC WorldCat, BnF) wählen.
 4.  Die Datensatznummer ohne Präfixe in das Feld **\[Quellenidentifikator\] eingeben** eingeben.

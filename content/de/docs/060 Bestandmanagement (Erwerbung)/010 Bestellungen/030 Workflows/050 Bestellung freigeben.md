@@ -9,9 +9,9 @@ Description: "
     "
 ---
 
-Eine Bestellung muss nur freigegeben werden, wenn die Einstellung Genehmigungen erforderlich aktiviert ist. Weitere Informationen sind unter [Einstellungen > Bestellungen > Freigaben](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Bestellungen%29%3A+Freigaben) zu finden. Wenn diese Einstellung aktiviert wurde, werden auch die entsprechenden Berechtigungen benötigt, um die Bestellung genehmigen zu können. Eine Bestellung kann geöffnet werden, sobald sie freigegeben ist.
+Eine Bestellung muss nur freigegeben werden, wenn die Einstellung Genehmigungen erforderlich aktiviert ist. Weitere Informationen sind unter [Einstellungen > Bestellungen > Freigaben]({{< ref "docs/060 Bestandmanagement (Erwerbung)/050 Rechnungen/020 Einstellungen/010 Allgemein/010 Freigaben" >}}) zu finden. Wenn diese Einstellung aktiviert wurde, werden auch die entsprechenden Berechtigungen benötigt, um die Bestellung genehmigen zu können. Eine Bestellung kann geöffnet werden, sobald sie freigegeben ist.
 
 Es gibt zwei Möglichkeiten, eine Bestellung freizugeben. Die Bestellung kann bearbeitet und die Checkbox Freigegeben unter Zusammenfassung der Bestellung aktivieren werden, oder es können die folgenden Schritte ausgeführt werden:
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die freigegeben werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die freigegeben werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf **Aktionen > Freigeben** klicken.

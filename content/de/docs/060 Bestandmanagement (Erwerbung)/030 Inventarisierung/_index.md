@@ -30,6 +30,6 @@ Die unten aufgeführten Berechtigungen ermöglichen Ihnen die Interaktion mit de
 * **Inventarisierung: anzeigen, bearbeiten**. (Receiving: View, edit)
     Mit dieser Berechtigung kann die Person Teile, die mit einem Bestellposten verbunden sind, inventarisieren und bearbeiten.
 * Inventarisierung: anzeigen, bearbeiten, erstellen. (Receiving: View, edit, create)
-    Mit dieser Berechtigung kann die Person Teile anzeigen, bearbeiten und anlegen. Anmerkung: Personen können nur Teile anlegen, wenn für den zugehörigen Bestellposten der [Inventarisierungs-Workflow](https://info.gbv.de/pages/viewpage.action?pageId=851017779) auf "Unabhängige Bestell- und Eingangsmenge" eingestellt ist.
+    Mit dieser Berechtigung kann die Person Teile anzeigen, bearbeiten und anlegen. Anmerkung: Personen können nur Teile anlegen, wenn für den zugehörigen Bestellposten der [Inventarisierungs-Workflow]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) auf "Unabhängige Bestell- und Eingangsmenge" eingestellt ist.
 * **Inventarisierung: anzeigen, bearbeiten, löschen**. (Receiving: View, edit, delete.)
     Mit dieser Berechtigung kann die Person Teile in der App Inventarisierung anzeigen, bearbeiten und löschen.

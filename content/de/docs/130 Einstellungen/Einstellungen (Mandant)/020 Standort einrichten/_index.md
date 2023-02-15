@@ -10,7 +10,7 @@ Description: "
 ---
 
 {{% pageinfo %}}
-* [Standorte](https://info.gbv.de/display/FOLIOGBVEXTERN/Standorte) auch beachten bei Erste Schritte - teils eventuell etwas redundant und besser zusammenzuführen
+* [Standorte]({{< ref "040 Standorte_about" >}}) auch beachten bei Erste Schritte - teils eventuell etwas redundant und besser zusammenzuführen
 {{% /pageinfo %}}
 
 Diese Einstellungen unter Standort einrichten verwenden, um die vier Teile des Hierarchie für den Standort eines Exemplars zu konfigurieren. Standorte müssen konfiguriert werden, um Bestände und Exemplare im Katalog anzulegen, um Exemplare über die Apps Ausleihe und Rückgabe zu verbuchen und um Exemplare über die App Bestandsanfragen anzufordern.

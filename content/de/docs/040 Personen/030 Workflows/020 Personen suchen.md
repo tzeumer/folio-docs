@@ -28,7 +28,7 @@ Um Personen nach ihrer Personengruppe zu filtern, im Bereich Benutzersuche bei B
 * **Lehrkörper**. Personen mit Fakultätsstatus.
 * **Studierende**. Personen, die für ein Studium eingeschrieben sind.
 
-Personengruppen werden unter [Einstellungen > Benutzer > Personengruppen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Personen%29%3A+Personengruppen) konfiguriert.
+Personengruppen werden unter [Einstellungen > Benutzer > Personengruppen]({{< ref "020 Personengruppen" >}}) konfiguriert.
 
 ## Abteilungen
 

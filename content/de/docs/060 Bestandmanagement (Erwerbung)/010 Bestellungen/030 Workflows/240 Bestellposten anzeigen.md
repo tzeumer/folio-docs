@@ -23,19 +23,19 @@ In den Suchergebnissen auf einen Bestellposten klicken, um ihn anzuzeigen. Die A
 
 ## Exemplardetails
 
-Weitere Informationen zu den Feldern, die in diesem Bereich der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Exemplardetails](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden finden.
+Weitere Informationen zu den Feldern, die in diesem Bereich der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Exemplardetails]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden finden.
 
 ## Bestellposten
 
-Weitere Informationen zu den Feldern, die in diesem Bereich der Bestellposten angezeigt werden, sind unter Hinzufügen eines [Bestellpostens zu einer Bestellung > Details zur Bestellposition](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden.
+Weitere Informationen zu den Feldern, die in diesem Bereich der Bestellposten angezeigt werden, sind unter Hinzufügen eines [Bestellpostens zu einer Bestellung > Details zur Bestellposition]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 
 ## Lieferant
 
-Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Lieferant](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden.
+Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Lieferant]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 
 ## Kostendetails
 
-Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Kostendetails](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden.
+Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Kostendetails]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 
 ## Fondsverteilung
 
@@ -48,7 +48,7 @@ Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten 
 
 ## Standort
 
-In diesem Abschnitt werden Informationen angezeigt, wenn die Einstellung **Im Katalog erstellen** der Bestellposten **Instanz, Bestand** oder **Instanz, Bestand, Exemplar** ist. Weitere Informationen sind unter [Hinzufügen eines Standorts](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Mandant%29%3A+Standort+einrichten) zu finden.
+In diesem Abschnitt werden Informationen angezeigt, wenn die Einstellung **Im Katalog erstellen** der Bestellposten **Instanz, Bestand** oder **Instanz, Bestand, Exemplar** ist. Weitere Informationen sind unter [Hinzufügen eines Standorts]({{< ref "docs/130 Einstellungen/Einstellungen (Mandant)/020 Standort einrichten/040 Standorte" >}}) zu finden.
 
 * **Bestand**. Name und Code des Standortes für diesen Bestellposten.
 * **Anzahl physisch**. Für diesen Standort bestellte Menge für diesen Bestellposten.
@@ -56,19 +56,19 @@ In diesem Abschnitt werden Informationen angezeigt, wenn die Einstellung **Im K
 
 ## Details zur elektronischen Ressource
 
-In diesem Abschnitt werden Informationen angezeigt, wenn die Bestellung einen Bestellposten mit dem Bestellformat Elektronisch oder P/E-Mix enthält. Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Details zu E-Ressourcen](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden.
+In diesem Abschnitt werden Informationen angezeigt, wenn die Bestellung einen Bestellposten mit dem Bestellformat Elektronisch oder P/E-Mix enthält. Weitere Informationen zu den Feldern, die in diesem Abschnitt der Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Details zu E-Ressourcen]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 
 ## Details zur physischen Ressource
 
-In diesem Abschnitt werden Informationen angezeigt, wenn die Bestellung einen Bestellposten mit einem Bestellformat von Physisch, KGV-Mix oder Sonstige enthält. Weitere Informationen zu den Feldern, die in diesem Abschnitt des Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Details zu physischen Ressourcen](https://info.gbv.de/pages/viewpage.action?pageId=851017779) zu finden.
+In diesem Abschnitt werden Informationen angezeigt, wenn die Bestellung einen Bestellposten mit einem Bestellformat von Physisch, KGV-Mix oder Sonstige enthält. Weitere Informationen zu den Feldern, die in diesem Abschnitt des Bestellposten angezeigt werden, sind unter [Hinzufügen eines Bestellpostens zu einer Bestellung > Details zu physischen Ressourcen]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 
 ## Anmerkungen
 
-In diesem Abschnitt werden Anmerkungen zu der Bestellung angezeigt. Weitere Informationen zum Erstellen von Anmerkungen sind unter [Hinzufügen einer Anmerkung zu einer Bestellpostenzeile](https://info.gbv.de/pages/viewpage.action?pageId=851017789) zu finden.
+In diesem Abschnitt werden Anmerkungen zu der Bestellung angezeigt. Weitere Informationen zum Erstellen von Anmerkungen sind unter [Hinzufügen einer Anmerkung zu einer Bestellpostenzeile]({{< ref "210 Bestellposten eine Anmerkung hinzufuegen" >}}) zu finden.
 
 * **Datum**. Zuletzt aktualisiertes Datum der Anmerkung. Auf die Spaltenbezeichnung Datum klicken, um die Anmerkungen in auf- oder absteigender Reihenfolge zu sortieren.
 * **Titel und Details**. Der Titel und die Details der Anmerkung. Auf **Bearbeiten** klicken, um die Anmerkung zu bearbeiten. Auf **Speichern & Schließen** klicken, um die Änderungen zu speichern und auf **X** klicken, um das Fenster Notizen zu schließen.
-* **Typ**. Der Typ der Anmerkung. Weitere Informationen zu den Notiztypen sind unter [Einstellungen > Notizen](https://info.gbv.de/pages/viewpage.action?pageId=844890132) zu finden.
+* **Typ**. Der Typ der Anmerkung. Weitere Informationen zu den Notiztypen sind unter [Einstellungen > Notizen]({{< ref "010 Allgemein [Notiztypen anlegen, erstellen, loeschen]" >}}) zu finden.
 
 ## Verknüpfte Rechnungsposten
 
@@ -85,7 +85,7 @@ In diesem Abschnitt werden Informationen über Rechnungen und Rechnungsposten an
 
 ## Zugehörige Vereinbarungen
 
-Wenn der Bestellposten mit einer Vereinbarungskomponente in der App eManagement verknüpft wurde, wird in der Ansicht Details zum Bestellposten ein Abschnitt Verknüpfte Vereinbarung angezeigt, der Informationen über die verknüpfte Vereinbarungskomponente enthält. Weitere Informationen sind unter [Vereinbarungen > Hinzufügen eines Bestellpostens zu einer Vereinbarungskomponente](https://info.gbv.de/pages/viewpage.action?pageId=845250582) zu finden.
+Wenn der Bestellposten mit einer Vereinbarungskomponente in der App eManagement verknüpft wurde, wird in der Ansicht Details zum Bestellposten ein Abschnitt Verknüpfte Vereinbarung angezeigt, der Informationen über die verknüpfte Vereinbarungskomponente enthält. Weitere Informationen sind unter [Vereinbarungen > Hinzufügen eines Bestellpostens zu einer Vereinbarungskomponente]({{< ref "040 Vereinbarungskomponente hinzufuegen" >}}) zu finden.
 
 ## Verknüpfte Instanz (Linked instance) - fehlt in Originaldoku
 

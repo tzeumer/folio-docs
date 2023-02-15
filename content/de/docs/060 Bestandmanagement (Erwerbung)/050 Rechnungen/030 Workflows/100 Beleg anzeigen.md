@@ -11,7 +11,7 @@ Description: "
 
 Sobald eine Rechnung freigegeben ist, wird ein Beleg erstellt und dem Rechnungsdatensatz hinzugefügt. Um einen Beleg anzuzeigen, wie folgt vorgehen:
 
-* [Die Rechnung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+suchen), die bearbeitet werden soll und sie auswählen.
+* [Die Rechnung suchen]({{< ref "030 Rechnung suchen" >}}), die bearbeitet werden soll und sie auswählen.
 * In der Ansicht **Rechnungsnummer des Lieferanten** nach unten zum Abschnitt **Beleginformatione**n scrollen. In diesem Bereich werden die wichtigsten Informationen über den Beleg angezeigt.
 * Um alle Beleginformationen in einem Vollbildfenster anzuzeigen, auf **Beleg anzeigen** klicken.
 
@@ -27,7 +27,7 @@ Sobald eine Rechnung freigegeben ist, wird ein Beleg erstellt und dem Rechnungsd
 * **Buchhaltungscode**. Buchhaltungscode des Lieferanten zur Identifizierung der Lieferantenorganisation in einem externen Buchhaltungssystem.
 * **Anlage benötigt**. Falls wahr und die Zahlungsart "Scheck" ist, zeigt dies einem externen Buchhaltungssystem an, dass eine Beilage zu dieser Rechnung erforderlich ist. Wenn die Checkbox An Haushaltssystem exportieren auf wahr gesetzt ist und ein Beleg für diese Rechnung erstellt wird, enthält die Exportbelegdatei im Datenelement Anlage erforderlich den Wert wahr.
 * **Lieferant**. Lieferantname.
-* **Adresse 1**. Adresse des Lieferanten 1. Dies ist die Hauptadresse des Lieferanten aus der App Organisation. Weitere Informationen sind unter [Organisationen> Hinzufügen einer Adresse](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Lieferanten+anlegen) zu finden.
+* **Adresse 1**. Adresse des Lieferanten 1. Dies ist die Hauptadresse des Lieferanten aus der App Organisation. Weitere Informationen sind unter [Organisationen> Hinzufügen einer Adresse]({{< ref "020 Organisation als Lieferanten anlegen" >}}) zu finden.
 * **Adresse 2**. Adresse des Lieferanten 2.
 * **Stadt**. Stadt des Lieferanten.
 * **Bundesland/Provinz/Region**. Code des Bundeslandes, der Provinz oder der Region des Lieferanten.

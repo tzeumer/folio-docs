@@ -31,19 +31,19 @@ Feldmapping-Profile ordnen Felder der eingehenden Datensätze in FOLIO gemäß d
 
 Anmerkung: Inaktive Felder können nicht gemappt werden, da sie vom System oder vom MARC-Instanz-Mappingprofil der Bibliothek kontrolliert werden.
 
-* Im Abschnitt **Feldmapping - Instanz** die entsprechenden Felder auswählen. Weitere Informationen zu den Feldern sind unter Manuelles [Erstellen eines Instanzdatensatzes in FOLIO](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen) zu finden.
+* Im Abschnitt **Feldmapping - Instanz** die entsprechenden Felder auswählen. Weitere Informationen zu den Feldern sind unter Manuelles [Erstellen eines Instanzdatensatzes in FOLIO]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}) zu finden.
 
 ### Bestände
 
-Im Abschnitt **Feldmapping - Bestände** die zutreffenden Felder ausfüllen. Weitere Informationen zu den Feldern sind unter [Hinzufügen von Beständen zu einem Datensatz](https://info.gbv.de/pages/viewpage.action?pageId=852492467) zu finden.
+Im Abschnitt **Feldmapping - Bestände** die zutreffenden Felder ausfüllen. Weitere Informationen zu den Feldern sind unter [Hinzufügen von Beständen zu einem Datensatz]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}) zu finden.
 
 ### Exemplar
 
-Im Abschnitt **Feldmapping - Exemplar** die zutreffenden Felder ausfüllen. Weitere Informationen zu den Feldern sind unter [Hinzufügen eines Exemplars zu einem Datensatz](https://info.gbv.de/pages/viewpage.action?pageId=852492470) zu finden.
+Im Abschnitt **Feldmapping - Exemplar** die zutreffenden Felder ausfüllen. Weitere Informationen zu den Feldern sind unter [Hinzufügen eines Exemplars zu einem Datensatz]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}) zu finden.
 
 ### Rechnung
 
-Im Abschnitt **Feldmapping - Rechnung** die zutreffenden Felder ausfüllen. Erforderliche Felder sind mit einem Sternchen (\*) gekennzeichnet. Weitere Informationen zu den Feldern sind unter [Erstellen einer Rechnung](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Rechnung+erstellen) zu finden.
+Im Abschnitt **Feldmapping - Rechnung** die zutreffenden Felder ausfüllen. Erforderliche Felder sind mit einem Sternchen (\*) gekennzeichnet. Weitere Informationen zu den Feldern sind unter [Erstellen einer Rechnung]({{< ref "010 Rechnung erstellen" >}}) zu finden.
 
 ### MARC Bibliografisch
 

@@ -13,4 +13,4 @@ Description: "
 Englische Originalfassung: Es gibt keine Anleitung zu "Mein Profil" (auch nicht unter Personen)
 {{% /pageinfo %}}
 
-Hier können Personen ihr eigenes Passwort ändern, sofern es sich um ein FOLIO-Konto handelt. Siehe auch [Einstellungen (Mandant): SSO-Einstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Mandant%29%3A+SSO-Einstellungen).
+Hier können Personen ihr eigenes Passwort ändern, sofern es sich um ein FOLIO-Konto handelt. Siehe auch [Einstellungen (Mandant): SSO-Einstellungen]({{< ref "040 SSO-Einstellungen" >}}).

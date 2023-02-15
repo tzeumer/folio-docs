@@ -13,8 +13,8 @@ Description: "
 Siehe auch
 
 * [FOLIO Wiki: Guides to FOLIO Permissions](https://wiki.folio.org/display/FOLIOtips/Guides+to+FOLIO+Permissions)
-* [Folio: Person Rechte zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+zuweisen)
-* [Folio: Person Rechte entziehen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+entziehen)
+* [Folio: Person Rechte zuweisen]({{< ref "080 Person Rechte zuweisen" >}})
+* [Folio: Person Rechte entziehen]({{< ref "090 Person Rechte entziehen" >}})
 {{% /pageinfo %}}
 
 FOLIO verfügt über ein System von Benutzerrechten, mit dem sich genau steuern lässt, worauf Benutzer in FOLIO zugreifen können.

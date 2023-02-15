@@ -24,7 +24,7 @@ Bestandsdatensätze können angezeigt werden, sobald einen Instanzdatensatz geö
 
 Um einen Bestandsdatensatz anzuzeigen, folgendermaßen vorgehen:
 
-1.  [Die Instanz mit dem Bestandsdatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der angezeigt werden soll und sie auswählen.
+1.  [Die Instanz mit dem Bestandsdatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der angezeigt werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** im Abschnitt Bestände auf **Bestände anzeigen** klicken. Das Fenster Details zum Bestandsdatensatz wird angezeigt.
 
 ## Exemplardatensatzes anzeigen
@@ -33,6 +33,6 @@ Exemplare eines Exemplardatensatzes können eingesehen werden, sobald ein Instan
 
 Um einen Exemplardatensatz anzuzeigen, wie folgt vorgehen:
 
-1.  [Die Instanz mit dem Exemplardatensatz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der angezeigt werden soll und sie auswählen.
+1.  [Die Instanz mit dem Exemplardatensatz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der angezeigt werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** das Akkordeon **Bestand** erweitern.
 3.  Auf den Exemplarbarcode des Exemplars klicken, das angezeigt werden soll. Das Fenster Exemplardatensatz-Details wird angezeigt.

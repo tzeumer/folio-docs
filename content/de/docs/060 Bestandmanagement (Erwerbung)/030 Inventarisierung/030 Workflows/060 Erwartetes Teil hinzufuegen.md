@@ -13,9 +13,9 @@ Ein erwartetes Teil ist ein Teil einer Bestellung, die voraussichtlich erhalten 
 
 Erwartete Teile sind im Abschnitt Erwartet in einem Datensatz der App Inventarisierung zu finden. Die erwarteten Teile können auch über diesen Abschnitt inventarisiert werden. Weitere Informationen sind unter Schnelles Empfangen zu finden.
 
-Anmerkung: Damit ein erwartetes Teil in der Inventarisierung hinzugefügt werden kann, muss der [Workflow der Inventarisierung](https://info.gbv.de/pages/viewpage.action?pageId=851017779) auf der Bestellung auf "Unabhängige Bestell- und Eingangsmenge" eingestellt sein, wenn die Bestellung geöffnet wird.
+Anmerkung: Damit ein erwartetes Teil in der Inventarisierung hinzugefügt werden kann, muss der [Workflow der Inventarisierung]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) auf der Bestellung auf "Unabhängige Bestell- und Eingangsmenge" eingestellt sein, wenn die Bestellung geöffnet wird.
 
-1.  [Den zu inventarisierenden Titel suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Inventarisierten+Titel+suchen), dem ein Teil hinzugefügt werden soll und ihn auswählen.
+1.  [Den zu inventarisierenden Titel suchen]({{< ref "020 Inventarisierten Titel suchen" >}}), dem ein Teil hinzugefügt werden soll und ihn auswählen.
 2.  In der Sektion **Erwartet** auf **Aktion** klicken. Im Aktionsmenü die Option **Teil hinzufügen** wählen.
 3.  Im Dialogfeld **Teil hinzufügen** Informationen über das Teil hinzufügen. Weitere Informationen zu den einzelnen Feldern sind weiter unten zu finden.
 4.  Wenn ein weiteres Teil hinzugefügt werden soll, nachdem dieses Teil gespeichert oder schnell inventarisiert wurde, auf **Weitere erstellen** klicken. Nachdem das Teil gespeichert und geschlossen oder schnell empfangen wurde, wird das Dialogfeld **Teil hinzufügen** mit den Details aus dem vorherigen Formular ausgefüllt.
@@ -33,7 +33,7 @@ Anmerkung: Damit ein erwartetes Teil in der Inventarisierung hinzugefügt werden
 * **Kommentar**. Kommentare oder Anmerkungen zu dem Teil.
 * **Bestellposten Standorte**. Eine Liste der Standorte, die auf dem Bestellposten ausgewählt wurden.
 * **Bestand auswählen**. In der Dropdown-Liste den Bestand für dieses Teil auswählen. Der Standort kann geändert werden, indem auf **Neue Bestände für Standort anlegen** geklickt wird.
-* **Exemplar erstellen**. Die Checkbox **Artikel erstellen** markieren, um das neue Teil mit einer Instanz im Katalog zu verknüpfen. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Bestellposten **Im Katalog erstellen** auf "Instanz/Bestand/Exemplar" eingestellt ist. . Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen](https://info.gbv.de/pages/viewpage.action?pageId=851345510) für weitere Informationen.
+* **Exemplar erstellen**. Die Checkbox **Artikel erstellen** markieren, um das neue Teil mit einer Instanz im Katalog zu verknüpfen. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Bestellposten **Im Katalog erstellen** auf "Instanz/Bestand/Exemplar" eingestellt ist. . Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen]({{< ref "docs/060 Bestandmanagement (Erwerbung)/010 Bestellungen" >}}) für weitere Informationen.
 * **Ergänzung**. Die Checkbox Ergänzung markieren, um anzugeben, dass es sich bei dem Teil um eine ergänzende Ressource wie eine CD oder eine Karte handelt.
 * **Anzeige**. Die Checkbox **Anzeige** markieren, um anzugeben, dass Informationen zu diesem Teil in der App Katalog im Abschnitt Erwerbungen des Bestandsdatensatzes angezeigt werden sollen. Weitere Informationen sind unter Katalog > Erwerbung zu finden.
 

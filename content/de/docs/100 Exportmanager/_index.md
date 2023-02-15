@@ -19,7 +19,7 @@ Mit der App Exportmanager können Personen manuelle oder automatische Dateiexpor
 
 Die unten aufgeführten Berechtigungen ermöglichen die Interaktion mit der App Exportmanager und legen fest, was innerhalb der App getan werden kann und was nicht. Wenn einer Person keine dieser Berechtigungen zugewiesen ist, kann sie die App Exportmanager und alle damit verbundenen Informationen nicht sehen.
 
-Anmerkung: Informationen zur Zuweisung von Berechtigungen an Personen finden Sie unter [Berechtigungen zu einem Personendatensatz zuweisen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Person+Rechte+zuweisen).
+Anmerkung: Informationen zur Zuweisung von Berechtigungen an Personen finden Sie unter [Berechtigungen zu einem Personendatensatz zuweisen]({{< ref "080 Person Rechte zuweisen" >}}).
 
 Im Folgenden sind alle Berechtigungen für die Exportmanager App zu finden:
 

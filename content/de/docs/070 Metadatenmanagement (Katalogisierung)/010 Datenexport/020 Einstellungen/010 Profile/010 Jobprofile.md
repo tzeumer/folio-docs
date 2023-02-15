@@ -23,7 +23,7 @@ Wenn das Standard-Jobprofil verwendet wird, werden vereinfachte bibliografische 
 
 1.  In der Ansicht **Jobprofile** auf **Neu** klicken.
 2.  Einen **Namen** für das Jobprofil eingeben.
-3.  Ein **Feldmappingprofil** aus der Dropdown-Liste wählen. Feldmappingprofile werden in den Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Datenexport > Feldmappingprofile](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Datenimport%29%3A+Feldmappingprofile) zu finden.
+3.  Ein **Feldmappingprofil** aus der Dropdown-Liste wählen. Feldmappingprofile werden in den Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Datenexport > Feldmappingprofile]({{< ref "020 Feldmappingprofile" >}}) zu finden.
 4.  Optional: Eine **Beschreibung** für das Jobprofil eingeben.
 5.  Auf **Speichern & schließen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Jobprofil wird erstellt.
 

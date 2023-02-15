@@ -3,7 +3,7 @@ title: "Codes für Fonds und Kostenart exportieren"
 linkTitle: ""
 date: 2023-02-01T00:00:00-00:00
 tags: [by-folio, for-admin, cat-einstellungen, app-finanzen, meta-gemeldet_docsfolioorg]
-weight: 10
+weight: 30
 Description: "
     Quellen: [Folio](https://docs.folio.org/docs/settings/settings_finance/settings_finance/) & [GBV](https://info.gbv.de/pages/viewpage.action?pageId=850002073)
     "

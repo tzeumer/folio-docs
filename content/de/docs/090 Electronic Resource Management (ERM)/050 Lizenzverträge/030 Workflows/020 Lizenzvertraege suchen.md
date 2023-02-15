@@ -20,7 +20,7 @@ Um Lizenzverträge nach ihrem Status zu filtern, in der Ansicht **Suchen & Filt
 * **Aktiv**. Lizenzverträge, die derzeit von der Bibliothek verwendet werden.
 * **Abgelaufen**. Lizenzverträge, die von Ihrer Bibliothek nicht mehr genutzt werden
 
-Die Statuswerte werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert.
+Die Statuswerte werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert.
 (GBV: siehe [Community \[Lizenzverträge\]: Parameter: Auswahllisten und -Werte](https://info.gbv.de/pages/viewpage.action?pageId=668106767)).
 
 ## Typ
@@ -30,7 +30,7 @@ Um Lizenzverträge nach ihrem Typ zu filtern, in der Ansicht Suchen & Filtern au
 * **Lokal**. Lizenzverträge individuell für die Bibliothek.
 * **Konsortial**. Lizenzverträge, die über ein Bibliothekskonsortium abgeschlossen wurden.
 
-Die Werte des Typs werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert.
+Die Werte des Typs werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert.
 
 ## Organisationen
 
@@ -50,7 +50,7 @@ Folgendermaßen vorgehen, um Lizenzverträge nach den Rollen der zugehörigen Or
 3.  In der Dropdown-Liste nach der Rolle suchen.
 4.  Die Rolle auswählen, nach der gefiltert werden soll. Die Suchergebnisse werden in der Ansicht Vereinbarungen angezeigt.
 
-Die Werte für die Organisationsrolle werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert.
+Die Werte für die Organisationsrolle werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert.
 
 ## Tags
 
@@ -84,4 +84,4 @@ Um Lizenzverträge nach ihren Bedingungen zu filtern, folgendermaßen vorgehen:
 7.  (Optional) Um mit mehreren Bedingungen nach Lizenzverträgen zu suchen, auf **Bedingungsfilter hinzufügen** klicken. Anmerkung: Um eine Regel oder einen Bedingungsfilter in der Bedingungsfilter-Baukasten zu löschen, auf das **Mülleimersymbol** neben der Regel oder dem Bedingungsfilter klicken.
 8.  Auf **Anwenden** klicken. Die Suchergebnisse werden in der Ansicht Lizenzverträge angezeigt.
 
-Die Werte der Bedingungen werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert.
+Die Werte der Bedingungen werden unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert.

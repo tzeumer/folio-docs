@@ -39,7 +39,7 @@ Es gibt drei Möglichkeiten, eine E-Ressource aus dem Warenkorb zu Vereinbarungs
 
 #### Auf dem Bildschirm Vereinbarungen bearbeiten
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf **Aktionen** klicken und **Neue Vereinbarungskomponente** wählen.
 4.  Wenn im Fenster **Neue Vereinbarungskomponente** eine E-Ressource aus der Merkliste hinzugefügt werden soll, auf die Dropdown-Liste **E-Ressource** klicken und die E-Ressource auswählen.
@@ -47,14 +47,14 @@ Es gibt drei Möglichkeiten, eine E-Ressource aus dem Warenkorb zu Vereinbarungs
 6.  (Optional) In das Feld eine **Beschreibung** der Vereinbarungskomponente eingeben.
 7.  (Optional) Eine **Bemerkung** zur Vereinbarungskomponente in das Feld eingeben.
 8.  (Optional) Die **Daten Aktiv** von und **Aktiv bis** eingeben, um anzugeben, wann die Ressource, die Gegenstand dieser Vereinbarungskomponente ist, in der Sammlung aktiv war oder ist.
-9.  (Optional) Um diese Informationen aus dem Discoverysystem auszublenden, die Checkbox **Aus Discoverysystem ausblenden** markieren. Wenn diese Checkbox nicht angezeigt werden soll, oder wenn die Checkbox in den Datensätzen der Vereinbarungskomponenten angezeigt werden soll, sind weitere Informationen unter [Einstellungen > eManagement > Anzeigeeinstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Anzeigeeinstellungen) zu finden.
+9.  (Optional) Um diese Informationen aus dem Discoverysystem auszublenden, die Checkbox **Aus Discoverysystem ausblenden** markieren. Wenn diese Checkbox nicht angezeigt werden soll, oder wenn die Checkbox in den Datensätzen der Vereinbarungskomponenten angezeigt werden soll, sind weitere Informationen unter [Einstellungen > eManagement > Anzeigeeinstellungen]({{< ref "010 Anzeigeeinstellungen" >}}) zu finden.
 10.  (Optional) Um die Vereinbarungskomponente mit einer Bestellung zu verknüpfen, auf **Bestellposten hinzufügen** klicken. Weitere Informationen sind unter "Bestellposten zu einer Vereinbarungskomponente hinzufügen" zu finden.
 11.  Um mehrere Vereinbarungskomponenten auf einmal hinzuzufügen, die Checkbox **Eine weitere erstellen** markieren und die Schritte 1-10 wiederholen.
 12.  Auf **Speichern & schließen** klicken. Es wird eine Bestätigungsmeldung angezeigt und die Vereinbarungskomponente wird gespeichert.
 
 #### Auf dem Bildschirm Vereinbarungskomponenten bearbeiten
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf **Aktionen** klicken und **Neue Vereinbarungskomponente** wählen.
 4.  Im Fenster **Neue Vereinbarungskomponente**, falls nicht bereits ausgewählt, auf **Merkliste** klicken.
@@ -62,7 +62,7 @@ Es gibt drei Möglichkeiten, eine E-Ressource aus dem Warenkorb zu Vereinbarungs
 6.  (Optional) In das Feld eine **Beschreibung** der Vereinbarungskomponente eingeben.
 7.  (Optional) Eine **Bemerkung** zur Vereinbarungskomponente in das Feld eingeben.
 8.  (Optional) Die **Daten Aktiv** von und **Aktiv bis** eingeben, um anzugeben, wann die Ressource, die Gegenstand dieser Vereinbarungskomponente ist, in der Sammlung aktiv war oder ist.
-9.  (Optional) Um diese Informationen aus dem Discoverysystem auszublenden, die Checkbox **Aus Discoverysystem ausblenden** markieren. Wenn diese Checkbox nicht angezeigt werden soll, oder wenn die Checkbox in den Datensätzen der Vereinbarungskomponenten angezeigt werden soll, sind weitere Informationen unter [Einstellungen > eManagement > Anzeigeeinstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Anzeigeeinstellungen) zu finden.
+9.  (Optional) Um diese Informationen aus dem Discoverysystem auszublenden, die Checkbox **Aus Discoverysystem ausblenden** markieren. Wenn diese Checkbox nicht angezeigt werden soll, oder wenn die Checkbox in den Datensätzen der Vereinbarungskomponenten angezeigt werden soll, sind weitere Informationen unter [Einstellungen > eManagement > Anzeigeeinstellungen]({{< ref "010 Anzeigeeinstellungen" >}}) zu finden.
 10.  (Optional) Um die Vereinbarungskomponente mit einer Bestellung zu verknüpfen, auf **Bestellposten hinzufügen** klicken. Weitere Informationen sind unter "Bestellposten zu einer Vereinbarungskomponente hinzufügen" zu finden.
 11.  Um mehrere Vereinbarungskomponenten auf einmal hinzuzufügen, die Checkbox **Eine weitere erstellen** markieren und die Schritte 1-10 wiederholen.
 12.  Auf **Speichern & schließen** klicken. Es wird eine Bestätigungsmeldung angezeigt und die Vereinbarungskomponente wird gespeichert.
@@ -71,7 +71,7 @@ Es gibt drei Möglichkeiten, eine E-Ressource aus dem Warenkorb zu Vereinbarungs
 
 Das Hinzufügen einer Vereinbarungskomponente durch eine Verknüpfung mit der eHoldings App kann nicht in einer Vereinbarung erfolgen, die zur Bearbeitung geöffnet ist.
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf **Aktionen** klicken und **Neue Vereinbarungskomponente** wählen.
 4.  Im Fenster **Neue Vereinbarungskomponente**, falls nicht bereits ausgewählt, auf **eHoldings** klicken.
@@ -82,7 +82,7 @@ Das Hinzufügen einer Vereinbarungskomponente durch eine Verknüpfung mit der eH
 9.  (Optional) In das Feld eine **Beschreibung** der Vereinbarungskomponente eingeben.
 10.  (Optional) Eine **Bemerkung** zur Vereinbarungskomponente in das Feld eingeben.
 11.  (Optional) Die **Daten Aktiv** von und **Aktiv bis** eingeben, um anzugeben, wann die Ressource, die Gegenstand dieser Vereinbarungskomponente ist, in der Sammlung aktiv war oder ist.
-12.  (Optional) Um diese Informationen aus dem Discoverysystem auszublenden, die Checkbox **Aus Discoverysystem ausblenden** markieren. Wenn diese Checkbox nicht angezeigt werden soll, oder wenn die Checkbox in den Datensätzen der Vereinbarungskomponenten angezeigt werden soll, sind weitere Informationen unter [Einstellungen > eManagement > Anzeigeeinstellungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28eManagement%29%3A+Anzeigeeinstellungen) zu finden.
+12.  (Optional) Um diese Informationen aus dem Discoverysystem auszublenden, die Checkbox **Aus Discoverysystem ausblenden** markieren. Wenn diese Checkbox nicht angezeigt werden soll, oder wenn die Checkbox in den Datensätzen der Vereinbarungskomponenten angezeigt werden soll, sind weitere Informationen unter [Einstellungen > eManagement > Anzeigeeinstellungen]({{< ref "010 Anzeigeeinstellungen" >}}) zu finden.
 13.  (Optional) Um die Vereinbarungskomponente mit einer Bestellung zu verknüpfen, auf **Bestellposten hinzufügen** klicken. Weitere Informationen sind unter "Bestellposten zu einer Vereinbarungskomponente hinzufügen" zu finden.
 14.  Um mehrere Vereinbarungskomponenten auf einmal hinzuzufügen, die Checkbox **Eine weitere erstellen** markieren und die Schritte 1-13 wiederholen.
 15.  Auf **Speichern & schließen** klicken. Es wird eine Bestätigungsmeldung angezeigt und die Vereinbarungskomponente wird gespeichert.
@@ -97,7 +97,7 @@ Wenn eine Vereinbarungskomponente mit einem Bestellposten verknüpft ist, der mi
 
 Anmerkung: Wenn bereits eine Vereinbarungskomponente bearbeitet wird, mit Schritt 5 fortfahren.
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Bestellposten hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Bestellposten hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf die Vereinbarungskomponente klicken, zu der ein Bestellposten hinzugefügt werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** auf **Aktionen > Bearbeiten** klicken.
@@ -110,7 +110,7 @@ Anmerkung: Wenn bereits eine Vereinbarungskomponente bearbeitet wird, mit Schrit
 
 ### Bestellposten in einer Vereinbarungskomponente ersetzen
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), in der eine Bestellposten ersetzt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), in der eine Bestellposten ersetzt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf die Vereinbarungskomponente klicken, in der ein Bestellposten ersetzt werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** auf **Aktionen > Bearbeiten** klicken.
@@ -119,7 +119,7 @@ Anmerkung: Wenn bereits eine Vereinbarungskomponente bearbeitet wird, mit Schrit
 
 ### Bestellposten aus einer Vereinbarungskomponente löschen
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), aus der eine Bestellposten gelöscht werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), aus der eine Bestellposten gelöscht werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf die Vereinbarungskomponente klicken, in der ein Bestellposten gelöscht werden soll.
 4.  In der Ansicht **Vereinbarungskomponenten** auf **Aktionen > Bearbeiten** klicken.
@@ -130,7 +130,7 @@ Anmerkung: Wenn bereits eine Vereinbarungskomponente bearbeitet wird, mit Schrit
 
 Diese Funktion verwenden, um eine Vereinbarungskomponente hinzuzufügen, die keine Verbindung zu einem Datensatz aus der internen KB oder eHoldings hat.
 
-1.  [Die Vereinbarung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
+1.  [Die Vereinbarung suchen]({{< ref "020 Vereinbarung suchen" >}}), zu der eine Vereinbarungskomponente hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Details der Vereinbarung** auf **Vereinbarungskomponenten** klicken.
 3.  Im Bereich **Vereinbarungskomponenten** auf **Aktionen** klicken und **Neue Vereinbarungskomponente** wählen.
 4.  Wenn im Fenster **Neue Vereinbarungskomponente** eine E-Ressource aus der Merkliste hinzugefügt werden soll, auf die Dropdown-Liste **E-Ressource** klicken und die E-Ressource auswählen.

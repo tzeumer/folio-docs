@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Die Instanz mit dem Bestand oder Exemplaren suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der verschoben werden sollen und sie auswählen.
+1.  [Die Instanz mit dem Bestand oder Exemplaren suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der verschoben werden sollen und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** auf **Aktionen > Verschieben von Beständen/Exemplaren an eine andere Instanz** klicken.
 3.  Im Dialog **Instanz auswählen** in der Ansicht **Suchen & Filtern** nach der Instanz suchen, in die die Bestände oder Exemplare verschoben werden sollen, indem  Suchbegriffe in das Feld eingeben werden.
 4.  Optional: Die Ergebnisse nach Sprache, Ressourcentyp oder Standort filtern.

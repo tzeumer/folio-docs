@@ -11,7 +11,7 @@ Description: "
 
 Hinweis: Ein Instanzdatensatz kann nicht gelöscht werden, aber er kann unterdrückt werden.
 
-1.  [Die Instanz suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), die gelöscht werden soll und sie auswählen.
+1.  [Die Instanz suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), die gelöscht werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** auf **Aktionen > Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** unter **Administrative Daten** auf **Nachweis unterdrücken** klicken.
 4.  Auf **Speichern und schließen** klicken. Der Instanzdatensatz wird aktualisiert.

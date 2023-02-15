@@ -13,7 +13,7 @@ Description: "
 
 Bibliotheksmitarbeitende erstellen Bestandsanfragen in der Bestandsanfragen-App. Die Bestandsanfrage können auch von einem Personendatensatz in Personen oder einem Exemplardatensatz in Katalog aus gestartet werden. Diese Apps leiten dann zur Bestandsanfragen-App weiter, um die Anfrage zu erstellen.
 
-Bestandsanfragen werden durch Ausleihregeln und Exemplarstatus gesteuert. Einige Exemplarstatus können überhaupt nicht angefordert werden; einige Exemplarstatus erlauben nur Vormerkungen und Rückrufe. Weitere Informationen sind unter [Grundlagen der Plattform > Exemplarstatus](https://info.gbv.de/display/FOLIOGBVEXTERN/Exemplarstatus) zu finden.
+Bestandsanfragen werden durch Ausleihregeln und Exemplarstatus gesteuert. Einige Exemplarstatus können überhaupt nicht angefordert werden; einige Exemplarstatus erlauben nur Vormerkungen und Rückrufe. Weitere Informationen sind unter [Grundlagen der Plattform > Exemplarstatus]({{< ref "030 Exemplarstatus" >}}) zu finden.
 
 1.  In der Ansicht **Bestandsanfrage** die Option **Aktionen > Neu** wählen.
 2.  Im Feld **Exemplarinformationen** entweder den Barcode des angeforderten Exemplars scannen oder den Barcode eingeben und auf **Eingabe** klicken. Das Exemplar wird der Bestandsanfrage hinzugefügt und die Informationen zum Exemplar werden angezeigt.
@@ -32,7 +32,7 @@ Bestandsanfragen werden durch Ausleihregeln und Exemplarstatus gesteuert. Einige
 
 Es können nur offene Bestandsanfragen bearbeitet werden. Sobald eine Bestandsanfrage geschlossen ist, kann sie nicht mehr bearbeitet werden.
 
-1.  [Die Bestandsanfrage suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+suchen), die bearbeitet werden soll.
+1.  [Die Bestandsanfrage suchen]({{< ref "060 Bestandsanfragen suchen" >}}), die bearbeitet werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Bearbeiten** wählen.
 3.  Die Bestandsanfrage bearbeiten.
 4.  Auf **Speichern & schließen** klicken. Die Bestandsanfrage wird aktualisiert.
@@ -41,7 +41,7 @@ Es können nur offene Bestandsanfragen bearbeitet werden. Sobald eine Bestandsan
 
 Jede offene Bestandsanfrage kann dupliziert werden, solange die Anfrage, die durch die Duplizierung erstellt wird, eine andere anfordernden Person hat.
 
-1.  [Die Bestandsanfrage suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+suchen), die duplizieren werden soll.
+1.  [Die Bestandsanfrage suchen]({{< ref "060 Bestandsanfragen suchen" >}}), die duplizieren werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Duplizieren** wählen. Es erscheint ein Fenster **Neue Anfrage** mit denselben Exemplarinformationen, Bestellinformationen und Informationen zur anfordernden Person der Anfrage, die duplizieren werden soll.
 3.  Die Bestandsanfrage bearbeiten, bevor die Anfrage abgeschickt wird.
 4.  Eine **Abholservicestelle** auswählen.
@@ -53,7 +53,7 @@ Eine Bestandsanfrage kann von einem Exemplar auf ein anderes Exemplar auf dersel
 
 Hinweis: Wenn eine Bestandsanfrage auf ein Exemplar umgehängt wird, das zuvor nicht zurückgerufen wurde, wird die Ausleihe zurückgerufen - die Person erhält eine Rückrufbenachrichtigung, sofern konfiguriert, und das Fälligkeitsdatum der Ausleihe wird je nach Ausleihrichtlinie verkürzt oder verlängert.
 
-1.  [Die Bestandsanfrage suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestandsanfragen+suchen), die verschoben werden soll.
+1.  [Die Bestandsanfrage suchen]({{< ref "060 Bestandsanfragen suchen" >}}), die verschoben werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Anfrage** verschieben wählen.
 3.  Im Fenster **Exemplar auswählen** das Exemplar wählen, in das die Anfrage umgehängt werden soll. Wenn der aktuelle Anfragetyp nicht zulässig ist, erscheint das Dialogfeld Aktueller Anfragetyp für ausgewähltes Exemplar nicht zulässig.
 4.  Auf **Bestätigen** klicken, damit die Bestandsanfrage umgehängt werden kann. Es erscheint eine Bestätigungsmeldung und die Anfrage wird unter dem ausgewählten Exemplar angezeigt.

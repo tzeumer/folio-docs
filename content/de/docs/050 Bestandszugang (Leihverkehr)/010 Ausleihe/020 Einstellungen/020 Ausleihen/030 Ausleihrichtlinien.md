@@ -42,12 +42,12 @@ Je nachdem, welches Ausleihprofil gewählt wurde, werden unterschiedliche Felder
 
 Wurde **Festgelegt** gewählt, werden die folgenden Felder angezeigt:
 
-**Fester Fälligkeitszeitplan (Fälligkeitsbegrenzung)**. Einen festen Fälligkeitsplan wählen, wie unter [Einstellungen > Ausleihe > Feste Fälligkeitspläne](https://info.gbv.de/pages/viewpage.action?pageId=844267627) konfiguriert. Der ausgewählte Zeitplan bestimmt das Fälligkeitsdatum für das Exemplar. Anmerkung: Feste Fälligkeitszeitpläne gelten nur für Ausleihen, die länger als 24 Stunden dauern, und das Fälligkeitsdatum/die Fälligkeitszeit wird automatisch auf 23:59 Uhr am Fälligkeitstag gesetzt.
+**Fester Fälligkeitszeitplan (Fälligkeitsbegrenzung)**. Einen festen Fälligkeitsplan wählen, wie unter [Einstellungen > Ausleihe > Feste Fälligkeitspläne]({{< ref "010 Feste Faelligkeitszeitplaene" >}}) konfiguriert. Der ausgewählte Zeitplan bestimmt das Fälligkeitsdatum für das Exemplar. Anmerkung: Feste Fälligkeitszeitpläne gelten nur für Ausleihen, die länger als 24 Stunden dauern, und das Fälligkeitsdatum/die Fälligkeitszeit wird automatisch auf 23:59 Uhr am Fälligkeitstag gesetzt.
 
 **Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten**. Legt fest, wann das Exemplar fällig ist, wenn das berechnete Fälligkeitsdatum eines Exemplars in die Schließungszeit der Servicestelle fällt.
 
 * Wenn das Ausleihintervall eines Exemplars in Minuten oder Stunden angegeben ist, richtet sich das Fälligkeitsdatum nach der in der Ausleihrichtlinie angegebenen Auswahl.
-* Wenn das Ausleihintervall eines Exemplars in Tagen, Wochen oder Monaten angegeben ist, richtet sich das Fälligkeitsdatum nur dann nach der Ausleihrichtlinie, wenn die Servicestelle an dem Tag, an dem das Exemplar fällig wäre, vollständig geschlossen ist. Bei der Erstellung der Ausleihe prüft FOLIO den [Kalender](https://info.gbv.de/pages/viewpage.action?pageId=844890129) der Servicestelle; ist die Servicestelle an dem Tag, an dem das Exemplar fällig ist, zu einem beliebigen Zeitpunkt geöffnet, setzt FOLIO den Fälligkeitszeitpunkt auf 23:59 Uhr an diesem Tag.
+* Wenn das Ausleihintervall eines Exemplars in Tagen, Wochen oder Monaten angegeben ist, richtet sich das Fälligkeitsdatum nur dann nach der Ausleihrichtlinie, wenn die Servicestelle an dem Tag, an dem das Exemplar fällig wäre, vollständig geschlossen ist. Bei der Erstellung der Ausleihe prüft FOLIO den [Kalender]({{< ref "Einstellungen (Kalender)" >}}) der Servicestelle; ist die Servicestelle an dem Tag, an dem das Exemplar fällig ist, zu einem beliebigen Zeitpunkt geöffnet, setzt FOLIO den Fälligkeitszeitpunkt auf 23:59 Uhr an diesem Tag.
 
 Kulanzfrist. Eine Schonfrist für überfällige Exemplare eingeben. Wenn eine Kulanzfrist gewählt wird, ist das Exemplar erst nach dem Fälligkeitsdatum/der Fälligkeitszeit der Ausleihe plus der Kulanzfrist überfällig. Wenn die Kulanzfrist abläuft und das Exemplar nicht zurückgegeben wurde, wird die Kulanzfrist bei der Berechnung einer Forderung für überfälligen oder verlorenen Exemplare berücksichtigt. Das Hinzufügen einer Kulanzfrist zu einem Fälligkeitsdatum folgt der gleichen Logik, die für die Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten gewählt ist, wenn die Kulanzfrist in eine Schließzeit der Servicestelle fällt.
 
@@ -57,7 +57,7 @@ Wurde **Rollend** ausgewählt, werden die folgenden Felder angezeigt:
 
 **Ausleihdauer**. Eine Zeitspanne für die Ausleihfrist wählen.
 
-**Fester Fälligkeitszeitplan (Fälligkeitsbegrenzung)**. Einen festen Fälligkeitsplan, wie unter [Einstellungen > Ausleihe > Feste Fälligkeitspläne](https://info.gbv.de/pages/viewpage.action?pageId=844267627) konfiguriert wählen. Der Zeitplan wird verwendet, um eine Begrenzung für automatische/fortlaufende Verlängerungen zu erzwingen. Es kann zum Beispiel Studenten erlaubt werden, Exemplare alle vier Wochen zu verlängern, aber die Verlängerungen sollen spätestens am Ende des Semesters enden.
+**Fester Fälligkeitszeitplan (Fälligkeitsbegrenzung)**. Einen festen Fälligkeitsplan, wie unter [Einstellungen > Ausleihe > Feste Fälligkeitspläne]({{< ref "010 Feste Faelligkeitszeitplaene" >}}) konfiguriert wählen. Der Zeitplan wird verwendet, um eine Begrenzung für automatische/fortlaufende Verlängerungen zu erzwingen. Es kann zum Beispiel Studenten erlaubt werden, Exemplare alle vier Wochen zu verlängern, aber die Verlängerungen sollen spätestens am Ende des Semesters enden.
 
 **Verwaltung des Fälligkeitsdatums bei geschlossenen Öffnungszeiten**. Legt fest, wann das Exemplar fällig ist, wenn das berechnete Fälligkeitsdatum eines Exemplars in die Schließungszeit der Servicestelle fällt.
 

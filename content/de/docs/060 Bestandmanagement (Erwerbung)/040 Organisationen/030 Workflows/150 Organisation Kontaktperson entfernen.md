@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Unter [Kontaktperson löschen](https://info.gbv.de/pages/viewpage.action?pageId=851935498) ist eine alternative Möglichkeit zu finden, einen Kontakt aus einer Organisation zu entfernen.
+Unter [Kontaktperson löschen]({{< ref "140 Organisation Kontaktperson loeschen" >}}) ist eine alternative Möglichkeit zu finden, einen Kontakt aus einer Organisation zu entfernen.
 
 1.  Auf den Kontakt klicken, dessen Zuweisung aufgehoben werden soll. Wenn die Organisationsdaten nicht gespeichert wurden, wird aufgefordert, dies zu tun, bevor fortgefahren wird.
 2.  Im Kontaktfenster auf **Aktionen > Zuweisung aufheben** klicken.

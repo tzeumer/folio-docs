@@ -11,5 +11,5 @@ Description: "
 
 Das Schließen einer Bestellung ist nicht endgültig und eine Bestellung kann wieder in den Status "Offen" zurückversetzt werden, indem die Bestellung wieder geöffnet wird.
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die wieder geöffnet werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die wieder geöffnet werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf **Aktionen > Wieder öffnen** klicken.

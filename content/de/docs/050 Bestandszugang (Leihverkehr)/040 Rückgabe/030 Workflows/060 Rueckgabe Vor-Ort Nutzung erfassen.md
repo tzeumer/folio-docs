@@ -10,7 +10,7 @@ Description: "
 ---
 
 {{% pageinfo %}}
-Siehe auch [Wie wird die Vor-Ort Nutzung in den FOLIO Daten erfasst?](https://info.gbv.de/display/FOLIOGBVEXTERN/Ausleihen#Ausleihen-WiewirddieVor-OrtNutzungindenFOLIODatenerfasst)
+Siehe auch [Wie wird die Vor-Ort Nutzung in den FOLIO Daten erfasst?]({{< ref "010 Ausleihen" >}})
 {{% /pageinfo %}}
 
 Wenn sich ein verfügbares (nicht ausgeliehenes) Exemplar in der Bibliothek nicht an seinem Standort befindet, kann es speziell gebucht werden, um es als verwendet zu kennzeichnen. Diese Funktion kann z.B. für Exemplare in Handapparaten oder für Exemplare aus dem Abholregal verwendet werden, wenn nachverfolgt werden soll, dass die Exemplare benutzt wurden, obwohl sie nicht ausgeliehen waren.

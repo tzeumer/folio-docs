@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), der Tag hinzugefügt werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), der Tag hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf das **Tag-Symbol** klicken.
 3.  In der Ansicht Tags entweder einen Tag aus dem Feld auswählen oder einen Tag eingeben.
 4.  Auf das **X** in der Ansicht Tag klicken, um die Ansicht zu schließen und die Tags zu speichern. Die Tag-Nummer wird mit der Anzahl der Tags aktualisiert, die auf die Bestellung angewendet wurden.

@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Materialarten zu erstellen und zu verwalten. Materialarten erscheinen in der Dropdown-Liste **Materialart** im Abschnitt [Exemplardaten eines Exemplardatensatzes](https://info.gbv.de/pages/viewpage.action?pageId=852492470). FOLIO stellt standardmäßig Materialarten zur Verfügung, die bearbeitet oder gelöscht werden können. Materialarten werden auch in den [Einstellungen (Ausleihe): Ausleihregeln](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Ausleihe%29%3A+Ausleihregeln) verwendet und erscheinen als [Filter für die Suche nach Exemplaren](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog).
+Diese Einstellung wird verwendet, um Materialarten zu erstellen und zu verwalten. Materialarten erscheinen in der Dropdown-Liste **Materialart** im Abschnitt [Exemplardaten eines Exemplardatensatzes]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}). FOLIO stellt standardmäßig Materialarten zur Verfügung, die bearbeitet oder gelöscht werden können. Materialarten werden auch in den [Einstellungen (Ausleihe): Ausleihregeln]({{< ref "010 Ausleihregeln" >}}) verwendet und erscheinen als [Filter für die Suche nach Exemplaren]({{< ref "090 Datensatz suchen im Katalog" >}}).
 
 ## Materialart erstellen
 

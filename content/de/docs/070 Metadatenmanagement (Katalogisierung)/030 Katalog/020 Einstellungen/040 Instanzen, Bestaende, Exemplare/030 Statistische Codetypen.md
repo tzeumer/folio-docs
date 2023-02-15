@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um statistische Codetypen zu erstellen und zu verwalten. Statistische Codetypen erscheinen in der Dropdown-Liste Statistischer Code, wenn ein statistischer Code zu einem [Instanz-](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen), [Bestandsdatensatz](https://info.gbv.de/pages/viewpage.action?pageId=852492467) oder [Exemplardatensatz](https://info.gbv.de/pages/viewpage.action?pageId=852492470) hinzugefügt wird. FOLIO stellt standardmäßig statistische Codetypen bereit, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um statistische Codetypen zu erstellen und zu verwalten. Statistische Codetypen erscheinen in der Dropdown-Liste Statistischer Code, wenn ein statistischer Code zu einem [Instanz-]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}), [Bestandsdatensatz]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}) oder [Exemplardatensatz]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}) hinzugefügt wird. FOLIO stellt standardmäßig statistische Codetypen bereit, die bearbeitet oder gelöscht werden können.
 
 ## Statistischen Codetyp erstellen
 

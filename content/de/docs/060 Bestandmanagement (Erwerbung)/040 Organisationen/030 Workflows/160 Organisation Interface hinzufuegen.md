@@ -21,7 +21,7 @@ Hinweis: Bevor ein neues Interface erstellt wird, sollten die Fortschritt bei de
 * **Typ**. Der Typ des Interfaces, das hinzugefügt wird: Admin, Endbenutzer, Berichte, Bestellungen, Rechnungen oder Weitere.
 * **Name**. Der Name des Interfaces.
 * **URI**. Die URI des Interfaces.
-* **Systemkennung**. Die Systemkennung, die für die Anmeldung bei dem Interface benötigt wird. Weitere Informationen zu den Berechtigungen für die Anzeige und Bearbeitung von Interface-Anmeldeinformationen sind unter [Berechtigungen für Organisationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Organisationen) zu finden.
+* **Systemkennung**. Die Systemkennung, die für die Anmeldung bei dem Interface benötigt wird. Weitere Informationen zu den Berechtigungen für die Anzeige und Bearbeitung von Interface-Anmeldeinformationen sind unter [Berechtigungen für Organisationen]({{< ref "040 Organisationen" >}}) zu finden.
 * **Passwort**. Das Passwort, mit dem sich beim Interface angemeldet wird. Auf **Anzeigen** klicken, um das Passwort anzuzeigen. Auf **Ausblenden** klicken, um die Anzeige des Passworts zu beenden.
 * **Notizen**. Beliebige Notizen zum Interface.
 * **Verfügbar**. Die Checkbox Verfügbar markieren, um anzugeben, ob Statistiken über dieses Interface verfügbar sind.

@@ -33,7 +33,7 @@ Diese Informationen sind am 12.1.2022 zu [Handbuchseiten-Konkordanz der überse
 
 ## Struktur
 
-Diese Informationen sind am 12.1.2022 zu [Diese Dokumentation (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=839909381) umgezogen.
+Diese Informationen sind am 12.1.2022 zu [Diese Dokumentation (Entwurf)]({{< ref "docs/000 Info_ DE-Version/010 Diese Dokumentation.md" >}}) umgezogen.
 
 ## Temporäre Notizen
 

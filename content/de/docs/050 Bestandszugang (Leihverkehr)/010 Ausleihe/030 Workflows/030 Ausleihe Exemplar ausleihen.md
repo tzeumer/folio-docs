@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Sicherstellen, dass ein [Personendatensatz aufgerufen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Ausleihe+Person+aufrufen) ist, bevor Exemplare gescannt werden.
+Sicherstellen, dass ein [Personendatensatz aufgerufen]({{< ref "010 Ausleihe Person aufrufen" >}}) ist, bevor Exemplare gescannt werden.
 
 Um das Exemplar zur Ausleihe auszuwählen, den Barcode des Exemplars scannen oder eingeben und auf **Eingabe** klicken. Das Exemplar wird im Bereich Exemplare scannen mit dem **Fälligkeitsdatum** und der **Zeit** angezeigt und die Gesamtzahl der gescannten Exemplare wird erhöht.
 

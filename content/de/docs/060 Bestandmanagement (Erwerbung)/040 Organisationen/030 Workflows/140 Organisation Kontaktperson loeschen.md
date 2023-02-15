@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Durch das Löschen einer Kontaktperson wird diese aus der Liste der Kontakte in der Bibliothek entfernt. Wenn nur einen Kontakt aus einem Organisationsdatensatz entfernt werden soll, lesen Sie den [Kontaktperson entfernen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+Kontaktperson+entfernen).
+Durch das Löschen einer Kontaktperson wird diese aus der Liste der Kontakte in der Bibliothek entfernt. Wenn nur einen Kontakt aus einem Organisationsdatensatz entfernt werden soll, lesen Sie den [Kontaktperson entfernen]({{< ref "150 Organisation Kontaktperson entfernen" >}}).
 
 1.  Auf den zu löschenden Kontakt klicken. Wenn die Organisationsdaten nicht gespeichert wurden, wird aufgefordert, dies zu tun, bevor fortgefahren wird.
 2.  Im Kontaktfenster auf **Aktionen > Löschen** klicken.

@@ -12,4 +12,25 @@ Description: "
 {{% pageinfo %}}
 Englische Originalfassung. ("Time granularity", "Administrator E-Mail(s)")
 {{% /pageinfo %}}
-Siehe Unterseiten.
+
+Allgemeine Einstellungen, um zu konfigurieren, wie das [**Identify** verb](http://www.openarchives.org/OAI/openarchivesprotocol.html#Identify) antwortet.
+
+## OAI-Dienst aktivieren
+
+Checkbox, um OAI-Dienste global zu aktivieren oder zu deaktivieren.
+
+## Repository-Name
+
+Legt den Inhalt des XML-Elements `respositoryName` in der Identify-Response fest.
+
+## Basis-URL
+
+Legt den Inhalt des XML-Elements `baseURL` in der Identify-Response fest. Dieser Wert erscheint auch im Inhalt des XML-Elements `response` des ListRecords verb.
+
+## Time granularity
+
+Legt den Inhalt des XML-Elements `granularity` in der Identify-Response fest.
+
+## Administrator E-Mail(s)
+
+Legt den Inhalt des XML-Elements `adminEmail` der Identify-Response fest.

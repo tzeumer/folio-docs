@@ -13,9 +13,9 @@ Description: "
 
 Ein Servicestelle in FOLIO ist eine Einstellung, die Bibliotheken konfigurieren, um Ausleihfunktionen zu unterstützen. Jedes Exemplar in FOLIO muss einen Standort haben, und jeder Standort muss eine angeschlossenen Servicestelle haben. Es muss mindestens eine Servicestelle eingerichtet sein, um Exemplare ausleihen und zurückgeben zu können, Personen die Möglichkeit zu geben, Exemplare anzufordern, Forderungen zu erheben und einzuziehen und Exemplare zwischen den Standorten der Bibliothek zu transportieren.
 
-Mitarbeitende, die die Apps Rücknahme, Ausleihe, Personen oder Bestellungen verwenden, müssen in ihrem Benutzerdatensatz eine Servicestelle zugewiesen bekommen. Servicestellen werden in der App "Einstellungen" konfiguriert. Weitere Informationen finden Sie unter [Einstellungen > Mandanten > Servicestellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Mandant%29%3A+Servicestellen).
+Mitarbeitende, die die Apps Rücknahme, Ausleihe, Personen oder Bestellungen verwenden, müssen in ihrem Benutzerdatensatz eine Servicestelle zugewiesen bekommen. Servicestellen werden in der App "Einstellungen" konfiguriert. Weitere Informationen finden Sie unter [Einstellungen > Mandanten > Servicestellen]({{< ref "050 Servicestellen" >}}).
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich Personendatensatz auf **Aktionen** \> **Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** bei Bedarf das Akkordeon **Servicestellen** erweitern.
 4.  Auf **Servicestellen hinzufügen** klicken.
@@ -26,7 +26,7 @@ Mitarbeitende, die die Apps Rücknahme, Ausleihe, Personen oder Bestellungen ver
 
 ## Servicestelle von einem Personendatensatz entfernen
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich Personendatensatz auf **Aktionen** \> **Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** bei Bedarf das Akkordeon **Servicestellen** erweitern.
 4.  Auf das "x" neben dem/den Servicestelle(en) klicken, die entfernt werden sollen. Der/die Servicestelle(n) werden aus dem Personendatensatz entfernt.
@@ -34,7 +34,7 @@ Mitarbeitende, die die Apps Rücknahme, Ausleihe, Personen oder Bestellungen ver
 
 Servicestellen können auch entfernt werden, indem eine modifizierte Version des Verfahrens zum Hinzufügen von Servicepunkten verwenden wird:
 
-1.  Via [Folio: Personen suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Personen+suchen), die Personendaten finden, und auswählen.
+1.  Via [Personen suchen]({{< ref "020 Personen suchen" >}}), die Personendaten finden, und auswählen.
 2.  Im Bereich Personendatensatz auf **Aktionen** \> **Bearbeiten** klicken.
 3.  Im Fenster **Bearbeiten** bei Bedarf das Akkordeon **Servicestellen** erweitern.
 4.  Auf **Servicestellen hinzufügen** klicken.

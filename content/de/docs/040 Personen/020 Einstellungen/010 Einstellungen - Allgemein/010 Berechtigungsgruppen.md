@@ -10,7 +10,7 @@ Description: "
 ---
 
 {{% pageinfo %}}
-* Siehe auch [Berechtigungen](https://info.gbv.de/display/FOLIOGBVEXTERN/Berechtigungen)
+* Siehe auch [Berechtigungen]({{< ref "020 Berechtigungen" >}})
 {{% /pageinfo %}}
 
 Einstellungen > Personen > Berechtigungsgruppen

@@ -11,7 +11,7 @@ Description: "
 
 Um Exemplare in einen anderen Bestandsdatensatz innerhalb desselben Instanzdatensatzes zu verschieben, folgendermaßen vorgehen:
 
-1.  [Die Instanz mit dem Exemplaren suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), der verschoben werden soll und sie auswählen.
+1.  [Die Instanz mit dem Exemplaren suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), der verschoben werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatz** auf **Aktionen > Exemplarsätze innerhalb einer Instanz verschieben** klicken. In Bestands-Tabellen erscheinen eine Drag & Drop-Spalte und eine Checkbox-Spalte.
 3.  Im Bereich Bestände können Exemplare in einen anderen Bestand verschoben werden, indem einer der folgenden Schritte ausgeführt wird:
     1.  Auf die **Drag&Drop-Spalte** des Exemplars klicken, das verschoben werden soll und es in die Tabelle des Bestandes ziehen, in die es verschoben werden soll. Es erscheint eine Bestätigungsmeldung und das Exemplar wird in der neuen Bestandstabelle angezeigt.

@@ -11,7 +11,7 @@ Description: "
 
 1.  Die Datenquelle suchen, zu der eine Anmerkung hinzugefügt werden soll und sie auswählen.
 2.  In der Ansicht **Datenquellen-Details** auf **Anmerkungen > Neu** klicken.
-3.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen. Anmerkungstypen werden in der App Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Notizen](https://info.gbv.de/pages/viewpage.action?pageId=844890132) zu finden.
+3.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen. Anmerkungstypen werden in der App Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Notizen]({{< ref "Einstellungen (Notizen)" >}}) zu finden.
 4.  In das Feld einen **Anmerkungstitel** eingeben.
 5.  Optional: In das Feld **Details** über die Anmerkung eingeben.
 6.  Auf **Speichern & schließen** klicken. Die Anmerkung wird gespeichert und erscheint im Abschnitt Anmerkungen in der Ansicht der Datenquelle für die Nutzungsdaten.

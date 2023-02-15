@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Den zu inventarisierenden Titel suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Inventarisierten+Titel+suchen), der bearbeitet werden soll und ihn auswählen.
+1.  [Den zu inventarisierenden Titel suchen]({{< ref "020 Inventarisierten Titel suchen" >}}), der bearbeitet werden soll und ihn auswählen.
 2.  In der Ansicht Zu inventarisierender Titel auf **Bearbeiten** klicken.
 3.  Im Fenster Zu inventarisierender Titel können Exemplardetails und Bestellpostendetails geändert werden. Anmerkung: Die Funktionen **Titelsuche** und **Bestellpostennummernsuche** funktionieren im Bearbeitungsmodus anders. Siehe Details unten.
 4.  Die gewünschten Felder ausfüllen.

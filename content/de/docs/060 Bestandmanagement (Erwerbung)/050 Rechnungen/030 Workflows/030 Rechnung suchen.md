@@ -38,7 +38,7 @@ Um nach Rechnungen zu suchen, die bei einem bestimmten Lieferanten platziert wur
 3.  Im Dialogfeld **Organisation auswählen** nach dem Lieferanten suchen.
 4.  Auf den Lieferanten klicken, um das Feld **Lieferantenname** auszufüllen. Die Suchergebnisse werden in der Ansicht Rechnungen angezeigt.
 
-Informationen zur Suche nach Organisationen sind unter [Organisationen > Suche nach einer Organisation](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+suchen) zu finden.
+Informationen zur Suche nach Organisationen sind unter [Organisationen > Suche nach einer Organisation]({{< ref "030 Organisation suchen" >}}) zu finden.
 
 ## Erstellungsdatum
 

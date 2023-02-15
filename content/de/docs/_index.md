@@ -12,7 +12,7 @@ Description: "
 {{% pageinfo %}}
 Hier wird die FOLIO-Anwenderdokumentation der GBV-FOLIO-Institutionen erstellt. Verantwortlich für die Erstellung ist die [AG FOLIO](https://verbundwiki.gbv.de/display/GAD/AG+FOLIO) im GBV.
 
-Für die Verwendung dieser Dokumentation, siehe [Diese Dokumentation (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=839909381).
+Für die Verwendung dieser Dokumentation, siehe [Diese Dokumentation (Entwurf)]({{< ref "docs/000 Info_ DE-Version/010 Diese Dokumentation.md" >}}).
 
 Diese Dokumentation befindet sich zur Zeit im Aufbau. Der Status einzelner Abschnitte ist in der Überschrift wie folgt vermerkt:
 

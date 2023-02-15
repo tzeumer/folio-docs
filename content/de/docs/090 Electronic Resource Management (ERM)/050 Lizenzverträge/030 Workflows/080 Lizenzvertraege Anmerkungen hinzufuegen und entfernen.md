@@ -17,7 +17,7 @@ Es können Lizenzverträgen Anmerkungen hinzugefügt und zugewiesen werden. Das 
 
 ## Anmerkung zu einem Lizenzvertrag hinzufügen
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), dem eine Anmerkung hinzugefügt werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), dem eine Anmerkung hinzugefügt werden soll und ihn auswählen.
 2.  In der Ansicht **Details des Lizenzvertrags** auf **Anmerkungen > Neu** klicken.
 3.  Im Fenster **Neue Anmerkung** den **Anmerkungstyp** aus der Dropdown-Liste wählen. Anmerkungstypen werden in der App Einstellungen erstellt. Weitere Informationen sind unter [Einstellungen > Notizen](https://info.gbv.de/pages/viewpage.action?pageId=844890132) zu finden.
 4.  In das Feld einen **Anmerkungstitel** eingeben.
@@ -26,14 +26,14 @@ Es können Lizenzverträgen Anmerkungen hinzugefügt und zugewiesen werden. Das 
 
 ## Anmerkung zu einem Lizenzvertrag zuweisen
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), dem eine Anmerkung zugewiesen werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), dem eine Anmerkung zugewiesen werden soll und ihn auswählen.
 2.  In der **Details des Lizenzvertrags** auf **Anmerkungen > Zuweisen / Entfernen** klicken.
 3.  Im Dialog **Notiz zuweisen / entfernen** über die Suchleiste in der Ansicht Suchen & Filtern nach einer Anmerkung oder einen **Anmerkungstyp** aus der Dropdown-Liste auswählen. Es kann auch nach dem **Status der Anmerkungszuweisung** gefiltert werden.
 4.  Die Checkbox neben der Anmerkung markieren, die der Vereinbarung zugeordnet werden soll und auf **Speichern** klicken. Die Anmerkung wird gespeichert und erscheint im Abschnitt Anmerkungen in der Detailansicht des Lizenzvertrags.
 
 ## Anmerkung an einem Lizenzvertrag bearbeiten
 
-1.  [Den Lizenzvertrag](https://info.gbv.de/pages/viewpage.action?pageId=846266393) [mit der Anmerkung](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen) [suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), die bearbeitet werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag mit der Anmerkung suchen]({{< ref "020 Lizenzvertraege suchen" >}}), die bearbeitet werden soll und ihn auswählen.
 2.  In der **Details des Lizenzvertrags** auf **Anmerkungen** klicken.
 3.  Die Anmerkung suchen, die bearbeitet werden soll und unten im Abschnitt Titel und Details der Anmerkung auf **Bearbeiten** klicken.
 4.  Im Fenster **Bearbeiten: Anmerkung** die gewünschten Änderungen an der Anmerkung vornehmen.
@@ -41,7 +41,7 @@ Es können Lizenzverträgen Anmerkungen hinzugefügt und zugewiesen werden. Das 
 
 ## Anmerkung von einem Lizenzvertrag entfernen
 
-1.  [Den Lizenzvertrag](https://info.gbv.de/pages/viewpage.action?pageId=846266393) [mit der Anmerkung](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Vereinbarung+suchen) [suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), die entfernt werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag mit der Anmerkung suchen]({{< ref "020 Lizenzvertraege suchen" >}}), die entfernt werden soll und ihn auswählen.
 2.  In der **Details des Lizenzvertrags** auf **Anmerkungen** klicken.
 3.  Auf die Anmerkung klicken, die entfernt werden soll.
 4.  Im Fenster **Anmerkung** auf **Aktionen > Löschen** klicken.

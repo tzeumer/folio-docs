@@ -13,23 +13,23 @@ Description: "
 2.  Im Fenster **Organisation erstellen** im Abschnitt **Übersicht** die Checkbox **Lieferant** markieren. Die Abschnitte für Lieferanten werden angezeigt.
 3.  Mit dem Ausfüllen des Abschnitts Übersicht fortfahren. Die Abschnitte Kontaktinformationen, Kontaktpersonen, Schnittstelle, Lieferanteninformationen, Lieferantenbedingungen und Konten ausfüllen. Weitere Informationen zu den Feldern und Aktionen, die in diesen Abschnitten verfügbar sind, sind in den Abschnittsbeschreibungen weiter unten zu finden.
 4.  Sobald alle gewünschten Informationen über den Lieferanten eingegeben sind, auf **Speichern & schließen** klicken. Der Lieferant wird gespeichert und der Ansicht Organisationen hinzugefügt.
-5.  In der Ansicht des neu erstellten Organisationsdatensatzes sind die Akkordeonabschnitte zum Hinzufügen von Notizen und Integrationsdetails zu sehen. Weitere Informationen sind unter [Organisation Anmerkung hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=842793033) und [Organisation (Lieferant) EDI-Verbindung hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=842793035) zu finden.
+5.  In der Ansicht des neu erstellten Organisationsdatensatzes sind die Akkordeonabschnitte zum Hinzufügen von Notizen und Integrationsdetails zu sehen. Weitere Informationen sind unter [Organisation Anmerkung hinzufügen]({{< ref "090 Organisation Anmerkung hinzufuegen" >}}) und [Organisation (Lieferant) EDI-Verbindung hinzufügen]({{< ref "020 Organisation als Lieferanten anlegen" >}}) zu finden.
 
 ## Übersicht
 
-Weitere Informationen unter [Übersicht](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Organisation+anlegen).
+Weitere Informationen unter [Übersicht]({{< ref "010 Organisation als Organisation anlegen" >}}).
 
 ## Kontaktinformationen
 
-Weitere Informationen unter [Kontaktinformationen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Organisation+anlegen).
+Weitere Informationen unter [Kontaktinformationen]({{< ref "010 Organisation als Organisation anlegen" >}}).
 
 ## Kontaktpersonen
 
-Weitere Informationen unter [Kontaktpersonen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Organisation+anlegen).
+Weitere Informationen unter [Kontaktpersonen]({{< ref "010 Organisation als Organisation anlegen" >}}).
 
 ## Schnittstellen
 
-Weitere Informationen unter [Schnittstellen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Organisation+als+Organisation+anlegen).
+Weitere Informationen unter [Schnittstellen]({{< ref "010 Organisation als Organisation anlegen" >}}).
 
 ## Lieferanteninformationen
 
@@ -93,7 +93,7 @@ Hinweis: Das Hinzufügen eines Kontos ist optional, aber wird auf Hinzufügen ge
 9.  Optional: Den **Bibliothekscode** in das Feld eingeben. Dies ist der von der Bibliothek vergebene Code für das Konto beim Lieferanten.
 10.  Optional: Den **EDI-Code Bibliothek** in das Feld eingeben.
 11.  Optional: In das Feld **Notizen** zum Konto eingeben.
-12.  Optional: Beliebige **Erwerbungsteams** aus der Dropdown-Liste auswählen. Weitere Informationen zu Erwerbungsteams sind unter [Einstellungen > Erwerbungsteams](https://info.gbv.de/pages/viewpage.action?pageId=849379720) zu finden.
+12.  Optional: Beliebige **Erwerbungsteams** aus der Dropdown-Liste auswählen. Weitere Informationen zu Erwerbungsteams sind unter [Einstellungen > Erwerbungsteams]({{< ref "010 Einstellungen (Erwerbungsteams)_ Erwerbungsteam erstellen, bearbeiten, loeschen" >}}) zu finden.
 13.  Die Schritte 1-13 nach Bedarf wiederholen. Konten werden gespeichert, sobald der Lieferant gespeichert wird.
 
 ### Konto löschen

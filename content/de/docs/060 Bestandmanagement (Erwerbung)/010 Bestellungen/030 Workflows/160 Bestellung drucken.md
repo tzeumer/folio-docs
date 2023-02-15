@@ -14,7 +14,7 @@ Bestellposten drucken fehlt noch
 {{% /pageinfo %}}
 
 1.  Entweder
-    1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die gedruckt werden soll und sie auswählen.
-    2.  [Nach dem Bestellposten suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+suchen), der zu einer Rechnung gehört, die gedruckt werden soll und ihn auswählen.
+    1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die gedruckt werden soll und sie auswählen.
+    2.  [Nach dem Bestellposten suchen]({{< ref "230 Bestellposten suchen" >}}), der zu einer Rechnung gehört, die gedruckt werden soll und ihn auswählen.
 2.  In der Ansicht **Detail (Bestellung oder Bestellposten)** auf **Aktionen > Bestellung drucken** klicken.
 3.  ...

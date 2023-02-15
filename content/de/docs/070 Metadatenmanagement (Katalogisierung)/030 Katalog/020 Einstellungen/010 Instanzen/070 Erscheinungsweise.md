@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Erscheinungsweisen zu erstellen und zu verwalten. Die Erscheinungsweisen erscheinen in der Dropdown-Liste Erscheinungsweise im Abschnitt [Administrative Daten eines Instanzdatensatzes](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen). FOLIO bietet einige Erscheinungsweisen standardmäßig an. Die standardmäßigen Erscheinungsweisen können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Erscheinungsweisen hinzugefügt werden. Die Erscheinungsweise erscheint auch als [Filter für die Instanzsuche](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog).
+Diese Einstellung wird verwendet, um Erscheinungsweisen zu erstellen und zu verwalten. Die Erscheinungsweisen erscheinen in der Dropdown-Liste Erscheinungsweise im Abschnitt [Administrative Daten eines Instanzdatensatzes]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}). FOLIO bietet einige Erscheinungsweisen standardmäßig an. Die standardmäßigen Erscheinungsweisen können nicht bearbeitet oder gelöscht werden. Es können jedoch eigene lokale Erscheinungsweisen hinzugefügt werden. Die Erscheinungsweise erscheint auch als [Filter für die Instanzsuche]({{< ref "090 Datensatz suchen im Katalog" >}}).
 
 ## Erscheinungsweise erstellen
 

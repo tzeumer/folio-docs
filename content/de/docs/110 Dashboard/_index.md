@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Die Dashboard-App wurde entwickelt, um eine personalisierte Ansicht der wichtigsten Informationen aus allen FOLIO-Apps auf einen Blick zu ermöglichen. In der ersten Version (die in der Juniper Flower-Version enthalten ist) bietet das Dashboard die Möglichkeit, Informationen aus den Apps [📱eManagement](https://info.gbv.de/pages/viewpage.action?pageId=839188710) und [📱Lizenzverträge (geplant)](https://info.gbv.de/pages/viewpage.action?pageId=839188719) anzuzeigen.
+Die Dashboard-App wurde entwickelt, um eine personalisierte Ansicht der wichtigsten Informationen aus allen FOLIO-Apps auf einen Blick zu ermöglichen. In der ersten Version (die in der Juniper Flower-Version enthalten ist) bietet das Dashboard die Möglichkeit, Informationen aus den Apps [📱eManagement]({{< ref "020 eManagement" >}}) und [📱Lizenzverträge]({{< ref "050 Lizenzverträge" >}}) anzuzeigen.
 
 Informationen für Entwickler, die die Dashboard-Funktionalität für ihre eigenen Apps nutzen möchten, sind auf der FOLIO-Wiki-Seite [Dashboard-Dokumentation](https://wiki.folio.org/display/ERM/Dashboard+Documentation) verfügbar.
 

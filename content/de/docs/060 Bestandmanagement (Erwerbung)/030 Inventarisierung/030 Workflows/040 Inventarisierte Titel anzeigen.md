@@ -27,7 +27,7 @@ In den Suchergebnissen auf einen zu inventarisierenden Titel klicken, um ihn anz
 
 ## Titelinformationen
 
-In diesem Bereich werden die unter [Folio: Inventarisierung eines Titels durchführen (Entwurf)](https://info.gbv.de/pages/viewpage.action?pageId=851935415) definierten Details zur Ressource angezeigt.
+In diesem Bereich werden die unter [Inventarisierung eines Titels durchführen]({{< ref "010 Inventarisierung eines Titels durchfuehren" >}}) definierten Details zur Ressource angezeigt.
 
 ## Details zum Bestellposten
 
@@ -54,7 +54,7 @@ In diesem Abschnitt wird eine tabellarische Liste der Teile der Bestellung angez
 
 ## Inventarisiert
 
-In diesem Abschnitt wird eine tabellarische Liste der Teile der Bestellung angezeigt, die inventarisiert wurden. Weitere Informationen unter [Folio: Bestellung inventarisieren](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellung+inventarisieren) zu finden. Um die in der Tabellenliste angezeigten Spalten anzupassen, wie folgt vorgehen:
+In diesem Abschnitt wird eine tabellarische Liste der Teile der Bestellung angezeigt, die inventarisiert wurden. Weitere Informationen unter [Bestellung inventarisieren]({{< ref "120 Bestellung inventarisieren" >}}) zu finden. Um die in der Tabellenliste angezeigten Spalten anzupassen, wie folgt vorgehen:
 
 1.  Im Abschnitt Inventarisiert des zu inventarisierenden Titels die Schaltfläche **Aktionen** klicken.
 2.  Die standardmäßig angezeigten Spalten sind alle unter **Spalten anzeigen** in der Aktionenliste ausgewählt.

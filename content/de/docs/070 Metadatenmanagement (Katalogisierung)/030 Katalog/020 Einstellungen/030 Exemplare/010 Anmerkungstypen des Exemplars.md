@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Anmerkungstypen des Exemplars zu erstellen und zu verwalten. Anmerkungstypen des Exemplars erscheinen in der Dropdown-Liste **Anmerkungstyp des Exemplars**, wenn [eine Anmerkung zu einem Exemplardatensatz hinzugefügt wird](https://info.gbv.de/pages/viewpage.action?pageId=852492470). FOLIO stellt standardmäßig Anmerkungstypen zur Verfügung, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um Anmerkungstypen des Exemplars zu erstellen und zu verwalten. Anmerkungstypen des Exemplars erscheinen in der Dropdown-Liste **Anmerkungstyp des Exemplars**, wenn [eine Anmerkung zu einem Exemplardatensatz hinzugefügt wird]({{< ref "040 Datensatz ein Exemplar hinzufuegen" >}}). FOLIO stellt standardmäßig Anmerkungstypen zur Verfügung, die bearbeitet oder gelöscht werden können.
 
 ## Anmerkungstyp des Exemplars erstellen
 

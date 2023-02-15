@@ -13,7 +13,7 @@ Das Menü **Aktionen** verwenden, um einem Budget Geld zuzuweisen. Es können 
 
 ## Zuweisung eines Fondsbudget erhöhen
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), dem Mittel zugewiesen werden sollen und es auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), dem Mittel zugewiesen werden sollen und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Zuweisung erhöhen** klicken.
 3.  Im Dialogfeld **Zuweisung erhöhen** die folgenden Informationen eingeben:
     * **Fonds**. Der Name des Fonds, auf dem eine Zuweisung der Mittel erhöht werden soll. Dieses Feld zeigt den Fondsnamen und -code für das ausgewählte Budget an und kann nicht bearbeitet werden. Das Anzeigeformat ist Fondsname (Fondscode).
@@ -24,7 +24,7 @@ Das Menü **Aktionen** verwenden, um einem Budget Geld zuzuweisen. Es können 
 
 ## Zuweisung eines Fondsbudget reduzieren
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), bei dem Mittel reduziert werden sollen und es auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), bei dem Mittel reduziert werden sollen und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Zuweisung reduzieren** klicken.
 3.  Im Dialogfeld **Zuweisung reduzieren** die folgenden Informationen eingeben:
     * **Fonds**. Der Name des Fonds, auf dem eine Zuweisung der Mittel reduziert werden soll. Dieses Feld zeigt den Fondsnamen und -code für das ausgewählte Budget an und kann nicht bearbeitet werden. Das Anzeigeformat ist Fondsname (Fondscode).
@@ -35,9 +35,9 @@ Das Menü **Aktionen** verwenden, um einem Budget Geld zuzuweisen. Es können 
 
 ## Zuweisung eines Fondsbudget in ein anderes Fondbudget verschieben
 
-Die Aktion **Zuweisung verschieben** verwenden, um Geld zwischen den Budgets der Fonds des laufenden Haushaltsjahres als Zuweisungstransaktionen zu verschieben. Zugewiesene Beträge können in den nächsten Haushaltsjahr-Zuweisungsbetrag für einen Fonds einbezogen werden, abhängig von den Einstellungen für den Jahresübergang. Siehe Informationen [Folio: Mittel zwischen Fonds transferieren](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Mittel+zwischen+Fonds+transferieren), um zu entscheiden, ob Mittel mit Zuweisung verschieben oder mit Transferieren bewegt werden sollten.
+Die Aktion **Zuweisung verschieben** verwenden, um Geld zwischen den Budgets der Fonds des laufenden Haushaltsjahres als Zuweisungstransaktionen zu verschieben. Zugewiesene Beträge können in den nächsten Haushaltsjahr-Zuweisungsbetrag für einen Fonds einbezogen werden, abhängig von den Einstellungen für den Jahresübergang. Siehe Informationen [Mittel zwischen Fonds transferieren]({{< ref "100 Mittel zwischen Fonds transferieren" >}}), um zu entscheiden, ob Mittel mit Zuweisung verschieben oder mit Transferieren bewegt werden sollten.
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), bei dem Zuweisung verschoben werden sollen und es auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), bei dem Zuweisung verschoben werden sollen und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Zuweisung verschieben** klicken.
 3.  Im Dialog **Zuweisung verschieben** die folgenden Informationen eingeben:
     * **Von (erforderlich)**. Den Fonds wählen, aus dem Mittel zugewiesen werden sollen. Das Anzeigeformat ist Fondsname (Fondscode).

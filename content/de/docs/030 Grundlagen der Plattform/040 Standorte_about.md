@@ -54,7 +54,7 @@ Wenn die Renovierung abgeschlossen ist und die Exemplare in die Kunstbibliothek 
 
 ## Konfigurieren von Standorten
 
-Der Standortbaum wird unter [Einstellungen > Mandant > Standort einrichten](https://info.gbv.de/display/FOLIOGBVEXTERN/Einstellungen+%28Mandant%29%3A+Standorte) konfiguriert.
+Der Standortbaum wird unter [Einstellungen > Mandant > Standort einrichten]({{< ref "020 Standort einrichten" >}}) konfiguriert.
 
 ## Tatsächliche Standorte von Beständen und Exemplaren
 

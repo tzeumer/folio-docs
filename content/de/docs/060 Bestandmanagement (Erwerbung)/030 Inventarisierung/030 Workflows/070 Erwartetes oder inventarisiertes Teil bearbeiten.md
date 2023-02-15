@@ -14,7 +14,7 @@ Um ein erwartetes oder inventarisiertes Teil zu bearbeiten, sicherstellen, dass 
 ## Erwartetes Teil bearbeiten
 
 1.  Das Teil auswählen, das bearbeitet werden soll.
-2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=851935460) angezeigt. Weitere Informationen sind dort zu finden.
+2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen]({{< ref "060 Erwartetes Teil hinzufuegen" >}}) angezeigt. Weitere Informationen sind dort zu finden.
 3.  Den Inhalt der Felder bearbeiten, falls erforderlich.
 4.  Um ein weiteres Teil hinzuzufügen, nachdem dieses Teil gespeichert oder schnell inventarisiert wurde, auf **Weitere erstellen** klicken. Nachdem das Teil gespeichert und geschlossen oder schnell empfangen wurde, wird das Dialogfeld **Teil hinzufügen** mit den Details aus dem vorherigen Formular gefüllt.
 5.  Um das Teil zu speichern und zu inventarisieren, auf **Schnelles inventarisieren** klicken.
@@ -23,7 +23,7 @@ Um ein erwartetes oder inventarisiertes Teil zu bearbeiten, sicherstellen, dass 
 ## Teil bearbeiten, das inventarisiert wurde
 
 1.  Das Teil auswählen, das bearbeitet werden soll.
-2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen](https://info.gbv.de/pages/viewpage.action?pageId=851935460) angezeigt. Weitere Informationen sind dort zu finden. Anmerkung: Bei der Bearbeitung eines Teils, das inventarisiert wurde, können keine Änderungen am **Stückformat** oder am **Exemplar erstellen** vorgenommen werden. Wenn die Checkbox **Exemplar erstellen** bei der Erstellung des Teils aktiviert war, wird der Text **Verbunden** angezeigt. Wenn das Kontrollkästchen deaktiviert wurde, wird das Feld **Exemplar erstellen** weiterhin angezeigt, aber das Kontrollkästchen kann nicht bearbeitet werden.
+2.  Im Dialog **Teil bearbeiten** werden die gleichen Felder wie im Dialog [Teil hinzufügen]({{< ref "060 Erwartetes Teil hinzufuegen" >}}) angezeigt. Weitere Informationen sind dort zu finden. Anmerkung: Bei der Bearbeitung eines Teils, das inventarisiert wurde, können keine Änderungen am **Stückformat** oder am **Exemplar erstellen** vorgenommen werden. Wenn die Checkbox **Exemplar erstellen** bei der Erstellung des Teils aktiviert war, wird der Text **Verbunden** angezeigt. Wenn das Kontrollkästchen deaktiviert wurde, wird das Feld **Exemplar erstellen** weiterhin angezeigt, aber das Kontrollkästchen kann nicht bearbeitet werden.
 3.  Die gewünschten Felder ausfüllen.
 4.  Auf **Speichern & schließen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Teil wird aktualisiert.
 

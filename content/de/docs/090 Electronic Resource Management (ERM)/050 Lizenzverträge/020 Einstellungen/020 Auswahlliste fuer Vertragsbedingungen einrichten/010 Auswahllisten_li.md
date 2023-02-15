@@ -13,7 +13,7 @@ Eine Auswahlliste ist eine anpassbare Dropdown-Liste, die in der App Lizenzvertr
 
 Eine Auswahlliste mit Mehrfachauswahl ermöglicht es, mehrere Werte aus der Auswahlliste auszuwählen. Alle ausgewählten Werte werden im Lizenzvertrag angezeigt.
 
-Diese Einstellung verwenden, um die Namen der verfügbaren Auswahllisten festzulegen. Sobald die Auswahllisten benannt sind, können die Werte, die in jeder Auswahlliste verfügbar sind, unter [Einstellungen > Lizenzverträge > Auswahllistenwerte](https://info.gbv.de/pages/viewpage.action?pageId=847085670) konfiguriert werden.
+Diese Einstellung verwenden, um die Namen der verfügbaren Auswahllisten festzulegen. Sobald die Auswahllisten benannt sind, können die Werte, die in jeder Auswahlliste verfügbar sind, unter [Einstellungen > Lizenzverträge > Auswahllistenwerte]({{< ref "020 Auswahllistenwerte_li" >}}) konfiguriert werden.
 
 ## Auswahlliste erstellen
 

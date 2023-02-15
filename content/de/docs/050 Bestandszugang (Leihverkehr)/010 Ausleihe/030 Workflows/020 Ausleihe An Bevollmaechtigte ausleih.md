@@ -11,8 +11,8 @@ Description: "
 
 Bevollmächtigte Personen sind Personen, die Exemplare im Namen einer anderen Person ausleihen. So kann zum Beispiel ein wissenschaftlicher Mitarbeiter als Vertreter eines Professors fungieren.
 
-Hinweis: Eine Person muss zunächst in ihrem Personendatensatz in der App Personen [als Bevollmächtigt für die Person](https://info.gbv.de/pages/viewpage.action?pageId=840859875) [z](https://info.gbv.de/pages/viewpage.action?pageId=840859875)[ugewiesen](https://info.gbv.de/pages/viewpage.action?pageId=840859875) werden.
+Hinweis: Eine Person muss zunächst in ihrem Personendatensatz in der App Personen [als Bevollmächtigt für die Person zugewiesen werden]({{< ref "070 Person Bevollmaechtigte zuweisen" >}}).
 
-1.  [Die Bevollmächtigte Person im System suche](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Ausleihe+Person+aufrufen).
+1.  [Die Bevollmächtigte Person im System suche]({{< ref "010 Ausleihe Person aufrufen" >}}).
 2.  Im **Dialog Wer sind Sie?** den Namen der Person wählen, die vertreten wird, und auf Weiter klicken. Das Dialogfeld **Wer sind Sie?** wird geschlossen und die Details zur Person und zur Bevollmächtigten Person werden angezeigt.
 

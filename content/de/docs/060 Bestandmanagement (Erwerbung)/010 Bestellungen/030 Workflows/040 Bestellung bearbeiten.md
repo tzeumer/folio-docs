@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die bearbeitet werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die bearbeitet werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf **Aktionen > Bearbeiten** klicken.
 3.  Die Bestellung bearbeiten.
 4.  Auf **Speichern & schließen** klicken. Es erscheint eine Bestätigungsmeldung und die Bestellung wird aktualisiert.

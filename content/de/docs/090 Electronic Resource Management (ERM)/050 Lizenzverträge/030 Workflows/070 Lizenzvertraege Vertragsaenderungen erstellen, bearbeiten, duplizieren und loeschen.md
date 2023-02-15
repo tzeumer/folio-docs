@@ -15,14 +15,14 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 
 ## Vertragsänderung erstellen
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), dem eine Vertragsänderung hinzugefügt werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), dem eine Vertragsänderung hinzugefügt werden soll und ihn auswählen.
 2.  In der Ansicht **Lizenzvertragsdetails** auf **Vertragsänderungen> Vertragsänderung hinzufügen** klicken.
-3.  Den **Namen** der Vertragsänderung auswählen. Die angezeigten Felder sind auch in einem Lizenzvertrag zu finden. Weitere Informationen sind unter [Erstellen eines Lizenzvertrags](https://info.gbv.de/pages/viewpage.action?pageId=846266388) zu finden.
+3.  Den **Namen** der Vertragsänderung auswählen. Die angezeigten Felder sind auch in einem Lizenzvertrag zu finden. Weitere Informationen sind unter [Erstellen eines Lizenzvertrags]({{< ref "010 Lizenzvertraege anlegen" >}}) zu finden.
 4.  Auf **Speichern & schließen** klicken. Es wird eine Bestätigungsmeldung angezeigt und die Vertragsänderung wird gespeichert.
 
 ## Vertragsänderung bearbeiten
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), der eine Vertragsänderung enthält, die geändert werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), der eine Vertragsänderung enthält, die geändert werden soll und ihn auswählen.
 2.  In der Ansicht **Lizenzvertragsdetails** auf **Vertragsänderungen** klicken.
 3.  In der Tabelle **Vertragsänderungen** auf die Vertragsänderung klicken, die bearbeitet werden soll.
 4.  In der Ansicht **Vertragsänderung** auf **Aktionen > Bearbeiten** klicken.
@@ -31,19 +31,19 @@ Hinweis: Es sind eigentlich mehrere einzelne Workflows. Ob einzeln oder wie hier
 
 ## Vertragsänderung duplizieren
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), der eine Vertragsänderung enthält, die dupliziert werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), der eine Vertragsänderung enthält, die dupliziert werden soll und ihn auswählen.
 2.  In der Ansicht **Lizenzvertragsdetails** auf **Vertragsänderungen** klicken.
 3.  In der Tabelle **Vertragsänderungen** auf die Vertragsänderung klicken, die dupliziert werden soll.
 4.  In der Ansicht **Vertragsänderung** auf **Aktionen > Duplizieren** klicken.
 5.  Im Dialog **Vertragsänderung duplizieren** die Abschnitte der Vertragsänderung auswählen, die dupliziert werden sollen. Die Felder, die in den einzelnen Abschnitten erscheinen
-6.  sind unter [Erstellen eines Lizenzvertrags](https://info.gbv.de/pages/viewpage.action?pageId=846266388) zu finden.
+6.  sind unter [Erstellen eines Lizenzvertrags]({{< ref "010 Lizenzvertraege anlegen" >}}) zu finden.
 7.  Auf **Speichern & schließen** klicken.
 8.  Im Fenster **Kopie von: \[Name der duplizierten Vereinbarung\]** nehmen die gewünschten Änderungen vornehmen.
 9.  Auf **Speichern & schließen** klicken. Eine Bestätigungsmeldung wird angezeigt und die duplizierte Vereinbarung erscheint in der Ansicht Vereinbarungen.
 
 ## Vertragsänderung löschen
 
-1.  [Den Lizenzvertrag suchen](https://info.gbv.de/pages/viewpage.action?pageId=846266393), der eine Vertragsänderung enthält, die gelöscht werden soll und ihn auswählen.
+1.  [Den Lizenzvertrag suchen]({{< ref "020 Lizenzvertraege suchen" >}}), der eine Vertragsänderung enthält, die gelöscht werden soll und ihn auswählen.
 2.  In der Ansicht **Lizenzvertragsdetails** auf **Vertragsänderungen** klicken.
 3.  In der Tabelle **Vertragsänderungen** auf die **Vertragsänderung** klicken, die gelöscht werden soll.
 4.  In der Ansicht **Vertragsänderung** auf **Aktionen > Löschen** klicken.

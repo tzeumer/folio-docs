@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Diese Einstellung wird verwendet, um Anmerkungstypen des Bestands zu erstellen und zu verwalten. Anmerkungstypen der Instanz erscheinen in der Dropdown-Liste **Anmerkungstyp**, wenn [eine Anmerkung zu einem Bestandsdatensatz hinzugefügt wird](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Instanzdatensatz+manuell+in+FOLIO+erstellen). FOLIO stellt standardmäßig Anmerkungstypen des Bestands zur Verfügung, die bearbeitet oder gelöscht werden können.
+Diese Einstellung wird verwendet, um Anmerkungstypen des Bestands zu erstellen und zu verwalten. Anmerkungstypen der Instanz erscheinen in der Dropdown-Liste **Anmerkungstyp**, wenn [eine Anmerkung zu einem Bestandsdatensatz hinzugefügt wird]({{< ref "010 Instanzdatensatz manuell in FOLIO erstellen" >}}). FOLIO stellt standardmäßig Anmerkungstypen des Bestands zur Verfügung, die bearbeitet oder gelöscht werden können.
 
 ## Anmerkungstyp des Bestands erstellen
 

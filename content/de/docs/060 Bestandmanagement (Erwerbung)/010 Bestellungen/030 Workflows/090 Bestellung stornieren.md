@@ -9,9 +9,9 @@ Description: "
     "
 ---
 
-Um eine offene Bestellung zu stornieren, die folgenden Schritte ausführen. Wenn eine Bestellung storniert wird, werden alle Bindungen entfernt und alle zugehörigen Exemplardatensätze für alle Bestellposten auf den Status **Bestellung abgeschlossen** aktualisiert. Um einzelne Bestellposten zu stornieren, siehe [Bestellposten stornieren](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellposten+stornieren). Eine Bestellung kann wieder geöffnet werden, nachdem die Stornierung durchgeführt wurde.
+Um eine offene Bestellung zu stornieren, die folgenden Schritte ausführen. Wenn eine Bestellung storniert wird, werden alle Bindungen entfernt und alle zugehörigen Exemplardatensätze für alle Bestellposten auf den Status **Bestellung abgeschlossen** aktualisiert. Um einzelne Bestellposten zu stornieren, siehe [Bestellposten stornieren]({{< ref "280 Bestellposten stornieren" >}}). Eine Bestellung kann wieder geöffnet werden, nachdem die Stornierung durchgeführt wurde.
 
-1.  [Nach der Bestellung suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Bestellungen+suchen+und+exportieren), die storniert werden soll und sie auswählen.
+1.  [Nach der Bestellung suchen]({{< ref "020 Bestellungen suchen und exportieren" >}}), die storniert werden soll und sie auswählen.
 2.  In der Ansicht **Bestellung** auf **Aktionen > Stornieren** klicken. Anmerkung: Nur Bestellungen im Status Offen zeigen die Option Stornieren im Menü Aktion an.
 3.  Im Dialog **Abschließen - Bestellung** optional einen Text für **Bemerkungen** hinzufügen und auf **Absenden** klicken. Es erscheint eine Bestätigungsmeldung.
 

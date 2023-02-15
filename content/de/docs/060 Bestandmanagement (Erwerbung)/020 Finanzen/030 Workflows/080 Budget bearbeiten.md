@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-1.  [Den Fonds mit dem Budget suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Haushaltsjahr%2C+Etat%2C+Gruppe%2C+Fonds+suchen), das bearbeitet werden soll und es auswählen.
+1.  [Den Fonds mit dem Budget suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}), das bearbeitet werden soll und es auswählen.
 2.  Im Fenster **Budgetdetails** auf **Aktionen > Bearbeiten** klicken.
 3.  Das Budget bearbeiten.
 4.  Auf **Speichern & schließen** klicken. Eine Bestätigungsmeldung wird angezeigt und das Budget wird aktualisiert.

@@ -11,7 +11,7 @@ Description: "
 
 ## Exemplardatensatz bearbeiten
 
-1.  [Die Instanz mit dem Exemplar suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), das bearbeitet werden soll und sie auswählen.
+1.  [Die Instanz mit dem Exemplar suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), das bearbeitet werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** im Abschnitt **Bestand** auf den **Barcode des Exemplars** klicken.
 3.  Im Fenster **Details des Exemplardatensatz** auf **Aktionen > Bearbeiten** klicken.
 4.  Die gewünschten Änderungen an dem Exemplardatensatz vornehmen.
@@ -19,7 +19,7 @@ Description: "
 
 ## Exemplardatensatz duplizieren
 
-1.  [Die Instanz mit dem Exemplar suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), das dupliziert werden soll und sie auswählen.
+1.  [Die Instanz mit dem Exemplar suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), das dupliziert werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** im Abschnitt **Bestand** auf den **Barcode des Exemplars** klicken.
 3.  Im Fenster **Details des Exemplardatensatz** auf **Aktionen > Duplizieren** klicken.
 4.  Die gewünschten Änderungen an dem Exemplardatensatz vornehmen.
@@ -27,7 +27,7 @@ Description: "
 
 ## Exemplardatensatz löschen
 
-1.  [Die Instanz mit dem Exemplar suchen](https://info.gbv.de/display/FOLIOGBVEXTERN/Folio%3A+Datensatz+suchen+im+Katalog), das gelöscht werden soll und sie auswählen.
+1.  [Die Instanz mit dem Exemplar suchen]({{< ref "090 Datensatz suchen im Katalog" >}}), das gelöscht werden soll und sie auswählen.
 2.  In der Ansicht **Details des Instanzdatensatzes** im Abschnitt **Bestand** auf den **Barcode des Exemplars** klicken.
 3.  Im Fenster **Details des Exemplardatensatz** auf **Aktionen > Löschen** klicken.
 4.  Im Dialog **Löschen des Exemplars bestätigen** auf **Löschen** klicken. Der Exemplardatensatz wird gelöscht.
