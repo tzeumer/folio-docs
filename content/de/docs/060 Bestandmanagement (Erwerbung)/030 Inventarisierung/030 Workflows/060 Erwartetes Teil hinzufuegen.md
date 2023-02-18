@@ -11,7 +11,7 @@ Description: "
 
 Ein erwartetes Teil ist ein Teil einer Bestellung, die voraussichtlich erhalten wird. Wenn zum Beispiel ein Zeitschriftenabonnement bestellt wurde, ist zu erwarten, dass im Laufe des Jahres 12 verschiedene Teile erhalten. Wenn ein Buch bestellt wurde, das mit zusätzlichen Ressourcen wie einer CD oder einer Karte geliefert wird, ist zu erwarten, dass mehrere Teile mit der Bestellung erhalten werden. In der Bestellung wird zunächst nicht jedes Teil angezeigt, das mit der Bestellung geliefert wird. Werden einer Bestellung erwartete Teile hinzugefügt, kann verfolgt werden, welche Teile der Bestellung bereits inventarisiert wurden und welche noch erwartet werden.
 
-Erwartete Teile sind im Abschnitt Erwartet in einem Datensatz der App Inventarisierung zu finden. Die erwarteten Teile können auch über diesen Abschnitt inventarisiert werden. Weitere Informationen sind unter Schnelles Empfangen zu finden.
+Erwartete Teile sind im Abschnitt Erwartet in einem Datensatz der App Inventarisierung zu finden. Die erwarteten Teile können auch über diesen Abschnitt inventarisiert werden. Weitere Informationen sind unter [Schnelles inventarisieren]({{< ref "090 Erwartetes Teil inventarisieren.md" >}}) zu finden.
 
 Anmerkung: Damit ein erwartetes Teil in der Inventarisierung hinzugefügt werden kann, muss der [Workflow der Inventarisierung]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) auf der Bestellung auf "Unabhängige Bestell- und Eingangsmenge" eingestellt sein, wenn die Bestellung geöffnet wird.
 

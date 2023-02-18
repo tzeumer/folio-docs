@@ -16,9 +16,9 @@ Es gibt zwei Möglichkeiten, wie ein Teil inventarisiert werden kann:
 1.  Schnelles inventarisieren
 2.  Inventarisierung
 
-## Schnell inventarisieren
+## Schnelles inventarisieren
 
-Schnell inventarisieren kann verwendet werden, wenn jeweils nur einen Teil einer Bestellung inventarisiert werden soll.
+Schnelles inventarisieren kann verwendet werden, wenn jeweils nur einen Teil einer Bestellung inventarisiert werden soll.
 
 1.  In der Ansicht **Suchen & Filtern** den zu inventarisierenden Titel suchen, von dem Teile inventarisiert werden sollen und ihn auswählen.
 2.  Im Abschnitt **Erwartet** der Bestellung auf das Teil klicken, das inventarisiert werden soll.
