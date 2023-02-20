@@ -164,8 +164,8 @@ resolved="">
       <td>
         &gt; <a href="/pages/viewpage.action?pageId=839188580">FOLIO installieren</a>
       </td>
-      <td>(<strong><span style="color: rgb(255,102,0);">zu
-      entfernen</span></strong>)</td>
+      <td>(<span style=
+      "color: rgb(51,153,102);"><strong>ok</strong></span>)</td>
       <td>
         <div class="content-wrapper">
           <ul>
@@ -184,8 +184,7 @@ resolved="">
         &gt;<a href="/pages/viewpage.action?pageId=850624525"><strong>&gt;</strong> Server oder
         PC: Neuinstallation (geplant)</a>
       </td>
-      <td><strong>(<span style="color: rgb(255,102,0);">zu
-      entfernen</span>)</strong></td>
+      <td></td>
       <td>(siehe vorangegangenen Kommentar)</td>
     </tr>
     <tr>
@@ -197,8 +196,7 @@ resolved="">
         &gt;<a href="/pages/viewpage.action?pageId=850624528"><strong>&gt;</strong> Server mit
         Containern (geplant)</a>
       </td>
-      <td><strong>(<span style="color: rgb(255,102,0);">zu
-      entfernen</span>)</strong></td>
+      <td></td>
       <td>(siehe vorangegangenen Kommentar)</td>
     </tr>
     <tr>
@@ -212,8 +210,8 @@ resolved="">
         <a href="/pages/viewpage.action?pageId=850624532"><strong>&gt;&gt;</strong>
         Kubernetes-Beispiel (Entwurf)</a>
       </td>
-      <td><strong>(<span style="color: rgb(255,102,0);">zu
-      entfernen</span>)</strong></td>
+      <td>(<strong><span style=
+      "color: rgb(153,51,102);">sortiert</span></strong>)</td>
       <td>(siehe vorangegangenen Kommentar)</td>
     </tr>
     <tr>
@@ -227,8 +225,8 @@ resolved="">
         &gt;<a href="/pages/viewpage.action?pageId=850624531"><strong>&gt;</strong> Vagrant
         (Entwurf)</a>
       </td>
-      <td><strong>(<span style="color: rgb(255,102,0);">zu
-      entfernen</span>)</strong></td>
+      <td>(<strong><span style=
+      "color: rgb(153,51,102);">sortiert</span></strong>)</td>
       <td>(siehe vorangegangenen Kommentar)</td>
     </tr>
     <tr>
@@ -243,7 +241,8 @@ resolved="">
         (für Mandanten) (Entwurf)</a>
       </td>
       <td>
-        <p>(<span style="color: rgb(255,0,0);">diskussionbedarf</span>)</p>
+        <p>(<strong><span style=
+      "color: rgb(153,51,102);">sortiert</span></strong>)</p>
       </td>
       <td>(siehe vorangegangenen Kommentar; allerdings Inhalte
       interessant, was anpassbar ist)</td>
@@ -401,8 +400,8 @@ resolved="">
       <td>
         &gt; <a href="/pages/viewpage.action?pageId=841416803">Einstellungen (Personen)</a>
       </td>
-      <td><span>(<strong><span style=
-      "color: rgb(153,51,102);">sortiert</span></strong>)</span></td>
+      <td>(<strong><span style=
+      "color: rgb(153,51,102);">sortiert</span></strong>)</td>
       <td><br></td>
     </tr>
     <tr>
