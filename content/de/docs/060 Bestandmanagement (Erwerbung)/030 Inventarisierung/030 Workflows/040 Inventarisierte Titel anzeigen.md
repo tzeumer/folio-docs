@@ -1,7 +1,7 @@
 ---
 title: "Inventarisierte Titel anzeigen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-inventarisierung, by-folio, cat-workflows, for-anwender, meta-gemeldet_docsfolioorg]
 weight: 40
 Description: "
@@ -9,7 +9,7 @@ Description: "
     "
 ---
 
-Die Details zu inventarisierenden Titeln können von jeder Person mit der **Berechtigung Inventarisierung: anzeigen** angezeigt werden.
+Die Details zu inventarisierenden Titeln können von jeder Person mit der [Berechtigung Inventarisierung: anzeigen]({{< ref "030 Inventarisierung" >}}) angezeigt werden.
 
 ## Suchergebnisse
 
@@ -54,7 +54,7 @@ In diesem Abschnitt wird eine tabellarische Liste der Teile der Bestellung angez
 
 ## Inventarisiert
 
-In diesem Abschnitt wird eine tabellarische Liste der Teile der Bestellung angezeigt, die inventarisiert wurden. Weitere Informationen unter [Bestellung inventarisieren]({{< ref "120 Bestellung inventarisieren" >}}) zu finden. Um die in der Tabellenliste angezeigten Spalten anzupassen, wie folgt vorgehen:
+In diesem Abschnitt wird eine tabellarische Liste der Teile der Bestellung angezeigt, die inventarisiert wurden. Weitere Informationen unter [Exemplardetails]({{< ref "010 Inventarisierung eines Titels durchfuehren" >}}) zu finden. Um die in der Tabellenliste angezeigten Spalten anzupassen, wie folgt vorgehen:
 
 1.  Im Abschnitt Inventarisiert des zu inventarisierenden Titels die Schaltfläche **Aktionen** klicken.
 2.  Die standardmäßig angezeigten Spalten sind alle unter **Spalten anzeigen** in der Aktionenliste ausgewählt.

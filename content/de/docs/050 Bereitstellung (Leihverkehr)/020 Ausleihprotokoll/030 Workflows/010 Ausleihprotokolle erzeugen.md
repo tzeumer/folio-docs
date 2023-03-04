@@ -1,7 +1,7 @@
 ---
 title: "Ausleihprotokolle erzeugen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-ausleihprotokoll, by-folio, for-anwender, cat-berechtigungen]
 weight: 10
 Description: "
@@ -88,7 +88,7 @@ In der Ansicht **Suche & Filter** auf Bestandsanfrage klicken und Sie alle anw
 * **Erstellt**. Schließt Bestandsanfragen ein, die erstellt wurden.
 * **Abholmöglichkeit abgelaufen**. Enthält Bestandsanfragen, die zur Abholung anstanden und deren Abholfrist abgelaufen ist.
 * **Bestandsanfrage abgelaufen**. Enthält Bestandsanfragen, die abgelaufen sind, bevor sie bearbeitet wurden.
-* **Verschoben**. Enthält Anfragen, die von einem Exemplar zu einem anderen verschoben wurden.
+* **Verschoben**. Enthält Anfragen, die [von einem Exemplar zu einem anderen verschoben wurden](({{< ref "010 Bestandsanfragen auf Exemplarebene" >}})).
 * **Wartelistenposition neu angeordnet**. Enthält Bestandsanfragen, die in der Warteschlange nach oben oder unten verschoben wurden.
 
 ## Spalten im Ausleihprotokoll

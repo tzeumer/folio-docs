@@ -36,3 +36,21 @@ Um die Liste der verfügbaren  Tastaturkürzel anzuzeigen, gehen Sie wie folgt
 * Auf den Namen einer FOLIO App in der oberen Menüleiste klicken. Die App wird geöffnet und der Name der App wird oben links im Fenster angezeigt.
 * Auf die nach unten zeigende Klammer "v" am Ende des App-Namens klicken.
 * Auf " Tastaturkürzel" klicken, um die Liste der Kurzbefehle anzuzeigen
+
+## Liste der Apps, die die Liste der Tastenkombinationen anzeigen
+Die folgenden Apps zeigen die Liste der Tastaturkürzel an, die mit den oben beschriebenen Schritten aufgerufen werden können.
+
+* Bestellungen
+* Dashboard
+* Finanzen
+* Inventarisierung
+* Katalog
+* Lizenzverträge
+* Lokale KB-Verwaltung
+* Organisationen
+* Personen
+* Rechnungen
+* eHoldings
+* eManagement
+* eUsage
+* eVergleich

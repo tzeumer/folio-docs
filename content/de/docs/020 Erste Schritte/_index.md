@@ -1,7 +1,7 @@
 ---
 title: "Erste Schritte"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: []
 weight: 20
 Description: "
@@ -24,8 +24,8 @@ Greifen Sie auf eine unserer Demoseiten zu und entdecken Sie die Funktionen von 
 
 Anmeldung: diku\_admin / admin
 
-* [Aktuelle Version](https://folio-kiwi.dev.folio.org/)
-* [Vorherige Version](https://folio-juniper.dev.folio.org/)
+* Aktuelle Version: https://folio-nolana.dev.folio.org
+* Vorherige Version: https://folio-morning-glory.dev.folio.org
 
 Demoinstallationen in Deutschland
 

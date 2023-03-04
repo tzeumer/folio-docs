@@ -1,7 +1,7 @@
 ---
 title: "Person anlegen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-personen, by-folio, cat-worklfows, for-anwender, topic-passwort]
 weight: 10
 Description: "
@@ -31,7 +31,7 @@ Description: "
 * **Geburtsdatum**. Das Geburtsdatum der Person im Format JJJJ-MM-TT.
 * **Folio-ID**. Eine vom System generierte Nummer für den Personendatensatz.
 * **Bestandsanfragenpräferenz**. Das **Abholregal** ist standardmäßig für alle Personen ausgewählt. Wenn auch **Lieferung** angekreuzt ist, wählen Sie **Bereitstellungspräferenz**.
-* Wenn **Lieferung** als **Bereitstellungspräferenz** ausgewählt ist, wählen Sie die **Voreingestellte Lieferadresse**. Dieses Feld wird nur angezeigt und ist nur erforderlich, wenn **Lieferung** als Bestandsanfragenpräferenz ist. Adressen werden dem Personendatensatz im Abschnitt **Kontaktinformationen** hinzugefügt. Weitere Informationen sind unten im Abschnitt Kontaktinformationen zu finden.
+* Wenn **Lieferung** als **Bereitstellungspräferenz** ausgewählt ist, wählen Sie die **Voreingestellte Lieferadresse**. Dieses Feld wird nur angezeigt und ist nur erforderlich, wenn **Lieferung** als Bestandsanfragenpräferenz ist. Adressen werden dem Personendatensatz im Abschnitt **Kontaktinformationen** hinzugefügt. Weitere Informationen sind unten im [Abschnitt Kontaktinformationen]({{< ref "#kontaktinformationen" >}}) zu finden.
 * Wenn **Abholregal** als **Bestandsanfragenpräferenz** ausgewählt ist, muss eine **Voreingestellte Abhol-Servicestelle** ausgewählt werden. Allen Personendatensätzen ist mindestens ein Servicestelle zugewiesen, um den Ort für die Ausleihe oder Abholung von angeforderten Exemplaren anzugeben. Die Servicestellen werden in der App "Einstellungen" konfiguriert. Weitere Informationen dazu unter [Einstellungen > Mandant > Servicestellen]({{< ref "050 Servicestellen" >}}).
 * **Name der Abteilung (ACHTUNG: ÜBERSETZUNG DES FELDES FREI GEWÄHLT, CHECKEN)**. Name der Abteilung der Person, falls zutreffend. Um der Person einer Abteilung zuzuordnen, auf **Abteilung hinzufügen** klicken und die Abteilung aus der Dropdown-Liste auswählen. Diese Aktion ist wiederholbar, und Abteilungen können durch Klicken auf das **Mülleimer-Symbol** gelöscht werden. Die Schaltfläche **Abteilung hinzufügen** wird nur angezeigt, wenn Abteilungen in der App "Einstellungen" konfiguriert sind. Weitere Informationen unter [Einstellungen > Benutzer > Abteilungen]({{< ref "040 Abteilungen" >}}).
 * **Benutzername**. Der Name, mit dem sich Bibliothekspersonal bei FOLIO anmelden. Hinweis: Andere Personen haben keinen Benutzernamen, da sie sich nicht bei FOLIO anmelden müssen.

@@ -1,7 +1,7 @@
 ---
 title: "Bestellungsdetails anzeigen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [by-folio, for-anwender, cat-workflows, app-bestellungen]
 weight: 30
 Description: "
@@ -103,6 +103,6 @@ In diesem Abschnitt werden Informationen zu den Bestellexporten an Lieferanten a
 * **Job-ID**. Die Identifikationsnummer des Exports.
 * **Exportdatum**. Datum, an dem der Exportauftrag ausgeführt wurde.
 * **Dateiname**. Name der Exportdatei.
-* **Exportmethode**. Der **Name der EDI-Verbindung** in den Integrationsdetails des zugehörigen Lieferantendatensatzes.
+* **Exportmethode**. Der **Name der EDI-Verbindung** in den [Integrationsdetails]({{< ref "020 Organisation als Lieferanten anlegen" >}}) des zugehörigen Lieferantendatensatzes.
 
 Im [Workflows Exportmanager]({{< ref "100 Exportmanager" >}}) sind weitere Informationen zum Anzeigen von Exportaufträgen zu finden.

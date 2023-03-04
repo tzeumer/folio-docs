@@ -1,7 +1,7 @@
 ---
 title: "Vereinbarungskomponente suchen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-e_management, by-folio, cat-workflows, for-anwender]
 weight: 60
 Description: "
@@ -21,7 +21,7 @@ Um Vereinbarungskomponenten nach einem Vereinbarungssatz zu filtern, auf **Vere
 
 ## Art der Vereinbarungskomponenten
 
-Um die Vereinbarungskomponenten nach Typ zu filtern, die Checkboxen **Unverknüpft** **Extern** und/oder **Intern** markieren. Eine nicht verknüpfte Vereinbarungskomponente ist nicht mit einer Ressource in einer Knowledgebase verknüpft. Eine externe Vereinbarungskomponente ist mit einer Ressource in einer externen Knowledgebase (wie der eHoldings App) verknüpft, und eine interne Vereinbarungskomponente ist mit einer Ressource in der Lokalen Knowledgebase verknüpft.
+Um die Vereinbarungskomponenten nach Typ zu filtern, die Checkboxen **Unverknüpft** **Extern** und/oder **Intern** markieren. Eine [nicht verknüpfte Vereinbarungskomponente]({{< ref "040 Vereinbarungskomponente hinzufuegen" >}}) ist nicht mit einer Ressource in einer Knowledgebase verknüpft. Eine [externe Vereinbarungskomponente]({{< ref "040 Vereinbarungskomponente hinzufuegen" >}}) ist mit einer Ressource in einer externen Knowledgebase (wie der eHoldings App) verknüpft, und eine [interne Vereinbarungskomponente]({{< ref "040 Vereinbarungskomponente hinzufuegen" >}}) ist mit einer Ressource in der Lokalen Knowledgebase verknüpft.
 
 ## Aktiv von
 

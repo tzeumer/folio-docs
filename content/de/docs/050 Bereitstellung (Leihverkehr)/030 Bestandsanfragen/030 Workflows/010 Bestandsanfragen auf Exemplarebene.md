@@ -1,7 +1,7 @@
 ---
 title: "Bestandsanfragen auf Exemplarebene"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [by-folio, for-anwender, app-bestandsanfragen, cat-workflows, meta-feedback]
 weight: 10
 Description: "
@@ -26,7 +26,7 @@ Bestandsanfragen werden durch Ausleihregeln und Exemplarstatus gesteuert. Einige
     2.  Wenn die Person gefunden wurde, diese aus der Ergebnisliste der Personensuche auswählen. Sie wird auf in der Bestandsanfrage angewendet und  ihre Informationen werden angezeigt.
 8.  Die **Bereitstellungspräferenz** wählen.
 9.  Die **Abholservicestelle** oder die **Lieferadresse** wählen, je nachdem, was im vorherigen Schritt ausgewählt wurde.
-10.  Auf **Speichern & schließen** klicken. Die Bestandsanfrage wird gespeichert und die Ansicht mit den Details der Anfrage wird angezeigt. Die Person erhält eine E-Mail-Benachrichtigung, dass ihre Bestandsanfrage bei der Bibliothek eingegangen ist, sofern diese Benachrichtigung konfiguriert wurde.
+10.  Auf **Speichern & schließen** klicken. Die Bestandsanfrage wird gespeichert und die Ansicht mit den Details der Anfrage wird angezeigt. Die Person erhält eine E-Mail-Benachrichtigung, dass ihre Bestandsanfrage bei der Bibliothek eingegangen ist, [sofern diese Benachrichtigung konfiguriert wurde](]({{< ref "040 Benachrichtigungen Benutzende" >}})).
 
 ## Bestandsanfrage auf Exemplarebene bearbeiten
 
@@ -51,7 +51,7 @@ Jede offene Bestandsanfrage kann dupliziert werden, solange die Anfrage, die dur
 
 Eine Bestandsanfrage kann von einem Exemplar auf ein anderes Exemplar auf derselben Instanz umgehängt werden. Dies kann gewünscht sein, wenn ein Exemplar einer Bestandsanfrage verloren geht oder wenn die Warteschlangen für Anfragen optimiert werden sollen.
 
-Hinweis: Wenn eine Bestandsanfrage auf ein Exemplar umgehängt wird, das zuvor nicht zurückgerufen wurde, wird die Ausleihe zurückgerufen - die Person erhält eine Rückrufbenachrichtigung, sofern konfiguriert, und das Fälligkeitsdatum der Ausleihe wird je nach Ausleihrichtlinie verkürzt oder verlängert.
+Hinweis: Wenn eine Bestandsanfrage auf ein Exemplar umgehängt wird, das zuvor nicht zurückgerufen wurde, wird die Ausleihe zurückgerufen - die Person erhält eine Rückrufbenachrichtigung, [sofern konfiguriert]]({{< ref "040 Benachrichtigungen Benutzende" >}}), und das Fälligkeitsdatum der Ausleihe wird je nach Ausleihrichtlinie verkürzt oder verlängert.
 
 1.  [Die Bestandsanfrage suchen]({{< ref "060 Bestandsanfragen suchen" >}}), die verschoben werden soll.
 2.  In der Ansicht **Bestandsanfrage** die **Aktionen > Anfrage** verschieben wählen.

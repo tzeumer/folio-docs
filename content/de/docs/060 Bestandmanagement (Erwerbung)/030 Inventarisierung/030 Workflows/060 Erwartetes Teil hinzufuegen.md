@@ -1,7 +1,7 @@
 ---
 title: "Erwartetes Teil hinzufügen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-inventarisierung, by-folio, cat-workflows, for-anwender]
 weight: 60
 Description: "
@@ -35,7 +35,7 @@ Anmerkung: Damit ein erwartetes Teil in der Inventarisierung hinzugefügt werden
 * **Bestand auswählen**. In der Dropdown-Liste den Bestand für dieses Teil auswählen. Der Standort kann geändert werden, indem auf **Neue Bestände für Standort anlegen** geklickt wird.
 * **Exemplar erstellen**. Die Checkbox **Artikel erstellen** markieren, um das neue Teil mit einer Instanz im Katalog zu verknüpfen. Diese Option steht nur für Teile zur Verfügung, die mit einer Bestellung verknüpft sind, bei der der Bestellposten **Im Katalog erstellen** auf "Instanz/Bestand/Exemplar" eingestellt ist. . Anmerkung: Um ein Exemplar im Katalog erstellen zu können, müssen in den Einstellungen bereits ein Standard-Instanzstatus, ein Instanztyp und ein Ausleihtyp eingerichtet sein. Siehe [Einstellungen > Bestellungen]({{< ref "docs/060 Bestandmanagement (Erwerbung)/010 Bestellungen" >}}) für weitere Informationen.
 * **Ergänzung**. Die Checkbox Ergänzung markieren, um anzugeben, dass es sich bei dem Teil um eine ergänzende Ressource wie eine CD oder eine Karte handelt.
-* **Anzeige**. Die Checkbox **Anzeige** markieren, um anzugeben, dass Informationen zu diesem Teil in der App Katalog im Abschnitt Erwerbungen des Bestandsdatensatzes angezeigt werden sollen. Weitere Informationen sind unter Katalog > Erwerbung zu finden.
+* **Anzeige**. Die Checkbox **Anzeige** markieren, um anzugeben, dass Informationen zu diesem Teil in der App Katalog im Abschnitt Erwerbungen des Bestandsdatensatzes angezeigt werden sollen. Weitere Informationen sind unter [Katalog > Erwerbung]({{< ref "030 Datensatz einen Bestand hinzufuegen" >}}) zu finden.
 
 ### Neuen Bestand für Standort anlegen
 

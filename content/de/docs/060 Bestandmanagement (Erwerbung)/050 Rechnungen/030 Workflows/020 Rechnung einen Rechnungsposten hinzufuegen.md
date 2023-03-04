@@ -1,7 +1,7 @@
 ---
 title: "Rechnung einen Rechnungsposten hinzufügen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-workflows, for-anwender]
 weight: 20
 Description: "
@@ -43,18 +43,18 @@ Wenn Rechnungen im EDIFACT-Format von Lieferanten durch Datenimport in das Syste
 
 ## Bestellposten-Details
 
-### Informationen zur Rechnungposten
+### Informationen zur Rechnungsposten
 
 * **Beschreibung**. Die Beschreibung oder der Titel des Rechnungspostens. Sie kann die Ressourcen, die Dienstleistung oder die Gebühr enthalten, die in Rechnung gestellt wird.
-* **Rechnungspostenummer**. Die Nummer des Rechnungspostens, der nach dem Speichern dieser neuen Rechnungszeile erstellt wird.
-* **Status**. Der Status des Rechnungspostens: Offen, Geprüft, Freigegeben, Bezahlt, Gestorniert.
+* **Rechnungspostennummer**. Die Nummer des Rechnungspostens, der nach dem Speichern dieser neuen Rechnungszeile erstellt wird.
+* **Status**. Der Status des Rechnungspostens: Offen, Geprüft, Freigegeben, Bezahlt, Storniert.
 * **Lieferantenreferenznummern**. Auf **Lieferantenreferenznummer hinzufügen** klicken, um Lieferantenreferenznummern für den Rechnungsposten hinzuzufügen. Weitere Informationen zu Lieferantenreferenznummern sind unter [Bestellungen > Hinzufügen einer Bestellposition zu einer Bestellung > Lieferanten-Referenznummer]({{< ref "190 Bestellposten zu einer Bestellung hinzufuegen" >}}) zu finden.
 * **Lieferantenreferenztyp**. Ein Typ zur Definition der Lieferantenreferenznummer. Die eindeutige Lieferantenbestellnummer, die Interne Lieferantennummer, die Lieferantenabonnementnummer, die Lieferantenfortsetzungsnummer oder die eindeutige Lieferantentitelnummer.
 * **Informationen zum Abonnement**. Informationen für diesen Rechnungsposten, z.B. welche Bände in Rechnung gestellt werden.
 * **Beginn des Abonnements**. Das Datum, an dem das Abonnement beginnt.
 * **Ende des Abonnements**. Das Datum, an dem das Abonnement endet.
 * **Kommentar**. Eventuelle zusätzliche Kommentare zum Rechnungsposten.
-* **Buchhaltungscode**. Der Buchhaltungscode für den Rechnungsposten. Wenn eine Kontonummer aus der Dropdown-Liste augewählt wird, wird der zugehörige Buchhaltungscode hier angezeigt. Anmerkung: Wenn die Checkbox **An Haushaltssystem exportieren** aktiviert ist, ist der **Buchhaltungscode** erforderlich.
+* **Buchhaltungscode**. Der Buchhaltungscode für den Rechnungsposten. Wenn eine Kontonummer aus der Dropdown-Liste ausgewählt wird, wird der zugehörige Buchhaltungscode hier angezeigt. Anmerkung: Wenn die Checkbox **An Haushaltssystem exportieren** aktiviert ist, ist der **Buchhaltungscode** erforderlich.
 * **Kundennummer**. Die Kundennummer für den Rechnungsposten. Diese Dropdown-Liste enthält die Kundennummer für den auf der Rechnung ausgewählten Lieferanten, sofern im Datensatz der Organisation des Lieferanten welche vorhanden sind. Wenn im Organisationsdatensatz des Lieferanten ein oder mehrere Lieferantenkonten vorhanden sind, wird das erste Konto in diesem Feld als Standardwert angezeigt.
 * **Anzahl**. Die Anzahl der Exemplare des Rechnungsposten.
 * **Zwischensumme**. Der Betrag für diesen Rechnungsposten. Anmerkung: Der Zwischensummenbetrag muss auf einen oder mehrere Fonds aufgeteilt werden und wird in der Währung angegeben, die unter [Einstellungen > Mandant > Sprache und Lokalisierung]({{< ref "020 Sprache und Lokalisierung" >}}) definiert ist.

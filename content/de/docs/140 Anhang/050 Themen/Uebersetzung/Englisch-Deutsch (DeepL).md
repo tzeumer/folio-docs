@@ -1,7 +1,7 @@
 ---
 title: "Englisch-Deutsch (DeepL)"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [by-tubhh, for-anwender, for-entwickler, meta-dokumentation, topic-übersetzung]
 weight: 10
 Description: "
@@ -168,7 +168,7 @@ Ein Export sieht DeepL übrigens auch nicht vor. Daher direkt aus der Webseite k
 |Instanz-Statusbegriff|Instance status term|
 |institution|Institution|
 |Instructor|Referent|
-|integration|Anbindung|
+|integration|Integration|
 |Intellectual|Arbeitsdatensatz|
 |Intellectual item|Arbeitsdatensatz|
 |interface|Interface|

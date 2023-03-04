@@ -1,7 +1,7 @@
 ---
 title: "Organisation als Organisation anlegen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-organisationen, by-folio, cat-workflows, for-anwender]
 weight: 10
 Description: "
@@ -59,7 +59,7 @@ Kategorien für Kontaktinformationen werden in der App Einstellungen konfigurier
 
 1.  Auf **Adresse hinzufügen** klicken.
 2.  Die Adressdaten eingeben.
-3.  Den Vorgang nach Bedarf wiederholen. Die Adresse wird gespeichert, sobald die Organisation gespeichert wird. Hinweis: Werden mehrere Adressen hinzugefügt, die Checkbox **Als primäre Adresse verwenden** wählen. Die primäre Adresse wird in den Rechnungsbelegauszug aufgenommen. Weitere Informationen sind unter Rechnungen > Beleginformationen zu finden.
+3.  Den Vorgang nach Bedarf wiederholen. Die Adresse wird gespeichert, sobald die Organisation gespeichert wird. Hinweis: Werden mehrere Adressen hinzugefügt, die Checkbox **Als primäre Adresse verwenden** wählen. Die primäre Adresse wird in den Rechnungsbelegauszug aufgenommen. Weitere Informationen sind unter [Rechnungen > Beleginformationen]({{< ref "100 Beleg anzeigen" >}}) zu finden.
 
 #### Eine Adresse löschen
 

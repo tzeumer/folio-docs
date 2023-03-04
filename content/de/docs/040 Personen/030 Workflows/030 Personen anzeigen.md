@@ -26,7 +26,7 @@ Informationen zu den Feldern, die im Abschnitt Personeninformationen angezeigt w
 
 ## Kontosperren
 
-Im Abschnitt Kontosperren werden alle Sperren im Benutzerdatensatz angezeigt und manuelle Sperren erstellt. Weitere Informationen zu manuellen Sperren sind unter [Erstellen einer manuellen Kontosperre]({{< ref "030 Einstellungen - Kotosperre" >}}) aufgeführt.
+Im Abschnitt Kontosperren werden alle Sperren im Benutzerdatensatz angezeigt und manuelle Sperren erstellt. Weitere Informationen zu manuellen Sperren sind unter [Erstellen einer manuellen Kontosperre]({{< ref "030 Einstellungen - Kontosperre" >}}) aufgeführt.
 
 Die Sperren der Benutzer werden in einer Tabelle angezeigt, wobei die jüngste Sperre zuerst aufgeführt wird.
 

@@ -1,7 +1,7 @@
 ---
 title: "📱Semesterapparate"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-semesterapparate, by-folio, for-anwender, cat-berechtigungen, meta-entwurf]
 weight: 50
 Description: "
@@ -41,25 +41,26 @@ Nachfolgend sind alle Semesterapparate-Bererchtigungen in der Reihenfolge der ge
 Bevor die App Semesterapparate eingesetzt wird, bitte sicherstellen, dass die folgenden Bedingungen erfüllt sind:
 
 * App Katalog ist eingerichtet.
-* Ausleihregeln sind konfiguriert.
+* [Ausleihregeln sind konfiguriert]({{< ref "docs/050 Bereitstellung (Leihverkehr)/010 Ausleihe/020 Einstellungen/" >}}).
 * Personen sind importiert oder erstellt.
 
 Wenn die App Semesterapparate zum ersten Mal konfiguriert wird, müssen zunächst die folgenden Eigenschaften in der App Einstellungen eingerichtet werden, falls benötigt:
 
-* Laufzeiten
-* Kurstypen
-* Kurs Fachbereiche
-* Kursabteilungen
-* Copyright-Status
+
+* [Laufzeiten]({{< ref "020 Laufzeiten anzeigen, bearbeiten, loeschen" >}})
+* [Kurstypen]({{< ref "030 Kurstypen anzeigen, bearbeiten, loeschen" >}})
+* [Kurs Fachbereiche]({{< ref "040 Kurs Fachbereiche anzeigen, bearbeiten, loeschen" >}})
+* [Bearbeitungsstatus]({{< ref "050 Bearbeitungsstatus anzeigen, bearbeiten, loeschen" >}})
+* [Copyright-Status](({{< ref "060 Copyright-Status anzeigen, bearbeiten, loeschen" >}}))
 
 Sobald die oben genannten Einstellungen vorgenommen sind, sind die folgende Tätigkeiten möglich:
 
-* Semesterapparate erstellen.
-* Dozenten hinzufügen.
-* Verknüpfte Kurse hinzufügen.
-* Semesterapparate zu Kursen hinzufügen.
+* [Semesterapparate erstellen]({{< ref "020 Semesterapparate Kurs erstellen, bearbeiten, loeschen" >}}).
+* [Dozenten hinzufügen]({{< ref "060 Semesterapparate Referenten erstellen, bearbeiten, loeschen" >}}).
+* [Verknüpfte Kurse hinzufügen]({{< ref "030 Semesterapparate Verknuepfte Kurse erstellen, bearbeiten, loeschen" >}}).
+* [Semesterapparaten reservierte Exemplare hinzufügen]({{< ref "080 Semesterapparate Reservierte Exemplare erstellen, bearbeiten, loeschen" >}}).
 
-## Anbindungen
+## Integrationen
 
 Die Semesterapparate können optional mit diesen Anwendungen verbunden werden:
 

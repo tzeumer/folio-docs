@@ -1,7 +1,7 @@
 ---
 title: "Electronic Resource Management (ERM)"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [by-folio, for-anwender]
 weight: 90
 Description: "
@@ -18,4 +18,4 @@ Zu den wesentlichen ERM-Funktionen in FOLIO gehören:
 
 ## ERM-Einstellungen
 
-Die ERM-App ist in Teilen von der Bibliothek anpassbar. Die Konfigurationen werden von der Bibliothek festgelegt und in den Bereichen eManagement, eHoldings und Lizenzverträge in der Einstellungsapp von FOLIO verwaltet.
+Die ERM-App ist in Teilen von der Bibliothek anpassbar. Die Konfigurationen werden von der Bibliothek festgelegt und in den Bereichen [eManagement]({{< ref "docs/090 Electronic Resource Management (ERM)/020 eManagement/020 Einstellungen" >}}), [eHoldings]({{< ref "010 eHoldings" >}}) und [Lizenzverträge]({{< ref "docs/090 Electronic Resource Management (ERM)/050 Lizenzverträge/020 Einstellungen" >}}) in der Einstellungsapp von FOLIO verwaltet.

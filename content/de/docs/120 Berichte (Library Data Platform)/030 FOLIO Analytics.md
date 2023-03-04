@@ -1,7 +1,7 @@
 ---
 title: "FOLIO Analytics"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-ldp, by-folio, for-admin, topic-datenschutz]
 weight: 30
 Description: "
@@ -126,7 +126,7 @@ Weitere fortgeschrittene Techniken zum Schreiben von Abfragen sind in der Dokume
 
 * Prüfen, ob die Fehlermeldung darauf hinweist, dass eine abgeleitete Tabelle fehlt. Diese abgeleiteten Tabellen sind in einem Schema namens folio\_reporting gespeichert, so dass dieser Schemaname gefolgt von einem Tabellennamen in der Fehlermeldung erscheinen kann. Wenn eine abgeleitete Tabelle fehlt, dann an den eigenen LDP-Administrator wenden.
 * Wenn die Abfrage bearbeitet wurde, sicherstellen, dass kein Komma am Ende einer Liste steht, wie z.B. in der Liste der Felder nach dem Schlüsselwort SELECT.
-* Wenn die Fehlerursache nicht festgestellt werden kann, an den lokalen LDP-Administrator oder entweder an die lokale oder die weltweite [FOLIO Reporting Community](https://docs.folio.org/docs/reporting/support) wenden.
+* Wenn die Fehlerursache nicht festgestellt werden kann, an den lokalen LDP-Administrator oder entweder an die lokale oder die weltweite [FOLIO Reporting Community](https://wiki.folio.org/display/RPT) wenden.
 
 ## Ad-hoc-Abfragen mit LDP-Tabellen
 
@@ -138,11 +138,12 @@ Um Ad-hoc-Abfragen zu entwickeln, müssen die Abfrageskripte mit der Structured 
 
 |Training Resource|Beschreibung|
 |:----|:----|
-|The Data School: Learn Introductory SQL Concepts|An interactive tutorial with an approachable style. The tutorial has built-in SQL evaluation, so you don’t need to set up a separate database tool to try the exercises.|
-|Select Star SQL|An interactive book that teaches SQL concepts using real-world datasets and problems. The book has built-in SQL evaluation, so you don’t need to set up a separate database tool to try the exercises.|
-|SQL Murder Mystery|The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. They also have a walkthrough for SQL beginners.|
-|CodeAcademy: Learn SQL course SQL Commands|A course called Learn SQL and a list of SQL Commands. Without a Pro account, course features are limited.|
-|Linked In Learning|Linked In Learning provides access to several courses on SQL at many levels of expertise. Requires a paid subscription.|
+|[The Data School: Learn Introductory SQL Concepts](https://dataschool.com/learn-sql/introduction/)|An interactive tutorial with an approachable style. The tutorial has built-in SQL evaluation, so you don’t need to set up a separate database tool to try the exercises.|
+|[Select Star SQL](https://selectstarsql.com/)|An interactive book that teaches SQL concepts using real-world datasets and problems. The book has built-in SQL evaluation, so you don’t need to set up a separate database tool to try the exercises.|
+|[SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries)|The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. They also have a walkthrough for SQL beginners.|
+|CodeAcademy:<ul><li>[Learn SQL course](https://www.codecademy.com/learn/learn-sql)</li><li>[SQL Commands](https://www.codecademy.com/article/sql-commands)</li></ul>|A course called Learn SQL and a list of SQL Commands. Without a Pro account, course features are limited.|
+|[Linked In Learning](https://www.linkedin.com/learning/)|Linked In Learning provides access to several courses on SQL at many levels of expertise. Requires a paid subscription.|
+ 
 
 ### LDP-spezifische Abfrageanleitungen
 

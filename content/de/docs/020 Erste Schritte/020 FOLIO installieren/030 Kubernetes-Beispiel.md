@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes-Beispiel"
 linkTitle: "Kubernetes-Beispiel"
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [by-folio, for-entwickler]
 weight: 30
 Description: "
@@ -44,4 +44,4 @@ Es gibt viele Orchestrierungs-Tools sowohl für On-Premise- als auch für Cloud-
 
 Es wird ein Rancher-Server für die Verwaltung des Kubernetes-Clusters für FOLIO benötigt. Dieser Server sollte für alle Kubernetes-Knoten in dem Cluster zugänglich sein. Wird AWS verwendet, müssen ein VPC, Subnetze und Routentabellen konfiguriert werden.
 
-Ein Beispiel für die Konfiguration und Bereitstellung sind unter https://github.com/folio-org/folio-install/tree/tamu-r2-2021/alternative-install/kubernetes-rancher/TAMU zu finden.
+Ein Beispiel für die Konfiguration und Bereitstellung sind unter https://github.com/folio-org/folio-install/tree/master/alternative-install/kubernetes-rancher/TAMU zu finden.

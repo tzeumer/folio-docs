@@ -1,7 +1,7 @@
 ---
 title: "Anpassungen (für Mandanten)"
 linkTitle: "Anpassungen (für Mandanten)"
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [by-folio, for-entwickler]
 weight: 50
 Description: "
@@ -15,7 +15,41 @@ Description: "
 
 ## Branding von Stripes
 
-Stripes verfügt über einige grundlegende Branding-Konfigurationen, die während des Erstellungsprozesses angewendet werden. In der Datei **stripes.config.js** kann das Logo und das Favicon des Mandanten konfiguriert werden. Diese Parameter können unter dem "Branding"-Key am Ende der Datei eingestellt werden. Die neuen Bilder werden in den Ordner tenant-assets eingefügt und in der Konfigurationsdatei mit ihnen verknüpft. Bitte beachten, dass diese Änderungen erst wirksam werden, nach dem Build des Webpack für Stripes ausgeführt wurde.
+Stripes verfügt über einige grundlegende Branding-Konfigurationen, die während des Erstellungsprozesses angewendet werden. In der Datei **stripes.config.js** kann das Logo und das Favicon des Mandanten sowie CSS für die Hauptnavigation und die Anmeldung konfiguriert werden. Diese Parameter können unter dem Key "branding" am Ende der Datei festgelegt werden. Die neuen Bilder können in den Ordner tenant-assets eingefügt und in der Konfigurationsdatei auf sie verlinkt werden.
+
+In der Konfiguration kann die `welcomeMessage` (Willkommensnachricht), die nach der Anmeldung angezeigt wird und der `platformName` (Plattformname), der an den Seitentitel angehängt und in den Tabs und Lesezeichen des Browsers angezeigt wird, festgelegt werden. Dazu auf der Seite Einstellungen > Softwareversionen über die Eigenschaften `aboutInstallVersion` und `aboutInstallDate` eine Header mit zusätzlichen Informationen hinzufügen. Letztere wird automatisch in das Gebietsschema der Person umgewandelt, die die Seite öffnet, z.B. 10/30/2023 oder 30.10.2023.
+
+Bitte beachten, dass diese Änderungen wirksam werden, nachdem das Webpack für Stripes erstellt wurde.
+
+Beispiel für die Anpassung der **stripes.config.js**:
+
+```
+module.exports = {
+  config: {
+    welcomeMessage: 'Welcome, the Future Of Libraries Is OPEN!',
+    platformName: 'FOLIO',
+    aboutInstallVersion: 'Poppy Hot Fix #2',
+    aboutInstallDate: '2023-10-30',
+  },
+  branding: {
+    logo: {
+      src: './tenant-assets/my-logo.png',
+      alt: 'my alt text',
+    },
+    favicon: {
+      src: './tenant-assets/my-favicon.ico',
+    },
+    style: {
+      mainNav: {
+        backgroundColor: "#036",
+      },
+      login: {
+        backgroundColor: "#fcb",
+      },
+    },
+  },
+}
+```
 
 ## Okapi Sicherheit
 

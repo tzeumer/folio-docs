@@ -1,7 +1,7 @@
 ---
 title: "Haushaltsjahr, Etat, Gruppe, Fonds anzeigen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-finanzen, by-folio, cat-workflows, by-folio, meta-gemeldet_docsfolioorg]
 weight: 70
 Description: "
@@ -266,13 +266,13 @@ In diesem Abschnitt werden alle Kostenarten aufgelistet, die mit den der Gruppe 
 
 ## Fond-Details anzeigen
 
-Die Ansicht Fondsdetails enthält Fondsinformationen und alle aktuellen, geplanten und früheren Budgets sowie Kostenarten, die mit einem Fonds verbunden sind. Die Budgetabschnitte in der Ansicht zeigen die insgesamt zugewiesenen, nicht verfügbaren und verfügbaren Mittel nach Fonds und Kostenart an. Um eine Liste der Transaktionen für das aktuelle Budget eines Fonds anzuzeigen, auf **Aktionen > Transaktionen für aktuelles Budget anzeigen** klicken. Weitere Informationen sind unter Anzeigen von Budgettransaktionen zu finden.
+Die Ansicht Fondsdetails enthält Fondsinformationen und alle aktuellen, geplanten und früheren Budgets sowie Kostenarten, die mit einem Fonds verbunden sind. Die Budgetabschnitte in der Ansicht zeigen die insgesamt zugewiesenen, nicht verfügbaren und verfügbaren Mittel nach Fonds und Kostenart an. Um eine Liste der Transaktionen für das aktuelle Budget eines Fonds anzuzeigen, auf **Aktionen > Transaktionen für aktuelles Budget anzeigen** klicken. Weitere Informationen sind unter [Anzeigen von Budgettransaktionen]]({{< ref "120 Vorgaenge fuer ein aktuelles Budget anzeigen" >}}) zu finden.
 
 * Um Fondsdetails anzuzeigen, den [gewünschten Fond suchen]({{< ref "060 Haushaltsjahr, Etat, Gruppe, Fonds suchen" >}}) und ihn auswählen. Die Ansicht mit den Fondsdetails wird angezeigt.
 
 ### Fonds-Informationen
 
-Der Abschnitt Fondinformationen enthält Details über den Fonds. Eine Beschreibung der einzelnen Felder in diesem Abschnitt ist unter Fondsinformationen zu finden. Zusätzlich zu den Feldern, die bei der Fondserstellung verfügbar sind, wird in der Ansicht Fondsdetails die Fondswährung angezeigt. Der Wert der Fondswährung wird unter [Einstellungen > Mandant > Sprache und Lokalisierung]({{< ref "020 Sprache und Lokalisierung" >}}) auf den Währungswert gesetzt. Anmerkung: Wenn eine Bestellung geöffnet wird, erstellt das System eine Bindungstransaktion für das aktuelle Budget für den Fonds, der im Abschnitt Fondsverteilung der Bestellung ausgewählt wurde. Wenn die Währung der Bestellzeile nicht mit der Budgetwährung übereinstimmt, wird die Bindung im Budget als umgerechneter Betrag angezeigt. Die Budgetwährung wird zum Zeitpunkt der Erstellung des Datensatzes Finanzen > Haushaltsjahr auf den Wert der Mandantenwährung gesetzt. Wenn der Wert der Mandantenwährung aktualisiert wird, basieren daher alle Budgets, die vor der Aktualisierung erstellt wurden, weiterhin auf der Mandantenwährung, die bei der Erstellung des mit dem Budget verbundenen Haushaltsjahres verwendet wurde.
+Der Abschnitt Fondinformationen enthält Details über den Fonds. Eine Beschreibung der einzelnen Felder in diesem Abschnitt ist unter Fondsinformationen zu finden. Zusätzlich zu den Feldern, die bei der Fondserstellung verfügbar sind, wird in der Ansicht Fondsdetails die Fondswährung angezeigt. Der Wert der Fondswährung wird unter [Einstellungen > Mandant > Sprache und Lokalisierung]({{< ref "020 Sprache und Lokalisierung" >}}) auf den Währungswert gesetzt. Anmerkung: Wenn eine Bestellung geöffnet wird, erstellt das System eine Bindungstransaktion für das aktuelle Budget für den Fonds, der im Abschnitt Fondsverteilung der Bestellung ausgewählt wurde. Wenn die Währung der Bestellzeile nicht mit der Budgetwährung übereinstimmt, wird die Bindung im Budget als umgerechneter Betrag angezeigt. Die Budgetwährung wird zum Zeitpunkt der Erstellung des Datensatzes [Finanzen > Haushaltsjahr]]({{< ref "010 Haushaltsjahr anlegen" >}}) auf den Wert der Mandantenwährung gesetzt. Wenn der Wert der Mandantenwährung aktualisiert wird, basieren daher alle Budgets, die vor der Aktualisierung erstellt wurden, weiterhin auf der Mandantenwährung, die bei der Erstellung des mit dem Budget verbundenen Haushaltsjahres verwendet wurde.
 
 ### Aktuelles Budget
 
@@ -336,4 +336,4 @@ Der Abschnitt Budgetinformationen enthält die folgenden Felder:
 * **Ende des Haushaltsjahres**. Enddatum des Haushaltsjahres.
 * **Zulässige Ausgaben**. Zulässige Ausgaben, ausgedrückt als Prozentsatz.
 * **Zulässige Bindungen**. Erlaubte Bindung, ausgedrückt als Prozentsatz.
-* **Vorgänge**. Auf Vorgänge anzeigen klicken, um die Budgettransaktionen anzuzeigen. Weitere Informationen sind unter Anzeigen von Budgettransaktionen zu finden.
+* **Vorgänge**. Auf Vorgänge anzeigen klicken, um die Budgettransaktionen anzuzeigen. Weitere Informationen sind unter [Anzeigen von Budgettransaktionen]]({{< ref "120 Vorgaenge fuer ein aktuelles Budget anzeigen" >}}) zu finden.

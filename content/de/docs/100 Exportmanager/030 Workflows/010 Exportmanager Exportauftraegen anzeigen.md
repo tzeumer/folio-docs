@@ -1,7 +1,7 @@
 ---
 title: "Exportmanager Exportaufträgen anzeigen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-exportmanager, by-folio, cat-workflows, for-anwender, meta-uebersetzungsproblem]
 weight: 10
 Description: "
@@ -45,7 +45,7 @@ Die Ansicht der Ergebnisse auf der Registerkarte Organisationen zeigt die folgen
 * **Quelle**. Die Person, die den Export veranlasst hat. Der Eintrag kann 'System' für automatisierte Exporte oder 'folio' für Aufträge enthalten, die aus einer Massenbearbeitung oder einem wiederholten EDIFACT-Export resultieren.
 * **Startzeit**. Datum und Uhrzeit des Beginns des Exports.
 * **Endzeit**. Datum und Uhrzeit, zu der der Export beendet wurde.
-* **Exportmethode**. Dieser Wert entspricht dem Namen der Anbindung in den Integrationsdetails des zugehörigen Organisationsdatensatzes.
+* **Exportmethode**. Dieser Wert entspricht dem Namen der Integration in den Integrationsdetails des zugehörigen Organisationsdatensatzes.
 
 Auf einen beliebigen Spaltennamen klicken, außer Beschreibung, Quelle und Exportmethode, um nach dieser Spalte zu sortieren.
 

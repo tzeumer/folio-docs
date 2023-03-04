@@ -1,7 +1,7 @@
 ---
 title: "Rechnung erstellen"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-rechnungen, by-folio, cat-workflows, for-anwender, meta-gemeldet_docsfolioorg]
 weight: 10
 Description: "
@@ -62,7 +62,7 @@ Wenn neue Zusatzkosten erstellt werden, die nicht als voreingestellte Zusatzkost
 Der Abschnitt Informationen zum Lieferanten ist obligatorisch.
 
 1.  Die **Rechnungsnummer des Lieferanten** eingeben, die vom Lieferanten geliefert wurde.
-2.  Um den Lieferanten auszuwählen, **Organisationssuche** klicken. Im Dialogfeld **Organisation auswählen** den Organisationsdatensatz für den Lieferanten mithilfe des Suchfelds und/oder der Filter suchen. Auf die Organisation klicken, um sie auszuwählen. Anmerkung: Die für die Zahlung einer Rechnung ausgewählte Organisation muss ein Lieferant sein. Das System lässt die Auswahl einer Organisation zu, die kein Lieferant ist, aber eine Rechnung, die mit einer Organisation verbunden ist, die kein Lieferant ist, kann nicht freigegeben werden. Weitere Informationen sind unter Rechnungen > Anlegen eines Lieferanten zu finden.
+2.  Um den Lieferanten auszuwählen, **Organisationssuche** klicken. Im Dialogfeld **Organisation auswählen** den Organisationsdatensatz für den Lieferanten mithilfe des Suchfelds und/oder der Filter suchen. Auf die Organisation klicken, um sie auszuwählen. Anmerkung: Die für die Zahlung einer Rechnung ausgewählte Organisation muss ein Lieferant sein. Das System lässt die Auswahl einer Organisation zu, die kein Lieferant ist, aber eine Rechnung, die mit einer Organisation verbunden ist, die kein Lieferant ist, kann nicht freigegeben werden. Weitere Informationen sind unter [Bestandsmanagement (Erwerbung) > Organisationen > Anlegen eines Lieferanten]]({{< ref "020 Organisation als Lieferanten anlegen" >}}) zu finden.
 3.  Der **Buchhaltungscode** des Lieferanten aus der Übersicht seines Organisationsdatensatzes wird automatisch angezeigt, sobald der Lieferanten ausgewählt ist und die Rechnung gespeichert wird. Wenn der Lieferant mehrere Konten mit unterschiedlichen Buchhaltungscodes hat, dann den entsprechenden Buchhaltungscode aus der Dropdown-Liste wählen. Weitere Informationen über die  Buchhaltungscodes von Organisationen sind unter [Organisationen > Erstellen einer Organisation]({{< ref "020 Organisation als Lieferanten anlegen" >}}) zu finden.
 
 ## Erweiterte Informationen
@@ -72,7 +72,7 @@ Der Abschnitt Informationen zum Lieferanten ist obligatorisch.
 3.  Wenn ein Beleg an ein externes Finanzsystem gesendet werden soll, auf die Checkbox **An Haushaltssystem exportieren** klicken. Die Einstellung des Kontrollkästchens **An Haushaltssystem exportieren** im Datensatz Organisation des Lieferanten bestimmt die Standardeinstellung dieses Kontrollkästchens auf den Rechnungen für diesen Lieferanten. Anmerkung: Wenn diese Checkbox aktiviert ist, ist der **Buchhaltungscode** im vorangegangenen Abschnitt Informationen zum Lieferanten ein Pflichtfeld.
 4.  Wenn einem externen Buchhaltungssystem mitgeteilt werden soll, dass für diese Rechnung eine Anlage erforderlich ist, auf die Checkbox **Anlage benötigt** klicken. Wenn die Checkbox An Haushaltssystem exportieren aktiviert ist und ein Beleg für diese Rechnung erstellt wird, enthält die Exportbelegdatei im Datenelement **Anlage erforderlich** den Wert "wahr".
 5.  Eine **Währung** aus der Dropdown-Liste wählen. Der Standardwert ist in den Mandant-Einstellungen als Primärwährung hinterlegt. Weitere Informationen sind unter [Einstellungen > Mandant > Sprache und Lokalisierung]({{< ref "020 Sprache und Lokalisierung" >}}) zu finden. Wenn eine andere Währung als die Standardwährung gewählt wird, zeigt das System den aktuellen Wechselkurs an.
-    Wenn ein Wechselkurswert eingegeben werden soll, der den Wert des aktuellen Wechselkurses überschreibt, die Checkbox **Festgelegten Wechselkurs anwenden** aktivieren und den Kurs in das Feld **Wechselkurs festlegen** eingeben.
+6. Wenn ein Wechselkurswert eingegeben werden soll, der den Wert des aktuellen Wechselkurses überschreibt, die Checkbox **Festgelegten Wechselkurs anwenden** aktivieren und den Kurs in das Feld **Wechselkurs festlegen** eingeben.
 
 ## Links und Dokumente
 

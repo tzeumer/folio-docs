@@ -1,7 +1,7 @@
 ---
 title: "Library Data Platform"
 linkTitle: ""
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: [app-ldp, by-folio, for-admin, topic-datenschutz]
 weight: 10
 Description: "
@@ -30,7 +30,7 @@ FOLIO Reporting - Komponentenmatrix
 |Honeysuckle|1.8.0 or later|-|v1.0|
 
 
-\* Die FOLIO Analytics Version ist an eine bestimmte Version gebunden. Die neueste Version ist im [Releases and Branches](https://github.com/folio-org/folio-analytics#releases-and-branches) Bereich des folio-analytics Repository zu finden.
+\* Die FOLIO Analytics Version ist an eine bestimmte Version gebunden. Die neueste Version ist im [Releases](https://github.com/folio-org/folio-analytics#releases) Bereich des folio-analytics Repository zu finden.
 
 Ausführliche Informationen zur Einrichtung und Konfiguration der LDP sind in den unten verlinkten Anleitungen zu finden, die im LDP-Repository verfügbar sind. Dort sind auch die neuesten Versionen und Korrekturen der LDP zu finden.
 
@@ -46,11 +46,6 @@ Ausführliche Informationen zur Einrichtung und Konfiguration der LDP sind in de
 * [Historical data](https://github.com/library-data-platform/ldp/blob/1.8.2/doc/Admin_Guide.md#8-historical-data): Beschreibung der Funktion Historische Daten und Anleitung zur Deaktivierung
 * [User accounts](https://github.com/library-data-platform/ldp/blob/1.8.2/doc/Admin_Guide.md#9-user-accounts): Einrichtung von Benutzerkonten und Aktivierung von LDP zum Setzen von Berechtigungen
 * [Reference](https://github.com/library-data-platform/ldp/blob/1.8.2/doc/Admin_Guide.md#reference): Referenz für die Konfigurationsdatei: ldpconf.json
-
-### Leitfaden zur Konfiguration
-
-* [Foreign keys](https://github.com/library-data-platform/ldp/blob/1.8.2/doc/Config_Guide.md#1-foreign-keys): Aktivieren der Fähigkeit zur Ableitung von Fremdschlüsseln
-* [Reference](https://github.com/library-data-platform/ldp/blob/1.8.2/doc/Config_Guide.md#reference): Referenz für die Konfigurationsdatei: dbconfig.genera
 
 ## Abgeleitete Tabellen einrichten
 
