@@ -60,14 +60,6 @@ languageName ="English"
 # Weight used for sorting.
 # Remove the comment signs out to return to using additional languages
 #weight = 1
-
-[languages.de]
-title = "FOLIO-Dokumentation"
-description = "FOLIO-Dokumentation"
-languageName ="Deutsch"
-contentDir = "content/de"
-time_format_default = "02.01.2006"
-
 #[languages.no]
 #title = "Goldydocs"
 #description = "Docsy er operativsystem for skyen"
@@ -84,8 +76,7 @@ time_format_default = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-#copyright = "Open Library Foundation"
-copyright = "(Translation:  Zeumer: )"
+copyright = "Open Library Foundation"
 privacy_policy = "https://openlibraryfoundation.org/privacy-policy/"
 
 #From Arnon
@@ -129,33 +120,33 @@ algolia_docsearch = true
 # Enable Lunr.js offline search
 offlineSearch = false
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Nolana"
-#Zeumer-off:   url = "https://nolana.docs.folio.org/docs"
+[[params.versions]]
+  version = "Nolana"
+  url = "https://nolana.docs.folio.org/docs/"
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Morning Glory"
-#Zeumer-off:   url = "https://morning-glory.docs.folio.org/docs"
+[[params.versions]]
+  version = "Morning Glory"
+  url = "https://morning-glory.docs.folio.org/docs/"
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Lotus"
-#Zeumer-off:   url = "https://lotus.docs.folio.org/docs"
+[[params.versions]]
+  version = "Lotus"
+  url = "https://lotus.docs.folio.org/docs/"
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Kiwi"
-#Zeumer-off:   url = "https://kiwi.docs.folio.org/docs"
+[[params.versions]]
+  version = "Kiwi"
+  url = "https://kiwi.docs.folio.org/docs/"
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Juniper"
-#Zeumer-off:   url = "https://juniper.docs.folio.org/docs"
+[[params.versions]]
+  version = "Juniper"
+  url = "https://juniper.docs.folio.org/docs/"
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Iris"
-#Zeumer-off:   url = "https://iris.docs.folio.org/docs"
+[[params.versions]]
+  version = "Iris"
+  url = "https://iris.docs.folio.org/docs/"
 
-#Zeumer-off: [[params.versions]]
-#Zeumer-off:   version = "Honeysuckle"
-#Zeumer-off:   url = "https://honeysuckle.docs.folio.org/docs"
+[[params.versions]]
+  version = "Honeysuckle"
+  url = "https://honeysuckle.docs.folio.org/docs/"
 
 # User interface configuration
 [params.ui]
@@ -188,42 +179,42 @@ enable = false
 
 [params.links]
 # Relevant links. These will show up on right side of footer and in the community page if you have one.
-#Zeumer-off: [[params.links.developer]]
-#Zeumer-off: 	name ="Twitter"
-#Zeumer-off: 	url = "https://twitter.com/FOLIO_LSP"
-#Zeumer-off: 	icon = "fab fa-twitter"
-#Zeumer-off:         desc = "Follow us on Twitter to get the latest news!"
-#Zeumer-off: [[params.links.developer]]
-#Zeumer-off: 	name = "GitHub"
-#Zeumer-off: 	url = "https://github.com/folio-org"
-#Zeumer-off: 	icon = "fab fa-github"
-#Zeumer-off:         desc = "Development takes place here!"
-#Zeumer-off: [[params.links.developer]]
-#Zeumer-off: 	name = "Slack"
-#Zeumer-off: 	url = "https://slack-invitation.folio.org/"
-#Zeumer-off: 	icon = "fab fa-slack"
-#Zeumer-off:         desc = "Chat with other project developers"
-#Zeumer-off: [[params.links.developer]]
-#Zeumer-off: 	name = "Discuss"
-#Zeumer-off: 	url = "https://discuss.folio.org/"
-#Zeumer-off: 	icon = "fa fa-comment-alt"
-#Zeumer-off:         desc = "Discuss development issues around the project"
+[[params.links.developer]]
+	name ="Twitter"
+	url = "https://twitter.com/FOLIO_LSP"
+	icon = "fab fa-twitter"
+        desc = "Follow us on Twitter to get the latest news!"
+[[params.links.developer]]
+	name = "GitHub"
+	url = "https://github.com/folio-org"
+	icon = "fab fa-github"
+        desc = "Development takes place here!"
+[[params.links.developer]]
+	name = "Slack"
+	url = "https://slack-invitation.folio.org/"
+	icon = "fab fa-slack"
+        desc = "Chat with other project developers"
+[[params.links.developer]]
+	name = "Discuss"
+	url = "https://discuss.folio.org/"
+	icon = "fa fa-comment-alt"
+        desc = "Discuss development issues around the project"
 
 #From Arnon
-#Zeumer-off: [[menu.main]]
-#Zeumer-off:     identifier = "developers"
-#Zeumer-off:     name = "Developers"
-#Zeumer-off:     url = "https://dev.folio.org"
-#Zeumer-off:     weight = 10
+[[menu.main]]
+    identifier = "developers"
+    name = "Developers"
+    url = "https://dev.folio.org"
+    weight = 10
 
-#Zeumer-off: [[menu.main]]
-#Zeumer-off:     identifier = "wiki"
-#Zeumer-off:     name = "Project Wiki"
-#Zeumer-off:     url = "https://wiki.folio.org"
-#Zeumer-off:     weight = 20
+[[menu.main]]
+    identifier = "wiki"
+    name = "Project Wiki"
+    url = "https://wiki.folio.org"
+    weight = 20
 
-#Zeumer-off: [[menu.main]]
-#Zeumer-off:     identifier = "discussion"
-#Zeumer-off:     name = "Discussion Boards"
-#Zeumer-off:     url = "https://discuss.folio.org"
-#Zeumer-off:     weight = 30
+[[menu.main]]
+    identifier = "discussion"
+    name = "Discussion Boards"
+    url = "https://discuss.folio.org"
+    weight = 30

@@ -11,7 +11,7 @@ Description: "
 
 ## Deutsch
 ### Stand der Übersetzung
-2023-02-11. Die Vollständigkeit ist in der Konkordanzseite zu sehen (siehe [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}}))
+2023-03-04. Die Vollständigkeit ist in der Konkordanzseite zu sehen (siehe [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}}))
 
 ### Hintergrund
 * Diese Übersetzung der offiziellen FOLIO-Dokumentation ist eine laienhaft und inoffizielle Freizeitübersetzung von [tzeumer@verweisunsgform.de](mailto:tzeumer@verweisunsgform.de)
@@ -21,7 +21,7 @@ Description: "
 * Siehe auch [siehe FOLIO-Wiki zum Thema Dokumentation und Konventionen](https://wiki.folio.org/display/SS/FOLIO+Documentation)
 
 ### Änderungen zur offiziellen FOLIO-Dokumentation
-* Config-Dateien aus der Original-Version, die angepasst oder gelöscht/deaktivert wurden, liegen mit der  Dateierweiterung ".folio-official" nochmal in diesem Branch
+* Config-Dateien aus der Original-Version, die angepasst oder gelöscht/deaktiviert wurden, liegen mit der  Dateierweiterung ".folio-official" nochmal in diesem Branch
 * Die Deutsche Version setzt stärker auf Unterseiten, statt sehr langen Seiten zu einzelnen Apps. 
 * Letzte/Nächste Seite über TOC verlinkt (sofern vorhanden)
 * Es wurden Tags vergeben
@@ -29,7 +29,9 @@ Description: "
 Im ersten Schritt ging es nicht um Perfektion, d.h. es wurde nur wenig Zeit auf grammatikalisch "schönere" Sätze gelegt. Zum Teil klingt es etwas steif, da die englische Version sowohl in Folio selbst als auch in der Dokumentation aktive Anrede verwendet, währen die die AG-Übersetzung sich auf passive Formulierungen festgelegt hat ("Wenn Sie einen weiteren Typ anlegen wollen, dann klicken Sie auf den Button" wird "Soll einer neuer Typ angelegt wird, dann auf den Button klicken"). Gendern ist weitgehend schon durch die Übersetzungen der AG Übersetzung abgedeckt, An wenigen Stellen kann das aber noch unzureichend übersetzt sein.
 
 ### Lizenz und Version
-Diese Übersetzung ist ein [Fork des FOLIO-Doc-Repositorys](https://github.com/folio-org/docs). Dort zu entnehmen: "This software is distributed under the terms of the Apache License, Version 2.0. See the file '[LICENSE](https://github.com/folio-org/docs/blob/main/LICENSE)' for more information."
+Diese Übersetzung ist ein [Fork des FOLIO-Doc-Repositorys](https://github.com/folio-org/docs). Dort zu entnehmen: "This software is distributed under the terms of the Apache License, Version 2.0. See the file '[LICENSE](https://github.com/folio-org/docs/blob/main/LICENSE)' for more information.". 
+
+Der Copyright-Hinweis im Footer der offiziellen Dokumentation wurde am 2023-02-20 mit dem Commit [Use CC-By 4.0 license and FOLIO project](https://github.com/folio-org/docs/commit/f51249ae7d0626ff2a3cdf201cdeb3407721a2ed) geändert.
 
 ### Quellen
 Bedeutsame Quellen sind
@@ -79,12 +81,15 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 * C:\ProgrammePortable\__NoSync\Seafile\Filesafe\Programme\UniServerZ\www\_gitRep\tub_dd\_folio\folio-docs\docs.folio.org_de-branched\content\de\docs\110 Dashboard\030 Workflows\080 TUB HH [Dashboard] - Widgets erstellen (Kurzanleitung).md 
   * Bilder
 * "pane" ist mit "Ansicht" übersetzt. Könnte auch "Spalte mit dem Titel" o.ä. sein
-  
+* Neue Workflows
+	* https://info.gbv.de/display/FOLIOGBVEXTERN/ZBW+%5BeManagement%5D%3A+Paketeintritt+und+Paketaustritt+von+E-Ressourcen?src=mail&src.mail.product=confluence-server&src.mail.timestamp=1676978404877&src.mail.notification=com.atlassian.confluence.plugins.confluence-content-notifications-plugin%3Apage-created-notification&src.mail.recipient=412e702f46c73d930146c741df94006e&src.mail.action=view
+	* https://info.gbv.de/pages/viewpage.action?pageId=871530571&src=mail&src.mail.product=confluence-server&src.mail.timestamp=1676978187043&src.mail.notification=com.atlassian.confluence.plugins.confluence-content-notifications-plugin%3Apage-created-notification&src.mail.recipient=412e702f46c73d930146c741df94006e&src.mail.action=view
+	* https://info.gbv.de/display/FOLIOGBVEXTERN/ZBW+%5BeManagement%5D%3A+Paketeintritt+und+Paketaustritt+von+E-Ressourcen?focusedCommentId=873037834&src=mail&src.mail.product=confluence-server&src.mail.timestamp=1677136800431&src.mail.notification=com.atlassian.confluence.plugins.confluence-notifications-batch-plugin%3Abatching-notification&src.mail.recipient=412e702f46c73d930146c741df94006e&src.mail.action=view#comment-873037834
 
 ## English (DeepL & unchecked)
 ### Status of translation[](http://localhost:1313/docs/000-info_-de-version/#stand-der-%C3%BCbersetzung)
 
-2023-02-11. completeness can be seen in the concordance page (see [manual page concordance of translated documentation](http://localhost:1313/docs/140-anhang/050-themen/uebersetzung/handbuchseiten-konkordanz-der-uebersetzen-dokumentation/))
+2023-03-04. completeness can be seen in the concordance page (see [manual page concordance of translated documentation](http://localhost:1313/docs/140-anhang/050-themen/uebersetzung/handbuchseiten-konkordanz-der-uebersetzen-dokumentation/))
 
 ### Background[](http://localhost:1313/docs/000-info_-de-version/#hintergrund)
 
@@ -106,6 +111,8 @@ The first step was not about perfection, i.e. little time was spent on grammatic
 ### License and version[](http://localhost:1313/docs/000-info_-de-version/#lizenz-und-version)
 
 This translation is a [fork of the FOLIO doc repository](https://github.com/folio-org/docs). According to it: "This software is distributed under the terms of the Apache License, Version 2.0. See the file '[LICENSE](https://github.com/folio-org/docs/blob/main/LICENSE)' for more information."
+
+The copyright notice in the footer of the official documentation was changed on 2023-02-20 with the commit [Use CC-By 4.0 license and FOLIO project](https://github.com/folio-org/docs/commit/f51249ae7d0626ff2a3cdf201cdeb3407721a2ed).
 
 ### Sources[](http://localhost:1313/docs/000-info_-de-version/#quellen)
 
