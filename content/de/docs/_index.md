@@ -1,7 +1,7 @@
 ---
 title: "Willkommen"
 linkTitle: "START"
-date: 2023-02-01T00:00:00-00:00
+date: 2023-03-04T00:00:00-00:00
 tags: []
 weight: 10
 Description: "
@@ -12,7 +12,7 @@ Description: "
 {{% pageinfo %}}
 Für die Verwendung dieser Dokumentation, siehe [Diese Dokumentation]({{< ref "000 Info_ DE-Version.md" >}}).
 
-Dies ist die FOLIO-Dokumentation mit dem [Stand](https://info.gbv.de/pages/viewpage.action?pageId=853016752) der letzten vollständigen Prüfung gegenüber der englischen Dokumentation vom 30.01.023 (Version zu dem Stand: Nolana).
+Dies ist die FOLIO-Dokumentation mit dem [Stand](https://info.gbv.de/pages/viewpage.action?pageId=853016752) der letzten vollständigen Prüfung gegenüber der englischen Dokumentation vom 04.03.2023 (Version zu dem Stand: Nolana).
 
 {{% /pageinfo %}}
 
