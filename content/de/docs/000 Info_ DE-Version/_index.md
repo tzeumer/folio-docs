@@ -14,7 +14,7 @@ Description: "
 2023-03-04. Die Vollständigkeit ist in der Konkordanzseite zu sehen (siehe [Handbuchseiten-Konkordanz der übersetzen Dokumentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}}))
 
 ### Hintergrund
-* Diese Übersetzung der offiziellen FOLIO-Dokumentation ist eine laienhaft und inoffizielle Freizeitübersetzung von [tzeumer@verweisunsgform.de](mailto:tzeumer@verweisunsgform.de)
+* Diese Übersetzung der offiziellen FOLIO-Dokumentation ist eine laienhaft und inoffizielle Freizeitübersetzung von [tzeumer@verweisungsform.de](mailto:tzeumer@verweisungsform.de)
 * Übersetzt wurde mit DeepL zwischen 2022-12 und 2023-01 (siehe [Englisch-Deutsch (DeepL)-Glossar]({{< ref "Englisch-Deutsch (DeepL)" >}})). Persönliche Ansprachen ("Sie") wurden neutral umformuliert.
 * Live gegengeprüft wurde jeweils via https://folio-snapshot.dev.folio.org
 * Sie wurde zuerst ins [GBV-Confluence](https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Dokumentation) eingetragen und ist dann 2023-02 als Fork der Hugo-Version der offiziellen Dokumentation hierhin umgezogen. Tools (https://www.pastetomarkdown.com/ & https://markdown-convert.com/en/tool/table & https://tableconvert.com/excel-to-markdown)
@@ -97,7 +97,7 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 
 ### Background
 
-- This translation of the official FOLIO documentation is an amateurish and unofficial recreational translation of [tzeumer@verweisunsgform.de](mailto:tzeumer@verweisunsgform.de)
+- This translation of the official FOLIO documentation is an amateurish and unofficial recreational translation of [tzeumer@verweisungsform.de](mailto:tzeumer@verweisungsform.de)
 - Translated with DeepL between 2022-12 and 2023-01 (see [English-German (DeepL)-Glossary]({{< ref "Englisch-Deutsch (DeepL)" >}})). Personal addresses ("you can...") were rephrased neutrally ("it can...").
 - Live cross-checking was done in each case via [https://folio-snapshot.dev.folio.org](https://folio-snapshot.dev.folio.org/).
 - It was first entered into the [GBV-Confluence](https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Documentation) and then moved here in 2023-02 as a fork of the Hugo version of the official documentation. Tools ([https://www.pastetomarkdown.com/](https://www.pastetomarkdown.com/) & [https://markdown-convert.com/en/tool/table](https://markdown-convert.com/en/tool/table) & [https://tableconvert.com/excel-to-markdown](https://tableconvert.com/excel-to-markdown))
