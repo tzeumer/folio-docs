@@ -26,6 +26,7 @@ Description: "
 * In der englischen Dokumentation sind die Einstellungen aller Apps unter "Einstellungen" zu finden. Die deutsche Version hat diese Inhalt direkt unter die jeweilige App sortiert und nur Inhalte ohne eindeutige App-Zuordnung unter "Einstellungen" behalten
 * Apps haben ggf. noch "Best Practice" und "Worfklows von Anwendern" als Unterabschnitte (siehe Abschnitt Struktur weiter unten)
 * Jede Seite linkt zur englischen Originalquelle ("Quellen: Folio" am Seitenanfang)
+* Seiten zu Apps wurde ein 📱-Icon vorangestellt
 * Letzte/Nächste Seite über TOC verlinkt (sofern vorhanden)
 * Es wurden Tags vergeben
 
@@ -109,6 +110,7 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 - In the English documentation, the settings of all apps can be found under "Settings" (Einstellungen). The German version has this content sorted directly under the respective app and only keeps content without a clear app relationship  under "Settings" (Einstellungen).
 - Apps may have "Best Practice" and "Worfklows from Users" as subsections (see section "Structure" further down).
 - Each page links to the original English source ("Quelle: Folio" at the top of the page)
+- Pages to apps have been prefixed with a 📱 icon.
 - Last/next page linked via TOC (if available)
 - Tags were assigned
 
