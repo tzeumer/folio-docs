@@ -22,11 +22,14 @@ Description: "
 
 ### Änderungen zur offiziellen FOLIO-Dokumentation
 * Config-Dateien aus der Original-Version, die angepasst oder gelöscht/deaktiviert wurden, liegen mit der  Dateierweiterung ".folio-official" nochmal in diesem Branch
-* Die Deutsche Version setzt stärker auf Unterseiten, statt sehr langen Seiten zu einzelnen Apps. 
+* Die deutsche Version setzt stärker auf Unterseiten ("Workflows"-Abschnitt unter jeder App), statt sehr langen Seiten zu einzelnen Apps. 
+* In der englischen Dokumentation sind die Einstellungen aller Apps unter "Einstellungen" zu finden. Die deutsche Version hat diese Inhalt direkt unter die jeweilige App sortiert und nur Inhalte ohne eindeutige App-Zuordnung unter "Einstellungen" behalten
+* Apps haben ggf. noch "Best Practice" und "Worfklows von Anwendern" als Unterabschnitte (siehe Abschnitt Struktur weiter unten)
+* Jede Seite linkt zur englischen Originalquelle ("Quellen: Folio" am Seitenanfang)
 * Letzte/Nächste Seite über TOC verlinkt (sofern vorhanden)
 * Es wurden Tags vergeben
 
-Im ersten Schritt ging es nicht um Perfektion, d.h. es wurde nur wenig Zeit auf grammatikalisch "schönere" Sätze gelegt. Zum Teil klingt es etwas steif, da die englische Version sowohl in Folio selbst als auch in der Dokumentation aktive Anrede verwendet, währen die die AG-Übersetzung sich auf passive Formulierungen festgelegt hat ("Wenn Sie einen weiteren Typ anlegen wollen, dann klicken Sie auf den Button" wird "Soll einer neuer Typ angelegt wird, dann auf den Button klicken"). Gendern ist weitgehend schon durch die Übersetzungen der AG Übersetzung abgedeckt, An wenigen Stellen kann das aber noch unzureichend übersetzt sein.
+Im ersten Schritt (und wahrscheinlich zugleich letzten) ging es nicht um Perfektion, d.h. es wurde nur wenig Zeit auf grammatikalisch "schönere" Sätze gelegt. Zum Teil klingt es etwas steif, da die englische Version sowohl in Folio selbst als auch in der Dokumentation aktive Anrede verwendet, währen die die [Folio-Fachgruppe D-Übersetzung](https://wiki.folio.org/pages/viewpage.action?pageId=33947726) sich auf passive Formulierungen festgelegt hat ("Wenn Sie einen weiteren Typ anlegen wollen, dann klicken Sie auf den Button" wird "Soll einer neuer Typ angelegt wird, dann auf den Button klicken"). Gendern ist weitgehend schon durch die Übersetzungen der AG Übersetzung abgedeckt, An wenigen Stellen kann das aber noch unzureichend übersetzt sein.
 
 ### Lizenz und Version
 Diese Übersetzung ist ein [Fork des FOLIO-Doc-Repositorys](https://github.com/folio-org/docs). Dort zu entnehmen: "This software is distributed under the terms of the Apache License, Version 2.0. See the file '[LICENSE](https://github.com/folio-org/docs/blob/main/LICENSE)' for more information.". 
@@ -43,9 +46,9 @@ Bedeutsame Quellen sind
 ### Struktur
 Die Struktur der Dokumentation orientiert sich an der Struktur der offiziellen Doku (siehe auch [FOLIO Wiki: About Documentation> Content standards](https://wiki.folio.org/display/SS/FOLIO+Documentation)). Sie hat also Einleitung, Anhang und Hauptblöcke zu den großen Themen-/Aufgabenbereichen in Bibliotheken, wie Bestandszugang (Leihverkehr), Bestandmanagement (Erwerbung), Metadatenmanagement (Katalogisierung) und Electronic Resource Management (ERM). Die einzelnen FOLIO-Apps sind darunter zusammengefasst und beschrieben.
 
-An vielen Stelle des Handbuchs, insbesondere unter den App-Seiten, gibt es eine Unterseite "Best Practises" und/oder "Workflows". Diese Seiten haben jeweils Unterseiten, nach dem Schema "Einstellende Einrichtung: App/Thema + Aktion" (Beispiel: "TUB HH: Lizenzverträge Ersterfassung"). Für Workflows aus dem Original-Foliohandbuch ist "Folio: " vorangestellt.
+An vielen Stelle des Handbuchs, insbesondere unter den App-Seiten, gibt es eine Unterseite "Best Practises" und/oder "Workflows" und "Workflows von Anwendern". Diese Seiten haben jeweils Unterseiten. Bei "Workflows von Anwendern" nach dem Schema "Einstellende Einrichtung: App/Thema + Aktion" (Beispiel: "TUB HH: Lizenzverträge Ersterfassung"). Die Workflows aus dem Original-Foliohandbuch sind alle unter " Workflows" mit der Reihenfolge der Originaldokumentation.
 
-Zusätzlich werden den Seiten Confluence-Labels vergeben, womit sich dann Übersichten und Filterungen generieren lassen, die auch unabhängig von der (primären) hierarchischen Dokumentationsstruktur. Siehe dazu insbesondere die Übersichtslisten aus Tags im [Index](https://info.gbv.de/display/FOLIOGBVEXTERN/Index). Dort ist jeweils auch die Verwendung eines einzelnen Tags nochmal näher erläutert.
+Zusätzlich werden den Seiten (ehemals Confluence-)Labels vergeben, womit sich dann Übersichten und Filterungen generieren lassen, die auch unabhängig von der (primären) hierarchischen Dokumentationsstruktur. Siehe dazu insbesondere die Übersichtslisten aus Tags im [Index](https://info.gbv.de/display/FOLIOGBVEXTERN/Index). Dort ist jeweils auch die Verwendung eines einzelnen Tags nochmal näher erläutert.
 
 Beispiel folgen hier drunter, solange es nur Vorschlagscharakter hat und es noch keine Extraseite gibt. Die Labels könnten ggf. noch spezifischer gewählt werden, lassen sich aber später auch noch (relativ) leicht anpassen. Es gibt folgende Labelkategorien, die bei den meisten Beitrag (fast) alle vergeben werden sollten
 
@@ -86,35 +89,38 @@ Der erste Lauf zielt auf Vollständigkeit. Einige Dinge, die für zukünftige Ve
 	* https://info.gbv.de/pages/viewpage.action?pageId=871530571&src=mail&src.mail.product=confluence-server&src.mail.timestamp=1676978187043&src.mail.notification=com.atlassian.confluence.plugins.confluence-content-notifications-plugin%3Apage-created-notification&src.mail.recipient=412e702f46c73d930146c741df94006e&src.mail.action=view
 	* https://info.gbv.de/display/FOLIOGBVEXTERN/ZBW+%5BeManagement%5D%3A+Paketeintritt+und+Paketaustritt+von+E-Ressourcen?focusedCommentId=873037834&src=mail&src.mail.product=confluence-server&src.mail.timestamp=1677136800431&src.mail.notification=com.atlassian.confluence.plugins.confluence-notifications-batch-plugin%3Abatching-notification&src.mail.recipient=412e702f46c73d930146c741df94006e&src.mail.action=view#comment-873037834
 
-## English (DeepL & unchecked)
-### Status of translation[](http://localhost:1313/docs/000-info_-de-version/#stand-der-%C3%BCbersetzung)
+## English
+### Status of translation
 
-2023-03-04. completeness can be seen in the concordance page (see [manual page concordance of translated documentation](http://localhost:1313/docs/140-anhang/050-themen/uebersetzung/handbuchseiten-konkordanz-der-uebersetzen-dokumentation/))
+2023-03-04. completeness can be seen in the concordance page (see [manual page concordance of translated documentation]({{< ref "Handbuchseiten-Konkordanz der uebersetzen Dokumentation" >}})). As of march 2023 only the pages "Single server or PC: fresh install", " Single server with containers", "quickMARC", "eHoldings" and "GOBI integration" are not translated.
 
-### Background[](http://localhost:1313/docs/000-info_-de-version/#hintergrund)
+### Background
 
 - This translation of the official FOLIO documentation is an amateurish and unofficial recreational translation of [tzeumer@verweisunsgform.de](mailto:tzeumer@verweisunsgform.de)
-- Translated with DeepL between 2022-12 and 2023-01 (see [English-German (DeepL)-Glossary](http://localhost:1313/docs/140-anhang/050-themen/uebersetzung/englisch-deutsch-deepl/)). Personal addresses ("you") were rephrased neutrally.
+- Translated with DeepL between 2022-12 and 2023-01 (see [English-German (DeepL)-Glossary]({{< ref "Englisch-Deutsch (DeepL)" >}})). Personal addresses ("you can...") were rephrased neutrally ("it can...").
 - Live cross-checking was done in each case via [https://folio-snapshot.dev.folio.org](https://folio-snapshot.dev.folio.org/).
 - It was first entered into the [GBV-Confluence](https://info.gbv.de/display/FOLIOGBVEXTERN/GBV+FOLIO+Documentation) and then moved here in 2023-02 as a fork of the Hugo version of the official documentation. Tools ([https://www.pastetomarkdown.com/](https://www.pastetomarkdown.com/) & [https://markdown-convert.com/en/tool/table](https://markdown-convert.com/en/tool/table) & [https://tableconvert.com/excel-to-markdown](https://tableconvert.com/excel-to-markdown))
 - See also [see FOLIO wiki for documentation and conventions](https://wiki.folio.org/display/SS/FOLIO+Documentation).
 
-### Changes to the official FOLIO documentation[](http://localhost:1313/docs/000-info_-de-version/#%C3%A4nderungen-zur-offiziellen-folio-dokumentation)
+### Changes to the official FOLIO documentation
 
 - Config files from the original version, which were adapted or deleted/deactivated, are again in this branch with the file extension ".folio-official".
-- The German version relies more on subpages instead of very long pages for single apps.
+- The German version relies more on subpages ("Workflows" section fo each app) instead of very long pages for single apps.
+- In the English documentation, the settings of all apps can be found under "Settings" (Einstellungen). The German version has this content sorted directly under the respective app and only keeps content without a clear app relationship  under "Settings" (Einstellungen).
+- Apps may have "Best Practice" and "Worfklows from Users" as subsections (see section "Structure" further down).
+- Each page links to the original English source ("Quelle: Folio" at the top of the page)
 - Last/next page linked via TOC (if available)
 - Tags were assigned
 
-The first step was not about perfection, i.e. little time was spent on grammatically "nicer" sentences. In part it sounds a bit stiff, since the English version uses active forms of address both in Folio itself and in the documentation, while the AG translation has settled on passive formulations ("If you want to create another type, then click on the button" becomes "If you want to create a new type, then click on the button"). Gendering is largely already covered by the translations of the WG Translation, but in a few places it may still be insufficiently translated.
+The first step (and probably at the same time last) was not about perfection, i.e. little time was spent on grammatically "nicer" sentences. In part it sounds a bit stiff, since the English version uses active forms of address both in Folio itself and in the documentation, while the [DACH-SIG D-Übersetzung](https://wiki.folio.org/pages/viewpage.action?pageId=33947726) (DE-Translation) has settled on passive formulations ("A license explains what you can do with the content your library can access." becomes "A license explains what can be done with the content that the library can access."). Gendering is largely already covered by the translations of D-Übersetzung, but in a few places it may still be insufficiently translated.
 
-### License and version[](http://localhost:1313/docs/000-info_-de-version/#lizenz-und-version)
+### License and version
 
 This translation is a [fork of the FOLIO doc repository](https://github.com/folio-org/docs). According to it: "This software is distributed under the terms of the Apache License, Version 2.0. See the file '[LICENSE](https://github.com/folio-org/docs/blob/main/LICENSE)' for more information."
 
 The copyright notice in the footer of the official documentation was changed on 2023-02-20 with the commit [Use CC-By 4.0 license and FOLIO project](https://github.com/folio-org/docs/commit/f51249ae7d0626ff2a3cdf201cdeb3407721a2ed).
 
-### Sources[](http://localhost:1313/docs/000-info_-de-version/#quellen)
+### Sources
 
 Significant sources are
 
@@ -123,13 +129,13 @@ Significant sources are
 - [User Libraries Contributions to this Wiki](https://info.gbv.de/display/FOLIOGBVEXTERN/by-Community)
 - [FOLIO- Project: DACH Subject Groups](https://wiki.folio.org/display/Deutsche/D-A-CH+-subject-groups?src=contextnavpagetreemode) (especially lending, acquisitions, metadata management, and translation).
 
-### Structure[](http://localhost:1313/docs/000-info_-de-version/#struktur)
+### Structure
 
 The structure of the documentation is based on the structure of the official documentation (see also [FOLIO Wiki: About Documentation> Content standards](https://wiki.folio.org/display/SS/FOLIO+Documentation)). Thus, it has introduction, appendix, and main blocks on the major topic/task areas in libraries, such as collection access (circulation), collection management (acquisitions), metadata management (cataloging), and electronic resource management (ERM). The individual FOLIO apps are summarized and described below.
 
-In many places in the manual, particularly under the app pages, there is a "Best Practices" and/or "Workflows" sub-page. These pages each have subpages, according to the scheme "Setting institution: app/topic + action" (example: "TUB HH: License agreements initial entry"). For workflows from the original Folio manual, "Folio: " is prefixed.
+In many places in the manual, especially under the app pages, there is a "Best Practices" and/or "Workflows" and "User Workflows" subpage. These pages each have subpages. In the case of "Workflows from users" according to the scheme "Contributing institution: App/Topic + Action" (example: "TUB HH: License agreements initial entry"). The workflows from the original folio manual are all under " Workflows" with the order of the original documentation.
 
-In addition, Confluence labels are assigned to the pages, which can then be used to generate overviews and filters that are also independent of the (primary) hierarchical documentation structure. See in particular the overview lists from tags in the [Index](https://info.gbv.de/display/FOLIOGBVEXTERN/Index). There the use of a single tag is explained in more detail.
+In addition, (formerly Confluence) labels are assigned to the pages, which can then be used to generate overviews and filters that are also independent of the (primary) hierarchical documentation structure. See in particular the overview lists from tags in the [Index](https://info.gbv.de/display/FOLIOGBVEXTERN/Index). There the use of a single tag is explained in more detail.
 
 Example follow hereunder, as long as it has only suggestion character and there is no extra page yet. The labels could be chosen more specific if necessary, but can be adapted (relatively) easily later. There are the following label categories, which should be assigned (almost) all for most contributions
 
@@ -155,7 +161,7 @@ Example follow hereunder, as long as it has only suggestion character and there 
     - [dev-bug](https://info.gbv.de/pages/createpage.action?spaceKey=FOLIOGBVEXTERN&title=dev-Bugs&linkCreation=true&fromPageId=839909381) (was originally used, but should be replaced by a meta-bug or similar if necessary)
         - Occasionally errors are found while writing/translating, but cannot be reported immediately or may need to be rechecked. To find them again, this special tag is assigned.
 
-### Todo[](http://localhost:1313/docs/000-info_-de-version/#todo)
+### Todo
 
 The first run aims at completeness. Some things to consider for future improvements are noted here.
 
